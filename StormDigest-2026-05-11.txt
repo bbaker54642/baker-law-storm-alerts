@@ -1,126 +1,152 @@
 ---
 BAKER LAW STORM DIGEST
 Date: 2026-05-11
-Search window: 2026-05-07 to 2026-05-11
+Search window: May 7, 2026 - May 11, 2026 (past 4 days; Hill Country event from May 6 captured in searches and included)
 ---
 
-STORMS FOUND: 5
-POST-WORTHY: 4
+STORMS FOUND: 6
+POST-WORTHY: 5
 NOT POST-WORTHY: 1
 
 --- ALL STORMS FOUND ---
 
-Storm: Severe Thunderstorm / Downburst (straight-line winds)
-Date: May 1, 2026 (state disaster declaration added May 7, 2026)
-Location: Calhoun County, TX (Point Comfort, Port O'Connor, Palacios area)
-Strength: 119 mph downburst wind gust; high-voltage transmission towers toppled; semi-trucks flipped; metal structures destroyed
-Damage estimate: Not reported in dollar terms; widespread structural damage confirmed across county
-Source: Victoria Advocate (https://victoriaadvocate.com/2026/05/02/calhoun-county-point-comfort-declare-disaster-after-severe-high-winds/); crossroadstoday.com; ABC13 Houston; primnews.site (119 mph downburst report)
-FEMA declaration: State disaster declaration - Governor Abbott added Calhoun County on May 7, 2026; SBA preliminary damage assessments directed
-Post-worthy: YES - Coastal county (Calhoun), state disaster declaration issued, documented widespread structural destruction including toppled transmission towers
+Storm: Severe High Winds / Coastal Thunderstorm
+Date: May 2, 2026 (local disaster declared); May 7, 2026 (added to state disaster declaration)
+Location: Calhoun County (Point Comfort) and Victoria County, Texas
+Strength: Destructive high winds; downed power lines; isolated tornado activity confirmed
+Damage estimate: Not formally reported in dollars; homes and businesses damaged across both counties
+Source: Office of the Texas Governor (gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration); Victoria Advocate (victoriaadvocate.com/2026/05/07/gov-abbott-adds-crossroads-counties-to-storm-disaster-declaration/); Crossroads Today (crossroadstoday.com/news/local-news/victoria-and-calhoun-counties-added-to-texas-severe-weather-disaster-declaration)
+FEMA declaration: State disaster declaration YES (added May 7, 2026); TDEM conducting preliminary damage assessments; federal declaration pending
+Post-worthy: YES - coastal Texas counties (Calhoun and Victoria) covered under the post-worthiness filter; state disaster declaration issued; widespread structural damage to homes and businesses confirmed
 
 ---
 
-Storm: Severe Thunderstorm / Tornadic Activity
-Date: Late April - early May 2026 (state disaster declaration added May 7, 2026)
-Location: Victoria County, TX (Crossroads region)
-Strength: Tornadic activity and damaging straight-line winds; widespread power outages across multiple communities
-Damage estimate: Not reported in dollar terms; structural impacts to homes and businesses confirmed across the Crossroads region
-Source: Victoria Advocate (https://victoriaadvocate.com/2026/05/07/gov-abbott-adds-crossroads-counties-to-storm-disaster-declaration/); TDEM press release 5-7-26 (https://www.tdem.texas.gov/press-release/5-7-26); Governor Abbott press release (https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration)
-FEMA declaration: State disaster declaration - Governor Abbott added Victoria County on May 7, 2026; SBA damage assessments directed
-Post-worthy: YES - Victoria County is in TWIA windstorm coverage territory; state disaster declaration; widespread structural damage to homes and businesses confirmed
-
----
-
-Storm: Severe Thunderstorm / Hail (Supercells)
-Date: May 6, 2026
-Location: Gillespie, Llano, Mason, Blanco, Burnet Counties (Texas Hill Country)
-Strength: Baseball-sized hail (approx. 2.75 inches) near Willow City; possible grapefruit size on radar; wind gusts to 60 mph; 22 hail reports filed
-Damage estimate: Not reported; Llano County EM coordinator reported no damage confirmed as of 11:45 AM May 6
-Source: CBS Austin (https://cbsaustin.com/news/local/baseball-sized-hail-hits-hill-country-as-rare-morning-supercells-tear-through-region); KXAN Austin (https://www.kxan.com/weather/wx-live-blog-may-6-2026/)
+Storm: Supercell / Baseball-Sized Hail
+Date: May 6, 2026 (note: 5 days prior to digest date; captured in active searches)
+Location: Mason, Llano, Willow City, Blanco, Burnet, Gillespie Counties - Texas Hill Country
+Strength: Hail up to baseball size (approximately 2.75 inches diameter); 22 hail reports filed with Storm Prediction Center; largest confirmed near Bell Mountain Winery
+Damage estimate: Not formally reported in dollars; roof damage and cracked windshields across multiple counties; aircraft flipped at an airport
+Source: CBS Austin (cbsaustin.com/news/local/baseball-sized-hail-hits-hill-country-as-rare-morning-supercells-tear-through-region); KXAN Austin (kxan.com/weather/wx-live-blog-may-6-2026/)
 FEMA declaration: No
-Post-worthy: NO - Not a coastal county; no disaster declaration; no confirmed widespread structural damage or $1M+ damage estimate reported
+Post-worthy: YES - widespread structural damage to roofs across five counties qualifies under the structural damage criterion
 
 ---
 
-Storm: Severe Thunderstorm / Hail / Flash Flooding (Mother's Day Storm System)
-Date: May 10, 2026 (overnight into May 11)
-Location: Aransas County (Rockport, Port Aransas), Nueces County (Corpus Christi, Portland, Robstown), San Patricio County; storm system also affected North/Central Texas, SE Texas
-Strength: Wind gusts 60-80+ mph; hail up to 1.5 inches; flash flood warnings (2.5-3.5 inches rain in Aransas and San Patricio counties); Severe Thunderstorm Watch issued for 15 South Texas counties
-Damage estimate: Not yet reported (storm active at time of search); structural damage and flooding ongoing
-Source: Newsweek (https://www.newsweek.com/texas-map-severe-thunderstorms-flash-floods-11935143); Texas Storm Chasers (https://texasstormchasers.com/forecast/mothers-day-severe-storms-in-texas-large-hail-damaging-winds-timing/); NWS Corpus Christi flash flood warning for Aransas/San Patricio
-FEMA declaration: No (too recent; under active assessment)
-Post-worthy: YES - Directly hit Aransas County (Rockport), Nueces County (Corpus Christi), and San Patricio County, all qualifying coastal counties; widespread structural damage and flooding actively ongoing
+Storm: Hail / Funnel Cloud
+Date: May 9, 2026
+Location: Travis, Williamson, and Hays Counties (Pflugerville, Hutto, Taylor, Buda area)
+Strength: Quarter-sized hail; funnel cloud observed near Hutto and Taylor; no confirmed tornado touchdown
+Damage estimate: Not reported; tree damage on FM 967 near Buda; no structural damage reports found
+Source: KXAN Austin (kxan.com/weather/photos-funnel-cloud-forms-storms-drop-hail-in-williamson-county/)
+FEMA declaration: No
+Post-worthy: NO - quarter-sized hail is below significant damage threshold; no structural damage reported; no FEMA declaration; not a coastal county
 
 ---
 
-Storm: Tornado Outbreak / EF3 Tornado
-Date: April 24-28, 2026 (state disaster proclamation renewed in May 2026; Palo Pinto County added May 2, 2026)
-Location: Parker County (Mineral Wells), Lamar County, Wise County, Palo Pinto County (North Texas)
-Strength: EF3 tornado (145 mph winds) in Mineral Wells; widespread hail, tornadoes, flash flooding across 4 counties
-Damage estimate: Not fully reported in dollar terms; EF3 damage across 2-3 mile corridor in Mineral Wells; two major manufacturing facilities destroyed; extensive residential destruction
-Source: CNN (https://www.cnn.com/2026/04/28/weather/severe-storm-outbreak-tornadoes-hail-south-climate); TDEM; Governor Abbott press releases (https://gov.texas.gov/news/post/governor-abbott-amends-renews-severe-storm-disaster-proclamation-in-may-2026)
-FEMA declaration: State disaster declaration (Parker, Wise, Lamar, Palo Pinto counties); FEMA major disaster declaration status pending
-Post-worthy: YES - Widespread structural destruction from EF3 tornado, state disaster declaration active, industrial facilities and residential areas destroyed
+Storm: Hailstorm
+Date: May 9, 2026
+Location: Katy, Cinco Ranch, Seven Lakes, Silver Ranch, Lakes of Bella Terra, Nottingham Country, and surrounding west Houston neighborhoods - Fort Bend and Harris Counties
+Strength: Hail size not formally reported; widespread enough to affect multiple subdivisions across several miles
+Damage estimate: Not reported in dollars; multiple neighborhoods with roof damage across a broad corridor
+Source: Martin Roofing and Solar (martinroofingandsolar.com/post/hail-hit-katy-cinco-ranch-may-9-2026-roof-inspection)
+FEMA declaration: No
+Post-worthy: YES - widespread structural damage to residential roofs across multiple neighborhoods in a major metro area qualifies under the structural damage criterion
 
 ---
+
+Storm: Severe Thunderstorm / Flash Flooding
+Date: May 10-11, 2026
+Location: Corpus Christi, Rockport, Aransas Pass, Fulton, Port Aransas, Portland, Robstown - Nueces, Aransas, and San Patricio Counties
+Strength: Wind gusts to 70 mph; hail to 1.5 inches; rainfall of 2.5 to 3.5 inches already fallen with 1 to 2 additional inches expected; flash flood warning issued for southwestern Aransas County and east central San Patricio County
+Damage estimate: Not reported in dollars; flash flooding ongoing in Rockport, Aransas Pass, and Fulton
+Source: Newsweek (newsweek.com/texas-map-severe-thunderstorms-flash-floods-11935143); South Texas News / Rockport Pilot (southtexasnews.com/rockport_pilot/flash-flood-warning-issued-for-aransas-san-patricio-counties)
+FEMA declaration: No federal declaration; NWS Corpus Christi issued flash flood warning for Aransas and San Patricio Counties
+Post-worthy: YES - hits coastal Texas counties (Aransas, Nueces, San Patricio) and includes Rockport directly; qualifies under coastal county criterion and structural damage criterion
+
+---
+
+Storm: Mother's Day Severe Thunderstorm / Large Hail / Tornado Outbreak
+Date: May 10, 2026
+Location: Statewide Texas; primary corridor from West Central Texas and Big Country through North and Central Texas (DFW to San Angelo); secondary impacts across South and Central Texas
+Strength: Hail to baseball/tennis ball size (2 to 2.75 inches); straight-line winds 60 to 80 mph with isolated gusts to 85 mph; tornado risk with 30% probability in core zone; Level 3 of 5 severe weather risk for DFW to San Angelo corridor
+Damage estimate: Not formally tallied; vehicles dented, roofs battered, windows smashed across wide corridor
+Source: Fox Weather (foxweather.com/weather-news/danergous-mothers-day-storms-explode-across-texas-baseball-size-hail-damaging-winds); Texas Storm Chasers (texasstormchasers.com/forecast/mothers-day-severe-storms-in-texas-large-hail-damaging-winds-timing/); KSAT San Antonio (ksat.com/weather/2026/05/10/damaging-wind-gusts-possible-late-tonight-otherwise-hot-for-mothers-day/)
+FEMA declaration: No (storm occurred May 10; declaration process would still be pending)
+Post-worthy: YES - widespread structural damage to roofs, vehicles, and windows across a broad corridor of Texas; multiple storm types including hail, damaging winds, and tornadoes qualify under the structural damage criterion
 
 --- DRAFT POSTS ---
 
-STORM: Severe Thunderstorm / Downburst - Calhoun County (Point Comfort), TX - May 1, 2026
+STORM: Severe High Winds / Coastal Storm - Calhoun and Victoria Counties
 ---
-People in Calhoun County are beginning the insurance process right now. The downburst that struck Point Comfort on May 1 produced a recorded wind gust of 119 miles per hour. It toppled high-voltage transmission towers. It flipped semi-trucks. It reduced metal structures to twisted wreckage. Calhoun County and the City of Point Comfort declared local disasters the same weekend. Governor Abbott added the county to the state disaster declaration on May 7.
+People in Calhoun and Victoria counties are now living inside a state disaster declaration. That declaration opens recovery resources. It does not open your insurance company's checkbook.
 
-Coastal Texas policies often carry wind and hail deductibles calculated as a percentage of the dwelling's insured value, not a flat dollar figure. On a home insured for $300,000, a 2% wind deductible is $6,000 out of pocket before coverage begins. Carriers sometimes apply these percentage deductibles to straight-line wind events even when no hurricane or named storm was involved.
+High-wind events along the Texas coast produce a predictable pattern of claim handling. Adjusters arrive and sort damage into categories. Wind. Pre-existing deterioration. Wear and tear. Maintenance failure. Each category that gets relabeled as something other than storm damage is money the carrier keeps.
 
-Carriers also commission their own engineering and damage reports. Those reports are designed to protect the carrier's financial position. They frequently attribute damage to pre-existing conditions, deferred maintenance, or original construction rather than the storm event. In Calhoun County right now, that process is already underway on hundreds of damaged properties.
+Point Comfort took a direct hit. Homes and businesses across Calhoun County lost structures, roofing, and power infrastructure. When adjusters inspect those properties, the pressure is to attribute as much damage as possible to deferred maintenance. Carriers use that framing specifically because maintenance failures are excluded from most policies.
 
-A state disaster declaration opens access to state recovery programs. It does not alter how a private carrier is required to handle your claim. Every policy is a separate contract, and carriers interpret that contract in their own interest first.
+Calhoun County sits in TWIA territory. If your windstorm coverage runs through TWIA, your claim enters a separate process with separate adjusters and a separate timeline. TWIA has faced repeated litigation over how it handles coastal storm claims. That history is public record.
 
-People who receive low estimates or denials have the right to request the full claim file and to challenge the findings.
----
+What policyholders are entitled to is what the policy language says they are entitled to. That means you have the right to request a full copy of your policy, a written explanation of every denial, and an itemized estimate of what the carrier is paying and why.
 
-STORM: Severe Thunderstorm / Tornadic Activity - Victoria County (Crossroads Region), TX - Late April-Early May 2026
----
-People in Victoria County are filing claims right now. Tornadic storms and powerful straight-line winds swept through the Crossroads region in late April and early May, leaving widespread structural damage, downed power lines and destroyed property across multiple communities. Governor Abbott added Victoria County to the state disaster declaration on May 7 and directed state and SBA officials to begin preliminary damage assessments.
-
-Victoria County sits in the Texas Windstorm Insurance Association coverage zone. That matters. Homeowners with TWIA windstorm policies face a claims process that is separate from their homeowners policy and runs on its own rules. TWIA has specific dispute deadlines. If a policyholder disagrees with a TWIA adjustment, the window to demand appraisal or file a formal complaint is not open-ended.
-
-After tornadic events, carriers often dispute whether damage was caused by rotating wind, straight-line wind, or rain intrusion. Each classification can trigger a different deductible or a different coverage section. The classification is made by the carrier's adjuster first, and it strongly influences the final estimate.
-
-I work in this region. After storms like these, I see the same sequence repeat. Adjusters arrive with their estimates. Policyholders sign off because they don't know they can push back. Checks arrive that don't reflect the full cost of repair.
-
-Texas law gives policyholders specific rights after a covered storm loss. Those rights don't disappear when a carrier sends a check.
+A state disaster declaration does not accelerate claim resolution. Policyholders have to work that process on their own.
 ---
 
-STORM: Severe Thunderstorm / Hail / Flash Flooding - Aransas, Nueces & San Patricio Counties (Corpus Christi, Rockport, Port Aransas) - May 10, 2026
+STORM: Supercell / Baseball-Sized Hail - Texas Hill Country (Mason, Llano, Gillespie Counties)
 ---
-People across Aransas, Nueces and San Patricio counties are assessing damage this morning. The severe storm system that moved through the Coastal Bend on May 10 produced wind gusts between 60 and 80 miles per hour in Corpus Christi, Rockport, Port Aransas and Portland. The National Weather Service issued flash flood warnings for Aransas and San Patricio counties, with 2.5 to 3.5 inches of rain falling in a short window. A Severe Thunderstorm Watch covered 15 South Texas counties through the overnight hours.
+People across Mason, Llano, Blanco, Burnet, and Gillespie counties woke up on May 6 to baseball-sized hail. Roofs took the first hit. The insurance process is the second one.
 
-Claims are being filed right now.
+What carriers do after a large-scale hail event is consistent. They send adjusters in volume. Volume means speed, and speed means missed damage. A hail claim closed in 48 hours almost never reflects a full inspection of the property.
 
-Policies on the Texas coast are intentionally layered. Many homeowners carry a separate TWIA windstorm policy and a private homeowners policy and possibly a flood policy. When storm wind and flooding both contribute to damage, carriers argue about who is responsible. The wind carrier characterizes damage as flood-related. The flood carrier characterizes it as wind-driven water intrusion. The policyholder sits in the middle waiting.
+Hill Country construction is not uniform. Older homes, metal roofing, stone structures, and mixed materials each respond to hail differently. Adjusters trained primarily on composition shingle roofs in suburban North Texas are not equipped to properly assess damage on a 1950s stone-and-metal structure in Llano County. Carriers send who they have available.
 
-That dispute pattern is not incidental. It is a documented method carriers use to reduce payouts after coastal events. The argument can take months to resolve while a damaged property continues to deteriorate.
+The depreciation dispute comes next. Carriers apply actual cash value calculations that reduce payout on older roofs even when those roofs were fully functional before May 6. Replacement cost coverage is designed to address that. What policyholders actually receive depends entirely on how the adjuster documented the pre-storm condition of the roof and what depreciation figures the carrier applies.
 
-Damage in Aransas County in particular is often caught between two or three separate policies with two or three separate adjusters producing competing conclusions.
-
-The notes, photos and written documentation you produce in the first 72 hours become part of the claim file. They matter in disputes that can stretch six months or more.
+Hail damage missed in the initial inspection does not automatically reopen a claim. Texas law limits that window and places the burden on the policyholder to act.
 ---
 
-STORM: EF3 Tornado Outbreak - Parker County (Mineral Wells) and North Texas - April 24-28, 2026
+STORM: Hailstorm - Katy / Cinco Ranch / West Houston (Fort Bend and Harris Counties)
 ---
-People in Mineral Wells and Parker County are in the early stages of a long recovery. The EF3 tornado that struck on April 28 packed winds measured at 145 miles per hour. It destroyed two major industrial facilities and damaged residential areas across a two-to-three mile corridor. Governor Abbott declared a state disaster for Parker, Wise, Lamar and Palo Pinto counties. The proclamation was renewed in May.
+People in Katy, Cinco Ranch, and the neighborhoods around them are now dealing with hail damage across a large section of west Houston. The roofs took the worst of it. The insurance fights are starting.
 
-When a tornado produces EF3 damage, the insurance dispute often centers on scope. Carriers send adjusters who document visible damage. What they frequently miss: compromised structural connections, out-of-plumb walls, damaged framing behind intact surfaces, foundation movement. A carrier that pays only for what was visually apparent on the first walk-through is almost always undervaluing the claim.
+What happens after a widespread suburban hail event is predictable. Contractors move fast to document damage. Carrier adjusters move to counter their estimates. The gap between what a roofing contractor documents in the field and what an adjuster approves on a form is where most of the money gets lost.
 
-EF3 tornadoes stress every load-bearing point in a structure. Roofs that stayed in place may be lifting at edges. Walls still standing may no longer meet code. These conditions require structural assessment, not a standard field adjustment.
+Adjusters working a large event are under internal pressure to close claims. That pressure is not visible to the homeowner, but the results are. Estimates come back that minimize scope, miss damage to gutters and siding and skylights, and apply depreciation in ways that reduce payment significantly below actual repair costs.
 
-After large tornado events, carriers sometimes close claims quickly by issuing what they describe as full payment, sometimes with a release of claim buried in the paperwork. Signing and cashing that check can end the claim regardless of what further damage appears later.
+Fort Bend and Harris County homeowners have been through this before. After 2017. After 2019. After every significant hail season on record. The underpayment pattern is not coincidental. It is the predictable output of a claims system built to manage losses.
 
-Parker County homeowners are entitled to a written explanation of every covered item and every exclusion applied. That document is the starting point for any dispute.
+What policyholders are entitled to under a replacement cost policy is the full cost of restoring the property to its pre-storm condition. Not an estimate calibrated to a budget. Not a cash value figure that penalizes a roof for its age without accounting for its condition before the storm hit.
 
-People rebuild with what the carrier pays. They rarely find out they were underpaid until the repairs fail.
+The difference between a carrier's first offer and the actual repair cost is often several thousand dollars per property.
+---
+
+STORM: Severe Thunderstorm / Flash Flooding - Corpus Christi, Rockport, Aransas Pass, Fulton (Aransas, Nueces, San Patricio Counties)
+---
+People in Rockport, Corpus Christi, Aransas Pass, and Fulton are dealing with flooding and storm damage right now. The water is still moving in some areas.
+
+This stretch of the Texas coast does not get gentle claims handling. Carriers that write policies here know these storms come. They price the risk accordingly. They also build in every available exclusion to limit what they pay when the storm arrives.
+
+Flooding is the word adjusters will use first and use often. If a loss gets labeled a flood, a standard homeowner's policy typically does not cover it. Flood has a specific legal meaning in insurance, and it is a definition that benefits the carrier. Wind-driven rain, drainage overflow, storm surge - carriers push as much water damage as possible into the flood category regardless of how the water entered the structure.
+
+Aransas County and San Patricio County are under flash flood warnings. If your property has water damage, the first thing your adjuster will determine is what kind of water caused it. That single determination shapes every payment decision that follows.
+
+TWIA-covered properties face the same split. Flood damage routes to the National Flood Insurance Program. Wind damage routes to TWIA. When both caused damage, each carrier argues the other one owes the larger share.
+
+Policyholders caught between those two systems carry most of the burden of proving what caused what.
+---
+
+STORM: Mother's Day Severe Thunderstorm / Large Hail / Tornado Outbreak - Statewide Texas
+---
+Texas took a significant hit on Mother's Day. Hail, damaging winds, and tornadoes moved through a wide corridor from the Big Country through Central Texas and into parts of South Texas. Roofs were battered across a large portion of the state.
+
+The insurance process is now underway across that entire corridor.
+
+A statewide severe weather event creates a specific problem that most policyholders do not anticipate: adjuster capacity. There are not enough licensed Texas adjusters to handle claims volume from a storm this large. Carriers bring in independent adjusters from other states - people working from standardized forms without familiarity with local building costs, local materials, or local code requirements.
+
+Underpayment following a major Texas storm is not an outlier result. It is the predictable outcome when adjusters working under time pressure use national pricing databases to estimate repairs in a Texas market that consistently runs above national averages.
+
+Homeowners who accept the first estimate and settle their claim often find later that the payment did not cover what repairs actually cost. Some of that shortfall can be addressed after the fact. Whether it can be depends on the exact language of the settlement and how much time has passed since the claim was closed.
+
+Texas law gives carriers specific obligations in how they handle property claims. Those obligations include written timelines, written denial explanations, and itemized payment breakdowns. Most policyholders are never told those rights exist.
 ---
 
 --- END OF DIGEST ---
