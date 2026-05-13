@@ -1,0 +1,111 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-05-13
+Search window: 2026-05-09 through 2026-05-13
+Note: Government declarations issued within window for storms predating window are included where directly relevant to current policyholder action.
+---
+
+STORMS FOUND: 4
+POST-WORTHY: 3
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorms / Tornadoes / Flooding (Spring Outbreak)
+Date: April 24 - May 1, 2026 | Source: https://www.federalregister.gov/documents/2026/05/12/2026-09384/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Location: Lamar, Parker, Wise, Palo Pinto counties (North Texas); Victoria and Calhoun counties added to declaration separately | Source: https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration
+Strength: EF2 tornado near Runaway Bay (Wise County); large hail; straight-line winds; flash flooding | Source: https://www.nbcdfw.com/weather/weather-connection/texas-runaway-bay-springtown-tornado/4015819/
+Damage estimate: not reported in dollar terms | Source: none found
+Deaths: at least 2 in Wise and Parker counties | Source: https://www.kristv.com/weather/tornadoes-in-northern-texas-leave-at-least-2-dead-and-destroy-multiple-homes
+FEMA declaration: YES - Administrative Disaster Declaration, Federal Register, May 12, 2026 | Source: https://www.federalregister.gov/documents/2026/05/12/2026-09384/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Post-worthy: YES - FEMA administrative disaster declaration issued May 7, 2026; 2 confirmed deaths; EF2 tornado destroyed homes
+
+---
+
+Storm: Severe Downburst (Coastal - Calhoun County)
+Date: May 1, 2026 | Source: https://www.crossroadstoday.com/news/local-news/calhoun-county-and-city-of-point-comfort-declare-local-disaster-after-severe-weather/article_462a90b4-39ac-4d4d-a0a9-653d7c9a51fc.html
+Location: Calhoun County - Point Comfort, Palacios area, Port O'Connor (Coastal Texas) | Source: https://www.crossroadstoday.com/news/local-news/calhoun-county-and-city-of-point-comfort-declare-local-disaster-after-severe-weather/article_462a90b4-39ac-4d4d-a0a9-653d7c9a51fc.html
+Strength: Wind gusts over 100 mph (straight-line downburst) | Source: https://abc13.com/live-updates/abc13-weather-watch-day-flood-effect-most-se-texas-stormy-friday/19014387/entry/19016872/
+Damage estimate: not reported in dollar terms; property damage, downed power lines, hazardous road conditions confirmed | Source: https://victoriaadvocate.com/2026/05/02/calhoun-county-point-comfort-declare-disaster-after-severe-high-winds/
+FEMA declaration: PENDING - Calhoun County added to state disaster declaration May 7; SBA federal disaster declaration requested May 12 | Source: https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration and https://www.tdem.texas.gov/press-release/5-12-26
+Post-worthy: YES - Coastal county (Calhoun); local disaster declarations by Calhoun County and City of Point Comfort; state disaster declaration; widespread structural damage confirmed
+
+---
+
+Storm: Severe Thunderstorm (Coastal Bend and Central Texas)
+Date: May 10-11, 2026 | Source: https://www.kiiitv.com/article/news/local/severe-thunderstorm-leaves-damage-widespread-outages-coastal-bend/503-5cd0e3ea-e2c7-4d52-add0-f072780f0aab
+Location: Nueces County (Corpus Christi), Aransas County (Aransas Pass); Central Texas including Erath, Comanche, Hamilton, Runnels, Coleman, Coryell, San Saba counties | Source: https://www.kiiitv.com/article/news/local/severe-thunderstorm-leaves-damage-widespread-outages-coastal-bend/503-5cd0e3ea-e2c7-4d52-add0-f072780f0aab and https://watchers.news/2026/05/12/giant-hail-damaging-winds-texas-may-2026/
+Strength: 84 mph gusts at Corpus Christi NAS; 71 mph at Packery Channel; 62 mph near Port Aransas; hail up to 4.5 inches in Central Texas | Source: https://watchers.news/2026/05/12/giant-hail-damaging-winds-texas-may-2026/ (meteorological news site citing NOAA/SPC storm reports)
+Damage estimate: not reported in dollar terms; approx. 29,300 AEP Texas customers lost power in Corpus Christi area; bricks ripped off buildings; power lines downed across Coastal Bend | Source: https://www.kiiitv.com/article/news/local/severe-thunderstorm-leaves-damage-widespread-outages-coastal-bend/503-5cd0e3ea-e2c7-4d52-add0-f072780f0aab
+FEMA declaration: No | Source: none found
+Post-worthy: YES - Coastal counties (Nueces/Aransas); widespread structural damage sourced from KIII TV (listed reputable source)
+
+---
+
+Storm: Severe Straight-Line Winds (East Texas)
+Date: May 11, 2026 | Source: https://www.kltv.com/video/2026/05/11/east-texas-storm-damage/
+Location: East Texas (specific counties not confirmed in available search results) | Source: https://www.kltv.com/video/2026/05/11/east-texas-storm-damage/
+Strength: Straight-line winds up to 95 mph | Source: https://www.kltv.com/video/2026/05/11/east-texas-storm-damage/
+Damage estimate: not reported in dollar terms | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - No confirmed dollar damage estimate exceeding $1M; no FEMA declaration; not a coastal county; specific structural damage extent insufficient to meet post-worthiness criteria from available reputable sourcing
+
+--- DRAFT POSTS ---
+
+STORM: Severe Downburst - Calhoun County, Texas (May 1, 2026)
+---
+On May 1, 2026, straight-line winds above 100 miles per hour struck Calhoun County on the Texas coast. [1] The storm caused property damage, downed power lines, and created hazardous conditions across the area. [2] Calhoun County Judge Vern Lyssy and Point Comfort Mayor Stephen Lambden each declared a local state of disaster after the storm. [2] Governor Abbott later added Calhoun County to the state's severe weather disaster declaration. [3]
+
+People in Calhoun County are now filing wind damage claims. Coastal Calhoun County falls in the TWIA-eligible zone, which means policyholders are dealing with two separate coverage structures. A homeowner policy covers most non-wind losses. A TWIA policy covers windstorm. Both apply different deductibles, different adjustment processes, and different documentation requirements.
+
+Carriers use that split to minimize what they pay. TWIA handles the wind claim on one track. The homeowner carrier handles everything else on another. When damage has multiple possible causes, each carrier points to the other. That delay is not an accident.
+
+TWIA windstorm deductibles for residential properties in Calhoun County typically run between 2 and 5 percent of the insured dwelling value. Before TWIA pays a single dollar, the policyholder covers that deductible. Carriers calculate that number differently than policyholders expect.
+
+The state disaster declaration means additional government resources may become available. It does not mean insurance companies will pay claims correctly on their own.
+
+SOURCES:
+[1] https://abc13.com/live-updates/abc13-weather-watch-day-flood-effect-most-se-texas-stormy-friday/19014387/entry/19016872/
+[2] https://www.crossroadstoday.com/news/local-news/calhoun-county-and-city-of-point-comfort-declare-local-disaster-after-severe-weather/article_462a90b4-39ac-4d4d-a0a9-653d7c9a51fc.html
+[3] https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration
+---
+
+STORM: Severe Thunderstorm - Corpus Christi / Aransas Pass, Texas (May 10-11, 2026)
+---
+On the night of May 10-11, 2026, a severe thunderstorm swept through the Corpus Christi area. [1] The storm downed power lines, ripped bricks off buildings, and knocked out electricity for about 29,300 AEP Texas customers across the Coastal Bend, including Aransas Pass and multiple Corpus Christi neighborhoods. [1] Wind gusts reached 84 miles per hour at Corpus Christi Naval Air Station and 71 miles per hour at Packery Channel. [2]
+
+People in Nueces and Aransas counties with wind damage are dealing with one of the most common claim sequences in coastal Texas.
+
+Carriers send an independent adjuster, usually within weeks of the storm. That adjuster uses Xactimate software to price the repairs. Xactimate pulls regional labor costs that often run below what contractors actually charge after a large regional event. The estimate lands low. The check follows.
+
+The carrier then applies the TWIA wind deductible, which in Nueces County typically runs 2 to 5 percent of the insured dwelling value. That math erases what looks like a reasonable payout on paper.
+
+After large events, claim delays are standard. TWIA and private carriers both request additional documentation, schedule reinspections, and extend response windows. Statutory deadlines still apply: carriers must acknowledge claims within 15 days and accept or deny within 15 business days after receiving required information. [3]
+
+People in the Coastal Bend have seen this before. The storm ends. The claims process is where the second fight starts.
+
+SOURCES:
+[1] https://www.kiiitv.com/article/news/local/severe-thunderstorm-leaves-damage-widespread-outages-coastal-bend/503-5cd0e3ea-e2c7-4d52-add0-f072780f0aab
+[2] https://watchers.news/2026/05/12/giant-hail-damaging-winds-texas-may-2026/
+[3] https://www.tdi.texas.gov/consumer/storms/recoverytips.html
+---
+
+STORM: Severe Storm Outbreak / Tornadoes - North Texas (April 24 - May 1, 2026, FEMA Declaration)
+---
+Severe storms moved through North Texas from April 24 through May 1, 2026, producing tornadoes, flash flooding, large hail, and damaging winds in Parker, Wise, Palo Pinto, and Lamar counties. [1] At least two people died in Wise and Parker counties. [2] Near Runaway Bay in Wise County, a tornado destroyed at least one home and heavily damaged multiple others. [3] The federal government issued an administrative disaster declaration for Texas on May 7, 2026, covering this storm sequence. [1]
+
+People in these counties are working through claims that involve multiple covered and excluded perils hitting the same property in the same event. That combination is exactly what carriers are built to dispute.
+
+Standard Texas homeowner policies cover wind and hail. They do not cover flooding. They do not cover flash flood damage from surface water runoff. When a storm produces tornadoes, hail, and flooding in sequence, carriers parse the damage by claimed cause. They assign water intrusion to flooding. They dispute whether roof damage came from wind impact or from rain entering through a post-event opening. Both arguments reduce the covered portion of the claim.
+
+Hail claims follow a separate track. Carriers hire engineers who attribute damage to pre-existing wear, poor maintenance, or installation defects. That attribution lets them deny or underpay roof claims on properties that sustained clear impact damage.
+
+FEMA declarations do not fix these problems. They expand access to low-interest SBA loans. An SBA loan is debt, not insurance coverage. They are not the same.
+
+SOURCES:
+[1] https://www.federalregister.gov/documents/2026/05/12/2026-09384/administrative-declaration-of-a-disaster-for-the-state-of-texas
+[2] https://www.kristv.com/weather/tornadoes-in-northern-texas-leave-at-least-2-dead-and-destroy-multiple-homes
+[3] https://www.nbcdfw.com/weather/weather-connection/texas-runaway-bay-springtown-tornado/4015819/
+---
+
+--- END OF DIGEST ---
