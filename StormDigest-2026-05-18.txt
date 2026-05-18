@@ -1,0 +1,98 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-05-18
+Search window: 2026-05-14 through 2026-05-18 (past 4 days)
+---
+
+STORMS FOUND: 2
+POST-WORTHY: 0
+NOT POST-WORTHY: 2
+
+Search queries run:
+  - Texas storm damage May 2026
+  - Texas hail storm damage May 2026
+  - Texas tornado May 2026
+  - Texas hurricane tropical storm May 2026
+  - Texas flooding damage May 2026
+  - FEMA disaster declaration Texas 2026
+  - TWIA Texas storm claims May 2026
+  - Texas severe weather structural damage May 2026
+  - Texas storm damage May 14-18 2026 (targeted window queries)
+  - Victoria / Calhoun county Texas storm damage May 2026
+  - Corpus Christi / Rockport / Nueces / Aransas county storm May 2026
+  - Cameron County South Texas storm May 2026
+  - Texas storms Sunday night May 17 2026 (Austin/Central Texas follow-up)
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorms / Hail / High Winds / Flash Flooding
+Date: May 14-17, 2026 | Source: https://www.weather.gov/sjt/svreventmay14thru16
+Location: West Central Texas and South Plains — Sterling County, Coke County, Tom Green County (San Angelo), Concho County, McCulloch County, Gaines County (Seagraves) | Source: https://www.weather.gov/sjt/svreventmay14thru16 ; https://www.severeweatheroutlook.com/2026-05-14/
+Strength: Hail up to 2 inches (hen-egg size) in Sterling County; golf-ball-size hail (1.75 inches) in Coke County; funnel cloud 2 miles north of Robert Lee (Coke County); wind gusts to 72 mph near Sterling City; 60-80 mph gusts in Tom Green County; 84 mph gust in Seagraves (Gaines County); localized flash flooding of streets in San Angelo (Tom Green County) | Source: https://www.weather.gov/sjt/svreventmay14thru16 ; https://www.severeweatheroutlook.com/2026-05-14/
+Damage estimate: Not reported | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No confirmed property/insured damage estimate sourced; no FEMA or state disaster declaration for this event; affected counties are inland (not in coastal post-worthiness list); no confirmed widespread structural damage to homes or businesses found in sources reviewed.
+
+---
+
+Storm: Severe Thunderstorms / Hail / High Winds / Funnel Cloud
+Date: May 16-17, 2026 | Source: https://www.fox7austin.com/news/austin-weather-dangerous-winds-large-hail-possible-sunday-night ; https://www.kvue.com/article/weather/funnel-cloud-williamson-county-storms/269-6fbbe464-04ed-4d5f-b430-e909a5687220 ; https://www.kxan.com/weather/photos-funnel-cloud-forms-storms-drop-hail-in-williamson-county/
+Location: Central Texas — Travis County (Austin), Williamson County (Georgetown, Hutto), Hays County (Buda), Burnet County | Source: https://www.fox7austin.com/news/austin-weather-dangerous-winds-large-hail-possible-sunday-night ; https://www.kvue.com/article/weather/funnel-cloud-williamson-county-storms/269-6fbbe464-04ed-4d5f-b430-e909a5687220
+Strength: Hail 1 to 1.5 inches in Georgetown and Burnet areas; funnel cloud reported in Hutto (Williamson County) — did not confirm as tornado; trees snapped in Buda; wind gusts causing tree and power-line damage in Austin; approximately 14,000 Austin Energy customers without power (affecting roughly 35,000 residents) on Sunday night May 17 | Source: https://www.fox7austin.com/news/austin-weather-dangerous-winds-large-hail-possible-sunday-night ; https://www.kxan.com/weather/photos-funnel-cloud-forms-storms-drop-hail-in-williamson-county/
+Damage estimate: Not reported in dollar terms | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No sourced dollar damage estimate exceeding $1 million; no FEMA or state disaster declaration; affected counties are not in the coastal post-worthiness list (Travis, Williamson, Hays, Burnet are inland); funnel cloud in Hutto was not confirmed as a tornado touchdown; tree and power-outage damage reported but no widespread structural damage to homes or businesses confirmed in sources.
+
+--- NOTE: SIGNIFICANT STORMS OUTSIDE 4-DAY SEARCH WINDOW ---
+
+The following Texas storm events were encountered in research but occurred before May 14, 2026 and fall outside the search window. Logged for awareness only.
+
+1. Victoria / Calhoun County Storm (approx. May 1, 2026):
+   EF-1 tornado, straight-line winds with 119 mph gust recorded at Point Comfort (Calhoun County),
+   12 homes completely destroyed, widespread manufactured-home and infrastructure damage.
+   Gov. Abbott added Victoria and Calhoun counties to the Texas severe weather disaster declaration on May 7, 2026.
+   SBA assistance announced for Calhoun, Dewitt, Goliad, Jackson, Lavaca, Refugio, and Victoria counties on May 13.
+   Sources: https://victoriaadvocate.com/2026/05/07/gov-abbott-adds-crossroads-counties-to-storm-disaster-declaration/
+            https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+            https://www.tdem.texas.gov/press-release/5-7-26
+            https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration
+            https://www.tdem.texas.gov/press-release/5-13-26
+
+2. Cameron County Microburst (May 9, 2026):
+   65-80 mph winds, 13-mile damage path from Harlingen to Laureles, 1 death, 3+ injuries,
+   45,000 customers lost power, dozens of homes damaged, major infrastructure damage.
+   Sources: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/05/11/south-texas-residents-survey--clean-up-damage-from-storm
+            https://www.cameroncountytx.gov/cameron-county-provides-update-on-severe-weather-and-wind-gust-impacts/
+            https://www.rgvbusinessjournal.com/news/10/05/2026/microburst-storm-cameron-county-power-outages-damage/
+
+3. Texas Giant Hailstorm (May 10-11, 2026):
+   Hail up to 4.5 inches across corridor from Mitchell/Nolan counties through Erath, Comanche,
+   Hamilton, Runnels, Coleman, Coryell, and San Saba counties. Wind gusts to 84 mph at Corpus
+   Christi NAS (Nueces County) — apartment-building siding damage reported in Corpus Christi area.
+   18,000+ Austin-area customers lost power.
+   Sources: https://watchers.news/2026/05/12/giant-hail-damaging-winds-texas-may-2026/
+            https://www.kxan.com/weather/live-blog-severe-thunderstorms-possible-in-central-texas-2/
+
+4. April 24-29, 2026 North Texas Tornado Outbreak (for reference):
+   EF-2 tornado in Runaway Bay (Wise County, 135 mph winds, 1 killed, 6 injured, homes destroyed);
+   EF-1 tornado in Springtown (Parker County, 105 mph, 1 killed); Mineral Wells EF-3 damage.
+   State disaster declaration issued April 28, 2026.
+   Sources: https://www.fox4news.com/news/national-weather-service-confirms-ef-2-tornado-runaway-bay-area
+            https://www.nbcdfw.com/news/local/runaway-bay-death/4015673/
+            https://www.tdem.texas.gov/press-release/4-28-26
+            https://www.weather.gov/fwd/april2026svrwx
+
+--- DRAFT POSTS ---
+
+NONE — No qualifying storms identified within the May 14–18, 2026 search window.
+
+No storm in the search window met any post-worthiness threshold:
+  - No sourced property/insured damage estimate exceeding $1 million
+  - No FEMA or state disaster declaration issued for window-period events
+  - No confirmed storm impacts in the designated coastal counties
+    (Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston)
+  - No confirmed widespread structural damage to homes or businesses in sources reviewed
+
+NOTE: The four storms logged outside the window (especially Victoria/Calhoun county and the Cameron County microburst) would have qualified for posts had they fallen within the search window. Those events still have active disaster declarations and SBA assistance programs running as of May 18, 2026.
+
+--- END OF DIGEST ---
