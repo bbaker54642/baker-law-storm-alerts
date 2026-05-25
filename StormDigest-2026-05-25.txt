@@ -1,0 +1,71 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-05-25
+Search window: 2026-05-21 through 2026-05-25
+---
+
+STORMS FOUND: 2
+POST-WORTHY: 2
+NOT POST-WORTHY: 0
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorms and Flash Flooding
+Date: May 21-25, 2026 (ongoing as of digest date) | Source: https://www.krgv.com/news/thursday-may-21-2026-flood-watch-issued-for-all-of-south-texas/
+Location: Coastal Bend and Deep South Texas — Aransas, Nueces, Refugio, Calhoun, and San Patricio counties; cities including Corpus Christi, Rockport, Port Aransas, Portland, and Robstown | Source: https://www.newsweek.com/texas-map-severe-thunderstorms-flash-floods-11935143
+Strength: Pea- to penny-sized hail; severe thunderstorm-level wind gusts; NWS-reported rainfall 2-3 inches widespread, isolated totals up to 6 inches | Source: https://www.kftx.com/2026/05/21/flood-watch-issued-may-21-at-253am-cdt-until-may-25-at-700pm-cdt-by-nws-corpus-christi-tx/
+Damage estimate: Dollar amount not yet reported by reputable sources; tens of thousands of power outages confirmed across the Valley and Coastal Bend | Source: https://www.kristv.com/weather/flood-watch-storms-heavy-rain-continue-across-south-texas
+FEMA declaration: No FEMA declaration found for this specific event | Source: none found
+Post-worthy: YES - Storm directly impacted multiple qualifying coastal Texas counties (Aransas, Nueces, San Patricio, Calhoun, Refugio)
+
+---
+
+Storm: West Texas Supercell Tornado Outbreak
+Date: May 22, 2026 | Source: https://www.foxweather.com/extreme-weather/lubbock-texas-new-mexico-tornado-weather-impact
+Location: Hale County, Texas (near Abernathy and Petersburg); Lubbock area | Source: https://www.foxweather.com/extreme-weather/lubbock-texas-new-mexico-tornado-weather-impact
+Strength: Supercell producing 19 tornadoes; also large hail and damaging winds documented | Source: https://www.foxweather.com/extreme-weather/lubbock-texas-new-mexico-tornado-weather-impact
+Damage estimate: Dollar amount not yet reported by reputable sources; structural damage confirmed — mobile homes overturned and roofs ripped off buildings | Source: https://www.foxweather.com/extreme-weather/lubbock-texas-new-mexico-tornado-weather-impact
+FEMA declaration: No FEMA declaration found for this event | Source: none found
+Post-worthy: YES - Widespread structural damage to homes and businesses confirmed by Fox Weather
+
+--- DRAFT POSTS ---
+
+STORM: Severe Thunderstorms and Flash Flooding — Coastal Bend / South Texas (May 21-25, 2026)
+---
+People in Aransas, Nueces, and San Patricio counties are already dealing with what follows a storm like this. [1]
+
+Severe thunderstorms and flooding hit the Coastal Bend beginning May 21. [2] The National Weather Service issued a flood watch running through May 25 with rainfall totals up to six inches in some locations. [3] The same storm system produced strong winds and severe thunderstorm warnings across Rockport, Corpus Christi, and Port Aransas. [1]
+
+I've seen how carriers respond to these events. When a flood watch and a severe thunderstorm warning overlap, the insurance company separates them deliberately. Standard homeowners policies exclude flood damage. Wind and wind-driven rain damage is covered. So the carrier's adjuster decides which damage came from which cause — and that decision controls the payment.
+
+On the Texas coast, most policyholders carry two policies: a homeowners policy and a TWIA windstorm policy. That split creates a problem. Each carrier points toward the other. Both require separate proofs of loss on different timelines. Missing one deadline can close a claim permanently.
+
+Carriers also apply depreciation across storm-damaged properties. Roofing, siding, and interior finishes each get reduced. The check that arrives is often far less than actual repair cost.
+
+Policyholders along this coast have paid for both wind and flood coverage. What they get paid depends entirely on who is making the causation call.
+
+SOURCES:
+[1] https://www.newsweek.com/texas-map-severe-thunderstorms-flash-floods-11935143
+[2] https://www.krgv.com/news/thursday-may-21-2026-flood-watch-issued-for-all-of-south-texas/
+[3] https://www.kftx.com/2026/05/21/flood-watch-issued-may-21-at-253am-cdt-until-may-25-at-700pm-cdt-by-nws-corpus-christi-tx/
+---
+
+STORM: West Texas Supercell Tornado Outbreak — Hale County / Lubbock Area (May 22, 2026)
+---
+People in Hale County and the Lubbock area are sorting through damage from a tornado outbreak that came through on May 22. [1] A supercell storm produced 19 tornadoes as it moved across West Texas, overturning mobile homes and ripping roofs off buildings. [1]
+
+I've worked tornado claims in West Texas. The pattern after every significant outbreak is the same.
+
+Carriers accept the basic claim. Then they adjust down. Roof replacement becomes "repairs." Mobile home claims come in at actual cash value — often a fraction of what replacement costs. Carriers apply broad depreciation to the roof, the siding, the interior. The first payment is almost never the full amount owed.
+
+Policyholders with replacement cost coverage are entitled to the full cost of repair or replacement. But carriers issue an initial payment at actual cash value first, then hold the remainder until repairs are complete. If a policyholder cannot fund the upfront repair cost, they get stuck waiting for the second payment that was supposed to pay for the work.
+
+Some carriers invoke the appraisal provision after a disputed estimate. Appraisal has rules and timelines. Policyholders need to understand the process before agreeing to it.
+
+Tornado damage to homes and manufactured homes in Texas is covered under standard policies. What the policy says and what gets paid are two different conversations.
+
+SOURCES:
+[1] https://www.foxweather.com/extreme-weather/lubbock-texas-new-mexico-tornado-weather-impact
+---
+
+--- END OF DIGEST ---
