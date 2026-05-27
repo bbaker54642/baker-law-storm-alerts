@@ -1,0 +1,83 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-05-27
+Search window: May 23, 2026 - May 27, 2026 (past 4 days)
+---
+
+STORMS FOUND: 4
+POST-WORTHY: 2
+NOT POST-WORTHY: 2
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Flooding and Wind
+Date: Late May 2026; local disaster declaration issued May 26, 2026 | Source: https://www.ktre.com/2026/05/26/jasper-county-issues-disaster-declaration-due-storm-damage/
+Location: Jasper County, Texas (northern portion most affected) | Source: https://www.ktre.com/2026/05/26/jasper-county-issues-disaster-declaration-due-storm-damage/
+Strength: Flooding and severe wind; specific wind speed not reported in available sources | Source: https://www.ktre.com/2026/05/26/jasper-county-issues-disaster-declaration-due-storm-damage/
+Damage estimate: Not reported in dollar amounts; flooding and wind damage to residential and commercial areas; major infrastructure damage blocking roadways; potential long-term power outages documented | Source: https://www.ktre.com/2026/05/26/jasper-county-issues-disaster-declaration-due-storm-damage/
+FEMA declaration: No - local county disaster declaration only, issued by Jasper County Judge Mark Allen on May 26, 2026 | Source: https://www.ktre.com/2026/05/26/jasper-county-issues-disaster-declaration-due-storm-damage/
+Post-worthy: YES - Widespread flooding and wind damage to residential and commercial areas documented; local disaster declaration issued
+
+Storm: Severe Thunderstorms with Tornadic Activity (Coastal Texas)
+Date: Late April/early May 2026; Victoria and Calhoun counties added to state disaster declaration May 7, 2026 | Source: https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration
+Location: Victoria County and Calhoun County, Texas (both on designated coastal county list) | Source: https://victoriaadvocate.com/2026/05/07/gov-abbott-adds-crossroads-counties-to-storm-disaster-declaration/
+Strength: Widespread wind damage, tornadic activity, power outages, and structural impacts documented; specific wind speed not reported in available sources | Source: https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration
+Damage estimate: Not reported in dollar amounts in available sources | Source: none found
+FEMA declaration: State disaster declaration issued (Governor Abbott); SBA federal disaster declaration covering Calhoun, Dewitt, Goliad, Jackson, Lavaca, Refugio, and Victoria counties | Source: https://gov.texas.gov/news/post/governor-abbott-announces-additional-sba-assistance-for-severe-storms
+Post-worthy: YES - Coastal Texas counties (Victoria County and Calhoun County both on designated coastal list); state disaster declaration and SBA federal disaster declaration issued
+NOTE: Storm predates 4-day search window but included because active SBA disaster declarations and ongoing claims make it directly relevant to current policyholders in coastal Texas
+
+Storm: Severe Weather (Hail, Wind, Tornadoes)
+Date: May 26, 2026 | Source: https://www.stormersite.com/haildate/TX/2026/May/26 (aggregates NOAA/SPC storm reports)
+Location: West-Central and South-Central Texas; Deaf Smith County (Hereford area), Uvalde and Sabinal area | Source: https://www.stormersite.com/haildate/TX/2026/May/26
+Strength: 10 hail reports, 14 wind reports, 3 tornado reports statewide; weak landspout tornado in Hereford; 55 mph wind gust near Pyote; half-dollar to ping-pong size hail near Center Point | Source: https://www.stormersite.com/haildate/TX/2026/May/26
+Damage estimate: Tree damage in Sabinal and Uvalde area; no structural damage to homes or businesses reported in available sources | Source: https://www.stormersite.com/haildate/TX/2026/May/26
+FEMA declaration: No | Source: none found
+Post-worthy: NO - No documented structural damage to homes or businesses; no sourced damage estimate above $1M; no disaster declaration; not in designated coastal counties
+
+Storm: Landspout Tornadoes
+Date: May 22, 2026 | Source: https://periliq.com/storm-history/05-22-2026/
+Location: Hale County, Texas (near Abernathy and Hale Center), northwest Texas | Source: https://periliq.com/storm-history/05-22-2026/
+Strength: Landspout and mesocyclone tornadoes; remained west of I-27; EF rating not reported in available sources | Source: https://periliq.com/storm-history/05-22-2026/
+Damage estimate: No structural damage to homes or businesses reported in available sources | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - No reported structural damage; no disaster declaration; not in designated coastal counties; falls outside 4-day search window (5 days prior to digest date)
+
+--- DRAFT POSTS ---
+
+STORM: Severe Flooding and Wind - Jasper County, Texas
+---
+Jasper County is dealing with the aftermath of flooding and wind damage in the northern part of the county. [1] County Judge Mark Allen issued a local disaster declaration on May 26, 2026. [1] Roads are blocked. Power is out. What comes next is the claim.
+
+After a combined flooding and wind event, carriers will examine each piece of damage and ask one question: which policy covers this? Wind damage falls under a standard homeowner's policy. Flood damage typically requires a separate policy under the National Flood Insurance Program or a private flood carrier. When both happen at once, carriers have every incentive to attribute as much damage as possible to flood.
+
+This is called concurrent causation. It is one of the most common ways policyholders in East Texas get underpaid after a storm.
+
+I have seen it happen. The adjuster arrives, takes photos, and categorizes the damage. The categories they use shape everything that follows. An independent inspection can document the same property differently, and that difference can represent thousands of dollars.
+
+People in Jasper County are entitled to request a copy of the adjuster's report. They are entitled to have the damage independently evaluated. And they are entitled to dispute categorizations that do not match what actually happened to their property. [1]
+
+The appraisal process exists for exactly that.
+
+SOURCES:
+[1] https://www.ktre.com/2026/05/26/jasper-county-issues-disaster-declaration-due-storm-damage/
+---
+
+STORM: Severe Thunderstorms with Tornadic Activity - Victoria and Calhoun Counties, Texas
+---
+Severe storms with tornadic activity struck Victoria and Calhoun counties, causing widespread wind damage and structural impacts to homes and businesses. [1] Governor Abbott added both counties to the state severe weather disaster declaration. [1] The SBA extended its disaster declaration to seven counties across the Crossroads region. [2]
+
+The claim fight in coastal Texas works differently from the rest of the state. Most property owners in these counties carry two separate policies: a standard homeowner's or commercial property policy and a TWIA windstorm policy. After a wind event, both carriers send adjusters. Those adjusters do not work together. And each one has an interest in limiting what their company pays.
+
+I have seen TWIA claims from the Crossroads region underpaid after a storm, not because the damage was not real, but because the scope documented by TWIA's adjuster did not match the actual scope of loss. The difference gets buried in the estimate.
+
+The SBA opened a disaster loan outreach center at 104 South Williams Street in Victoria, starting May 18. [2] An SBA loan is not a settlement. Accepting those funds does not resolve what a carrier owes under your policy and does not waive your right to dispute an underpaid claim.
+
+People in Victoria and Calhoun counties have rights under their policies that exist regardless of what the SBA offers.
+
+SOURCES:
+[1] https://gov.texas.gov/news/post/governor-abbott-adds-coastal-communities-to-severe-weather-disaster-declaration
+[2] https://gov.texas.gov/news/post/governor-abbott-announces-additional-sba-assistance-for-severe-storms
+---
+
+--- END OF DIGEST ---
