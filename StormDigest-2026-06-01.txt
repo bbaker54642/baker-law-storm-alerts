@@ -1,0 +1,56 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-01
+Search window: 2026-05-28 through 2026-06-01 (past 4 days)
+---
+
+STORMS FOUND: 2
+POST-WORTHY: 1
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorm Complex with Flash Flooding
+Date: 2026-05-25 through 2026-05-28 (primary impact May 25-27; ongoing storms and flooding May 27-28; additional thunderstorms May 28 within search window) | Source: https://www.kiiitv.com/article/news/local/severe-thunderstorm-leaves-damage-widespread-outages-coastal-bend/503-5cd0e3ea-e2c7-4d52-add0-f072780f0aab
+Location: Nueces County (Corpus Christi, Flour Bluff), Aransas County (Rockport, Aransas Pass), San Patricio County, Calhoun County, Jim Wells County (Alice), Kleberg County (Kingsville), Refugio County | Source: https://www.kiiitv.com/article/news/local/coastal-bend-storms-power-outages-flash-flooding-thursday/503-1bbdec32-8cc7-4001-a285-4c73ce6038b6
+Strength: Multiple rounds of severe thunderstorms; resident-reported winds 70-80+ mph in Flour Bluff; NWS Severe Thunderstorm Warning effective 05/27/2026 03:10; 3-6 inches rain total; Oso Creek reached 23.9 ft (flood stage 20.0 ft) | Source: https://www.govonestop.com/alert/texas-severe-thunderstorm-warning-severe-effective-05272026-0310
+Damage estimate: Not officially reported; widespread structural damage confirmed including commercial structure on Stripes gas station roof and bricks/wiring torn from Flour Bluff apartment building; 29,300 peak power outages (AEP Texas territory) | Source: https://www.kristv.com/news/local-news/thunderstorm-rips-through-flour-bluff-uprooting-trees-and-cutting-power-to-over-23-000-customers
+FEMA declaration: No federal disaster declaration found for these May 2026 Coastal Bend storms; state declaration for spring severe weather previously issued (North Texas/coastal communities April-May 2026); SBA addition requested May 29 for South Texas | Source: https://gov.texas.gov/news/post/governor-abbott-requests-addition-to-sba-disaster-declaration-for-spring-severe-weather
+Post-worthy: YES - Multiple qualifying coastal Texas counties affected (Nueces, Aransas, San Patricio, Calhoun, Refugio, Jim Wells, Kleberg); confirmed structural damage to commercial and residential structures; widespread flooding with NWS flood warnings across 9 coastal counties
+
+---
+
+Storm: Severe Thunderstorms - South Plains / Lubbock Area
+Date: 2026-05-31 | Source: https://www.everythinglubbock.com/weather/severe-weather-coverage-for-the-south-plains-may-31-2026/
+Location: South Plains region including Lubbock area and Lynn County | Source: https://www.everythinglubbock.com/weather/severe-weather-coverage-for-the-south-plains-may-31-2026/
+Strength: Winds up to 60 mph; hail up to 1 inch in diameter; Flash Flood Warning issued for Lynn County | Source: https://www.everythinglubbock.com/weather/severe-weather-coverage-for-the-south-plains-may-31-2026/
+Damage estimate: Not reported | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Not in coastal Texas counties; no confirmed structural damage; no FEMA declaration; no confirmed dollar damage estimate exceeding $1 million
+
+--- DRAFT POSTS ---
+
+STORM: Severe Thunderstorm Complex with Flash Flooding - Corpus Christi / Coastal Bend (Nueces County and surrounding coastal counties), May 25-28, 2026
+---
+Homeowners and business owners across the Corpus Christi area are now in the claims process after a series of severe thunderstorms and flooding swept through Nueces County and the surrounding Coastal Bend from late May into May 28. [1]
+
+The storms knocked out power to more than 29,000 AEP Texas customers, with the Corpus Christi district hit hardest. [2] A commercial structure collapsed onto the roof of a Stripes gas station in Corpus Christi. Strong winds tore bricks and wiring from the wall of an apartment building in Flour Bluff. [1] Flood warnings were issued for Aransas, Calhoun, Nueces, Refugio, and San Patricio counties as Oso Creek rose above flood stage. [3] Debris cleanup is still underway in neighborhoods near Oso Bay. [4]
+
+Here is what typically happens next.
+
+Insurance companies send adjusters quickly. But fast does not mean thorough. What they document on the first visit controls the claim. Adjusters often miss wind-driven water intrusion, secondary structural damage, and damage behind siding or beneath rooflines.
+
+In TWIA territory along the Coastal Bend, carriers regularly invoke the separate wind/hail deductible. That number often runs 1 to 3 percent of the dwelling value before any coverage applies. Carriers also try to assign as much loss as possible to flooding, where NFIP limits cap payouts. That separation is where policies get turned against policyholders.
+
+Depreciation disputes follow. Materials cost more now than when your policy was written. That gap comes out of your settlement check.
+
+The policy you paid for covers what the storm actually did. What you receive and what you are owed are frequently two different figures.
+
+SOURCES:
+[1] https://www.kiiitv.com/article/news/local/severe-thunderstorm-leaves-damage-widespread-outages-coastal-bend/503-5cd0e3ea-e2c7-4d52-add0-f072780f0aab
+[2] https://www.kristv.com/news/local-news/thunderstorm-rips-through-flour-bluff-uprooting-trees-and-cutting-power-to-over-23-000-customers
+[3] https://www.govonestop.com/alert/texas-severe-thunderstorm-warning-severe-effective-05272026-0310
+[4] https://www.kiiitv.com/article/news/local/city-adjusts-storm-debris-collection-following-severe-weather/503-642546d2-b6d0-44fd-8c5c-8d06b67b415c
+---
+
+--- END OF DIGEST ---
