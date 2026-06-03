@@ -1,0 +1,80 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-03
+Search window: 2026-05-30 through 2026-06-03 (past 4 days)
+---
+
+STORMS FOUND: 4
+POST-WORTHY: 1
+NOT POST-WORTHY: 3
+
+NOTE ON TWIA: No TWIA bulletins or active coastal claims found for the June 2026 period. Most recent TWIA claim activity
+relates to Hurricane Beryl (2024). TWIA board finalized $4.3B as 1-in-50 probable maximum loss for 2026 storm season
+and secured $500M line of credit at its May 19, 2026 board meeting.
+Source: https://www.twia.org/twia-board-takes-action-on-financial-preparations-for-2026-storm-season/
+
+NOTE ON HURRICANE SEASON: 2026 Atlantic hurricane season began June 1. NOAA forecasts below-normal season (8-14
+named storms, 3-6 hurricanes, 1-3 major). No tropical development expected in the Atlantic Basin within the next 7 days
+as of June 3, 2026. Hurricane season is active — monitor coastal Texas counties.
+Source: https://www.texastribune.org/2026/05/21/texas-noaa-hurricane-season-forecast-2026/
+
+--- ALL STORMS FOUND ---
+
+Storm: EF-1 Tornado
+Date: May 30, 2026 | Source: https://www.cbs19.tv/article/news/local/nws-ef-1-tornado-touched-down-in-nacogdoches-last-thursday/501-0580fc9d-1aea-46c8-999e-bf9a07e5b357
+Location: Nacogdoches County, TX — path along CR 313, CR 302, San Augustine Highway, through Melrose | Source: https://www.cbs19.tv/article/news/local/nws-ef-1-tornado-touched-down-in-nacogdoches-last-thursday/501-0580fc9d-1aea-46c8-999e-bf9a07e5b357
+Strength: EF-1; 100 mph peak winds; NWS confirmed via damage survey | Source: https://www.cbs19.tv/article/news/local/nws-ef-1-tornado-touched-down-in-nacogdoches-last-thursday/501-0580fc9d-1aea-46c8-999e-bf9a07e5b357
+Damage estimate: $300,000+ in road and infrastructure materials alone; 9 homes major damage, 25 homes total damage reported; 1 person injured | Source: https://www.dailysentinel.com/news/local/weekend-tornado-storms-complicate-recovery-across-county-disaster-declaration-issued/article_4f87df1e-3b85-5263-a7a6-963ec07f2f40.html
+FEMA declaration: LOCAL county disaster declaration only (not federal FEMA); issued May 31, 2026 by Nacogdoches County Judge Greg Sowell | Source: https://www.dailysentinel.com/news/local/weekend-tornado-storms-complicate-recovery-across-county-disaster-declaration-issued/article_4f87df1e-3b85-5263-a7a6-963ec07f2f40.html
+Post-worthy: YES — NWS-confirmed EF-1 tornado caused structural damage to 9 homes (major) and 25 homes total; county disaster declaration issued; meets widespread structural damage criterion (sourced).
+
+---
+
+Storm: Hail
+Date: June 1, 2026 | Source: https://www.stormersite.com/hail_reports/texas_texas/2026
+Location: Happy, TX (Swisher County — Texas Panhandle) | Source: https://www.stormersite.com/hail_reports/texas_texas/2026
+Strength: Quarter-size hail (approx. 1 inch diameter) | Source: https://www.stormersite.com/hail_reports/texas_texas/2026
+Damage estimate: Not reported | Source: none found
+FEMA declaration: None | Source: none found
+Post-worthy: NO — Hail size below structural damage threshold; Swisher County is not a designated coastal county; no disaster declaration; no confirmed damage estimates meeting the $1M threshold.
+
+---
+
+Storm: Hail
+Date: June 2, 2026 | Source: https://www.stormersite.com/ (June 2, 2026 daily report)
+Location: Venus, TX (Ellis County — North Texas, near Dallas) | Source: https://www.stormersite.com/ (June 2, 2026 daily report)
+Strength: Quarter to ping-pong ball size (approx. 1 to 1.5 inches) | Source: https://www.stormersite.com/ (June 2, 2026 daily report)
+Damage estimate: Not reported | Source: none found
+FEMA declaration: None | Source: none found
+Post-worthy: NO — Hail size below structural damage threshold; Ellis County is not a coastal county; no disaster declaration; no confirmed widespread structural damage to homes.
+
+---
+
+Storm: Severe Thunderstorm / Trees Down
+Date: June 2, 2026 | Source: https://www.stormersite.com/ (June 2, 2026 daily report)
+Location: Chireno, TX (Nacogdoches County — East Texas) | Source: https://www.stormersite.com/ (June 2, 2026 daily report)
+Strength: Unknown wind speeds; downed trees reported by Nacogdoches County 911 dispatch | Source: https://www.stormersite.com/ (June 2, 2026 daily report)
+Damage estimate: Not reported | Source: none found
+FEMA declaration: None for this June 2 event | Source: none found
+Post-worthy: NO — Trees down only; no structural damage to homes or businesses confirmed; not a coastal county; no disaster declaration for this event.
+
+--- DRAFT POSTS ---
+
+STORM: EF-1 Tornado — Nacogdoches County, TX (May 30, 2026)
+---
+An EF-1 tornado moved through Nacogdoches County on May 30. [1] The National Weather Service confirmed peak winds of 100 mph. [1] Nine homes in the county sustained major damage. Twenty-five more had some level of damage. [2] The county judge issued a local disaster declaration the following day. [2]
+
+The insurance phase has started. I handle claims that come out of storms like this. What I see consistently is that carriers look for ways to reduce the amount they pay.
+
+Tornado claims face a specific tactic. Carriers argue that damaged roofs were already deteriorating before the storm. They claim tree falls on structures were not storm-caused but the result of pre-existing weakness. They invoke exclusions for settling or earth movement to reclassify direct wind damage into excluded categories. The goal in each case is the same: pay less than the policy actually requires.
+
+The winds on May 30 were documented and confirmed by the National Weather Service at 100 mph. [1] That documentation matters. Direct wind damage is a covered peril under virtually every Texas homeowners policy. When a carrier reclassifies that damage into an excluded category, it is making a deliberate choice to shift costs onto people.
+
+A local disaster declaration does not change how a carrier handles a claim. People in Nacogdoches County need to know those two things are entirely separate.
+
+SOURCES:
+[1] https://www.cbs19.tv/article/news/local/nws-ef-1-tornado-touched-down-in-nacogdoches-last-thursday/501-0580fc9d-1aea-46c8-999e-bf9a07e5b357
+[2] https://www.dailysentinel.com/news/local/weekend-tornado-storms-complicate-recovery-across-county-disaster-declaration-issued/article_4f87df1e-3b85-5263-a7a6-963ec07f2f40.html
+---
+
+--- END OF DIGEST ---
