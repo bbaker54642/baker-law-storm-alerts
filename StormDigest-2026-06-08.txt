@@ -1,0 +1,112 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-08
+Search window: June 4, 2026 - June 8, 2026
+---
+
+SEARCH NOTE: No new major storm events with confirmed structural damage were identified within the strict June 4-8 window. However, two storm events from late April and May 2026 have active federal disaster declarations being administered within this window: a Federal Register amendment was published June 4, 2026, and an SBA reminder was issued June 5, 2026. Policyholders in affected areas are currently in their active claims window with a physical damage loan deadline of July 6, 2026. These events are included as the most current qualifying storms.
+
+STORMS FOUND: 3
+POST-WORTHY: 3
+NOT POST-WORTHY: 0
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorms, Straight-Line Winds, and EF3 Tornado (North Texas component)
+Date: April 24-29, 2026 | Source: https://www.weather.gov/fwd/april2026svrwx
+Location: Palo Pinto County (Mineral Wells), Parker County, Wise County, North Texas | Source: https://www.cnn.com/2026/04/28/weather/severe-storm-outbreak-tornadoes-hail-south-climate
+Strength: EF3 tornado confirmed in Mineral Wells, peak winds 145 mph | Source: https://www.cnn.com/2026/04/28/weather/severe-storm-outbreak-tornadoes-hail-south-climate
+Damage estimate: Dollar amount not reported; at least 2 deaths (Wise and Parker counties), homes destroyed, families displaced, widespread structural damage confirmed | Source: https://www.cbsnews.com/texas/news/north-texas-storms-two-dead-wise-parker-county-damage/
+FEMA declaration: YES - Governor Abbott issued state disaster declaration April 28, 2026; SBA disaster loans approved for multiple North Texas counties | Source: https://www.tdem.texas.gov/press-release/4-28-26
+Post-worthy: YES - State disaster declaration issued; widespread structural damage to homes confirmed; multiple fatalities reported
+
+---
+
+Storm: Severe Thunderstorms, Tornadoes, and High Winds (South Texas Crossroads/Coastal component of same April 24-May 1 system)
+Date: April 24 - May 1, 2026 | Source: https://www.sba.gov/article/2026/05/08/sba-offers-disaster-assistance-texas-businesses-private-nonprofits-residents-affected-severe-storms
+Location: Victoria, Calhoun, Refugio, Jackson, Goliad, Lavaca, DeWitt counties (Texas Crossroads coastal region) | Source: https://www.crossroadstoday.com/news/local-news/victoria-and-calhoun-counties-added-to-texas-severe-weather-disaster-declaration/article_3ffe84fa-5499-496a-ba08-d4ec9596f604.html
+Strength: Confirmed tornado, peak winds approx. 110 mph, traveled 1.1 miles; 119 mph wind gust at Point Comfort (Calhoun County) | Source: https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+Damage estimate: Dollar amount not reported; dozens of homes damaged in Victoria County, widespread structural damage to manufactured homes, at least one home destroyed, power poles snapped | Source: https://www.crossroadstoday.com/features/community-crossroads/severe-storms-damage-dozens-of-homes-across-victoria-county/article_5a2b275e-74d0-41d8-8283-d2cf537ae9dd.html
+FEMA declaration: YES - Governor Abbott expanded state disaster declaration to include coastal Crossroads counties on May 7, 2026; SBA federal disaster loans available with physical damage deadline July 6, 2026 | Source: https://victoriaadvocate.com/2026/05/07/gov-abbott-adds-crossroads-counties-to-storm-disaster-declaration/
+Post-worthy: YES - Directly hit coastal Texas counties (Calhoun, Refugio, Victoria, Jackson all on post-worthiness list); FEMA/SBA disaster declaration; widespread structural damage confirmed by NWS damage survey
+
+---
+
+Storm: Severe Thunderstorm / NWS-Confirmed Wet Microburst
+Date: May 9, 2026 | Source: https://myrgv.com/local-news/2026/05/09/t-storms-leave-injuries-downed-power-lines-and-outages-in-rgv/
+Location: Cameron County, Texas (Harlingen, Laureles, San Benito) | Source: https://www.rgvbusinessjournal.com/news/10/05/2026/microburst-storm-cameron-county-power-outages-damage/
+Strength: NWS-confirmed wet microburst, winds 65-80 mph, 13-mile damage path | Source: https://www.krgv.com/news/weather-experts-say-storm-that-swept-through-the-valley-produced-a-wet-microburst-/
+Damage estimate: Dollar amount not reported; 1 death, several injuries, dozens of homes damaged, mobile home collapsed, 45,000 power outages at peak | Source: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/05/11/south-texas-residents-survey--clean-up-damage-from-storm
+FEMA declaration: YES - Governor Abbott issued state disaster declaration for Cameron County; SBA loans available to homeowners as of June 3, 2026; federal administrative declaration amended June 4, 2026 | Source: https://gov.texas.gov/news/post/governor-abbott-issues-storm-damage-disaster-declaration-for-cameron-county
+Post-worthy: YES - State/federal disaster declaration issued; widespread structural damage to homes confirmed by multiple sources; 1 death; SBA disaster loans entered active window within this digest's search window
+
+--- DRAFT POSTS ---
+
+STORM: Severe Thunderstorms, Tornadoes, and High Winds - South Texas Crossroads / Coastal Counties (April 24 - May 1, 2026)
+---
+Policyholders in Victoria, Calhoun, and Refugio counties know what these storms did. [1] Between April 24 and May 1, a tornado cut through the area, with NWS damage surveyors confirming peak winds near 110 mph and at least one home destroyed. [2] A weather station at Point Comfort recorded a 119 mph wind gust. [3] Dozens of homes were damaged across Victoria County. [4] Governor Abbott issued a state disaster declaration, and federal SBA disaster loans are now available to homeowners in these coastal counties, with a physical damage application deadline of July 6, 2026. [5]
+
+I've seen what comes next.
+
+After wind events like this, carriers send adjusters looking to minimize payouts. They write wind damage as pre-existing deterioration. Pricing software undervalues South Texas labor and materials. Carriers invoke water-intrusion exclusions for damage that entered through wind-opened gaps. They call structural movement settling rather than storm damage.
+
+TWIA policyholders face specific obstacles. TWIA runs its own adjustment process with its own pricing guides and timelines. The appraisal clause shifts the cost and burden onto you when you challenge their numbers.
+
+People in manufactured homes face coverage limitations written into their policies before the storm arrives. Those limits shape every payment decision from the start.
+
+A denied or underpaid claim is a decision the carrier made. It is not final.
+
+SOURCES:
+[1] https://www.crossroadstoday.com/features/community-crossroads/severe-storms-damage-dozens-of-homes-across-victoria-county/article_5a2b275e-74d0-41d8-8283-d2cf537ae9dd.html
+[2] https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+[3] https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+[4] https://www.crossroadstoday.com/features/community-crossroads/severe-storms-damage-dozens-of-homes-across-victoria-county/article_5a2b275e-74d0-41d8-8283-d2cf537ae9dd.html
+[5] https://victoriaadvocate.com/2026/05/07/gov-abbott-adds-crossroads-counties-to-storm-disaster-declaration/
+---
+
+STORM: NWS-Confirmed Wet Microburst - Cameron County, Texas (May 9, 2026)
+---
+People in Cameron County are still dealing with what happened on May 9. [1] A wet microburst with winds between 65 and 80 mph moved from Harlingen toward Laureles, leaving a 13-mile damage path. [2] One person died. Several others were injured. [3] At least 45,000 customers lost power across the Rio Grande Valley. [4] A mobile home collapsed under the winds, injuring the people inside. [5] Governor Abbott issued a state disaster declaration for Cameron County, and federal SBA loans became available to homeowners on June 3, 2026. [6]
+
+I know what those claims look like on the back end.
+
+Carriers send adjusters looking for reasons to reduce what they owe. After a microburst, wind and water arrive together. Insurance companies separate them. They pay wind. They exclude flood. They require you to prove which damage came from which source, and they write the exclusions broadly.
+
+Policyholders in manufactured homes face specific coverage limitations that reduce payouts before the storm even starts. Those limits are not clearly disclosed at the time of purchase.
+
+TWIA policyholders in coastal areas who also sustained damage from earlier spring storms now face compounding claim disputes. TWIA manages its own process, its own pricing, and its own adjustment timeline.
+
+A denied or underpaid claim is not the end of the process. It is the carrier's opening offer.
+
+SOURCES:
+[1] https://myrgv.com/local-news/2026/05/09/t-storms-leave-injuries-downed-power-lines-and-outages-in-rgv/
+[2] https://www.rgvbusinessjournal.com/news/10/05/2026/microburst-storm-cameron-county-power-outages-damage/ | https://www.krgv.com/news/weather-experts-say-storm-that-swept-through-the-valley-produced-a-wet-microburst-/
+[3] https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/05/11/south-texas-residents-survey--clean-up-damage-from-storm
+[4] https://www.rgvbusinessjournal.com/news/10/05/2026/microburst-storm-cameron-county-power-outages-damage/
+[5] https://www.krgv.com/news/cameron-county-judge-to-give-emergency-update-in-san-benito/
+[6] https://gov.texas.gov/news/post/governor-abbott-issues-storm-damage-disaster-declaration-for-cameron-county | https://myrgv.com/local-news/2026/06/03/sba-disaster-loans-now-available-to-cameron-county-residents/
+---
+
+STORM: EF3 Tornado and Severe Storms - Mineral Wells / North Texas (April 24-29, 2026)
+---
+People in Mineral Wells and across Palo Pinto County know what the April storms did. [1] Between April 24 and April 29, an EF3 tornado with peak winds of 145 mph tore through Mineral Wells. [2] At least two people died in North Texas from this outbreak. [3] Homes were destroyed and families displaced across Palo Pinto, Parker, and Wise counties. [4] Governor Abbott issued a state disaster declaration and federal SBA disaster loans are available for policyholders in the affected counties. [5]
+
+I've handled claims that start exactly this way.
+
+After a confirmed tornado, homeowners expect their carriers to respond with a total-loss payment. That is not how it works. Carriers start with their own pricing guides. The number they produce rarely reflects actual replacement costs in your local market. They invoke the ordinance-and-law exclusion to avoid covering code-required upgrades when you rebuild. They apply depreciation to a dwelling that a tornado leveled as if the damage were routine aging.
+
+Renters lose personal property. They often carry less insurance than they need and adjusters price accordingly.
+
+People who survive a tornado then face the claims process, often months later while managing everything else. The carrier has full-time systems built to minimize that payout. Most policyholders do not.
+
+A claim denial is a written position. It is not the final word.
+
+SOURCES:
+[1] https://www.cnn.com/2026/04/28/weather/severe-storm-outbreak-tornadoes-hail-south-climate
+[2] https://www.cnn.com/2026/04/28/weather/severe-storm-outbreak-tornadoes-hail-south-climate
+[3] https://www.cbsnews.com/texas/news/north-texas-storms-two-dead-wise-parker-county-damage/
+[4] https://www.cbsnews.com/texas/news/north-texas-storms-two-dead-wise-parker-county-damage/
+[5] https://www.tdem.texas.gov/press-release/4-28-26
+---
+
+--- END OF DIGEST ---
