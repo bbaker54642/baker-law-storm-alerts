@@ -1,0 +1,71 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-10
+Search window: June 7, 2026 - June 10, 2026 (past 4 days)
+---
+
+STORMS FOUND: 4
+POST-WORTHY: 2 (1 draft post included; 1 noted outside search window, no draft)
+NOT POST-WORTHY: 2
+
+--- ALL STORMS FOUND ---
+
+Storm: Flash Flooding / Severe Thunderstorms
+Date: June 6-8, 2026 | Source: https://www.fox4news.com/news/dallas-weather-heavy-rain-flash-flooding-risk-june-6-2026
+Location: Dallas-Fort Worth Metroplex, North Texas | Source: https://www.fox4news.com/news/dallas-weather-heavy-rain-flash-flooding-risk-june-6-2026
+Strength: Flash flood conditions, heavy rain (forecast: up to 6-8 inches isolated, 2-3 inches typical) | Source: https://www.fox4news.com/news/dallas-weather-heavy-rain-flash-flooding-risk-june-6-2026
+Damage estimate: Not confirmed from reputable directly accessible source | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Flooding and water rescues reported by WFAA (wfaa.com) but specific structural damage to homes/businesses not confirmed by a reputable source meeting the accuracy standard; DFW counties are not coastal Texas counties per the qualifier list; no disaster declaration issued for this event
+
+Storm: Hail Activity
+Date: June 8, 2026 | Source: https://www.stormersite.com/ (homepage as of June 8, 2026 titled "Today's Hail Reports - 06/08/2026")
+Location: Texas included in multi-state hail reports; Highway 59 corridor area referenced in search results | Source: https://www.stormersite.com/hail_reports/texas_texas/2026
+Strength: Dime to quarter-sized hail reported along Highway 59 | Source: https://www.stormersite.com/
+Damage estimate: Not reported | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Hail sizes (dime to quarter) are well below the threshold associated with significant structural damage; no property damage estimates available; no disaster declaration
+
+NOTE: The following two storms were found during the broader research process but fall OUTSIDE the June 7-10 search window. Both have active state and federal disaster loan declarations as of this filing date. They are included here for completeness.
+
+Storm: EF-1 Tornado / Severe Thunderstorm / Straight-Line Winds [OUTSIDE WINDOW]
+Date: May 1, 2026 | Source: https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+Location: Victoria County, Calhoun County, Texas (coastal) | Source: https://www.crossroadstoday.com/news/local-news/victoria-and-calhoun-counties-added-to-texas-severe-weather-disaster-declaration/article_3ffe84fa-5499-496a-ba08-d4ec9596f604.html
+Strength: EF-1 tornado (110 mph peak winds), straight-line winds up to 120 mph, 40-mile swath of destructive wind | Source: https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+Damage estimate: 133 structures damaged in Victoria County; 44 with major damage or total destruction; dollar estimate not publicly reported | Source: https://www.crossroadstoday.com/news/report-released-on-the-severe-storm-that-caused-extensive-damage-in-victoria-county/article_131a30a4-157c-43a1-8cb2-3ed194aa4b54.html
+FEMA declaration: State disaster declaration issued (Victoria, Calhoun counties, May 7, 2026) + SBA disaster loans active for Calhoun, Dewitt, Goliad, Jackson, Lavaca, Refugio, Victoria counties; Federal Register amendment June 4, 2026 added Cameron, Hidalgo, Willacy | Source: https://gov.texas.gov/news/post/governor-abbott-adds-crossroads-counties-to-storm-disaster-declaration | https://www.sba.gov/article/2026/06/02/sba-amends-disaster-declaration-texas | https://www.federalregister.gov/documents/2026/06/04/2026-11176/administrative-declaration-amendment-of-a-disaster-for-the-state-of-texas
+Post-worthy: YES (outside window) - Coastal Texas counties (Victoria, Calhoun); 133 structures damaged with 44 major/destroyed; state disaster declaration and active SBA disaster loans. DRAFT POST INCLUDED. Claims still active as of this filing date.
+
+Storm: Multi-Day Tornado Outbreak / Severe Storms [OUTSIDE WINDOW]
+Date: April 24-29, 2026 | Source: https://www.weather.gov/fwd/april2026svrwx
+Location: Palo Pinto County (Mineral Wells), Parker County, Wise County, Lamar County, Johnson County | Source: https://www.weather.gov/fwd/april2026svrwx
+Strength: EF3 tornado (145 mph, Mineral Wells), 5 additional EF0-EF1 tornadoes, softball-sized hail (4.5 inches), 287 storm reports | Source: https://www.weather.gov/fwd/april2026svrwx
+Damage estimate: Dollar amount not publicly reported; 2 killed, 11+ injured | Source: https://www.weather.gov/fwd/april2026svrwx
+FEMA declaration: State disaster declaration + SBA disaster loans (Palo Pinto, Parker, Wise, Lamar, Johnson counties) | Source: https://www.tdem.texas.gov/press-release/4-28-26
+Post-worthy: YES (outside window) - State disaster declaration; widespread structural damage; 2 deaths, 11+ injuries; softball-sized hail. OUTSIDE SEARCH WINDOW; no draft post this period.
+
+--- DRAFT POSTS ---
+
+STORM: EF-1 Tornado / Straight-Line Winds - Victoria and Calhoun Counties, Texas
+(NOTE: Storm occurred May 1, 2026 - outside the June 7-10 search window. State disaster declaration issued May 7, 2026. SBA disaster loan program remains active as of June 10, 2026, per Federal Register amendment of June 4. Draft included because this storm is within Kevin Baker's primary coastal service area and the claims process is ongoing.)
+
+---
+Victoria and Calhoun County policyholders are now in the thick of the claims process from the May 1 storms. [1]
+
+That afternoon, an EF-1 tornado and straight-line winds up to 120 mph swept across the Victoria Crossroads. [2] The National Weather Service damage survey confirmed 133 structures damaged in Victoria County, with 44 receiving major damage or total destruction. [3]
+
+Here is what I see after a storm like this hits coastal Texas. Carriers use the straight-line versus tornadic wind distinction against policyholders. Exclusions are written around wind classifications that shift losses into uncovered categories. Manufactured homes and older structures took some of the worst damage, and carriers apply pre-existing condition language and maintenance exclusions to reduce what they pay.
+
+Governor Abbott added Victoria and Calhoun counties to the state disaster declaration following the storm. [4] The SBA then expanded disaster loan eligibility to multiple counties across the Crossroads region, a formal recognition of disaster-level damage. [5]
+
+Structural damage confirmed by a National Weather Service survey is not a disputed fact. What carriers choose to pay on that damage is.
+
+SOURCES:
+[1] https://victoriaadvocate.com/2026/05/05/damage-survey-confirms-destructive-winds-tornado-in-victoria-area-storm/
+[2] https://www.crossroadstoday.com/news/report-released-on-the-severe-storm-that-caused-extensive-damage-in-victoria-county/article_131a30a4-157c-43a1-8cb2-3ed194aa4b54.html
+[3] https://www.crossroadstoday.com/news/report-released-on-the-severe-storm-that-caused-extensive-damage-in-victoria-county/article_131a30a4-157c-43a1-8cb2-3ed194aa4b54.html
+[4] https://gov.texas.gov/news/post/governor-abbott-adds-crossroads-counties-to-storm-disaster-declaration
+[5] https://www.sba.gov/article/2026/06/02/sba-amends-disaster-declaration-texas
+---
+
+--- END OF DIGEST ---
