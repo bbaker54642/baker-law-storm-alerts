@@ -1,0 +1,52 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-15
+Search window: 2026-06-11 through 2026-06-15 (past 4 days)
+---
+
+STORMS FOUND: 2
+POST-WORTHY: 1
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Flash flooding / severe thunderstorms
+Date: June 14-15, 2026 | Source: https://www.cnn.com/2026/06/15/weather/video/texas-flash-flooding-ldn-digvid-vrtc
+Location: McLennan County (Waco), Travis County (Austin), Hays County, Bexar County (San Antonio), Comal County, Guadalupe County, Williamson County, Harris County (Houston), Galveston County, Brazoria County, Jackson County, Matagorda County | Source: https://www.govonestop.com/alert/texas-flash-flood-warning-severe-effective-06152026-0516 ; https://www.newsweek.com/texas-map-shows-large-parts-of-state-under-flood-warnings-12072787
+Strength: 3 to 5+ inches of rainfall; rain rates near 4 inches per hour in some areas; Flash Flood Warning effective 06/15/2026 05:16 | Source: https://abcnews.com/US/dangerous-flooding-ongoing-texas-flash-flood-risks-region/story?id=133880461
+Damage estimate: not reported with specific dollar figure | Source: none found
+FEMA declaration: No formal FEMA declaration confirmed; Governor Abbott activated state emergency response resources ahead of event | Source: https://gov.texas.gov/news/post/governor-abbott-activates-state-emergency-response-resources-ahead-of-flood-threat--
+Post-worthy: YES - Hit coastal Texas counties (Galveston, Brazoria, Jackson, Matagorda all under flood watch); multiple confirmed water rescues in Waco (I-35) and Austin; Governor activated state emergency response; NWS issued life-threatening conditions warnings
+
+Storm: Severe thunderstorms / high winds
+Date: June 13, 2026 (Saturday) | Source: https://www.fox26houston.com/weather/houston-weather-forecast-today-saturday-13-june-2026
+Location: Greater Houston area including Harris County and Grimes County | Source: https://www.fox26houston.com/weather/houston-weather-flood-watch-timeline-storms-live-radar
+Strength: Wind gusts up to 40-50 mph; approximately 1.5 inches of rainfall | Source: Fox 26 Houston article referenced in search results; article could not be directly accessed (HTTP 403)
+Damage estimate: not reported with specific sourced dollar figure | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Structural damage and specific coastal county impact for this date could not be verified from a directly accessible reputable source URL; insufficient confirmed detail to meet post-worthiness threshold
+
+--- DRAFT POSTS ---
+
+STORM: Flash flooding - Central Texas and coastal Southeast Texas (June 14-15, 2026)
+---
+Flooding hit central Texas and the Gulf Coast starting June 14. [1] Galveston County is under a flood watch. [2] Water rescues are ongoing in Waco and Austin. [3]
+
+Standard homeowners policies exclude flood damage. That exclusion is broad. It covers overflow from rivers and bayous, surface water runoff, and stormwater. Most of what people see rising in their streets and yards falls inside that exclusion.
+
+If you carry a National Flood Insurance Program policy, you have a federal program with its own coverage schedule. NFIP adjusters move quickly but work from a narrow list of covered items. They will often pay contents, finished floors, and elevated mechanicals at partial rates or exclude them entirely.
+
+The harder claims arise when wind caused damage before the water arrived. A roof opened by wind prior to flooding is not the same legal situation as a structure that flooded without prior wind damage. Carriers and write-your-own NFIP adjusters both draw that line in their own favor.
+
+Governor Abbott activated state emergency resources ahead of this event. [4] That activation often precedes a formal disaster declaration. When a declaration follows, it can open additional claim pathways that policyholders miss if they close out claims too quickly.
+
+The documentation created in the first 72 hours is what adjusters work from. Insulation, wall cavities, and flooring do not stay visible long after floodwater recedes.
+
+SOURCES:
+[1] https://www.cnn.com/2026/06/15/weather/video/texas-flash-flooding-ldn-digvid-vrtc
+[2] https://www.thegalveston.org/article/galveston-county-flood-watch-issued
+[3] https://www.kut.org/austin/2026-06-15/austin-texas-flash-flood-warning
+[4] https://gov.texas.gov/news/post/governor-abbott-activates-state-emergency-response-resources-ahead-of-flood-threat--
+---
+
+--- END OF DIGEST ---
