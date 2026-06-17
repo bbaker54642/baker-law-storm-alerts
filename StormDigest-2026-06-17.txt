@@ -1,0 +1,89 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-17
+Search window: 2026-06-13 to 2026-06-17
+---
+
+STORMS FOUND: 3
+POST-WORTHY: 3
+NOT POST-WORTHY: 0
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorms / Flash Flooding / Large Hail / Tornado Threats
+Date: June 14-15, 2026 | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Location: 101 Texas counties; coastal counties included: Aransas, Brazoria, Calhoun, Galveston, Jackson, Matagorda, Nueces, Refugio | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Strength: Heavy rainfall (3-6+ inches in affected areas), flash flooding, large hail, hazardous wind gusts, tornado threats; specific hail size and peak wind speed not confirmed in sourced reports | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Damage estimate: Not reported; damage estimates still being assessed | Source: none found
+FEMA declaration: State YES (Governor Abbott, June 15, 2026, 101 counties); Federal FEMA declaration not confirmed at time of search | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Post-worthy: YES - State disaster declaration covers Aransas, Nueces, Calhoun, Refugio, Galveston, Brazoria, Matagorda, and Jackson counties (all target coastal counties per filter criteria)
+
+Storm: Flash Flooding - Rio Grande Valley
+Date: June 15, 2026 | Source: https://www.krgv.com/news/weslaco-flood-cleanup-underway-after-more-than-6-inches-of-rain-hit-the-city
+Location: Weslaco (Hidalgo County); Progreso (Cameron County); Rio Grande Valley | Source: https://www.krgv.com/news/weslaco-flood-cleanup-underway-after-more-than-6-inches-of-rain-hit-the-city
+Strength: More than 6 inches of rain; flooding reached waist-deep on some streets | Source: https://www.krgv.com/news/weslaco-dries-out-after-heavy-rain-left-some-streets-waist-deep-in-water
+Damage estimate: Water entered homes across the city; dollar amount not reported in sourced accounts | Source: https://www.krgv.com/news/weslaco-flood-cleanup-underway-after-more-than-6-inches-of-rain-hit-the-city
+FEMA declaration: State YES (Hidalgo and Cameron counties included in Governor Abbott's June 15 101-county proclamation); local disaster declarations signed by Weslaco and Progreso mayors; Federal FEMA declaration not confirmed | Source: https://www.nbcpalmsprings.com/2026/06/15/flash-flooding-prompts-disaster-declaration-and-emergency-sandbag-distribution-in-weslaco-texas | https://foxrgv.tv/weslaco-flooding-flooding-in-weslaco-and-progreso-prompts-disaster-declaration/
+Post-worthy: YES - Hidalgo and Cameron counties covered by state disaster declaration; KRGV confirms water entered homes across Weslaco constituting widespread structural damage
+
+Storm: Potential Tropical Cyclone One (forecast: Tropical Storm Arthur)
+Date: June 15-16, 2026 (developing) | Source: https://www.khou.com/article/weather/gulf-disturbance-tropical-storm-arthur/285-e912dfa2-a7b6-495b-a7ae-6586893935a4
+Location: South of Corpus Christi; tropical storm watch issued from Sargent, TX (Matagorda County) to Morgan City, LA; watch covers Brazosport, Galveston, and Port Arthur | Source: https://www.khou.com/article/weather/gulf-disturbance-tropical-storm-arthur/285-e912dfa2-a7b6-495b-a7ae-6586893935a4 | https://abcnews.com/US/17-million-flood-watch-texas-mississippi/story?id=133914566
+Strength: Pre-named system as of June 16; NHC assigned 60% chance of tropical storm formation; forecast to become Tropical Storm Arthur, first named storm of 2026 Atlantic season; no hurricane formation expected | Source: https://www.foxweather.com/weather-news/potential-tropical-cyclone-one-southern-texas-tropical-system
+Damage estimate: Storm still developing at time of search; no damage estimates available | Source: none found
+FEMA declaration: No - storm still developing as of June 16, 2026 | Source: none found
+Post-worthy: YES - Tropical storm watch issued for coastal Texas counties including Brazoria, Galveston, Matagorda; NHC-tracked system originating south of Corpus Christi directly threatening coastal Texas
+
+NOTE ON OUT-OF-WINDOW RESULT: Initial searches surfaced a CBS Texas article about 2 deaths and injuries from tornadoes (EF-2 in Wise County, EF-1 in Parker County) - confirmed via search results to be from April 26-27, 2026, outside the June 13-17 search window. Not included in this digest.
+
+--- DRAFT POSTS ---
+
+STORM: Severe Thunderstorms / Flash Flooding / Hail - Aransas, Nueces, and Coastal Texas (June 14-15, 2026)
+---
+People in Aransas, Nueces, Calhoun, and Refugio counties are now dealing with the aftermath of a severe storm event that began June 14, 2026. [1] The storm brought flash flooding, large hail, hazardous wind gusts, and tornado threats across the region. [1] Governor Abbott issued a state disaster declaration on June 15, 2026 covering 101 Texas counties, including all four of those coastal areas. [2]
+
+Here is what I see after storms like this. Carriers move quickly to set low loss estimates. Adjusters will argue that water damage inside a home is flood damage, excluded from a standard homeowners policy, even when the water came in because the roof or siding was first breached by wind or hail. That distinction between wind-driven water intrusion and flooding is one of the most disputed issues in coastal Texas claims.
+
+If water entered your home because a structural component was damaged by wind or hail first, how the adjuster classifies that entry determines which policy pays and how much. Carriers make that classification in their favor first.
+
+A state disaster declaration does not mean a claim gets paid. It activates state resources. It does not stop a carrier from issuing a low offer, delaying an inspection, or invoking a policy exclusion. Policyholders have a right to dispute those determinations. The policy is a contract. Both parties are bound by what it says.
+
+SOURCES:
+[1] https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+[2] https://cbsaustin.com/news/local/abbott-issues-disaster-declaration-for-101-counties-including-central-texas-amid-storms
+---
+
+STORM: Flash Flooding - Weslaco and Rio Grande Valley (June 15, 2026)
+---
+People in Weslaco and across the Rio Grande Valley are cleaning up after more than six inches of rain fell on the city on June 15, 2026. [1] Flooding reached waist-deep on some streets and pushed water into homes. [2] Weslaco Mayor Adrian Gonzalez and Progreso Mayor Hugo Gamboa each signed local disaster declarations for their cities. [3] Both Hidalgo and Cameron counties are also included in Governor Abbott's statewide disaster declaration issued June 15. [4]
+
+After this type of flooding, the claim dispute centers on the same question every time. Was this flood damage excluded under the homeowners policy, or is it covered loss? Most standard homeowners policies exclude flooding. That means a separate federal flood policy is required for that coverage. Many people in the Rio Grande Valley carry homeowners insurance but not a separate flood policy.
+
+When the adjuster arrives, they will classify the source of water entry. If water came in at ground level through doors or walls, the carrier will treat it as excluded flooding. That determination directly controls what gets paid.
+
+That determination is not always correct. Water pushed through storm-compromised openings that are not standard flood entry points can fall outside the flood exclusion depending on the policy language. The specific language in the policy controls. Policyholders have a right to know what it says.
+
+SOURCES:
+[1] https://www.krgv.com/news/weslaco-flood-cleanup-underway-after-more-than-6-inches-of-rain-hit-the-city
+[2] https://www.krgv.com/news/weslaco-dries-out-after-heavy-rain-left-some-streets-waist-deep-in-water
+[3] https://foxrgv.tv/weslaco-flooding-flooding-in-weslaco-and-progreso-prompts-disaster-declaration/
+[4] https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+---
+
+STORM: Potential Tropical Cyclone One / Tropical Storm Arthur - Coastal Texas (June 15-16, 2026)
+---
+The National Hurricane Center designated Potential Tropical Cyclone One on June 16, 2026, with the system forecast to become Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season. [1] A tropical storm watch was issued for the Gulf Coast from Sargent, Texas to Morgan City, Louisiana, covering Brazosport, Galveston, and Port Arthur. [2] Flooding from heavy rainfall was the primary threat on a coastline already saturated from days of severe storms. [3]
+
+I have handled claims from tropical systems exactly like this one. The central dispute is almost never about wind alone. It is about water and how the carrier classifies it. Carriers separate storm surge from wind-driven rain and from general flooding. Each category may fall under a different policy. That separation gives carriers options to deny under each policy by pointing to the other.
+
+If your home took on water from this system, document the source of entry before cleanup begins. Photograph water lines, entry points, and the condition of the roof and exterior walls. Do not let an adjuster be the first person to categorize how the water entered. That categorization is the foundation of the claim.
+
+In TWIA territory, wind and flood inspections are conducted separately. Carriers use the time between those inspections.
+
+SOURCES:
+[1] https://www.khou.com/article/weather/gulf-disturbance-tropical-storm-arthur/285-e912dfa2-a7b6-495b-a7ae-6586893935a4
+[2] https://abcnews.com/US/17-million-flood-watch-texas-mississippi/story?id=133914566
+[3] https://www.foxweather.com/weather-news/potential-tropical-cyclone-one-southern-texas-tropical-system
+---
+
+--- END OF DIGEST ---
