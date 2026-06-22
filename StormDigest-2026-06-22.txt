@@ -1,0 +1,128 @@
+---
+BAKER LAW STORM DIGEST
+Date: 2026-06-22
+Search window: 2026-06-18 through 2026-06-22 (past 4 days)
+Note: One storm (June 14-15 severe weather event) falls outside the strict 4-day window
+but is included due to proximity (8 days), active state disaster proclamation, and direct
+impact on coastal counties critical to Baker Law clients.
+---
+
+STORMS FOUND: 2
+POST-WORTHY: 2
+NOT POST-WORTHY: 0
+
+--- ALL STORMS FOUND ---
+
+Storm: Tropical storm (Tropical Storm Arthur - 2026 Atlantic Hurricane Season, Storm #1)
+Date: June 17-18, 2026 (made landfall June 17; became post-tropical June 18 at 03:00 UTC)
+  | Source: https://www.nbcnews.com/weather/storms/tropical-storm-arthur-forecast-flooding-first-named-storm-season-rcna350594
+Location: Made landfall near Matagorda County, TX; significant impacts in Galveston County
+  and Brazoria County; state disaster declaration covers coastal counties statewide
+  | Source: https://www.foxweather.com/live-news/live-updates-louisiana-coast-under-tropical-storm-warning-as-catastrophic-flooding-targets-millions
+Strength: 45 mph peak sustained winds; 64 mph peak gusts at Galveston monitoring station;
+  storm surge exceeded 2 feet in parts of Galveston Bay; 8+ inches of rain in parts of
+  Brazoria County (Freeport and Clute); 5-10 inches across Texas coast generally
+  | Source: https://www.foxweather.com/live-news/live-updates-louisiana-coast-under-tropical-storm-warning-as-catastrophic-flooding-targets-millions
+Damage estimate: AccuWeather estimates $4-6 billion in total damage and economic loss;
+  Aon estimated insured damages greater than $100 million
+  | Source (AccuWeather): https://www.accuweather.com/en/press/tropical-storm-arthur-causes-an-estimated-4-6-billion-in-total-damage-and-economic-loss-accuweather-experts-say/1903513
+  | Source (Aon/Wikipedia): https://en.wikipedia.org/wiki/Tropical_Storm_Arthur_(2026)
+FEMA declaration: State disaster declaration YES (TDEM disaster page exists for Arthur);
+  federal FEMA major disaster declaration not confirmed as of 2026-06-22
+  | Source: https://tdem.texas.gov/disasters/tropical-weather-arthur
+Fatalities: At least 4 confirmed fatalities
+  | Source: https://en.wikipedia.org/wiki/Tropical_Storm_Arthur_(2026)
+Additional: Power outages approximately 2,000 customers each in Galveston and Texas
+  City-La Marque areas; 2 occupants rescued from stranded vehicle in Freeport
+  | Source: https://www.foxweather.com/live-news/live-updates-louisiana-coast-under-tropical-storm-warning-as-catastrophic-flooding-targets-millions
+Post-worthy: YES - Hit coastal Texas counties (Matagorda, Galveston, Brazoria);
+  AccuWeather estimates $4-6 billion in total damage and economic loss; state
+  disaster declaration issued.
+
+---
+
+Storm: Severe thunderstorms with large hail, flash flooding, damaging wind gusts,
+  and tornado threats (June 14-15 Texas Severe Weather Event)
+Date: June 14-15, 2026 (NOTE: Outside 4-day search window; included for proximity
+  and significance of active state disaster proclamation)
+  | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Location: 101 Texas counties under state disaster proclamation, explicitly including
+  coastal counties: Aransas, Nueces, Calhoun, Matagorda, Refugio, Jackson, Galveston,
+  Brazoria, and many others
+  | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+  | Source: https://www.tdem.texas.gov/press-release/6-15-26-dec
+  | Source (Matagorda County confirmed): https://baycitytribune.com/news/matagorda-county-included-in-abbott-storm-disaster-declaration/article_5c7f6437-1e23-41a8-8ff6-23fd31715db5.html
+Strength: Large hail; hazardous wind gusts; flash flooding (specific measurements
+  not confirmed in available sources); tornado threats reported
+  | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Damage estimate: Not reported in available sources; damage estimates still being assessed
+  | Source: none found
+FEMA declaration: State disaster proclamation issued June 15, 2026 (Gov. Abbott, 101
+  counties); federal FEMA major disaster declaration not confirmed as of 2026-06-22
+  | Source: https://www.tdem.texas.gov/press-release/6-15-26-dec
+Additional: Flash flooding on I-35 in Waco with water rescues; Beaumont VA Clinic
+  temporarily closed due to roof collapse and flooding
+  | Source: https://www.kcentv.com/article/news/local/active-flooding-road-closures-waco-temple-killeen-june-15-2026/500-b221d819-d664-48b9-8592-4e915c2d4436
+Post-worthy: YES - State disaster proclamation covering coastal counties including
+  Aransas (Rockport), Nueces (Corpus Christi), Calhoun, Galveston, Matagorda,
+  and Refugio.
+
+--- DRAFT POSTS ---
+
+STORM: Tropical Storm Arthur - Matagorda, Galveston, and Brazoria Counties, Texas
+---
+Tropical Storm Arthur made landfall near Matagorda County on June 17 as the first named
+tropical storm of the 2026 Atlantic hurricane season. [1] Peak sustained winds reached
+45 mph, with gusts of 64 mph recorded at a Galveston monitoring station. [2] More than
+8 inches of rain fell on parts of Brazoria County, including Freeport and Clute. [2]
+Storm surge exceeded 2 feet across parts of Galveston Bay. [2] AccuWeather estimates
+total damage and economic loss from Arthur at $4 to $6 billion. [3]
+
+People along the Texas coast are now starting the claims process. The first disagreement
+is almost always about the line between wind and water. TWIA covers wind. A separate
+flood policy covers water. The adjuster drawing that line works for the carrier.
+
+I have seen TWIA adjusters routinely undervalue coastal storm damage. Roof estimates
+come in below what licensed contractors actually charge to do the work. Storm surge
+damage gets pushed to the flood policy because water entered at the ground rather than
+from above. Wind-driven rain through a failed window or door can go either direction
+depending on who is writing the estimate.
+
+TWIA policies contain an appraisal process that policyholders can use to dispute the
+carrier's valuation. That process has a deadline. The deadline does not extend because
+the adjuster was slow.
+
+SOURCES:
+[1] https://www.nbcnews.com/weather/storms/tropical-storm-arthur-forecast-flooding-first-named-storm-season-rcna350594
+[2] https://www.foxweather.com/live-news/live-updates-louisiana-coast-under-tropical-storm-warning-as-catastrophic-flooding-targets-millions
+[3] https://www.accuweather.com/en/press/tropical-storm-arthur-causes-an-estimated-4-6-billion-in-total-damage-and-economic-loss-accuweather-experts-say/1903513
+---
+
+STORM: June 14-15 Severe Weather - Hail, Flooding, and Wind - Aransas, Nueces,
+  Calhoun, and Coastal Texas
+---
+Large hail, damaging wind gusts, and flash flooding swept through coastal Texas beginning
+June 14. [1] Governor Abbott issued a state disaster proclamation for 101 Texas counties
+on June 15, specifically including Aransas, Nueces, Calhoun, Matagorda, Refugio, and
+Galveston counties. [1] [2] Damage estimates are still being assessed.
+
+After a multi-county hail event, carriers assign high claim volumes to adjusters working
+quickly. Fast inspections produce incomplete estimates. I see it consistently: hail
+strikes on metal flashing, gutters, HVAC equipment, and fascia get documented as no
+damage because the adjuster did not look long enough.
+
+On older roofs, carriers apply depreciation. Actual cash value payments reflect the
+carrier's estimate of what the roof was worth before the storm, not what it costs to
+repair now. That number is lower than replacement cost, and the policy allows the carrier
+to pay the lower number first.
+
+Homeowners in Aransas, Nueces, and Calhoun counties should photograph every room showing
+ceiling discoloration or cracked drywall before removing anything. The interior evidence
+of a hail storm disappears quickly. The claim does not reopen when it is gone.
+
+SOURCES:
+[1] https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+[2] https://www.tdem.texas.gov/press-release/6-15-26-dec
+---
+
+--- END OF DIGEST ---
