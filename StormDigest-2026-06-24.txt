@@ -1,5 +1,65 @@
+---
 BAKER LAW STORM DIGEST
 Date: 2026-06-24
-Status: RUN STARTED 2026-06-24T00:00:00Z
+Status: COMPLETE
+Search window: 2026-06-20 through 2026-06-24 (past 4 days)
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 3
+POST-WORTHY: 1
+NOT POST-WORTHY: 2
+
+--- ALL STORMS FOUND ---
+
+Storm: Tropical Storm Arthur (First named storm of the 2026 Atlantic hurricane season)
+Date: June 16-18, 2026 (designated potential tropical cyclone June 16; named Arthur June 17; post-tropical June 18); flooding, rescues, and claims activity documented through June 23-24 within search window | Source: https://en.wikipedia.org/wiki/Tropical_Storm_Arthur_(2026) | https://www.kbtx.com/2026/06/17/tropical-storm-arthur-forms-gulf/
+Location: Landfall near Matagorda Bay, Matagorda County, Texas; additional impacts in Brazoria County (home flooding in Freeport/Clute area, water rescues), Galveston County (power outages, coastal flooding, rough surf, dangerous rip currents) | Source: https://www.fox26houston.com/weather/tropical-storm-arthur-texas-2026 | https://www.galvnews.com/news/galveston-county-sees-limited-effects-from-season-s-first-named-storm/article_b2c7186d-5aa9-46b5-9ec0-eb7320786429.html
+Strength: Maximum sustained winds 40 mph at time of tropical storm designation | Source: https://www.cbsnews.com/news/tropical-storm-arthur-first-hurricane-season-texas-gulf-coast/
+Damage estimate: No confirmed dollar total from reputable source as of search date; confirmed damage includes flooding of homes in rural Brazoria County requiring water rescues, power outages across South Texas and Galveston area | Source: https://www.accuweather.com/en/weather-news/rescues-underway-dam-failure-fears-grow-as-arthur-floods-gulf-coast-homes/1902709
+FEMA declaration: State of emergency declared by Governor Abbott for 101 Texas counties | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026 | Federal FEMA disaster assistance NOT approved as of June 23, 2026 | Source: https://www.audacy.com/wwl/news/local/tropical-weather-2677088870
+Post-worthy: YES - landfall in Matagorda County (qualifying coastal Texas county per search criteria), widespread flooding and structural damage to homes in Brazoria County, Governor Abbott state emergency declaration for 101 counties, named-storm deductible disputes and cause-of-loss claims disputes active within search window
+
+---
+
+Storm: June 23, 2026 Texas Panhandle Severe Thunderstorm
+Date: June 23, 2026 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-06232026-0642 (NWS warning relay)
+Location: Texas Panhandle (specific county not confirmed by additional reputable source) | Source: same
+Strength: 60 mph wind gusts, quarter-size (1-inch) hail | Source: same
+Damage estimate: Minor - roofs, siding, trees, hail damage to vehicles; no dollar amount reported | Source: same
+FEMA declaration: No | Source: none found
+Post-worthy: NO - minor damage only, not in qualifying coastal Texas counties, no confirmed dollar damage threshold
+
+---
+
+Storm: June 14-15, 2026 Severe Storm System
+NOTE: This event falls outside the primary 4-day search window (June 20-24). Included for completeness.
+Date: June 14-15, 2026 | Source: https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+Location: Multiple Texas counties statewide; Harris (Houston), Bexar (San Antonio), Travis (Austin) confirmed among affected areas | Source: same
+Strength: Heavy rainfall, flash flooding, large hail, hazardous wind gusts, tornado threats across 50+ counties | Source: https://www.weather.gov/lub/events-2026-20260615-storms
+Damage estimate: Widespread structural damage per state proclamation; no confirmed dollar total | Source: same
+FEMA declaration: State disaster proclamation by Governor Abbott June 15, 2026; federal FEMA major disaster declaration status not confirmed in available reputable sources | Source: same
+Post-worthy: NO - outside 4-day search window (June 14-15 precedes search window of June 20-24)
+
+--- DRAFT POSTS ---
+
+STORM: Tropical Storm Arthur - Matagorda County, Brazoria County, and Coastal Texas
+---
+Tropical Storm Arthur made landfall near Matagorda County on June 17. [1] Flooding submerged homes in rural Brazoria County, and power outages spread across Galveston and coastal Texas. [2] People in these counties are now dealing with their insurance carriers.
+
+Some are finding out for the first time that their policy contains a named-storm deductible. That deductible is calculated as a percentage of the insured value of the home, not a flat dollar amount. A two percent deductible on a $300,000 home is $6,000 before the carrier pays anything. Carriers are applying named-storm deductibles even in areas where Arthur had already weakened before reaching the property. [3]
+
+Flood damage and wind damage are governed by different parts of a policy, or entirely different policies. Water that entered from storm surge or rainfall is not covered by a standard homeowners policy. Wind-driven rain that entered through a damaged roof is a different question. Carriers dispute the cause of loss because the answer determines who pays.
+
+Governor Abbott declared a state of emergency for 101 Texas counties. [4] FEMA had not approved disaster assistance for Arthur-affected areas as of June 23. [5] Policyholders across these counties are navigating these claims without federal support.
+
+I have represented policyholders after every major tropical system that has touched this coast. The named-storm deductible dispute, the cause-of-loss dispute, and the delayed inspection do not come one at a time. Carriers run all three at once.
+
+SOURCES:
+[1] https://en.wikipedia.org/wiki/Tropical_Storm_Arthur_(2026)
+[2] https://www.accuweather.com/en/weather-news/rescues-underway-dam-failure-fears-grow-as-arthur-floods-gulf-coast-homes/1902709
+[3] https://www.wafb.com/2026/06/19/homeowners-face-named-storm-deductibles-even-though-arthur-had-weakened-before-hitting-southeast-louisiana/
+[4] https://gov.texas.gov/news/post/governor-abbott-issues-severe-storm-disaster-proclamation-in-june-2026
+[5] https://www.audacy.com/wwl/news/local/tropical-weather-2677088870
+---
+
+--- END OF DIGEST ---
