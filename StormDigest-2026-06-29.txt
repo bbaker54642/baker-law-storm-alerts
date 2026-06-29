@@ -1,5 +1,59 @@
+---
 BAKER LAW STORM DIGEST
 Date: 2026-06-29
-Status: RUN STARTED 2026-06-29T00:00:00Z
+Status: COMPLETE
+Search window: 2026-06-25 through 2026-06-29 (past 4 days)
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 1
+POST-WORTHY: 0
+NOT POST-WORTHY: 1
+
+NO QUALIFYING STORMS THIS PERIOD. The search window of June 25-29, 2026 was characterized
+by hot, dry conditions across most of Texas. National Weather Service forecasts confirmed
+an upper-level ridge in control with no significant severe weather through the period.
+No storms in this window met the post-worthiness criteria.
+
+NOTE ON PRIOR PERIOD: Tropical Storm Arthur (June 16-18, 2026) was covered in full in
+StormDigest-2026-06-24.txt. Arthur made landfall near Matagorda County, caused widespread
+flooding in coastal Texas counties, and prompted a Governor Abbott state emergency
+declaration for 101 counties. As of June 29, 2026, no federal FEMA major disaster
+declaration (DR number) for Arthur has been confirmed in available reputable sources.
+FEMA-4879 (Texas Severe Storms, Straight-line Winds, and Flooding) is a July 2025 event
+and is unrelated to Arthur. Source: https://www.fema.gov/disaster/4879
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Hail
+Date: June 26, 2026 | Source: https://www.weather.gov/lub/storm-report
+Location: Lubbock, Lubbock County, Texas | Source: https://www.weather.gov/lub/storm-report
+Strength: 4.00-inch diameter hail reported via NWS Lubbock storm reports | Source: https://www.weather.gov/lub/storm-report
+Damage estimate: Not reported in dollar amount by any reputable source | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Lubbock County is not among the qualifying coastal counties (Aransas,
+Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, or
+Galveston); no dollar damage confirmed above $1 million from a reputable source; no FEMA
+declaration issued or applied for.
+
+--- SEARCH NOTES ---
+
+Searches run: Texas storm damage June 2026; Texas hail storm damage June 2026; Texas
+tornado June 2026; Texas hurricane tropical storm June 2026; Texas flooding damage
+June 2026; FEMA disaster declaration Texas 2026; TWIA Texas windstorm claims June 2026;
+Texas severe weather structural damage June 2026; plus targeted follow-ups for June 25-29
+specific activity, Lubbock hail, Arthur FEMA status, NWS storm reports June 25-29.
+
+NWS Source confirming dry/hot period June 25-28:
+https://www.weather.gov/ewx/wxevents (NWS Austin/San Antonio)
+https://www.weather.gov/sjt/TexasSevereWeatherOutlooks (NWS San Angelo)
+
+NWS coastal advisory June 28-29 (marine, not storm damage):
+Small Craft Advisory in effect for Galveston Bay and Matagorda Bay.
+Source: https://www.weather.gov/hgx/ (NWS Houston/Galveston)
+This is a routine marine advisory, not a qualifying damage event.
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD.
+
+--- END OF DIGEST ---
