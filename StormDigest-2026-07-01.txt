@@ -1,5 +1,80 @@
-BAKER LAW STORM DIGEST
+BAKER LAW STORM ALERT DIGEST
 Date: 2026-07-01
-Status: RUN STARTED 2026-07-01T00:00:00Z
+Search window: June 27 – July 1, 2026
+Run completed: 2026-07-01
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+=============================================================
+QUALIFYING STORMS THIS PERIOD: 0
+NO FACEBOOK POST NEEDED FOR THIS PERIOD
+=============================================================
+
+SEARCH SUMMARY
+--------------
+Eight primary searches and four follow-up searches conducted covering:
+- Texas severe weather June 27–July 1, 2026
+- Texas coastal storm damage June 2026
+- Texas hail wind storm damage June 2026
+- NWS Houston/Galveston and Corpus Christi forecasts/statements
+- Texas tropical storm development late June 2026
+- FEMA disaster declarations Texas June–July 2026
+- Texas flood events coastal counties June 2026
+- Texas insurance storm claims June 2026
+
+CONDITIONS FOUND
+----------------
+NWS confirmed hot, dry, and mostly stable atmospheric conditions across
+coastal Texas June 27–July 1. Saharan dust intrusion suppressed tropical
+development in the Gulf of Mexico; ABC13/NWS reported no tropical
+cyclone formation expected through the early July period. Isolated
+afternoon convective storms were possible but no organized severe
+weather events, significant damage reports, or emergency declarations
+were found for the qualifying coastal counties during this window.
+
+STORMS EVALUATED
+----------------
+1. Heat and isolated convection, South Texas coast, June 27–July 1
+   - Coastal counties affected: Possible isolated cells; no confirmed
+     damage reports from approved sources
+   - Damage threshold (>$1M sourced): NOT MET
+   - FEMA declaration: NOT MET
+   - Qualifying coastal county hit: NOT MET (no organized event confirmed)
+   - Widespread structural damage sourced: NOT MET
+   VERDICT: NOT POST-WORTHY
+
+BACKGROUND CONTEXT (outside search window)
+-------------------------------------------
+Tropical Storm Arthur (June 17–18, 2026) — Already covered in
+StormDigest-2026-06-24.txt. Arthur made landfall near Matagorda County,
+affected Brazoria, Galveston, and coastal Texas counties. Facebook post
+drafted and digest filed June 24. Arthur is outside this run's June 27
+start date and is not re-evaluated here.
+
+FEMA DECLARATION STATUS
+-----------------------
+FEMA-4879-DR-TX (declared July 6, 2025) covers the July 2025 Texas
+Severe Storms event (Kerr County and others). This is NOT an Arthur
+declaration. As of this run, no federal major disaster declaration (DR)
+for Tropical Storm Arthur 2026 has been confirmed from approved sources.
+Governor Abbott's state-level disaster proclamation for Arthur (101
+counties including Aransas) remains in effect. Federal FEMA status for
+Arthur: unconfirmed, monitoring continues.
+
+NEXT RUN GUIDANCE
+-----------------
+- Continue monitoring for any delayed FEMA DR for Tropical Storm Arthur.
+- Gulf of Mexico activity remains suppressed by Saharan dust through
+  early July; re-evaluate if any tropical development is named.
+- No outstanding Facebook drafts pending. Next post needed only when a
+  qualifying storm event occurs within the active 4-day window.
+
+APPROVED SOURCES CONSULTED THIS RUN
+-------------------------------------
+- NWS Houston/Galveston (weather.gov)
+- NWS Corpus Christi (weather.gov)
+- ABC13 Houston (abc13.com)
+- KSAT San Antonio (ksat.com)
+- FEMA disaster declarations database (fema.gov)
+
+=============================================================
+END OF DIGEST — NO POST-WORTHY EVENTS THIS PERIOD
+=============================================================
