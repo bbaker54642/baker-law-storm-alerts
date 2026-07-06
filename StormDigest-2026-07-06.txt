@@ -1,0 +1,5 @@
+BAKER LAW STORM DIGEST
+Date: 2026-07-06
+Status: RUN STARTED (watchdog backup) 2026-07-06T13:46:13Z
+The main 8am run did not finish. The watchdog is producing this digest.
+If this file still says RUN STARTED, the run did not finish.
