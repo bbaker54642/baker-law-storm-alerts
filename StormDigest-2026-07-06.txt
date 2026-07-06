@@ -1,5 +1,50 @@
+---
 BAKER LAW STORM DIGEST
 Date: 2026-07-06
-Status: RUN STARTED (watchdog backup) 2026-07-06T13:46:13Z
-The main 8am run did not finish. The watchdog is producing this digest.
-If this file still says RUN STARTED, the run did not finish.
+Status: COMPLETE
+Search window: 2026-07-03 through 2026-07-06
+Produced by: Watchdog backup (main 8am run did not finish)
+---
+STORMS FOUND: 2
+POST-WORTHY: 1
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe thunderstorms with microbursts (straight-line winds)
+Date: 2026-07-05 (Sunday night into early July 6) | Source: https://ktxs.com/weather/severe-weather-impacts-west-central-texas
+Location: Taylor County (Abilene), Fisher County, Jones County, Callahan County (Clyde, Merkel), West-Central Texas / Big Country region | Source: https://ktxs.com/newsletter-daily/national-weather-service-assesses-abilene-storm-damage-amid-destruction
+Strength: Wind gusts 70-90 mph across Big Country (NWS); 80 mph gust confirmed near Abilene Christian University; quarter-sized hail in Clyde and Merkel | Source: https://ktxs.com/news/local/80-mph-wind-gust-hits-abilene-delays-flying-bison-game-and-triggers-severe-warnings
+Damage estimate: Not reported in dollar terms; widespread structural damage to homes and businesses confirmed by NWS damage surveys | Source: https://ktxs.com/newsletter-daily/national-weather-service-assesses-abilene-storm-damage-amid-destruction
+FEMA declaration: No; Texas Division of Emergency Management (TDEM) collecting individual damage reports via iSTAT tool | Source: https://www.bigcountryhomepage.com/news/how-to-report-storm-damage-in-abilene-and-why-it-matters/
+Post-worthy: YES - widespread structural damage to homes and businesses across West-Central Texas confirmed by NWS assessment and local news reporting
+
+---
+
+Storm: Multi-state severe thunderstorms (tornadoes, hail, damaging winds)
+Date: 2026-07-04 | Source: https://www.spc.noaa.gov/products/outlook/day1otlk.html
+Location: Texas Panhandle (SPC Level 2/5 risk area); part of 31-state event | Source: https://texasstormchasers.com/forecast/texas-july-4-forecast-panhandle-severe-storm-risk/
+Strength: SPC forecast: gusts over 70 mph, large to very large hail, dangerous lightning, heavy rain in Texas Panhandle | Source: https://texasstormchasers.com/forecast/texas-july-4-forecast-panhandle-severe-storm-risk/
+Damage estimate: Texas-specific confirmed damage not available from reputable source; widespread multi-state severe weather event confirmed | Source: none found for Texas-specific dollar damage
+FEMA declaration: No confirmed declaration for July 4, 2026 Texas Panhandle event | Source: none found
+Post-worthy: NO - Texas-specific property damage exceeding $1 million not confirmed from reputable source; not in coastal Texas county; no confirmed FEMA declaration; Texas Panhandle structural damage not confirmed with sourced dollar amount
+
+--- DRAFT POSTS ---
+
+STORM: Severe microbursts / straight-line winds — Abilene and West-Central Texas, July 5, 2026
+---
+People in Abilene and across the Big Country are now filing wind damage claims. The National Weather Service confirmed that Sunday night's storms produced microbursts with gusts reaching 70 to 90 miles per hour across Fisher and Jones counties. [1] An 80-mile-per-hour gust was recorded near Abilene Christian University. [2] Structural damage to homes and businesses was reported across a wide area of West-Central Texas, and NWS damage surveys were still underway. [3]
+
+I see this pattern play out with microburst claims. Carriers classify roof and structural components as depreciated and issue actual cash value payments even when a policy requires replacement cost coverage. Policyholders receive checks that do not cover what repairs actually cost.
+
+Carriers also look to classify microburst damage as a maintenance issue. They argue the structure already had wear before the storm arrived, and that the storm was not the cause of the damage. That argument puts the burden of proof on the policyholder.
+
+Texas law is clear on this. A replacement cost policy obligates the carrier to pay the full cost of restoring damaged property. Completing repairs triggers the release of withheld depreciation. Carriers know this obligation exists. The word maintenance does not make it go away.
+
+SOURCES:
+[1] https://ktxs.com/newsletter-daily/national-weather-service-assesses-abilene-storm-damage-amid-destruction
+[2] https://ktxs.com/news/local/80-mph-wind-gust-hits-abilene-delays-flying-bison-game-and-triggers-severe-warnings
+[3] https://ktxs.com/weather/severe-weather-impacts-west-central-texas
+---
+
+--- END OF DIGEST ---
