@@ -1,5 +1,46 @@
 BAKER LAW STORM DIGEST
 Date: 2026-07-08
-Status: RUN STARTED 2026-07-08T00:00:00Z
+Status: COMPLETE
+Search window: July 4 – July 8, 2026
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 1
+POST-WORTHY: 1
+NOT POST-WORTHY: 0
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe thunderstorm / straight-line wind event
+Date: July 5–6, 2026 (Sunday evening July 5 through Monday July 6) | Source: https://ktxs.com/weather/severe-weather-impacts-west-central-texas
+Location: West-Central Texas — Abilene (Taylor County) and Ranger (Eastland County); Big Country and Concho Valley regions | Source: https://cbsaustin.com/news/local/powerful-80-mph-winds-leave-widespread-damage-across-big-country
+Strength: Wind gusts to 80 mph | Source: https://cbsaustin.com/news/local/powerful-80-mph-winds-leave-widespread-damage-across-big-country
+Damage estimate: Not reported in dollar terms from approved sources (damage assessments ongoing; iSTAT reporting activated) | Source: https://www.bigcountryhomepage.com/news/how-to-report-storm-damage-in-abilene-and-why-it-matters/
+FEMA declaration: Not confirmed as of July 8, 2026 | Source: none found
+Post-worthy: YES — Widespread structural damage confirmed: building destroyed in Abilene, building collapse in Ranger, residential roofs collapsed, apartment buildings lost roof sections | Sources: https://ktxs.com/news/local/its-gone-business-owner-heartbroken-after-storm-destroys-building-damages-abilene | https://www.bigcountryhomepage.com/news/it-sounded-like-a-train-abilene-family-recalls-roof-caving-in-during-powerful-storm/ | https://ktxs.com/weather/severe-weather-impacts-west-central-texas
+
+NOTE ON COASTAL COUNTIES: No storm events in Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, or Galveston counties were confirmed in the July 4–8 window from approved sources. Tropical Storm Arthur (June 17–18, 2026) is the most recent coastal event and was already covered in StormDigest-2026-06-24.txt.
+
+NOTE ON APRIL 2026 DECLARATIONS: Multiple search results referenced Governor Abbott's disaster declarations for Lamar, Parker, Wise, and Palo Pinto counties and an EF-3 tornado. These events occurred April 24–29, 2026 (press releases dated 4-28-26 and 5-2-26) and are outside this search window. They are NOT July 2026 events.
+
+NOTE ON JULY 4 NATIONAL STORM EVENT: A 31-state severe weather event on July 4, 2026 included Texas, with aggregator data showing 5 tornado reports, 83 hail reports, and 159 wind events nationally. However, specific Texas locations and damage figures from this event could not be confirmed from approved (non-aggregator) sources. Not included.
+
+--- DRAFT POSTS ---
+
+STORM: West-Central Texas severe thunderstorm / straight-line winds — Abilene and Ranger, July 5, 2026
+---
+People in Abilene and the Big Country are now filing property insurance claims after severe thunderstorms hit West-Central Texas on the evening of July 5, 2026. [1] Wind gusts reached 80 miles per hour. [2] Apartment buildings lost roof sections. A family's home became uninhabitable after the roof began caving in. [3] A business owner's building was completely destroyed. [4] A building collapsed in Ranger during the same storm system. [1]
+
+Standard homeowners policies cover wind damage. The disputes start when the adjuster arrives. Carriers write estimates that attribute structural failure to pre-existing deterioration, maintenance neglect, or construction defects rather than the storm. A collapsed roof becomes a partial payment. A destroyed building becomes an argument about actual cash value versus replacement cost.
+
+Actual cash value settlements deduct for depreciation. A 15-year-old roof that was intact before the storm gets discounted in the carrier's estimate. People receive checks that do not cover what rebuilding costs. Many policies carry replacement cost coverage, but carriers pay actual cash value first and withhold the depreciation until repairs are complete. People who cannot fund the repairs out of pocket get stuck in that gap.
+
+An 80 mph wind gust that collapses buildings is not a maintenance problem. The policy language controls what the carrier owes.
+
+SOURCES:
+[1] https://ktxs.com/weather/severe-weather-impacts-west-central-texas
+[2] https://cbsaustin.com/news/local/powerful-80-mph-winds-leave-widespread-damage-across-big-country
+[3] https://www.bigcountryhomepage.com/news/it-sounded-like-a-train-abilene-family-recalls-roof-caving-in-during-powerful-storm/
+[4] https://ktxs.com/news/local/its-gone-business-owner-heartbroken-after-storm-destroys-building-damages-abilene
+---
+
+--- END OF DIGEST ---
