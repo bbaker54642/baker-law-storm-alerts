@@ -1,5 +1,39 @@
+---
 BAKER LAW STORM DIGEST
 Date: 2026-07-13
-Status: RUN STARTED (watchdog backup) [2026-07-13 13:45 UTC]
-The main 8am run did not finish. The watchdog is producing this digest.
-If this file still says RUN STARTED, the run did not finish.
+Status: COMPLETE (watchdog backup — main 8am run did not finish)
+Generated: 2026-07-13 13:58 UTC
+Search window: 2026-07-09 through 2026-07-13 (past 4 days)
+---
+STORMS FOUND: 2
+POST-WORTHY: 0
+NOT POST-WORTHY: 2
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe thunderstorms — damaging winds, large hail, isolated tornado risk
+Date: 2026-07-09 | Source: https://www.yahoo.com/news/weather-news/articles/severe-storms-aim-texas-panhandle-101501993.html
+Location: Texas Panhandle — Potter, Randall, and surrounding counties (Amarillo area) | Source: https://www.yahoo.com/news/weather-news/articles/severe-storms-aim-texas-panhandle-101501993.html
+Strength: Wind gusts forecast up to 70 mph; quarter-sized hail; isolated tornado risk; 60% storm probability | Source: https://www.yahoo.com/news/weather-news/articles/severe-storms-aim-texas-panhandle-101501993.html
+Damage estimate: Not reported — no confirmed dollar amount found in reputable sources | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No confirmed damage exceeding $1 million; no FEMA declaration; Panhandle counties are not coastal Texas TWIA counties; no confirmed structural damage reports found from a reputable source within the search window. Accuracy rule: cannot assert qualifying damage without a sourced figure.
+
+Storm: Scattered to widespread thunderstorms, flash flooding risk
+Date: 2026-07-10 through 2026-07-13 | Source: https://www.weather.gov/hgx/
+Location: Houston/Galveston area, Central Texas, Gulf Coast | Source: https://www.weather.gov/hgx/ ; https://www.weather.gov/ewx/
+Strength: Marginal to Slight risk (levels 1–2 of 4) of excessive rainfall; heavy rain and gusty winds; localized minor flooding in low-lying areas | Source: https://www.weather.gov/hgx/ ; https://www.weather.gov/ewx/
+Damage estimate: Not reported — minor localized flooding only; no confirmed dollar damage figure from a reputable source | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No confirmed damage exceeding $1 million; no FEMA declaration; no confirmed widespread structural damage to homes or businesses reported by a reputable source within the search window. NWS described impacts as localized minor flooding.
+
+--- ADDITIONAL CONTEXT (outside 4-day search window, not included in post-worthy count) ---
+
+NOTE: A significant severe weather event struck Abilene and the Big Country on July 5, 2026 — 80 mph straight-line winds caused widespread structural damage to homes and businesses, including a building collapse in Ranger (Eastland County). Sources: https://ktxs.com/news/local/powerful-80-mph-winds-leave-widespread-damage-across-big-country and https://ktxs.com/news/local/its-gone-business-owner-heartbroken-after-storm-destroys-building-damages-abilene . This event falls OUTSIDE the July 9–13 search window and is logged here for reference only. If a prior run did not cover this event, Kevin may wish to review it separately.
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD — No draft Facebook posts generated.
+All storms found within the July 9–13, 2026 search window lack confirmed sourced damage meeting the post-worthiness threshold. No post was drafted to avoid publishing unverified damage claims.
+
+--- END OF DIGEST ---
