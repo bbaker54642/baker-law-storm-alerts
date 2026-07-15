@@ -1,5 +1,57 @@
 BAKER LAW STORM DIGEST
 Date: 2026-07-15
-Status: RUN STARTED 2026-07-15T00:00:00Z
+Status: COMPLETE
+Search window: July 11 – July 15, 2026
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 2
+POST-WORTHY: 1
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Flash flooding / severe storms
+Date: July 11–15, 2026 (ongoing as of run date) | Source: https://www.texastribune.org/2026/07/14/texas-weather-castastrophic-flooding-forecast/
+Location: South and Central Texas — Uvalde County (Sabinal, Uvalde); also Brazoria, Jackson, Matagorda, Harris, Fort Bend, and additional counties | Source: https://www.fox7austin.com/weather/texas-flash-floods-greg-abbott-disaster-declaration
+Strength: Up to 14+ inches of rain in 24 hours in Sabinal; Level 4/4 flash flood threat; 2–4 inches per hour rainfall rate | Source: https://www.cnn.com/2026/07/13/weather/texas-flooding-rain-threat-july-climate
+Damage estimate: Not yet confirmed in dollar terms from approved sources (damage assessments ongoing) | Source: none found
+FEMA declaration: STATE disaster declaration issued July 14, 2026 by Governor Abbott for 59 counties including Brazoria County; federal FEMA declaration pending as of July 15 | Source: https://gov.texas.gov/news/post/governor-abbott-issues-disaster-declaration-for-texas-severe-weather-7-14
+Post-worthy: YES — Qualifying coastal counties hit: Brazoria County included in state disaster declaration; NWS flood warnings issued for Jackson County (East Mustang Creek) and Matagorda County (Tres Palacios River); 45+ water rescues; multiple roads and bridges impassable | Sources: https://www.fox7austin.com/weather/texas-flash-floods-greg-abbott-disaster-declaration | https://www.houstonpublicmedia.org/articles/news/texas/2026/07/14/557030/texas-flash-flood-warning-hill-country-weather/
+
+---
+
+Storm: Severe thunderstorm / wind and hail
+Date: July 12, 2026 | Source: https://abc13.com/post/storm-damage-seen-heavy-thunderstorm-powerful-winds-hit-jersey-village-area-video-shows/19495041/
+Location: Jersey Village, northwest Harris County (Houston area) | Source: https://abc13.com/post/storm-damage-seen-heavy-thunderstorm-powerful-winds-hit-jersey-village-area-video-shows/19495041/
+Strength: 60 mph wind gusts, quarter-sized hail | Source: https://abc13.com/post/storm-damage-seen-heavy-thunderstorm-powerful-winds-hit-jersey-village-area-video-shows/19495041/
+Damage estimate: Minor — fences damaged, large tree limbs snapped, chimney cap displaced from one home | Source: https://abc13.com/post/storm-damage-seen-heavy-thunderstorm-powerful-winds-hit-jersey-village-area-video-shows/19495041/
+FEMA declaration: None | Source: none found
+Post-worthy: NO — Harris County is not a qualifying coastal county; damage is localized and minor; no >$1M estimate, no FEMA declaration, no widespread structural damage from approved sources.
+
+---
+
+NOTE ON JULY 2026 FEMA FEDERAL STATUS: No federal FEMA major disaster declaration (DR) for the July 2026 Texas flooding has been confirmed as of July 15, 2026. The state disaster declaration (59 counties, Governor Abbott, July 14, 2026) is confirmed. FEMA federal declaration is the expected next step. Monitor for federal DR number.
+
+NOTE ON PRIOR EVENTS OUTSIDE WINDOW: The July 5-6 Abilene/Big Country severe thunderstorm (80 mph winds, structural damage) was covered in StormDigest-2026-07-08.txt and is outside this search window.
+
+--- DRAFT POSTS ---
+
+STORM: South/Central Texas flash flooding — Brazoria, Jackson, and Matagorda counties, July 11–15, 2026
+---
+People in Brazoria, Jackson, and Matagorda counties are assessing flooding damage from the storm system that soaked Central and South Texas starting July 11. [1] Governor Abbott issued a state disaster declaration for 59 counties on July 14, including Brazoria County. [2]
+
+The first thing many people discover after a flooding event is that their homeowners policy does not cover it. Standard homeowners policies exclude water damage that enters from the ground up. The policy covers wind. It does not cover what floodwater did to walls, floors, and structural materials it reached.
+
+People who carry separate flood policies through the National Flood Insurance Program can file a claim. [3] NFIP building coverage caps at $250,000 for residential structures. Contents coverage is separate and caps at $100,000. Rebuilding often costs more than those limits allow. [3]
+
+For TWIA policyholders along the coast, the question shifts to which policy covers which damage. TWIA covers wind and hail. Flood damage falls under a separate flood policy, if one exists at all. Adjusters will argue about whether wind or water caused each element of the loss. That argument determines who pays, how much, and when.
+
+I have worked these split claims after coastal flooding events. The two coverage types do not add up to a full rebuild in most cases. The policies in force on the date of the event determine what the carrier owes.
+
+SOURCES:
+[1] https://www.houstonpublicmedia.org/articles/news/texas/2026/07/14/557030/texas-flash-flood-warning-hill-country-weather/
+[2] https://www.fox7austin.com/weather/texas-flash-floods-greg-abbott-disaster-declaration
+[3] https://www.fema.gov/flood-insurance
+---
+
+--- END OF DIGEST ---
