@@ -1,5 +1,84 @@
 BAKER LAW STORM DIGEST
 Date: 2026-07-20
-Status: RUN STARTED 2026-07-20T UTC
+Status: COMPLETE
+Search window: July 16 – July 20, 2026
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 3
+POST-WORTHY: 2
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Flash flooding / catastrophic multi-day rain event (CONTINUED FROM July 15 digest — major new developments)
+Date: July 11–17, 2026 (peak July 14–17); federal declaration July 19 | Source: https://www.fox4news.com/news/texas-hill-country-flood-recovery-2-dead
+Location: Hill Country and South Central Texas — Kerr County (Kerrville, Comfort), Uvalde County, Kendall County, and 25 additional counties | Source: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/19/president-trump-approves-texas--major-disaster-declaration
+Strength: 21+ inches of rain in Uvalde, 19+ inches in Kerrville; Guadalupe River crested at 37.94 feet near Center Point | Source: https://www.cnn.com/2026/07/17/weather/texas-flooding-risks-damage-hnk
+Damage estimate: Not yet confirmed in dollar terms from approved sources; agricultural emergency declared by Texas Agriculture Commissioner; 6+ bridges damaged; FM bridge in Uvalde County partially collapsed | Source: https://www.ksat.com/news/local/2026/07/17/dps-captures-collapse-of-farm-to-market-418-bridge-in-uvalde-county/
+FEMA declaration: YES — Federal major disaster declaration approved by President Trump on July 19, 2026 for 28 counties including Uvalde, Kerr, and Kendall; 75% federal reimbursement for rescue operations | Source: https://www.fox7austin.com/news/trump-approves-texas-flood-emergency-declaration-authorizing-fema-relief
+Post-worthy: YES — Federal FEMA major disaster declaration confirmed; 2 deaths; 270+ state rescues; 300+ local rescues in Uvalde/Zavala counties; bridge collapse; counties added as needed; Brazoria County in prior state declaration (covered July 15 digest); new post drafted on federal declaration angle (different from July 15 TWIA/NFIP post)
+
+Deaths confirmed (sources): John Mark Steward, 65, of Kerrville — swept away in an RV near Comfort along the Guadalupe River; a 74-year-old Uvalde County man swept away while driving across a flooded roadway | Source: https://www.fox4news.com/news/texas-hill-country-flood-recovery-2-dead | https://www.cnn.com/2026/07/16/weather/live-news/texas-flash-flooding-camp-mystic-climate
+
+---
+
+Storm: EF-1 tornado
+Date: July 15, 2026 (damage cleanup/confirmation July 16) | Source: https://www.ksat.com/news/local/2026/07/15/reports-of-tornado-touching-down-in-northwest-bexar-county-near-the-rim/
+Location: Northwest Bexar County — Shavano Park to UTSA/Dominion/The Rim area, San Antonio | Source: https://www.kens5.com/article/news/local/san-antonio-texas-satx-confirmed-tornado-warning-touch-down-the-rim-dominion-utsa-flood-watch-warning-severe-weather-impact-alert/273-c3535161-c762-47d1-9946-c560ddb8d407
+Strength: EF-1, peak winds 100 mph, on ground approximately 8 minutes, traveled ~4 miles | Source: https://www.kens5.com/article/news/local/san-antonio-texas-satx-confirmed-tornado-warning-touch-down-the-rim-dominion-utsa-flood-watch-warning-severe-weather-impact-alert/273-c3535161-c762-47d1-9946-c560ddb8d407
+Damage estimate: Not yet confirmed in dollar terms from approved sources; Oasis Apartments roof section torn off (3 units, ~10-12 students displaced); Palladium IMAX theater damaged; multiple commercial properties and residential neighborhoods damaged | Source: https://www.kens5.com/article/news/local/san-antonio-texas-satx-confirmed-tornado-warning-touch-down-the-rim-dominion-utsa-flood-watch-warning-severe-weather-impact-alert/273-c3535161-c762-47d1-9946-c560ddb8d407
+FEMA declaration: No separate tornado declaration; event occurred during broader flooding disaster declaration | Source: none found
+Post-worthy: YES — Widespread structural damage to homes and businesses confirmed from approved sources (KENS5, KSAT): apartment building roof torn off, IMAX theater damaged, multiple commercial properties and residential neighborhoods along a 4-mile path through northwest San Antonio
+
+---
+
+Storm: Tropical Depression 2 / Tropical Storm Bertha (developing)
+Date: Tropical Depression formed July 19, 2026; expected to strengthen to Tropical Storm Bertha July 20 | Source: https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
+Location: Eastern Gulf of Mexico as of July 19–20; forecast track toward Upper Texas Coast (Houston area) late week (approximately July 23–24) | Source: https://www.khou.com/article/weather/tropical-depression-florida-houston-impacts/285-bf6233ef-60f8-46e8-83cb-6f85ce88a32b
+Strength: Tropical Depression at formation; expected to strengthen over warm Gulf waters (SST 85–88°F) | Source: https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
+Damage estimate: None yet — storm has not made landfall | Source: N/A
+FEMA declaration: None yet | Source: N/A
+Post-worthy: NO — No Texas landfall or damage as of July 20; qualifying coastal counties are in projected path; monitor for next run
+
+---
+
+NOTE ON BERTHA: Tropical Storm Bertha (once named) is tracking toward the Upper Texas Coast with potential landfall near Houston area late July 23-24. Coastal counties at risk include Galveston, Brazoria, Matagorda, and Jackson. Flag for next run — this could be a major event for Kevin's practice area. Source: https://www.khou.com/article/weather/tropical-depression-florida-houston-impacts/285-bf6233ef-60f8-46e8-83cb-6f85ce88a32b | https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
+
+NOTE ON TDEM ACTIVE DISASTER: tdem.texas.gov/disasters/july-severe-storms-and-flooding-2026 is the active TDEM disaster page for this event. Monitor for county additions.
+
+--- DRAFT POSTS ---
+
+STORM: Texas Hill Country / South Central Texas flooding — federal FEMA declaration update, July 11–17, 2026
+---
+A federal major disaster declaration for the July 2026 Texas flooding was approved on July 19, covering 28 counties including Uvalde, Kerr, and Kendall. [1] Two people died in the flooding. [2] More than 270 state rescues were conducted, and a farm-to-market bridge in Uvalde County partially collapsed. [3]
+
+A federal declaration means affected residents may register for FEMA Individual Assistance at DisasterAssistance.gov. That program provides temporary housing funds and limited repair assistance. It is not a substitute for an insurance claim. The two can run at the same time.
+
+Carriers in disaster-declared counties use that declaration to their advantage. When a loss involves both wind and flood, carriers categorize as much as possible as flood. Flood damage is either uninsured or falls under a separate flood policy. Carriers know federal assistance exists, and they use that knowledge when deciding how to write their estimates.
+
+I have seen this pattern after every declared disaster in South and Central Texas. Wind damage that preceded flooding is still a covered wind claim under a homeowners policy. The sequence of events matters. The policy in force on the date of loss controls what the carrier owes.
+
+FEMA Individual Assistance has a cap. Insurance does not carry the same cap. Both processes belong on the table for any policyholder dealing with damage from this storm.
+
+SOURCES:
+[1] https://www.fox7austin.com/news/trump-approves-texas-flood-emergency-declaration-authorizing-fema-relief
+[2] https://www.fox4news.com/news/texas-hill-country-flood-recovery-2-dead
+[3] https://www.ksat.com/news/local/2026/07/17/dps-captures-collapse-of-farm-to-market-418-bridge-in-uvalde-county/
+---
+
+STORM: EF-1 tornado — northwest San Antonio (Bexar County), July 15, 2026
+---
+People across the northwest side of San Antonio are dealing with property damage after an EF-1 tornado touched down near Shavano Park on July 15, 2026 and traveled four miles across the area. [1] The National Weather Service confirmed peak winds of 100 miles per hour. [1] A large section of the roof at the Oasis Apartments on UTSA Boulevard was torn from the building, affecting three fourth-floor units and displacing about ten to twelve students. [2] The Palladium IMAX theater and commercial properties near The Rim also sustained damage. [2]
+
+The property owner's insurance covers the apartment structure. The dispute will be about scope. Carriers send adjusters who measure what they saw on a single visit, write an estimate that covers some of the damaged materials, and close the claim. Owners then discover the estimate does not cover full repair costs.
+
+People living in the damaged units carry the separate question of their personal property. A landlord's commercial property policy does not cover tenants' clothing, furniture, or electronics. Renters insurance exists for that purpose. People without it have no claim to file for what they lost inside the unit.
+
+I have worked wind damage claims in San Antonio for years. A 100 mph EF-1 tornado that tears a roof section off a four-story building is not an ambiguous loss. The cause of loss is wind. The dispute that follows is about how much the carrier will pay to restore it.
+
+SOURCES:
+[1] https://www.ksat.com/news/local/2026/07/15/reports-of-tornado-touching-down-in-northwest-bexar-county-near-the-rim/
+[2] https://www.kens5.com/article/news/local/san-antonio-texas-satx-confirmed-tornado-warning-touch-down-the-rim-dominion-utsa-flood-watch-warning-severe-weather-impact-alert/273-c3535161-c762-47d1-9946-c560ddb8d407
+---
+
+--- END OF DIGEST ---
