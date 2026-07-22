@@ -1,5 +1,60 @@
 BAKER LAW STORM DIGEST
 Date: 2026-07-22
-Status: RUN STARTED 2026-07-22T13:11Z UTC
+Status: COMPLETE
+Search window: July 18 – July 22, 2026
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 2
+POST-WORTHY: 0
+NOT POST-WORTHY: 2
+
+NO QUALIFYING STORMS THIS PERIOD
+
+--- ALL STORMS FOUND ---
+
+Storm: Tropical Storm Bertha
+Date: Named Tropical Storm July 20, 2026; Louisiana landfall expected July 22–23 | Source: https://www.kbtx.com/2026/07/21/tropical-storm-bertha-churns-gulf-monitoring-texas-impacts/
+Location: Eastern Gulf of Mexico, approaching Louisiana coast as of July 22; Tropical Storm Watch issued by NWS Houston/Galveston for parts of SE Texas including Galveston County | Source: https://www.fox26houston.com/weather/tropical-storm-bertha-tracker-houston-impacts-path-live-radar
+Strength: Maximum sustained winds 50–60 mph as of July 22 morning; weakening trend expected as storm crosses Louisiana; expected to be significantly weaker by time it reaches Texas | Source: https://www.kbtx.com/2026/07/21/tropical-storm-bertha-churns-gulf-monitoring-texas-impacts/ | https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
+Damage estimate: No Texas damage reported | Source: N/A
+FEMA declaration: None for Texas | Source: N/A
+Post-worthy: NO — No Texas landfall or confirmed Texas damage as of July 22; storm expected to weaken considerably through Louisiana land interaction, wind shear, and dry air before approaching SE Texas; NWS Houston/Galveston forecasters expect "several factors to limit the system's organization before it reaches Texas" | Source: https://abc13.com/post/houston-weather-forecast-today-near-me-texas-rain-storm-predictions/39346/
+
+⚠️ CRITICAL WATCH FOR NEXT RUN — TROPICAL STORM BERTHA:
+Bertha is forecast to make first landfall in Louisiana (Plaquemines Parish) Wednesday evening July 22, then drift westward along the Gulf Coast toward Texas by Thursday–Friday July 24–25. A Tropical Storm Watch is already in effect for parts of SE Texas including Galveston County. Galveston County is a qualifying coastal county. If Bertha retains tropical storm organization at any Texas landfall — even weakened — it qualifies immediately under the coastal county criterion. Brazoria, Matagorda, and Jackson counties are also in the projected path.
+
+Expected post angle if qualifying: TWIA named-storm deductible (same structural issue as Tropical Storm Arthur, June 24 digest); TWIA vs. flood policy split when surge and rain are both present; cause-of-loss disputes between wind and flood damage. Sources to check on next run: weather.gov/hgx (NWS Houston/Galveston), twia.org for any active bulletins, KHOU and Fox26 Houston live coverage.
+
+Source for TS Watch: https://www.fox26houston.com/weather/tropical-storm-bertha-tracker-houston-impacts-path-live-radar
+
+---
+
+Storm: Texas Hill Country flooding — Lake Travis / Mansfield Dam (continuation)
+Date: July 18, 2026 (floodgate operations; underlying flooding July 11–17) | Source: https://www.kxan.com/weather/floodgate-operations-underway-at-multiple-highland-lakes-dams/
+Location: Travis County, Austin area — Lake Travis, Mansfield Dam | Source: https://www.lcra.org/news/news-releases/lcra-to-begin-floodgate-operations-at-mansfield-dam/
+Strength: Lake Travis rose 9 feet in 24 hours and reached 104% capacity (681 feet) Friday July 18 — the first time at full capacity since July 2019; LCRA opened floodgates at Mansfield Dam July 18, the first floodgate operation since 2019; City of Austin banned watercraft on Lake Travis | Source: https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-friday-july-17-2026/ | https://cbsaustin.com/news/local/lcra-opens-floodgates-at-tom-miller-mansfield-dams-as-lake-travis-rises
+Damage estimate: Homes downstream from Mansfield Dam reported threatened by floodgate releases; specific dollar damage for Travis County from the dam operations not confirmed from approved sources | Source: none confirmed
+FEMA declaration: Existing July 2026 federal major disaster declaration covers 28 counties; Travis County is NOT among them | Source: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/19/president-trump-approves-texas--major-disaster-declaration
+Post-worthy: NO — Travis County is not a qualifying coastal county; specific structural damage from dam release not confirmed from approved sources in dollar terms; this is a continuation of the July 11–17 Hill Country flooding event already covered in the July 15 and July 20 digests; no new criteria met
+
+---
+
+NOTES FOR MONITORING:
+
+NOTE 1 — BERTHA NEXT RUN (HIGHEST PRIORITY):
+The storm situation as of July 22 EOD: Bertha is crossing Louisiana. The question for the next run is whether it retains enough organization to produce qualifying damage in Galveston, Brazoria, Matagorda, or Jackson counties as it approaches Texas July 24–25. Even a weak tropical storm making Texas landfall after crossing Louisiana would meet the coastal county criterion. Check NWS Houston/Galveston advisory (weather.gov/hgx/hurricane/forecasts) first.
+
+NOTE 2 — 2026 FEMA DECLARATION COUNTY ADDITIONS:
+A gov.texas.gov press release titled "Governor Abbott Announces 10 Counties Added To Federal Disaster Declaration For Texas Flooding" appeared in search results, but the TDEM URL path ("7-30-25-dec") indicates this is from the July 2025 FEMA-4879 event, NOT the 2026 declaration. The counties listed in that release (including Guadalupe, Lampasas, Reeves) overlap with and contradict the 2026 initial 28-county list, confirming it is a 2025 document. No confirmed additions to the 2026 federal disaster declaration found in this search window. Monitor tdem.texas.gov/disasters/july-severe-storms-and-flooding-2026 for any new 2026 county additions.
+
+NOTE 3 — SAN ANTONIO EF-1 TORNADO RECOVERY:
+As of July 22, cleanup efforts on the northwest side of San Antonio are showing "major progress" per KSAT. Already covered in the July 20 digest. No new developments requiring a post. Source: https://www.ksat.com/news/local/2026/07/22/nearly-a-week-after-ef-1-tornado-northwest-side-recovery-shows-major-progress/
+
+NOTE 4 — ARTHUR FEDERAL FEMA DR:
+No federal FEMA major disaster declaration confirmed for Tropical Storm Arthur 2026 found in any search window to date. Remains an open monitoring item.
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD — NO POSTS DRAFTED
+
+--- END OF DIGEST ---
