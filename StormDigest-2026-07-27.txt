@@ -1,5 +1,58 @@
 BAKER LAW STORM DIGEST
 Date: 2026-07-27
-Status: RUN STARTED 2026-07-27T UTC
+Status: COMPLETE
+Search window: July 23 – July 27, 2026
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 2
+POST-WORTHY: 0
+NOT POST-WORTHY: 2
+
+NO QUALIFYING STORMS THIS PERIOD
+
+--- ALL STORMS FOUND ---
+
+Storm: Tropical Storm Bertha — Texas passage
+Date: July 24, 2026 (second landfall near Texas-Louisiana state line; dissipated over Texas July 24 evening) | Source: https://www.nbcnews.com/weather/storms/tropical-storm-bertha-weakens-bringing-strong-winds-heavy-surf-louisia-rcna589018
+Location: Second landfall approximately 75 miles northeast of Galveston, Texas (near Texas-Louisiana state line), then moved westward through SE Texas toward Houston; Tropical Storm Warning in effect for Brazoria, Chambers, Galveston, and Jefferson counties | Source: https://abcnews.com/US/tropical-storm-bertha-heads-texas-after-making-landfall/story?id=135011934
+Strength: 45 mph maximum sustained winds at Texas landfall; weakened to tropical depression within hours; dissipated over Texas by Thursday evening | Source: https://www.nbcnews.com/weather/storms/tropical-storm-bertha-weakens-bringing-strong-winds-heavy-surf-louisia-rcna589018
+Damage estimate: No significant property damage reported; Galveston Office of Emergency Management stated "no significant impacts are forecast, some gusty storms may blow through the island throughout the day"; minor coastal flooding and heavy surf reported; no structural damage confirmed from approved sources | Source: https://www.galvnews.com/news/tropical-storm-bertha-could-cause-rain-flooding-in-galveston-county/article_3028ed2c-0600-496b-b8cf-40f73b83e1ba.html | https://www.nbcnews.com/weather/storms/tropical-storm-bertha-weakens-bringing-strong-winds-heavy-surf-louisia-rcna589018
+FEMA declaration: None issued for Texas from Tropical Storm Bertha | Source: none found
+Post-worthy: NO — Tropical Storm Warning covered Galveston and Brazoria counties (both qualifying coastal counties), and the storm made Texas landfall and moved toward Houston, but confirmed impacts were minimal: no structural damage from approved sources, no deaths, no significant property damage; Galveston OEM characterized conditions as a "windy day"; no TWIA bulletin triggered; no insurance claim activity sourced; a post would not have confirmable facts about policyholders being harmed
+
+NOTE: Bertha's track and warning area are documented here because the July 22 digest flagged this storm as a critical watch item. The storm performed at the low end of forecast scenarios — weakening significantly over Louisiana before Texas landfall — consistent with Space City Weather's July 22 assessment that it would "likely fall apart before reaching Texas." ABC13 Houston confirms the storm has now dissipated: "Bertha has dissipated, tropical development is not expected for now." Source: https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
+
+---
+
+Storm: Texas Hill Country flooding — recovery phase / Kerr County damage assessment (continuation of July 11–17 event)
+Date: Recovery and damage assessment period July 20–27, 2026; peak flooding July 14–17 | Source: https://www.houstonpublicmedia.org/articles/news/texas/2026/07/20/557561/texas-flood-hill-country-nueces-guadalupe-river-uvalde-weather/
+Location: Kerr County (Kerrville, Comfort), Kendall County, Uvalde County, and surrounding Hill Country — not qualifying coastal counties | Source: https://www.keranews.org/texas-news/2026-07-20/texas-flood-hill-country-nueces-guadalupe-river-uvalde-weather
+Strength: Ongoing recovery; Nueces River remained a concern as of July 20; LCRA Mansfield Dam floodgates opened July 18 (first since 2019) | Source: https://www.kxan.com/weather/floodgate-operations-underway-at-multiple-highland-lakes-dams/
+Damage estimate: Preliminary damage assessments identified at least 490 homes and 100 businesses damaged in Kerr County, and approximately 100 homes in neighboring Kendall County — reported by Houston Public Media and KERA News (NPR affiliates, not on the explicit approved source list; dollar total not confirmed from approved sources) | Source: https://www.keranews.org/texas-news/2026-07-20/texas-flood-hill-country-nueces-guadalupe-river-uvalde-weather
+FEMA declaration: Federal major disaster declaration remains in effect for 28 counties (approved July 19, 2026); no new county additions to 2026 declaration confirmed from approved sources in this search window | Source: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/19/president-trump-approves-texas--major-disaster-declaration
+Post-worthy: NO — This is the same flood event covered in the July 15 digest (TWIA/NFIP angle) and July 20 digest (FEMA IA vs. insurance angle); Kerr and Kendall counties are not qualifying coastal counties; no new qualifying coastal county additions to FEMA declaration found; a third consecutive post on the same event is not warranted without a new qualifying development; the 490 homes / 100 businesses damage count would support a new post angle (scope of loss and appraisal process) if it can be confirmed from an explicitly approved source such as KSAT or KXAN
+
+---
+
+NOTES FOR MONITORING:
+
+NOTE 1 — BERTHA CLOSED:
+Tropical Storm Bertha has dissipated. No Texas FEMA declaration. No TWIA activity. This storm is closed as a monitoring item. No post drafted.
+
+NOTE 2 — HILL COUNTRY FLOODING DOLLAR DAMAGE:
+If a sourced dollar figure from KSAT, KXAN, KHOU, or the Texas Tribune confirms total insured losses or property damage above $1M for the July 2026 Hill Country flooding, a third post on that event with a scope-and-appraisal angle would be justified. The 490 homes and 100 businesses in Kerr County figure from Houston Public Media/KERA points strongly in that direction but needs confirmation from an explicitly approved source.
+
+NOTE 3 — TWIA BOARD MEETING:
+TWIA Board of Directors meeting is scheduled for August 4-5, 2026 in Galveston. No claims bulletins or named-storm activation confirmed for Bertha. Source: https://www.twia.org/
+
+NOTE 4 — FEMA 2026 DECLARATION STATUS:
+The initial 28-county federal major disaster declaration for the July 2026 Texas flooding (approved July 19) remains unchanged per this search window. The "10 counties added" press release flagged in the July 22 digest remains attributed to the 2025 FEMA-4879 event (TDEM URL path "7-30-25-dec"). No confirmed additions to the 2026 declaration in this window.
+
+NOTE 5 — ARTHUR FEDERAL FEMA DR:
+No federal FEMA major disaster declaration confirmed for Tropical Storm Arthur 2026 across any search window to date. Remains an open monitoring item.
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD — NO POSTS DRAFTED
+
+--- END OF DIGEST ---
