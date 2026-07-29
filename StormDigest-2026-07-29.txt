@@ -1,5 +1,43 @@
 BAKER LAW STORM DIGEST
 Date: 2026-07-29
-Status: RUN STARTED 2026-07-29T UTC
+Status: COMPLETE
+Search window: July 25 – July 29, 2026
+---
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+STORMS FOUND: 0
+POST-WORTHY: 0
+NOT POST-WORTHY: 0
+
+NO QUALIFYING STORMS THIS PERIOD
+
+--- ALL STORMS FOUND ---
+
+No new storm events found in Texas for the July 25–29 search window. All search results returned events already documented in prior digests:
+
+- Hill Country flooding (July 11–17): Covered in July 15 digest (TWIA/NFIP angle) and July 20 digest (FEMA IA angle). Now in recovery/cleanup phase. No new qualifying developments.
+- San Antonio EF-1 tornado (July 15): Covered in July 20 digest. Recovery ongoing per July 22 KSAT follow-up.
+- Abilene/Big Country wind damage (July 5–6): Covered in July 8 digest.
+- Tropical Storm Bertha: Covered and closed in July 27 digest. No significant damage to Texas. No TWIA activation. No FEMA declaration for Texas.
+
+--- SEARCH NOTES ---
+
+NOTE 1 — FEMA COUNTY ADDITION PRESS RELEASE CONFIRMED AS 2025:
+"Governor Abbott Announces 5 Counties Added To State Disaster Declaration Following Texas Flooding" appeared again in search results (gov.texas.gov). TDEM URL path "7-16-25-dec" confirms this is from July 16, 2025 — the 2025 FEMA-4879 event. The 5 counties listed (Hamilton, Lampasas, Maverick, Sutton, Uvalde) include Maverick, Sutton, and Uvalde, which are already in the 2026 initial 28-county declaration, further confirming this press release is NOT a 2026 document. No new county additions to the July 2026 federal disaster declaration confirmed in this search window.
+
+NOTE 2 — ATLANTIC BASIN QUIET:
+ABC13 Houston tropical weather update (as of this search window) confirms: "Atlantic basin stays quiet while Eastern Pacific stays active." No new Gulf or Atlantic tropical development to monitor. Source: https://abc13.com/tropicalupdate/
+
+NOTE 3 — TWIA:
+No claims bulletin or named-storm activation found for Tropical Storm Bertha or any July 2026 event. TWIA Q1 2026 Fact Book notes 32,171 claims with $545 million estimated losses — this is Beryl 2024 carryover data, not a new 2026 event. TWIA Board meeting scheduled August 4–5, 2026 in Galveston. Source: https://www.twia.org/
+
+NOTE 4 — HILL COUNTRY FLOODING INSURED LOSS / DEBRIS REMOVAL:
+A Texas Governor's Major Disaster Declaration request letter to President Trump (govdelivery.com, official TX government document, July 17 2026) referenced debris removal activities estimated to exceed $450 million statewide. This figure covers debris removal costs only, not total property damage, and relates to the July 11–17 Hill Country flooding event already documented in the July 15 and July 20 digests. Source: https://content.govdelivery.com/attachments/TXGOV/2026/07/17/file_attachments/3718322/Donald%20Trump%20July%202026%20Flooding%20Event%20Major%20Disaster%20Declaration%20Request%20Letter%20FINAL.pdf
+
+NOTE 5 — ARTHUR FEDERAL FEMA DR:
+No federal FEMA major disaster declaration confirmed for Tropical Storm Arthur 2026 across any search window to date.
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD — NO POSTS DRAFTED
+
+--- END OF DIGEST ---
