@@ -1,5 +1,85 @@
-BAKER LAW STORM DIGEST
+BAKER LAW STORM ALERT DIGEST
 Date: 2026-08-03
-Status: RUN STARTED 2026-08-03T UTC
+Search window: July 30 – August 3, 2026
+Run completed: 2026-08-03T13:xx UTC
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+================================================================
+QUALIFYING STORMS FOR FACEBOOK POST: NONE
+================================================================
+
+No events in the July 30 – August 3 window met the post-worthiness
+threshold (damage >$1M sourced, FEMA declaration for qualifying coastal
+county, storm hitting qualifying coastal county, or widespread sourced
+structural damage).
+
+================================================================
+NOTABLE NON-QUALIFYING OBSERVATIONS
+================================================================
+
+1. GULF / ATLANTIC TROPICS — QUIET
+   As of August 3, 2026, the National Hurricane Center reports no active
+   tropical cyclones and does not expect development over the next 7 days.
+   High Saharan dust and elevated wind shear over the Gulf and Caribbean
+   are suppressing formation. A swatch of deep moisture in the Bay of
+   Campeche is being monitored but is assessed as low probability.
+   Source: NHC (nhc.noaa.gov); ABC13 tropical update (abc13.com/tropicalupdate)
+
+2. FEMA 2026 TEXAS DECLARATION — COUNTY ADDITIONS (INTERIOR ONLY)
+   The July 19, 2026 federal major disaster declaration (DR-4XXX-TX) for
+   the July 12+ Hill Country flooding has been expanded in late July with
+   additional counties cleared for Public Assistance or Individual
+   Assistance: Burnet, Llano, Mason, McCulloch, Tom Green, Coke, Concho,
+   Williamson, Guadalupe, Kimble, and Menard counties.
+   None of the added counties are qualifying coastal counties (Aransas,
+   Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda,
+   Brazoria, or Galveston). Post-worthiness threshold NOT met.
+   Source: FEMA press releases (fema.gov/locations/texas)
+
+3. TWIA BOARD MEETING — AUGUST 4, 2026
+   The TWIA Board of Directors is scheduled to meet August 4, 2026 in
+   Galveston. No new claim data for August 2026 events was available at
+   time of this digest. Prior reported figure: 33,000+ claims / $545M
+   estimated losses from earlier 2026 storms (data as of May 2026).
+   Source: TWIA (twia.org)
+
+4. BERTHA — CLOSED
+   Tropical Storm Bertha (second Texas landfall July 24 near Galveston,
+   ~45 mph) produced no confirmed structural damage per prior digests.
+   No new Bertha-related damage reports found this window. Event closed.
+
+5. MINERAL WELLS EF-3 TORNADO — HISTORICAL
+   The April 28, 2026 EF-3 tornado in Mineral Wells (Palo Pinto County)
+   with 145 mph winds and 5 hospitalizations continues to appear in
+   searches. This event was outside the coastal qualifying county list
+   and is now historical. No new developments this window.
+   Source: NWS Fort Worth; CNN (2026-04-28); Fox4 DFW
+
+================================================================
+OPEN MONITORING ITEMS
+================================================================
+
+- Any new FEMA 2026 Texas county additions that include a qualifying
+  coastal county (Aransas, Nueces, San Patricio, Refugio, Calhoun,
+  Victoria, Jackson, Matagorda, Brazoria, or Galveston).
+- Tropical Storm Arthur 2026 federal FEMA DR — not yet confirmed.
+- Gulf Bay of Campeche moisture area — low probability but being watched
+  by NHC; check next run.
+
+================================================================
+SOURCES CONSULTED THIS RUN
+================================================================
+
+- NHC main page: https://www.nhc.noaa.gov/
+- ABC13 tropical update: https://abc13.com/tropicalupdate/
+- FEMA Texas page: https://www.fema.gov/locations/texas
+- FEMA 2026 TX emergency declaration: https://www.fema.gov/press-release/20260718/president-donald-j-trump-approves-emergency-declaration-texas
+- TWIA: https://www.twia.org/
+- NWS SPC Aug 2 outlook: https://www.spc.noaa.gov/products/outlook/day1otlk.html
+- TDEM disasters: https://www.tdem.texas.gov/disasters
+- Accuweather 2026 tornado count: https://www.accuweather.com/en/severe-weather/2026-tornado-count-illinois-way-up-texas-way-down/1917676
+- Fox4: Tropical Storm Bertha Texas: https://www.fox4news.com/weather/tropical-storm-bertha-texas-gulf-2026
+- NOAA billion-dollar disasters TX: https://www.ncei.noaa.gov/access/billions/state-summary/TX
+
+================================================================
+END OF DIGEST
+================================================================
