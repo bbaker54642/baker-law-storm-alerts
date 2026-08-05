@@ -1,5 +1,104 @@
-BAKER LAW STORM DIGEST
+BAKER LAW STORM ALERT DIGEST
 Date: 2026-08-05
-Status: RUN STARTED 2026-08-05T13:27 UTC
+Search window: August 1 - August 5, 2026
+Run completed: 2026-08-05T13:28 UTC
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+================================================================
+QUALIFYING STORMS FOR FACEBOOK POST: NONE
+================================================================
+
+No events in the August 1-5 window met the post-worthiness threshold
+(damage >$1M sourced, FEMA declaration for qualifying coastal county,
+storm hitting qualifying coastal county, or widespread sourced
+structural damage).
+
+================================================================
+STORMS FOUND: 0 (in window)
+POST-WORTHY: 0
+NOT POST-WORTHY: 0
+================================================================
+
+================================================================
+NOTABLE NON-QUALIFYING OBSERVATIONS
+================================================================
+
+1. GULF / ATLANTIC TROPICS — QUIET WITH LOW-PROBABILITY WATCH
+   As of August 5, 2026, the National Hurricane Center reports no
+   active tropical cyclones. A minor area of potential subtropical
+   development is noted for late this week (Friday/Saturday) with
+   10% formation odds over the next 7 days. Saharan dust and elevated
+   wind shear continue to suppress Gulf and Caribbean activity.
+   Sources: ABC13 tropical update (abc13.com/tropicalupdate);
+            NWS Houston/Galveston (weather.gov/hgx);
+            NHC (nhc.noaa.gov)
+
+2. SPC CONVECTIVE OUTLOOK — AUGUST 5, 2026
+   The Storm Prediction Center issued a Day 1 Convective Outlook for
+   August 5, 2026 (0600 UTC). No confirmed structural damage reports
+   from any approved source found for this date in Texas.
+   Source: SPC (spc.noaa.gov/products/outlook/day1otlk.html)
+
+3. JULY 2026 TEXAS FLOODING FEMA DECLARATION — STATUS UPDATE
+   The federal major disaster declaration (approved July 18-19, 2026)
+   for the July 12+ Hill Country flooding continues in recovery phase.
+   Previously noted county additions (Burnet, Llano, McCulloch, Tom
+   Green, Coke, Concho, Williamson, Guadalupe, Kimble, Menard) remain
+   all interior counties. No qualifying coastal counties (Aransas,
+   Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson,
+   Matagorda, Brazoria, or Galveston) have been added. Post-worthiness
+   threshold NOT met.
+   Sources: FEMA (fema.gov/locations/texas);
+            FEMA press release (fema.gov/press-release/20260718/...)
+
+4. TWIA BOARD MEETING — AUGUST 4, 2026 (COMPLETED)
+   The TWIA Board met August 4, 2026 in Galveston and considered
+   recommendations related to TWIA's annual rate filing. No new
+   storm claims data for August 2026 events was reported. Prior
+   benchmark figure on record: 33,000+ claims / $545M estimated
+   losses from earlier 2026 storm season (data as of Q1 2026).
+   Source: TWIA (twia.org)
+
+5. TROPICAL STORM BERTHA — CLOSED (HISTORICAL)
+   Tropical Storm Bertha's second Texas landfall near Galveston
+   (July 24, ~45 mph) produced no confirmed structural damage.
+   No new Bertha-related developments this window. Event closed.
+
+6. TEXAS HAIL — NO AUGUST EVENTS
+   No hail storm damage reports found for August 2026. August falls
+   outside primary Texas hail season (March-May).
+   Source: NWS Houston storm data (weather.gov/hgx/quick_stormdata)
+
+================================================================
+OPEN MONITORING ITEMS
+================================================================
+
+- Low-probability subtropical disturbance Friday/Saturday: if it
+  develops and tracks toward qualifying coastal counties, reassess
+  next run.
+- Any new FEMA 2026 Texas county additions that include a qualifying
+  coastal county (Aransas, Nueces, San Patricio, Refugio, Calhoun,
+  Victoria, Jackson, Matagorda, Brazoria, or Galveston).
+- Tropical Storm Arthur 2026 federal FEMA DR — still not confirmed.
+
+================================================================
+SOURCES CONSULTED THIS RUN
+================================================================
+
+- ABC13 tropical update: https://abc13.com/tropicalupdate/
+- NHC main page: https://www.nhc.noaa.gov/
+- NWS Houston/Galveston: https://www.weather.gov/hgx/
+- SPC Aug 5 Day 1 Outlook: https://www.spc.noaa.gov/products/outlook/day1otlk.html
+- FEMA Texas page: https://www.fema.gov/locations/texas
+- FEMA 2026 TX emergency declaration:
+  https://www.fema.gov/press-release/20260718/president-donald-j-trump-approves-emergency-declaration-texas
+- TWIA: https://www.twia.org/
+- NWS HGX storm data: https://www.weather.gov/hgx/quick_stormdata
+- NOAA billion-dollar disasters TX:
+  https://www.ncei.noaa.gov/access/billions/state-summary/TX
+- TDEM disasters: https://www.tdem.texas.gov/disasters
+- Accuweather 2026 tornado count:
+  https://www.accuweather.com/en/severe-weather/2026-tornado-count-illinois-way-up-texas-way-down/1917676
+
+================================================================
+END OF DIGEST
+================================================================
