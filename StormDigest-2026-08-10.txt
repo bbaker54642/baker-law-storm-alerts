@@ -1,5 +1,133 @@
-BAKER LAW STORM DIGEST
+BAKER LAW STORM ALERT DIGEST
 Date: 2026-08-10
-Status: RUN STARTED 2026-08-10T13:39 UTC
+Search window: August 6 - August 10, 2026
+Run completed: 2026-08-10T13:41 UTC
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+================================================================
+QUALIFYING STORMS FOR FACEBOOK POST: NONE
+================================================================
+
+No events in the August 6-10 window met the post-worthiness threshold
+(damage >$1M sourced, FEMA declaration for qualifying coastal county,
+storm hitting qualifying coastal county, or widespread sourced
+structural damage).
+
+================================================================
+STORMS FOUND: 0 (in window)
+POST-WORTHY: 0
+NOT POST-WORTHY: 0
+================================================================
+
+================================================================
+NOTABLE NON-QUALIFYING OBSERVATIONS
+================================================================
+
+1. ATLANTIC TROPICS — ACTIVITY INCREASING (NO GULF THREAT)
+   As of August 10, 2026, the National Hurricane Center is monitoring
+   3 areas for possible tropical development in the Atlantic basin.
+   The most significant is a broad area of low pressure in the eastern
+   and central tropical Atlantic with a 60% formation probability over
+   the next 7 days. A second tropical wave expected off the west coast
+   of Africa is given 30% odds. A third area is also being monitored.
+   CRITICAL: NHC explicitly states no tropical development is expected
+   in the Gulf of Mexico over the next 7 days. El Nino conditions and
+   elevated wind shear continue to suppress Gulf formation. No named
+   storm. No Texas coastal threat at this time.
+   Sources: NHC (nhc.noaa.gov);
+            ABC13 tropical update (abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766);
+            KBTX Aug 8 (kbtx.com/2026/08/08/tropics-waking-up-bit-we-move-into-busier-part-season);
+            WFLX Aug 10 (wflx.com/2026/08/10/tropics-atlantic-tropical-activity-ramps-up-no-threat-florida);
+            BNO News (bnonews.com/index.php/2026/08/nhc-monitors-2-areas-for-possible-tropical-development-in-atlantic)
+
+2. NOAA MAINTAINS BELOW-NORMAL SEASON FORECAST
+   NOAA released its August update to the 2026 hurricane outlook,
+   dropping the total number of named storms and major hurricanes
+   expected by one storm each. The season remains forecast as
+   below-normal due to El Nino conditions first emerging in the
+   equatorial Pacific in June. Two named storms have occurred so far
+   in 2026 (Arthur and Bertha); neither produced qualifying damage
+   in the August 6-10 window.
+   Source: NOAA (noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season)
+
+3. TEXAS FLOODING — NO NEW AUGUST EVENTS
+   All Texas flooding search results continue to reference the
+   July 12-20, 2026 Hill Country flooding (already covered in
+   StormDigest-2026-07-15.txt, -07-20.txt, -07-22.txt). A Yale
+   Climate Connections analysis published August 2026 discusses
+   the July event in retrospect. No new August flooding events
+   sourced from approved outlets.
+   Source: Yale Climate Connections Aug 2026
+           (yaleclimateconnections.org/2026/08/the-floods-of-the-future-wont-come-one-at-a-time)
+
+4. TEXAS TORNADOES — NO SIGNIFICANT AUGUST EVENTS
+   Three tornadoes have been reported nationally in August 2026
+   per SPC/Wikipedia tracking, but no Texas tornadoes with
+   confirmed structural damage were found for this window in
+   approved sources. SPC issued a Day 1 Convective Outlook for
+   August 9, 2026 but no confirmed damage reports followed.
+   Sources: SPC Aug 9 outlook (spc.noaa.gov/products/outlook/day1otlk.html);
+            Tornadoes of 2026 Wikipedia
+
+5. FEMA TEXAS DECLARATION — NO NEW ADDITIONS
+   No new county additions to the 2026 Texas major disaster
+   declaration (approved July 18-19) were found this window.
+   All previously confirmed additions (Burnet, Llano, McCulloch,
+   Tom Green, Coke, Concho, Williamson, Guadalupe, Kimble, Menard)
+   remain interior counties. No qualifying coastal counties added.
+   Source: FEMA Texas page (fema.gov/locations/texas)
+
+6. TWIA — NO NEW STORM CLAIM DATA
+   No new TWIA claim filings for August 2026 storm events found.
+   TWIA has $4.3 billion in total funding secured for the 2026
+   hurricane season per earlier board action.
+   Source: TWIA (twia.org)
+
+================================================================
+SEARCH NOTE
+================================================================
+
+Two of the 10 searches attempted this run returned temporary
+web search errors (unavailable). The searches that failed were:
+"Texas flooding damage August 2026" and "Texas severe storms
+August 6-10 2026 damage." The flooding search was successfully
+retried with modified terms. The direct August 6-10 storm search
+could not be retried due to continued tool unavailability. All
+other 8 primary and 2 follow-up searches completed successfully.
+No qualifying events were found across the completed searches.
+
+================================================================
+OPEN MONITORING ITEMS
+================================================================
+
+PRIORITY: Atlantic 60% formation-probability disturbance in the
+eastern tropical Atlantic. If it becomes a named storm and tracks
+toward Gulf of Mexico / Texas coast, reassess immediately. Check
+NHC at next run.
+
+- Any new FEMA 2026 Texas county additions that include a
+  qualifying coastal county (Aransas, Nueces, San Patricio,
+  Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria,
+  or Galveston).
+- Tropical Storm Arthur 2026 federal FEMA DR: still unconfirmed.
+
+================================================================
+SOURCES CONSULTED THIS RUN
+================================================================
+
+- NHC: https://www.nhc.noaa.gov/
+- ABC13 tropical update: https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
+- KBTX Aug 8: https://www.kbtx.com/2026/08/08/tropics-waking-up-bit-we-move-into-busier-part-season/
+- WFLX Aug 10: https://www.wflx.com/2026/08/10/tropics-atlantic-tropical-activity-ramps-up-no-threat-florida/
+- BNO News NHC monitors 2 areas: https://bnonews.com/index.php/2026/08/nhc-monitors-2-areas-for-possible-tropical-development-in-atlantic/
+- NOAA below-normal season: https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season
+- Fox Weather Gulf area watch: https://www.foxweather.com/weather-news/first-area-watch-tropical-development-atlantic-gulf-hurricane-season
+- FEMA Texas: https://www.fema.gov/locations/texas
+- TWIA: https://www.twia.org/
+- SPC Day 1 Outlook: https://www.spc.noaa.gov/products/outlook/day1otlk.html
+- TDEM disasters: https://www.tdem.texas.gov/disasters
+- Yale Climate Connections Aug 2026: https://yaleclimateconnections.org/2026/08/the-floods-of-the-future-wont-come-one-at-a-time/
+- NOAA billion-dollar disasters TX: https://www.ncei.noaa.gov/access/billions/state-summary/TX
+
+================================================================
+END OF DIGEST
+================================================================
