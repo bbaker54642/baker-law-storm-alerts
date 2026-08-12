@@ -1,5 +1,125 @@
-BAKER LAW STORM DIGEST
+BAKER LAW STORM ALERT DIGEST
 Date: 2026-08-12
-Status: RUN STARTED 2026-08-12T13:32 UTC
+Search window: August 8 - August 12, 2026
+Run completed: 2026-08-12T13:34 UTC
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+================================================================
+QUALIFYING STORMS FOR FACEBOOK POST: NONE
+================================================================
+
+No events in the August 8-12 window met the post-worthiness threshold
+(damage >$1M sourced, FEMA declaration for qualifying coastal county,
+storm hitting qualifying coastal county, or widespread sourced
+structural damage).
+
+================================================================
+STORMS FOUND: 0 (in window)
+POST-WORTHY: 0
+NOT POST-WORTHY: 0
+================================================================
+
+================================================================
+SOURCE DISAMBIGUATION NOTE
+================================================================
+
+A search this run returned results about 6 Southeast Texas tornadoes
+(two EF-3, one EF-2) in Brazoria and Galveston counties that initially
+appeared relevant. Upon verification, the event was confirmed to be
+from December 28, 2024 (Alvin, TX / Walt Disney Elementary School EF-2;
+Brazoria County fatality). This is a 2024 event surfaced by the search
+engine in response to a 2026 query. It does NOT qualify for this digest.
+Sources: Fox26Houston; ABC13; CW39 Houston; NWS Houston
+(dates confirmed December 29-31, 2024)
+
+================================================================
+NOTABLE NON-QUALIFYING OBSERVATIONS
+================================================================
+
+1. ATLANTIC TROPICS — 3 AREAS MONITORED, NO GULF THREAT
+   As of August 12, 2026, the National Hurricane Center continues
+   monitoring 3 disturbances in the Atlantic basin. No development
+   is expected in the Gulf of Mexico over the next 7 days. El Nino
+   conditions and elevated wind shear continue to suppress Gulf
+   formation. The third named storm of the season (Cristobal) has
+   not yet formed; the average formation date for the third storm
+   passed August 3. NOAA's updated forecast maintains a below-normal
+   season with 7-13 total named storms projected.
+   Sources: ABC13 tropical update (abc13.com/tropicalupdate/);
+            NHC (nhc.noaa.gov);
+            NOAA (noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season);
+            WSMV Aug 5 (wsmv.com/2026/08/05/hurricane-season-heres-what-expect-august/)
+
+2. TEXAS HEAT / DFW FIRE RISK — AUGUST 11
+   The Fort Worth/Dallas area was under a Heat Advisory August 11,
+   with heat index values up to 106 degrees. Breezy winds and low
+   afternoon humidity created elevated wildfire risk for Thursday
+   and Friday in North Texas. This is a heat/fire event, not a
+   wind or structural storm event; no claims-relevant damage reported.
+   Source: NWS Fort Worth (weather.gov/fwd/)
+
+3. JULY 2026 TEXAS FLOODING — RECOVERY PHASE
+   Team Rubicon launched field recovery operations in Kerrville,
+   Sonora, and Uvalde following the July 12-20 Hill Country flooding
+   (already covered in StormDigest-2026-07-15.txt through -07-22.txt).
+   No new August flooding events sourced.
+   Source: Team Rubicon (teamrubiconusa.org/news-and-stories/texas-flood-recovery-operations/)
+
+4. FEMA TEXAS DECLARATION — STATUS UNCHANGED
+   No new county additions to the 2026 Texas major disaster
+   declaration found this window. All previously confirmed additions
+   remain interior counties. No qualifying coastal counties
+   (Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria,
+   Jackson, Matagorda, Brazoria, or Galveston) have been added.
+   Source: FEMA Texas (fema.gov/locations/texas)
+
+5. TWIA — NO NEW STORM CLAIM DATA
+   No new TWIA claim filings for August 2026 storm events found.
+   TWIA has $4.3 billion in total funding secured for the 2026
+   hurricane season.
+   Source: TWIA (twia.org)
+
+6. TEXAS TORNADOES — NO AUGUST EVENTS WITH CONFIRMED DAMAGE
+   The SPC issued a Day 1 Convective Outlook for August 11, 2026
+   but no confirmed tornado damage reports were found in approved
+   sources for Texas in the August 8-12 window. Six tornadoes
+   have been reported nationally in August 2026, with ten confirmed
+   for all of 2026 to date.
+   Source: SPC (spc.noaa.gov/products/outlook/day1otlk.html);
+            Wikipedia Tornadoes of 2026
+
+================================================================
+OPEN MONITORING ITEMS
+================================================================
+
+PRIORITY: Atlantic disturbances being monitored — if any develops
+into a named storm (Cristobal) tracking toward the Gulf / Texas
+coast, reassess immediately at next run.
+
+- Any new FEMA 2026 Texas county additions that include a
+  qualifying coastal county (Aransas, Nueces, San Patricio,
+  Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria,
+  or Galveston).
+- Tropical Storm Arthur 2026 federal FEMA DR: still unconfirmed.
+- Hurricane season peak approaches September 10 — activity
+  likely to increase through late August and September.
+
+================================================================
+SOURCES CONSULTED THIS RUN
+================================================================
+
+- ABC13 tropical update: https://abc13.com/tropicalupdate/
+- NHC: https://www.nhc.noaa.gov/
+- NOAA below-normal season: https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season
+- NWS Fort Worth: https://www.weather.gov/fwd/
+- SPC Aug 11 Day 1 Outlook: https://www.spc.noaa.gov/products/outlook/day1otlk.html
+- FEMA Texas: https://www.fema.gov/locations/texas
+- TWIA: https://www.twia.org/
+- Team Rubicon TX recovery: https://teamrubiconusa.org/news-and-stories/texas-flood-recovery-operations/
+- Fox26 SE Texas tornadoes (Dec 2024, disqualified): https://www.fox26houston.com/weather/southeast-texas-tornadoes-least-5-tornadoes-touched-down-saturday-nws-confirms
+- ABC13 NWS preliminary tornado report (Dec 2024, disqualified): https://abc13.com/post/national-weather-service-releases-preliminary-report-tornadoes-montgomery-chambers-brazoria-galveston-counties/15725321/
+- Wikipedia 2026 Atlantic hurricane season: https://en.wikipedia.org/wiki/2026_Atlantic_hurricane_season
+- NOAA billion-dollar disasters TX: https://www.ncei.noaa.gov/access/billions/state-summary/TX
+
+================================================================
+END OF DIGEST
+================================================================
