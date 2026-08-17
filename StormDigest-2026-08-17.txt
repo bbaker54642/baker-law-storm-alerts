@@ -1,0 +1,5 @@
+BAKER LAW STORM DIGEST
+Date: 2026-08-17
+Status: RUN STARTED 2026-08-17T13:29 UTC
+
+The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
