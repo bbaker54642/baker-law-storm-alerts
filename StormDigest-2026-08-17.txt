@@ -1,5 +1,145 @@
-BAKER LAW STORM DIGEST
+BAKER LAW STORM ALERT DIGEST
 Date: 2026-08-17
-Status: RUN STARTED 2026-08-17T13:29 UTC
+Search window: August 13 - August 17, 2026
+Run completed: 2026-08-17T13:32 UTC
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+================================================================
+QUALIFYING STORMS FOR FACEBOOK POST: NONE
+================================================================
+
+No events in the August 13-17 window met the post-worthiness threshold
+(damage >$1M sourced, FEMA declaration for qualifying coastal county,
+storm hitting qualifying coastal county, or widespread sourced
+structural damage in window).
+
+================================================================
+STORMS FOUND: 0 (in window)
+POST-WORTHY: 0
+NOT POST-WORTHY: 0
+================================================================
+
+================================================================
+NOTABLE NON-QUALIFYING OBSERVATIONS
+================================================================
+
+1. TROPICAL STORM CRISTOBAL — FORMED AUG 12, NO TEXAS IMPACT
+   Tropical Storm Cristobal formed on August 12, 2026, becoming
+   the third named storm of the 2026 Atlantic hurricane season.
+   By August 13, KBTX reported the system had weakened to
+   post-tropical depression status and was moving northeast
+   away from the United States. Cristobal posed no threat to
+   Texas or the Gulf Coast.
+   Sources: KBTX Aug 12 (kbtx.com/2026/08/12/tropical-storm-cristobal-has-formed/);
+            KBTX Aug 13 (kbtx.com/2026/08/13/tropical-update-now-post-tropical-depression-cristobal/);
+            Fox26 Houston (fox26houston.com/weather/tropical-storm-cristobal-2026)
+
+2. ATLANTIC BASIN — QUIET FOLLOWING CRISTOBAL
+   ABC13's current tropical update headline (Aug 17): "Hurricane Lala
+   passes Hawaii Saturday. No chance for development in the Atlantic."
+   Hurricane Lala is a Pacific storm with no Atlantic relevance.
+   The Atlantic basin has no active tropical threats as of today.
+   El Nino conditions continue suppressing Gulf development.
+   Source: ABC13 tropical update (abc13.com/tropicalupdate/)
+
+3. NUECES RIVER DOWNSTREAM FLOODING — NOT QUALIFYING
+   Downstream effects of the July 12-20 Hill Country flooding reached
+   Lake Corpus Christi (San Patricio County — a qualifying coastal
+   county) around July 24-28. KSAT (approved source) reported
+   "floodwaters help delay Corpus Christi water emergency" (July 28)
+   and "floodwater starts arriving in Corpus Christi reservoirs"
+   (July 24). Framing: reservoir filling provided a benefit to the
+   city's water supply; no structural property damage reported in
+   San Patricio County from approved sources. Road closures were
+   in Live Oak County (not a qualifying coastal county). This is
+   a continuation of the July 12-20 event already covered in prior
+   digests. Post-worthiness threshold NOT met (no sourced property
+   damage in the coastal county).
+   Sources: KSAT July 28 (ksat.com/news/local/2026/07/28/floodwaters-from-devastating-texas-storms-help-delay-corpus-christi-water-emergency/);
+            KSAT July 24 (ksat.com/news/texas/2026/07/24/floodwater-starts-arriving-in-corpus-christi-reservoirs-sparking-hope-for-a-water-crisis-delay/)
+
+4. CRYSTAL CITY / ZAVALA COUNTY — FEMA INDIVIDUAL ASSISTANCE GAP
+   As of August 14, KERA News (NPR Dallas) reported that residents
+   of Crystal City (Zavala County) are still rebuilding with limited
+   federal help. The Zavala County Sheriff's Office documented 180
+   structures with flood damage ranging from minimal to severe.
+   Despite Zavala County's inclusion in the FEMA emergency declaration
+   (EM-3649-TX, July 18-19), local leaders expressed frustration
+   that a separate Major Disaster Declaration — which would activate
+   FEMA Individual Assistance (IA) grants directly to affected
+   homeowners — had not yet been approved as of August 14.
+   NOTE: This distinction matters for Kevin's practice: emergency
+   declarations provide Public Assistance (government reimbursement)
+   but not IA (direct homeowner grants). Residents who believe they
+   are covered by the declaration may be surprised to find they
+   cannot apply for FEMA IA grants without a separate DR approval.
+   Sources: KERA News Aug 14 (keranews.org/news/2026-08-14/crystal-city-texas-flood-recovery-fema-federal-aid);
+            TPR Aug 15 (tpr.org/environment/2026-08-15/in-this-flood-ravaged-south-texas-town-residents-are-rebuilding-while-waiting-for-federal-aid);
+            KENS5 (kens5.com — mandatory evacuations Crystal City);
+            FEMA EM-3649-TX (fema.gov/disaster/3649)
+
+5. AUGUST 13-14 TEXAS SEVERE WEATHER — NO QUALIFYING DAMAGE
+   August 13: Extreme fire danger (Panhandle through Northeast Texas)
+   and scattered severe thunderstorm risk in West Texas / Panhandle.
+   Monsoonal storms in Big Bend/Trans-Pecos. No confirmed structural
+   damage from approved sources.
+   August 14: Scattered showers and thunderstorms in Southeast Texas.
+   No confirmed structural damage from approved sources.
+   Sources: Texas Storm Chasers Aug 13 (texasstormchasers.com/forecast/extreme-fire-danger-today-severe-storms-out-west-texas-weather-roundup-8-13-26/);
+            Click2Houston Aug 14 (click2houston.com/news/local/2026/08/14/live-radar-scattered-showers-and-storms-moving-across-parts-of-se-texas/)
+
+6. TWIA AUGUST 4 BOARD MEETING — DATA UPDATE
+   TWIA August 4 board materials (now public) confirm: historical
+   claim volume for 2026 is 2,181 (baseline non-catastrophe level);
+   Q1 2026 had 9 new claim lawsuits received, 12 settled, 10 closed.
+   Prior storm claims total: 32,171 claims / $545M estimated losses
+   (as of March 31, 2026) from earlier 2026 storms. TWIA recommends
+   0% rate change for residential and commercial rates for 2026.
+   Source: TWIA Board of Directors Meeting Materials Aug 4, 2026
+           (twia.org/wp-content/uploads/TWIA-Board-of-Directors-Meeting-Materials-August-4-2026.pdf)
+
+7. FEMA TEXAS DECLARATION — STATUS UNCHANGED
+   No new county additions to the 2026 Texas major/emergency disaster
+   declaration found this window beyond previously noted counties.
+   No qualifying coastal counties added.
+   Source: FEMA Texas (fema.gov/locations/texas)
+
+================================================================
+OPEN MONITORING ITEMS
+================================================================
+
+PRIORITY: FEMA Individual Assistance approval status for South/
+Central Texas July 2026 flooding. If a Major Disaster Declaration
+(DR-) is issued covering Nueces, San Patricio, or other qualifying
+coastal counties for IA, that would be post-worthy. Monitor FEMA
+disaster declarations page.
+
+- Hurricane season peak: September 10. Activity likely to increase
+  through late August. No current Atlantic threats but monitor.
+- Tropical Storm Arthur 2026 FEMA DR: still unconfirmed.
+- Crystal City (Zavala County) IA access: potential future post
+  if new DR approved including qualifying coastal county.
+
+================================================================
+SOURCES CONSULTED THIS RUN
+================================================================
+
+- KBTX Cristobal formed: https://www.kbtx.com/2026/08/12/tropical-storm-cristobal-has-formed/
+- KBTX Cristobal post-tropical: https://www.kbtx.com/2026/08/13/tropical-update-now-post-tropical-depression-cristobal/
+- Fox26 Cristobal: https://www.fox26houston.com/weather/tropical-storm-cristobal-2026
+- ABC13 tropical update: https://abc13.com/tropicalupdate/
+- KSAT Corpus Christi water July 28: https://www.ksat.com/news/local/2026/07/28/floodwaters-from-devastating-texas-storms-help-delay-corpus-christi-water-emergency/
+- KSAT Corpus Christi reservoir July 24: https://www.ksat.com/news/texas/2026/07/24/floodwater-starts-arriving-in-corpus-christi-reservoirs-sparking-hope-for-a-water-crisis-delay/
+- KERA News Crystal City Aug 14: https://www.keranews.org/news/2026-08-14/crystal-city-texas-flood-recovery-fema-federal-aid
+- TPR Crystal City Aug 15: https://www.tpr.org/environment/2026-08-15/in-this-flood-ravaged-south-texas-town-residents-are-rebuilding-while-waiting-for-federal-aid
+- FEMA EM-3649-TX: https://www.fema.gov/disaster/3649
+- FEMA Texas: https://www.fema.gov/locations/texas
+- TWIA Aug 4 board materials: https://www.twia.org/wp-content/uploads/TWIA-Board-of-Directors-Meeting-Materials-August-4-2026.pdf
+- Texas Storm Chasers Aug 13: https://texasstormchasers.com/forecast/extreme-fire-danger-today-severe-storms-out-west-texas-weather-roundup-8-13-26/
+- Click2Houston Aug 14: https://www.click2houston.com/news/local/2026/08/14/live-radar-scattered-showers-and-storms-moving-across-parts-of-se-texas/
+- NWS Houston/Galveston: https://www.weather.gov/hgx/
+- SPC Aug 17 Day 1 Outlook: https://www.spc.noaa.gov/products/outlook/day1otlk.html
+- Wikipedia 2026 Atlantic hurricane season: https://en.wikipedia.org/wiki/2026_Atlantic_hurricane_season
+
+================================================================
+END OF DIGEST
+================================================================
