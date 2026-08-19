@@ -1,5 +1,104 @@
-BAKER LAW STORM DIGEST
-Date: 2026-08-19
-Status: RUN STARTED 2026-08-19T13:23 UTC
+BAKER LAW STORM ALERTS
+StormDigest — 2026-08-19
+Run completed: 2026-08-19T13:45:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+SEARCH WINDOW: August 15–19, 2026
+QUALIFYING DEVELOPMENTS: 1
+
+Sources consulted: NOAA/NHC, NWS, FEMA, Click2Houston/KPRC2, Insurance Journal,
+Insurance Business Magazine, Galveston Daily News, ABC13 Houston, KSAT San Antonio
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING DEVELOPMENT #1
+══════════════════════════════════════════════════════════════════
+TYPE: Insurance/Legal Development
+LOCATION: Galveston County (qualifying coastal county)
+EVENT DATE: August 13, 2026 (federal court filing)
+QUALIFIER: Galveston County policyholder class — qualifying coastal county
+
+SUMMARY:
+Three Galveston-area homeowners filed a federal RICO lawsuit against the Texas
+Windstorm Insurance Association (TWIA) on August 13, 2026 in the US District Court,
+Southern District of Texas. The lawsuit alleges field adjuster estimates for Hurricane
+Beryl damage were subsequently reduced by remote reviewers who never visited the
+properties, without the policyholders' knowledge and while retaining the original
+adjuster's name on the documents. One estimate dropped from nearly $91,000 to
+approximately $30,800 (66% reduction). TWIA reported paying approximately $336 million
+across 34,000+ Beryl claims; attorneys allege hundreds of millions were wrongfully
+withheld. Plaintiffs seek class-action certification.
+
+SOURCES:
+[1] Insurance Journal, Aug. 17, 2026:
+    https://www.insurancejournal.com/news/southcentral/2026/08/17/881889.htm
+[2] Click2Houston/KPRC2, Aug. 19, 2026:
+    https://www.click2houston.com/news/local/2026/08/19/federal-lawsuit-alleges-beryl-damage-estimates-were-secretly-reduced-attorneys-say-thousands-could-be-impacted/
+[3] Insurance Business Magazine:
+    https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/racketeering-suit-alleges-twia-hid-cuts-to-beryl-claim-estimates-586213.aspx
+[4] Galveston Daily News:
+    https://www.galvnews.com/news/galveston-attorneys-allege-state-windstorm-insurance-association-fraudulently-cut-beryl-payouts/article_246b4c34-d7e4-4d15-97d5-df7d1c6061e2.html
+
+DRAFT FACEBOOK POST:
+----------------------------------------------------------------------
+Three Galveston-area homeowners sued TWIA in federal court on August 13, under the
+RICO statute.[1] I've followed this filing closely.
+
+Here is what they allege. A field adjuster visited each property after Hurricane Beryl,
+inspected the damage, and wrote a repair estimate. A remote reviewer who never set foot
+on the property then accessed the file and reduced the numbers. One homeowner's estimate
+dropped from nearly $91,000 to roughly $30,800 - a 66 percent cut.[2] The estimate
+sent to that homeowner still bore the original field adjuster's name.
+
+TWIA reported paying approximately $336 million across more than 34,000 Beryl
+claims.[2] The attorneys in this case allege the actual amount owed was hundreds of
+millions higher, and that the reduction practice was systematic.
+
+The plaintiffs are seeking class-action certification. If the court grants it, thousands
+of Beryl policyholders could be included in the case.
+
+RICO is a federal racketeering statute. Courts apply it to organized, systematic fraud
+- not one-off mistakes. The attorneys are arguing that this was not individual error.
+It was a structured practice that reduced what policyholders received without their
+knowledge.
+
+The storm hit in 2024. The damage your adjuster documented was real. This lawsuit is
+about what happened to those documented numbers before they became your payment.
+
+[1] Insurance Journal, Aug. 17, 2026: https://www.insurancejournal.com/news/southcentral/2026/08/17/881889.htm
+[2] Click2Houston/KPRC2, Aug. 19, 2026: https://www.click2houston.com/news/local/2026/08/19/federal-lawsuit-alleges-beryl-damage-estimates-were-secretly-reduced-attorneys-say-thousands-could-be-impacted/
+[3] Insurance Business Magazine: https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/racketeering-suit-alleges-twia-hid-cuts-to-beryl-claim-estimates-586213.aspx
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════
+NON-QUALIFYING FINDINGS
+══════════════════════════════════════════════════════════════════
+ATLANTIC/GULF TROPICS:
+- Atlantic quiet; no tropical systems threatening Gulf or Texas in 7-day forecast
+- Invest 92L: 70-80% formation odds in Atlantic main development region, tracking
+  toward Lesser Antilles; NOT forecast to enter Gulf or affect Texas coast
+- No active named storms in Gulf of Mexico
+Source: NHC/ABC13 Houston, Aug. 19, 2026
+
+TEXAS WEATHER (Aug 15-19):
+- No new storm damage events (tornadoes, hail, flooding, high winds) found for
+  qualifying coastal counties in this window from approved sources
+- No NOAA or NWS storm reports flagging qualifying coastal county damage
+
+FEMA:
+- No new Individual Assistance (IA/DR-) declarations for qualifying coastal counties
+  found in this window
+- Emergency Declaration EM-3649-TX (Crystal City/Zavala County) previously noted;
+  Zavala County is interior, not a qualifying coastal county
+
+══════════════════════════════════════════════════════════════════
+ONGOING MONITORS
+══════════════════════════════════════════════════════════════════
+- Invest 92L: Watch for Gulf entry if track shifts west
+- FEMA Major Disaster DR- for any qualifying coastal county (Aransas, Nueces,
+  San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston)
+- TWIA RICO class-action status: watch for court certification ruling
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING COASTAL COUNTIES (reference)
+══════════════════════════════════════════════════════════════════
+Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson,
+Matagorda, Brazoria, Galveston
