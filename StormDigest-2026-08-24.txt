@@ -1,5 +1,69 @@
-BAKER LAW STORM DIGEST
-Date: 2026-08-24
-Status: RUN STARTED 2026-08-24T13:24:44Z
+BAKER LAW STORM ALERTS
+StormDigest — 2026-08-24
+Run completed: 2026-08-24T13:35:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+SEARCH WINDOW: August 20–24, 2026
+QUALIFYING DEVELOPMENTS: 0
+
+Sources consulted: NOAA/NHC, NWS, FEMA, TDEM, Spectrum News, Texas Tribune,
+CBS News Texas, Houston Chronicle, ABC13 Houston, SPC NOAA
+
+══════════════════════════════════════════════════════════════════
+NO QUALIFYING STORMS OR DEVELOPMENTS THIS PERIOD
+══════════════════════════════════════════════════════════════════
+
+══════════════════════════════════════════════════════════════════
+NON-QUALIFYING FINDINGS
+══════════════════════════════════════════════════════════════════
+
+ATLANTIC/GULF TROPICS:
+- No active tropical cyclones in the Atlantic basin as of August 23-24, 2026
+- 2026 season total: 2 named storms (Arthur, Bertha), 0 hurricanes
+- NOAA maintains below-normal 2026 Atlantic season prediction
+- No tropical threats to Texas coast in the 7-day forecast
+Source: NHC, NOAA (https://www.nhc.noaa.gov/),
+        NOAA press release: https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season
+
+TEXAS WEATHER (Aug 20-24):
+- Heat advisories issued for Coastal Harris, Coastal Jackson, Coastal Matagorda,
+  Coastal Brazoria, and Coastal Galveston counties — heat events do not qualify
+- No storm damage events (tornadoes, hail, flooding, high winds) found for
+  qualifying coastal counties in this window from approved sources
+- SPC Day 2 Outlook (Aug 23): Low probability of marginal severe weather in
+  Texas Panhandle only (penny-size hail, 70 mph gusts) — no confirmed damage events
+  and Panhandle counties are not qualifying coastal counties
+Source: SPC NOAA: https://www.spc.noaa.gov/products/outlook/day2otlk.html
+
+FEMA DECLARATIONS:
+- July 2026 Federal Major Disaster Declaration (DR-): President Trump approved
+  major disaster declaration for Texas July 2026 flooding. Counties: Atascosa,
+  Bandera, Bexar, Blanco, Brewster, Comal, Crockett, Dimmit, Edwards, Frio,
+  Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Mason, Maverick, Medina,
+  Menard, Real, Schleicher, Sutton, Terrell, Uvalde, Val Verde, Wilson, Zavala.
+  ALL INTERIOR COUNTIES — no qualifying coastal counties included.
+Source: Spectrum News TX: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/19/president-trump-approves-texas--major-disaster-declaration
+        TDEM: https://tdem.texas.gov/press-release/7-17-26
+- No new Individual Assistance or DR- declarations for qualifying coastal counties
+  found in the August 20-24 window.
+
+TWIA:
+- TWIA RICO lawsuit (filed Aug 13, 2026, Galveston County) — covered in
+  StormDigest-2026-08-19.txt. No new litigation developments found this window.
+
+══════════════════════════════════════════════════════════════════
+ONGOING MONITORS
+══════════════════════════════════════════════════════════════════
+- Atlantic tropics: Season peak approaches (early September). Watch for Gulf entry
+  if any disturbance tracks west.
+- FEMA Major Disaster DR- for any qualifying coastal county (Aransas, Nueces,
+  San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston)
+- TWIA RICO class-action status (Galveston, filed Aug 13): watch for court
+  certification ruling
+- July 2026 DR- amendment: watch for coastal county additions to the federal
+  disaster declaration for July flooding
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING COASTAL COUNTIES (reference)
+══════════════════════════════════════════════════════════════════
+Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson,
+Matagorda, Brazoria, Galveston
