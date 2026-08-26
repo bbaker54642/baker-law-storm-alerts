@@ -1,5 +1,73 @@
-BAKER LAW STORM DIGEST
-Date: 2026-08-26
-Status: RUN STARTED 2026-08-26T13:30:26Z
+BAKER LAW STORM ALERTS
+StormDigest — 2026-08-26
+Run completed: 2026-08-26T13:35:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+SEARCH WINDOW: August 22–26, 2026
+QUALIFYING DEVELOPMENTS: 0
+
+Sources consulted: NOAA/NHC, NWS Amarillo, FEMA, TDEM, ABC13 Houston, KXAN,
+CNN, Texas Tribune, Claims Journal, Insurance Business Magazine
+
+══════════════════════════════════════════════════════════════════
+NO QUALIFYING STORMS OR DEVELOPMENTS THIS PERIOD
+══════════════════════════════════════════════════════════════════
+
+══════════════════════════════════════════════════════════════════
+NON-QUALIFYING FINDINGS
+══════════════════════════════════════════════════════════════════
+
+AUGUST 25 TEXAS PANHANDLE THUNDERSTORM:
+- NWS Amarillo issued Severe Thunderstorm Warning Aug 25, 2026 at 4:08 PM CDT
+- Reported: 60 mph wind gusts, half-dollar size hail (1.25 inches)
+- Potential damage: "minor damage to roofs, siding, and trees; hail damage to vehicles"
+- Location: Texas Panhandle counties — NOT qualifying coastal counties
+- No confirmed damage dollar amount from approved sources; no FEMA declaration
+- Does NOT qualify on any filter criterion
+Source: GovOneStop/NWS: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-08252026-1408
+
+ATLANTIC/GULF TROPICS:
+- No tropical development expected over the next 7 days
+- 2026 season total: 3 named storms (Arthur, Bertha, Cristobal), 0 hurricanes
+- Cristobal formed Aug 12, became post-tropical Aug 13, no Texas impact
+- NOAA maintains below-normal 2026 Atlantic season; El Nino suppressing activity
+- No Gulf threats in any current forecast
+Sources: ABC13 Houston: https://abc13.com/tropicalupdate/
+         NOAA: https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season
+         KXAN: https://www.kxan.com/weather/2026-tropical-timeline-tracker/
+
+TEXAS FLOODING (prior event — no new development):
+- July 2026 Hill Country flooding (began July 12) — interior counties only
+- Federal Major Disaster Declaration covers 28 interior counties (Atascosa, Bandera,
+  Bexar, Blanco, Brewster, Comal, Crockett, Dimmit, Edwards, Frio, Gillespie,
+  Kendall, Kerr, Kimble, Kinney, La Salle, Mason, Maverick, Medina, Menard, Real,
+  Schleicher, Sutton, Terrell, Uvalde, Val Verde, Wilson, Zavala)
+- No qualifying coastal counties in any declaration
+- Texas Tribune published Aug 24 analysis on Texas flood zone development
+  (retrospective, not a new storm event)
+Source: FEMA EM-3649-TX: https://www.fema.gov/disaster/3649
+        Texas Tribune: https://www.texastribune.org/2026/08/24/texas-floods-kerr-county/
+
+FEMA DECLARATIONS:
+- No new Individual Assistance or DR- declarations for qualifying coastal counties
+  (Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda,
+  Brazoria, Galveston) found in the August 22-26 window
+
+TWIA:
+- TWIA RICO lawsuit (Galveston County, filed Aug 13, 2026) — covered in
+  StormDigest-2026-08-19.txt. Claims Journal now also covering the story (Aug 26);
+  no new legal developments found.
+Source: Claims Journal Aug 26: https://www.claimsjournal.com/news/national/2026/08/26/339783.htm
+
+══════════════════════════════════════════════════════════════════
+ONGOING MONITORS
+══════════════════════════════════════════════════════════════════
+- Atlantic tropics: Climatological peak of hurricane season approaches early September.
+  Watch for any Gulf entry disturbance.
+- FEMA Major Disaster DR- for qualifying coastal county additions to July 2026 DR
+- TWIA RICO class-action (Galveston, Aug 13): watch for court certification ruling
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING COASTAL COUNTIES (reference)
+══════════════════════════════════════════════════════════════════
+Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson,
+Matagorda, Brazoria, Galveston
