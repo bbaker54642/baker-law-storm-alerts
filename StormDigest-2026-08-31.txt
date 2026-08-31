@@ -1,5 +1,150 @@
-BAKER LAW STORM DIGEST
-Date: 2026-08-31
-Status: RUN STARTED 2026-08-31T13:26:05Z
+BAKER LAW STORM ALERTS
+StormDigest — 2026-08-31
+Run completed: 2026-08-31T13:40:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+SEARCH WINDOW: August 27–31, 2026
+QUALIFYING DEVELOPMENTS: 1 (+ 1 imminent coastal threat — see URGENT below)
+
+Sources consulted: NOAA/NHC, NWS, KSAT San Antonio, TPR (Texas Public Radio),
+KENS5, CNN, KBTX, ABC13 Houston, RGV Business Journal
+
+══════════════════════════════════════════════════════════════════
+URGENT — DEVELOPING TROPICAL THREAT TO QUALIFYING COASTAL COUNTIES
+══════════════════════════════════════════════════════════════════
+SYSTEM: Invest / Pre-Tropical Storm Edouard (potential)
+AS OF: August 31, 2026
+STATUS: Tropical depression or named storm expected to form in northern Gulf
+        before making landfall on Upper Texas or SW Louisiana coast
+        by TUESDAY NIGHT (Sept 1-2, 2026)
+TRACK: West-northwestward through Brazos Valley; models insistent on path
+       through Upper Texas coast
+EXPECTED IMPACTS: Heavy rainfall, flooding, isolated tornadoes inland
+QUALIFYING COUNTIES IN FORECAST PATH: Brazoria, Matagorda, Galveston
+SOURCES:
+  CNN, Aug. 31, 2026: https://us.cnn.com/2026/08/31/weather/tropical-storm-edouard-texas-louisiana-path-climate
+  KBTX, Aug. 31, 2026: https://www.kbtx.com/2026/08/31/tropical-development-is-imminent-gulf-heres-what-that-means-brazos-valley/
+  ABC13 Houston: https://abc13.com/tropicalupdate/
+
+NOTE: No Facebook post drafted — storm has not yet made landfall. Next run
+should search for landfall/damage immediately after Tuesday night. This is a
+high-priority watch item for qualifying coastal counties.
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING STORM #1
+══════════════════════════════════════════════════════════════════
+TYPE: Severe Thunderstorm / High-Wind Event
+DATE: August 28-29, 2026
+LOCATION: Bexar County / San Antonio metropolitan area
+QUALIFIER: Widespread structural damage to homes and businesses (sourced)
+
+STORM DETAILS:
+  Storm type:         Severe thunderstorm, straight-line winds
+  Date:               Evening of August 28 into August 29, 2026
+  Location:           Bexar County (NE through central into SW San Antonio corridor)
+  Peak wind:          77 mph gust recorded at San Antonio International Airport
+  Power outages:      104,000+ CPS Energy customers at peak
+  Deaths:             2 (being investigated as storm-related)
+  Structural damage:  75 city inspections (71 residential, 4 commercial);
+                      2 commercial buildings required emergency demolition
+  Debris:             290 downed trees, 124 tons of debris removed
+  Other:              Gas station canopy collapsed onto vehicles; 18-wheeler
+                      overturned at Heroes Stadium
+  Damage $:           No official insured damage figure published yet
+  FEMA declaration:   None found as of this run
+  Post-worthy:        YES — widespread structural damage to homes and businesses,
+                      sourced from KSAT (approved local TV station)
+
+SOURCES:
+  KSAT, Aug. 29, 2026 (peak winds/damage):
+    https://www.ksat.com/weather/2026/08/29/peak-wind-gusts-near-80-mph-leave-trail-of-damage-across-san-antonio/
+  KSAT, Aug. 29, 2026 (live updates/structural inspections/deaths):
+    https://www.ksat.com/news/local/2026/08/29/tracking-storm-damage-across-san-antonio-area-after-friday-night-storms/
+  TPR (Texas Public Radio), Aug. 29, 2026:
+    https://www.tpr.org/environment/2026-08-29/strong-storms-knock-out-power-for-up-to-100-000-cps-customers-friday-night
+  KSAT, Aug. 30, 2026 (West Side power/recovery):
+    https://www.ksat.com/news/local/2026/08/30/storm-damage-leaves-west-side-neighbors-in-the-dark-and-hoping-power-is-restore-sooner-than-said/
+
+DRAFT FACEBOOK POST:
+----------------------------------------------------------------------
+The August 28 windstorm in San Antonio produced measured gusts of 77 mph
+at San Antonio International Airport and knocked out power for more than
+104,000 CPS Energy customers.[1] I've seen what storms like this set in motion.
+
+City inspectors surveyed 75 properties over the weekend, including 71 homes
+and four commercial structures.[2] Two commercial buildings required emergency
+demolition after structural assessments.[2] Two deaths are being investigated
+as storm-related.[2]
+
+When a storm produces this kind of documented structural damage, the insurance
+process that follows is predictable. Adjusters arrive with wind speed data,
+policy language, and a checklist. They look for ways to separate wind damage
+from rain intrusion. They look for pre-existing conditions. They look for
+depreciation arguments on roofing systems and siding.
+
+Bexar County homeowners hold policies subject to Texas Department of Insurance
+rules. Those rules require insurers to acknowledge claims, request
+documentation, and issue payment or denial letters within fixed timeframes.
+What carriers choose to do within those timeframes is a different matter.
+
+A structural inspection report from a city engineer is a factual document. It
+belongs in your claim file from the moment it exists. Adjusters know to use
+those reports. Policyholders often do not.
+
+The storm set the damage. The adjuster decides what gets paid.
+
+[1] KSAT, Aug. 29, 2026:
+    https://www.ksat.com/weather/2026/08/29/peak-wind-gusts-near-80-mph-leave-trail-of-damage-across-san-antonio/
+[2] KSAT, Aug. 29, 2026:
+    https://www.ksat.com/news/local/2026/08/29/tracking-storm-damage-across-san-antonio-area-after-friday-night-storms/
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════
+NON-QUALIFYING FINDINGS
+══════════════════════════════════════════════════════════════════
+
+NORTH TEXAS STORMS (Aug 25-26, 2026 — Tarrant County/DFW):
+  - Watauga (Tarrant County): ping pong ball-size hail (1.5"), partial commercial
+    roof collapse, fences/siding damaged; North Richland Hills: 2,000 without power
+  - Tarrant County is NOT a qualifying coastal county
+  - No sourced damage figure exceeding $1M
+  - Damage appears localized, not meeting "widespread structural damage" threshold
+  Source: WFAA: https://www.wfaa.com/article/weather/storefront-damaged-power-lines-down-after-pop-up-storms-push-through-north-texas/287-d94f34ad-6d54-4efe-8e70-e559b4e0c895
+           CBS Texas: https://www.cbsnews.com/texas/news/watauga-downburst-storm-damage-surveillance-video-august-2026/
+
+CAMERON COUNTY TWIA COVERAGE LOSS (Aug 29, 2026):
+  - RGV Business Journal reports nearly 4,000 Cameron County second homes at risk
+    of losing TWIA windstorm coverage under a proposed policy change
+  - Cameron County is a Texas Gulf Coast county but NOT on the qualifying coastal
+    county list for this monitor (Aransas, Nueces, San Patricio, Refugio, Calhoun,
+    Victoria, Jackson, Matagorda, Brazoria, Galveston)
+  - No storm event — a coverage/regulatory issue; noting for awareness
+  Source: RGV Business Journal: https://www.rgvbusinessjournal.com/news/29/08/2026/cameron-county-second-homes-windstorm-insurance-twia/
+
+FEMA DECLARATIONS:
+  - No new Individual Assistance or DR- declarations for qualifying coastal counties
+    found in this window; July 2026 DR- counties remain all interior
+
+ATLANTIC SEASON:
+  - 2026 season: Arthur, Bertha, Cristobal + imminent Edouard; 0 hurricanes
+  - NOAA below-normal season forecast maintained (El Nino effect)
+  Source: NOAA: https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season
+
+══════════════════════════════════════════════════════════════════
+ONGOING MONITORS
+══════════════════════════════════════════════════════════════════
+HIGH PRIORITY:
+  - Tropical Storm Edouard / Gulf disturbance: Expected landfall Upper Texas coast
+    Tuesday night (Sept 1-2). Next run must search for landfall/damage immediately.
+    Qualifying counties in path: Brazoria, Matagorda, Galveston.
+
+STANDARD:
+  - San Antonio storm: Watch for FEMA declaration request (Bexar County) and
+    official insured damage estimates
+  - TWIA RICO class-action (Galveston, Aug 13): watch for court certification ruling
+  - July 2026 DR- watch for coastal county additions
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING COASTAL COUNTIES (reference)
+══════════════════════════════════════════════════════════════════
+Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson,
+Matagorda, Brazoria, Galveston
