@@ -1,5 +1,195 @@
-BAKER LAW STORM DIGEST
-Date: 2026-09-02
-Status: RUN STARTED 2026-09-02T13:22:56Z
+BAKER LAW STORM ALERTS
+StormDigest — 2026-09-02
+Run completed: 2026-09-02T13:40:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+SEARCH WINDOW: August 29 – September 2, 2026
+QUALIFYING DEVELOPMENTS: 2
+
+Sources consulted: NOAA/NHC, NWS, CNN, Fox Weather, Fox 26 Houston, Click2Houston/KPRC2,
+Houston Chronicle, KHOU, ABC13 Houston, KXAN, KBTX, TDEM, CBS News, KSAT San Antonio,
+TPR Texas Public Radio, Houston Public Media
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING STORM #1
+══════════════════════════════════════════════════════════════════
+TYPE: Tropical Storm
+NAME: Tropical Storm Edouard
+DATE: September 1, 2026 (landfall)
+LOCATION: Galveston, Brazoria, Matagorda counties (Texas coastal counties — all qualifying)
+QUALIFIER: Hit qualifying coastal counties (Galveston, Brazoria, Matagorda)
+
+STORM DETAILS:
+  Formation:      August 31, 2026 (Gulf of Mexico, formed rapidly overnight)
+  Landfall:       September 1, 2026, ~2:20 p.m. CT near Johnson Bayou, Louisiana
+                  (immediately east of Port Arthur, TX / Texas-Louisiana border)
+  Max winds:      60 mph sustained at landfall
+  Wind gusts:     90 mph in Port Arthur; 71 mph near TX/LA border
+  Coastal impact: Tropical storm warnings issued for Galveston Island, Inland
+                  Galveston County, Inland Brazoria County, Inland Matagorda County
+  Storm surge:    1-2 feet from Galveston to Chambers County
+  Rainfall:       6.66+ inches in Beaumont; 3-10 inches widespread SE Texas;
+                  isolated totals 10-15 inches possible
+  Power outages:  75,000-82,000 in Texas at peak; 47,000 in Jefferson County alone
+  Flooding:       Flash flood warnings in effect for Hardin, Orange, and Jefferson
+                  Counties; Neches River flood warning
+  FEMA:           TDEM disaster page created (https://tdem.texas.gov/disasters/tropical-storm-edouard);
+                  no federal disaster declaration found yet as of this run
+  Post-worthy:    YES — tropical storm warnings for Galveston, Brazoria, Matagorda
+                  counties; storm surge in Galveston County
+
+SOURCES:
+  Fox Weather, Sept. 1, 2026:
+    https://www.foxweather.com/weather-news/tropical-storm-edouard-gulf-targets-texas-louisiana-landfall
+  Click2Houston/KPRC2, Sept. 1, 2026:
+    https://www.click2houston.com/weather/2026/09/01/tropical-storm-edouard-heres-the-timeline-for-houston-se-texas/
+  Houston Chronicle live updates:
+    https://www.houstonchronicle.com/news/houston-weather/article/tropical-storm-edouard-live-updates-22411404.php
+  KHOU, Sept. 1, 2026:
+    https://www.khou.com/article/weather/hurricane/tropical-storm-edouard-gulf-texas/285-0340f157-1eef-4122-adde-c86515bcb7ba
+  ABC13 Houston: https://abc13.com/tropicalupdate/
+  CNN, Aug. 31 / Sept. 1, 2026:
+    https://us.cnn.com/2026/08/31/weather/tropical-storm-edouard-texas-louisiana-path-climate
+  TDEM: https://tdem.texas.gov/disasters/tropical-storm-edouard
+  KBTX: https://www.kbtx.com/2026/09/01/tropical-storm-edouard-makes-landfall-texas-louisiana-border/
+  Fox 26 Houston: https://www.fox26houston.com/weather/tropical-storm-edouard-houston-texas-2026
+  Houston Public Media: https://www.houstonpublicmedia.org/articles/news/weather/2026/08/31/560724/tropicall-disturbance-houston-galveston-storm-rain/
+
+DRAFT FACEBOOK POST — Tropical Storm Edouard:
+----------------------------------------------------------------------
+Tropical Storm Edouard made landfall near Port Arthur on September 1 with
+sustained winds of 60 mph.[1] Tropical storm warnings covered Galveston Island,
+Galveston County, Brazoria County, and Matagorda County, with a 1-to-2-foot
+storm surge along the Galveston coast.[2] More than 75,000 Texas customers
+lost power.[1]
+
+If you hold a TWIA policy in one of those counties, the claims window is open now.
+
+The first dispute most policyholders face after a tropical storm is not whether
+the damage happened. It is which policy pays for which damage. Wind damage goes
+to TWIA or your windstorm carrier. Flood damage goes to your federal flood policy,
+if you have one. When a storm delivers both wind and water simultaneously, each
+insurer points at the other. I've worked these disputes for years. That delay is
+not an accident.
+
+The second issue is documentation timing. Damage estimates written in the first
+days after a storm capture visible damage only. Water that entered through
+wind-driven openings migrates into wall cavities, roof decking, and insulation
+over weeks. A claim closed early based on a first-pass inspection will miss
+that damage.
+
+TWIA's response timelines are set by Texas law. What adjusters do within those
+timelines is their choice.
+
+[1] Fox Weather, Sept. 1, 2026:
+    https://www.foxweather.com/weather-news/tropical-storm-edouard-gulf-targets-texas-louisiana-landfall
+[2] Click2Houston/KPRC2, Sept. 1, 2026:
+    https://www.click2houston.com/weather/2026/09/01/tropical-storm-edouard-heres-the-timeline-for-houston-se-texas/
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING STORM #2
+══════════════════════════════════════════════════════════════════
+TYPE: Severe Thunderstorm / High-Wind Event
+DATE: August 28-29, 2026
+LOCATION: Bexar County / San Antonio
+QUALIFIERS: (1) Damage >$1M — sourced $10M city estimate; (2) Widespread structural damage
+
+STORM DETAILS:
+  Storm type:       Severe thunderstorm, straight-line winds / downburst
+  Date:             Evening Aug 28 into Aug 29, 2026
+  Location:         Bexar County (NE through central into SW San Antonio corridor)
+  Peak wind:        77 mph gust at San Antonio International Airport
+  Power outages:    111,000 CPS Energy customers at peak
+  Damage estimate:  Nearly $10 million (city of San Antonio estimate, Sept 1)
+  Structural damage: 75 city inspections (71 residential, 4 commercial);
+                    2 commercial buildings required emergency demolition
+  Deaths:           2 (being investigated as storm-related)
+  Debris:           290 downed trees, 124 tons of debris removed
+  Other:            Gas station canopy collapsed; 18-wheeler overturned at Heroes Stadium
+  FEMA:             None found as of this run
+  Post-worthy:      YES — sourced $10M city damage estimate (>$1M threshold);
+                    widespread structural damage (KSAT-sourced)
+
+SOURCES:
+  KSAT, Aug. 29, 2026 (peak winds/damage corridor):
+    https://www.ksat.com/weather/2026/08/29/peak-wind-gusts-near-80-mph-leave-trail-of-damage-across-san-antonio/
+  KSAT, Aug. 29, 2026 (structural inspections/deaths):
+    https://www.ksat.com/news/local/2026/08/29/tracking-storm-damage-across-san-antonio-area-after-friday-night-storms/
+  KSAT, Sept. 1, 2026 ($10M damage estimate):
+    https://www.ksat.com/news/local/2026/09/01/title-2/
+  TPR (Texas Public Radio), Aug. 29, 2026:
+    https://www.tpr.org/environment/2026-08-29/strong-storms-knock-out-power-for-up-to-100-000-cps-customers-friday-night
+
+DRAFT FACEBOOK POST — San Antonio August 28 Storm:
+----------------------------------------------------------------------
+The August 28 windstorm in San Antonio produced measured gusts of 77 mph at
+San Antonio International Airport and knocked out power for more than 111,000
+CPS Energy customers.[1] San Antonio officials estimate the storm caused nearly
+$10 million in damage.[2] I've seen what storms like this set in motion.
+
+City inspectors surveyed 75 properties over the weekend, including 71 homes and
+four commercial structures.[1] Two commercial buildings required emergency
+demolition after structural assessments.[1] Two deaths are being investigated as
+storm-related.[1]
+
+When a storm produces this kind of documented structural damage, the insurance
+process that follows is predictable. Adjusters arrive with wind speed data,
+policy language, and a checklist. They look for ways to separate wind damage
+from rain intrusion. They look for pre-existing conditions. They look for
+depreciation arguments on roofing systems and siding.
+
+Bexar County homeowners hold policies subject to Texas Department of Insurance
+rules. Those rules require insurers to acknowledge claims, request documentation,
+and issue payment or denial letters within fixed timeframes. What carriers choose
+to do within those timeframes is a different matter.
+
+A structural inspection report from a city engineer is a factual document. It
+belongs in your claim file from the moment it exists. Adjusters know to use those
+reports. Policyholders often do not.
+
+The storm set the damage. The adjuster decides what gets paid.
+
+[1] KSAT, Aug. 29, 2026:
+    https://www.ksat.com/news/local/2026/08/29/tracking-storm-damage-across-san-antonio-area-after-friday-night-storms/
+[2] KSAT, Sept. 1, 2026:
+    https://www.ksat.com/news/local/2026/09/01/title-2/
+----------------------------------------------------------------------
+
+══════════════════════════════════════════════════════════════════
+NON-QUALIFYING FINDINGS
+══════════════════════════════════════════════════════════════════
+
+TWIA BOARD (Sept. 1, 2026):
+  TWIA Legislative Committee finalized recommendations for the biennial legislative
+  report, including MDL reform, FORTIFIED home construction, and catastrophe funding
+  structure changes. No new storm claims bulletin issued.
+  Source: TWIA: https://www.twia.org/twia-committee-finalizes-recommendations-to-board-on-legislative-report-3/
+
+FEMA:
+  - No new federal disaster declaration (DR-) found for Edouard or San Antonio storm
+    as of this run; TDEM has Edouard disaster page active
+    (https://tdem.texas.gov/disasters/tropical-storm-edouard)
+  - Monitor for DR- request covering Galveston, Jefferson, or other coastal counties
+
+ATLANTIC SEASON:
+  - Edouard is the 4th named storm of 2026 (Arthur, Bertha, Cristobal, Edouard);
+    0 hurricanes; season running 11% of average as of Aug 30
+  - No new systems in Gulf currently; monitor for September peak activity
+
+══════════════════════════════════════════════════════════════════
+ONGOING MONITORS
+══════════════════════════════════════════════════════════════════
+HIGH PRIORITY:
+  - Edouard damage assessment: Watch for FEMA DR- covering Galveston, Brazoria,
+    Matagorda, Jefferson counties; official insured damage estimates
+  - San Antonio: Watch for FEMA declaration (Bexar County) and state disaster
+    reimbursement determination
+STANDARD:
+  - TWIA RICO class-action (Galveston, Aug 13): watch for court certification ruling
+  - September is climatological peak of hurricane season; watch Gulf for new development
+
+══════════════════════════════════════════════════════════════════
+QUALIFYING COASTAL COUNTIES (reference)
+══════════════════════════════════════════════════════════════════
+Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson,
+Matagorda, Brazoria, Galveston
