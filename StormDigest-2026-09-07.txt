@@ -1,5 +1,116 @@
 BAKER LAW STORM DIGEST
 Date: 2026-09-07
-Status: RUN STARTED 2026-09-07T13:20:30Z
+Window: September 3-7, 2026
+Status: COMPLETE — No qualifying storms this window
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+Search completed: 2026-09-07
+Sources checked: NWS, NOAA, FEMA, KSAT, KHOU, KIII, Click2Houston/KPRC2, Houston Chronicle,
+  Corpus Christi Caller-Times, San Antonio Express-News, AP, Reuters, Insurance Journal
+
+==============================================================================
+QUALIFYING STORMS THIS WINDOW: NONE
+==============================================================================
+
+No storm events affecting qualifying coastal counties (Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, or Galveston) were found
+in the September 3-7, 2026 window from approved sources.
+
+==============================================================================
+MONITORED DEVELOPMENTS (Non-Qualifying)
+==============================================================================
+
+--- 1. TROPICAL STORM EDOUARD AFTERMATH (Sept 2-5) ---
+Damage concentrated in non-qualifying east Texas counties.
+
+Edouard (landfall Sept 1 near Port Arthur/Johnson Bayou area) moved inland and
+stalled, producing catastrophic rainfall in east Texas:
+- 20+ inches recorded in Hardin and Tyler counties
+- Flash Flood Emergency issued for Hardin and Tyler counties
+- 21 people rescued from assisted living facility in Hardin County
+- Polk County issued local disaster declaration (Sept 2)
+- Flood warnings active through Sept 4
+
+Counties with Edouard damage: Jefferson, Hardin, Tyler, Orange, Polk.
+NONE are qualifying coastal counties. No federal DR- issued for Edouard as of
+Sept 7 search date.
+
+Note: Jefferson County (Port Arthur area) is not on the qualifying coastal counties
+list despite its coastal location. It is not among the 10 qualifying counties
+(Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda,
+Brazoria, Galveston).
+
+The Sept 2 digest already captured Edouard's qualifying impact on Galveston County,
+Brazoria County, and Matagorda County (tropical storm warnings, storm surge).
+This window's Edouard findings are aftermath only — interior flooding, no new
+coastal-county qualifying event.
+
+--- 2. JULY 2026 FLOODING — FEMA MAJOR DISASTER DECLARATION (Sept 3) ---
+Federal DR- approved for 19 interior counties. No qualifying coastal counties.
+
+Governor Abbott announced on Sept 3 that FEMA approved a Major Disaster Declaration
+for Texas summer severe weather and flooding (July 2026 event). Public Assistance
+approved for:
+  Bandera, Crockett, Dimmit, Edwards, Frio, Gillespie, Kendall, Kerr, Kimble,
+  Kinney, La Salle, Mason, Maverick, Menard, Real, Sutton, Uvalde, Val Verde, Zavala
+
+All 19 counties are interior Texas. None are qualifying coastal counties.
+Individual Assistance request for 30 counties remains pending as of Sept 7.
+
+DOES NOT QUALIFY.
+
+--- 3. BEXAR COUNTY (SAN ANTONIO) — DAMAGE ASSESSMENT IN PROGRESS ---
+Preliminary damage assessments underway. No federal declaration issued yet.
+
+Governor Abbott directed SBA, state, and local officials to conduct Joint Preliminary
+Damage Assessments (JPDAs) for Bexar County following the August 28-29 severe
+windstorm (previously covered in Aug 31 and Sept 2 digests). A JPDA is a federal
+disaster declaration eligibility step — it is NOT itself a declaration.
+
+Status: Under evaluation. No federal DR- issued for Bexar County as of Sept 7.
+
+Note: The August 28-29 San Antonio storm already qualifies under the "widespread
+structural damage" criterion (75 structural inspections, 2 commercial buildings
+demolished, ~$10M damage estimate — all KSAT-sourced) and was captured in the
+Aug 31 and Sept 2 digests. A Bexar County federal declaration, if issued, would
+add a FEMA qualifier but is not needed for the prior qualification.
+
+--- 4. TWIA RICO LAWSUIT — MAGAZINE COVERAGE (Sept 7) ---
+No new legal development. Prior coverage stands.
+
+Insurance Journal published a magazine feature on Sept 7, 2026 on the Aug 13 RICO
+lawsuit filed by three Galveston-area homeowners against TWIA. The feature
+repackages the same underlying lawsuit — no new court filings, no class-action
+certification, no settlement. This is not a new legal development.
+
+The Aug 19 digest captured the original TWIA RICO filing and published a Facebook
+post on that event. No additional post warranted.
+
+==============================================================================
+MONITORING QUEUE (Ongoing)
+==============================================================================
+
+- Edouard federal DR-: Watch for FEMA Major Disaster Declaration covering
+  Jefferson, Hardin, Tyler, Orange, Polk counties. Will not qualify unless
+  declaration covers Galveston, Brazoria, or Matagorda counties.
+
+- Bexar County federal DR-: SBA/state JPDAs in progress for Aug 28-29 storm.
+  If declaration issued, note it as additional qualifier for already-qualifying
+  storm (no new Facebook post needed — event already covered).
+
+- TWIA RICO lawsuit: Watch for class-action certification ruling in federal court.
+
+- Atlantic/Gulf: September is statistical peak of hurricane season. Monitor for
+  Gulf tropical development threatening qualifying coastal counties.
+
+==============================================================================
+PRIOR QUALIFYING EVENTS (Already Covered)
+==============================================================================
+
+Aug 19 digest: TWIA RICO lawsuit (Galveston County, filed Aug 13)
+Aug 31 digest: San Antonio Aug 28-29 windstorm (widespread structural damage)
+Sept 2 digest: Tropical Storm Edouard (Galveston, Brazoria, Matagorda counties);
+               San Antonio Aug 28-29 storm updated with $10M damage sourcing
+
+==============================================================================
+END OF DIGEST
+==============================================================================
