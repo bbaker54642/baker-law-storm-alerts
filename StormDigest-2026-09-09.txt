@@ -1,5 +1,177 @@
 BAKER LAW STORM DIGEST
 Date: 2026-09-09
-Status: RUN STARTED 2026-09-09T13:18:10Z
+Window: September 5-9, 2026
+Status: COMPLETE — No qualifying storms this window
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+Search completed: 2026-09-09
+Sources checked: NWS, NOAA/NHC, FEMA, TDEM, TWIA, Houston Chronicle, KHOU, KIII,
+  Click2Houston/KPRC2, Fox 26 Houston, Insurance Journal, Texarkana Gazette,
+  KSLA, KTBS, AP, Reuters, Fox Weather, Texas Tribune, Houston Public Media
+
+==============================================================================
+QUALIFYING STORMS THIS WINDOW: NONE
+==============================================================================
+
+No storm events affecting qualifying coastal counties (Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, or Galveston) were found
+in the September 5-9, 2026 window from approved sources. No sourced damage >$1M,
+no FEMA declaration, and no widespread structural damage was found for any storm
+in the window that would otherwise qualify.
+
+==============================================================================
+ALL STORMS FOUND — SEPT 5-9 WINDOW
+==============================================================================
+
+--- STORM 1: Tropical Storm Edouard Remnants (Sept 5) ---
+Storm: Tropical depression/remnant flooding (Edouard aftermath)
+Date: September 5, 2026 (tail of Sept 1-4 event)
+Location: Hardin County (Kountze, Honey Island), Tyler County, Polk County,
+          Jefferson County — East Texas
+Strength: Flash Flood Emergencies in Hardin and Tyler counties; 15-28 in. total
+          rainfall; active flood warnings through Sept 5-6
+Source: NWS Lake Charles flood warnings (govonestop.com NWS relays)
+        Fox Weather: foxweather.com/weather-news/tropical-depression-edouard-soaks-southeast-texas
+Damage: Ongoing flooding — roads closed, motorist rescues; no new dollar total sourced
+FEMA declaration: No federal DR for Edouard counties as of Sept 9
+Post-worthy: NO — non-qualifying counties (Jefferson, Hardin, Tyler, Polk, Orange);
+             event already covered in Sept 2 digest; FEMA assessed Hardin County
+             and found damage below debris-removal threshold
+
+--- STORM 2: Severe Thunderstorm — Texas Panhandle (Sept 5) ---
+Storm: Severe thunderstorm
+Date: September 5, 2026 (4:24-7:43 PM CDT)
+Location: Near Canyon and Umbarger (Randall County); near Hereford (Deaf Smith County)
+Strength: 50-55 mph wind gusts; pea-size hail
+Source: NWS severe thunderstorm warnings via govonestop.com
+Damage: Minor — tree limbs, unsecured objects; no sourced dollar amount
+FEMA declaration: None
+Post-worthy: NO — non-qualifying county; no sourced $1M+ damage; no structural damage
+
+--- STORM 3: Severe Thunderstorm — Dalhart / Panhandle (Sept 6) ---
+Storm: Severe thunderstorm
+Date: September 6, 2026 (3:22-3:40 PM CDT)
+Location: Near Dalhart, south-central Dallam County / north-central Hartley County
+Strength: 60 mph wind gusts; nearly stationary storm
+Source: NWS severe thunderstorm warnings via govonestop.com;
+        The Dalhart Texan damage assessment coverage
+Damage: Minor damage to roofs, siding, trees; no sourced dollar amount
+FEMA declaration: None
+Post-worthy: NO — non-qualifying county; no sourced $1M+ damage
+
+--- STORM 4: Microburst / Severe Thunderstorm — Texarkana (Sept 7-8) ---
+Storm: Confirmed microburst (NWS classification)
+Date: Night of September 7 / reported September 8, 2026
+Location: Texarkana (Spring Lake Park area), Bowie County; also western Bowie County
+          (Peach Tree Recovery Ranch area)
+Strength: 50-60 mph wind gusts
+Source: Texarkana Gazette (Sept 8):
+          texarkanagazette.com/news/2026/sep/08/strong-winds-from-microburst-thunderstorm-damage/
+        KSLA: ksla.com/2026/09/08/storm-damages-homes-uproots-trees-texarkana/
+        KTBS: ktbs.com/news/texarkana/storm-damage-cleanup-continues-in-bowie-county/
+Damage: Patio roof blown off Fat Jack's Oyster and Sports Bar; tree fell on
+        residential home and vehicle; complete roof blown off one building and
+        entire back wall collapsed at Peach Tree Recovery Ranch; widespread tree
+        damage and power outages citywide. No sourced dollar total.
+FEMA declaration: None
+Post-worthy: NO — Bowie County is not a qualifying coastal county; damage is
+             localized (3 discrete sites); no sourced $1M+ amount; no structural
+             inspection tally from a city agency
+
+--- STORM 5: Severe Thunderstorm — Presidio County, West Texas (Sept 8) ---
+Storm: Severe thunderstorm
+Date: September 8, 2026 (2:31 PM CDT)
+Location: Near Adobes, ~15 miles northwest of Presidio city, Presidio County
+Strength: 60 mph wind gusts; quarter-size hail (0.75 in.)
+Source: NWS severe thunderstorm warning via govonestop.com
+Damage: Hail damage to vehicles expected; no confirmed dollar figure
+FEMA declaration: None
+Post-worthy: NO — non-qualifying county; no sourced damage amount
+
+--- STORM 6: Severe Thunderstorm — East Texas (Sept 8) ---
+Storm: Severe thunderstorm
+Date: September 8, 2026 (5:40-5:57 PM CDT)
+Location: Angelina / San Augustine / Sabine counties — near Browndell, Ebenezer
+Strength: 60 mph wind gusts; penny-size hail (0.75 in.)
+Source: NWS severe thunderstorm warnings via govonestop.com
+Damage: No confirmed damage or dollar figures found
+FEMA declaration: None
+Post-worthy: NO — non-qualifying counties; no sourced damage
+
+==============================================================================
+MONITORED DEVELOPMENTS (Non-Qualifying)
+==============================================================================
+
+--- 1. EDOUARD FEMA DECLARATION — NO FEDERAL DR ISSUED ---
+As of September 9, no FEMA Major Disaster Declaration has been approved for any
+county affected by Tropical Storm Edouard (landfall Sept 1). Local declarations
+were issued by Jefferson County, Port Arthur, Hardin County, Polk County, Orange
+County, and Chambers County. FEMA conducted a debris assessment for Hardin County
+and determined the amount and extent of debris does NOT meet FEMA criteria for
+federally-funded debris removal. No federal DR appears imminent for Edouard.
+Source: KFDM — feds-not-enough-storm-related-debris-in-hardin-county-for-federally-funded-removal
+
+Note: Qualifying coastal counties (Galveston, Brazoria, Matagorda) saw minor impacts
+from Edouard — already covered in the Sept 2 digest. A federal declaration for
+those counties would add a FEMA qualifier to that already-documented event, but
+the evidence trail now suggests it is unlikely.
+
+--- 2. BEXAR COUNTY (SAN ANTONIO) — STILL IN ASSESSMENT PHASE ---
+No federal FEMA disaster declaration has been approved for Bexar County from the
+August 28-29 windstorm. Governor Abbott directed Joint Preliminary Damage Assessments
+(SBA + state + local) for Bexar County — this is a precursor step, not a declaration.
+Residents are self-reporting losses via TDEM's iSTAT tool. Process is ongoing with
+no approval or denial as of September 9.
+Sources: Houston Public Media, TPR (Texas Public Radio), CBS Austin
+
+The August 28-29 San Antonio storm already qualifies in prior digests (Aug 31 and
+Sept 2) under widespread structural damage and sourced $10M damage estimate. A federal
+declaration, if eventually issued, would add a FEMA qualifier but is not needed for
+the prior qualification.
+
+--- 3. JULY 2026 FEMA DR-4935 — UNCHANGED ---
+FEMA-4935-DR (signed September 1, published Federal Register September 9) covers
+the July 2026 severe storms and flooding. Public Assistance approved for 19 counties
+(Bandera, Crockett, Dimmit, Edwards, Frio, Gillespie, Kendall, Kerr, Kimble,
+Kinney, La Salle, Mason, Maverick, Menard, Real, Sutton, Uvalde, Val Verde, Zavala).
+All interior Texas. Governor's IA request for 30 counties remains pending; the
+specific counties were not confirmed in available sources.
+Source: federalregister.gov/documents/2026/09/09/2026-18354/...
+
+--- 4. TWIA — NO NEW STORM BULLETINS ---
+No TWIA claims bulletins or post-storm announcements for September 2026 were found.
+TWIA's September 1 Legislative Committee meeting addressed biennial report topics
+(including multidistrict litigation recommendations). No TWIA moratorium was
+triggered — Edouard made landfall as a tropical storm, not a hurricane.
+No rate increase for 2026 (0% filing with TDI confirmed).
+Source: twia.org/category/news-and-announcements/
+
+--- 5. ATLANTIC TROPICAL ACTIVITY — QUIET ---
+No new tropical systems threatened Texas during September 5-9. The Atlantic went
+quiet after Edouard. El Nino-driven wind shear is suppressing basin-wide
+development. NOAA revised 2026 season forecast downward (below-normal season).
+Source: NOAA; Fox Weather (Bryan Norcross analysis Sept 2)
+
+==============================================================================
+PRIOR QUALIFYING EVENTS (Already Covered)
+==============================================================================
+
+Aug 19 digest: TWIA RICO lawsuit (Galveston County, filed Aug 13)
+Aug 31 digest: San Antonio Aug 28-29 windstorm (widespread structural damage)
+Sept 2 digest: Tropical Storm Edouard (Galveston, Brazoria, Matagorda counties);
+               San Antonio Aug 28-29 storm updated with $10M damage sourcing
+
+==============================================================================
+MONITORING QUEUE
+==============================================================================
+
+- Bexar County federal DR: SBA/state JPDAs in progress. If issued, no new
+  Facebook post needed — event already covered; note as additional qualifier.
+- TWIA RICO lawsuit: Watch for class-action certification in federal court.
+- Gulf tropical development: September is statistical peak. Atlantic currently
+  quiet but monitor for any Gulf formation.
+- Edouard federal DR: Hardin County FEMA debris assessment finding suggests
+  no declaration imminent. Continue monitoring for completeness.
+
+==============================================================================
+END OF DIGEST
+==============================================================================
