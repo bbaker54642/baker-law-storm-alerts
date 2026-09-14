@@ -1,5 +1,247 @@
 BAKER LAW STORM DIGEST
 Date: 2026-09-14
-Status: RUN STARTED 2026-09-14T13:15:39Z
+Window: September 10-14, 2026
+Status: COMPLETE
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+Search completed: 2026-09-14
+Sources checked: NWS, NOAA/NHC, FEMA, TDEM, TWIA, SBA, Houston Chronicle, KHOU, KIII,
+  Click2Houston/KPRC2, Fox4 Beaumont, KFDM, Fox 26 Houston, KSAT, TPR, Houston Public
+  Media, Federal Register, Insurance Journal, AP, Reuters
+
+==============================================================================
+STORMS FOUND: 6
+POST-WORTHY: 1 (TWIA insurance development — Galveston County coastal policyholders)
+NOT POST-WORTHY: 6
+==============================================================================
+
+Note on the qualifying development: The TWIA second-homes coverage vote (Sept 1)
+is an insurance policy development, not a storm. It is treated as qualifying under
+the same precedent as the TWIA RICO lawsuit in the Aug 19 digest: it is a significant
+insurance action directly affecting policyholders in a qualifying coastal county
+(Galveston County, 18,178 policies), sourced to approved local TV stations.
+
+==============================================================================
+ALL STORMS FOUND — SEPT 10-14 WINDOW
+==============================================================================
+
+--- STORM 1: Severe Thunderstorm — Texas Panhandle (Sept 10) ---
+Storm: Severe thunderstorm
+Date: September 10, 2026 (approx. 3:32-5:36 PM CDT)
+Location: Armstrong, Carson, Gray, Donley counties; cities: Panhandle, Claude,
+          Groom, Washburn, Pantex
+Strength: 70 mph wind gusts; half-dollar-size hail (1.25 in.)
+Source: NWS Amarillo warnings via govonestop.com
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09102026-1532
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09102026-1536
+Damage: Trees downed; hail damage to vehicles; no sourced dollar total
+FEMA declaration: None
+Post-worthy: NO — non-qualifying counties; no sourced $1M+ damage
+
+--- STORM 2: Large Hail — Canyon / Lake Tanglewood (Sept 10) ---
+Storm: Severe thunderstorm
+Date: September 10, 2026 (approx. 5:49-5:53 PM CDT)
+Location: Randall County; Lake Tanglewood (~9 miles east of Canyon)
+Strength: 70 mph wind gusts; tennis-ball-size hail (2.5 in.)
+Source: NWS Amarillo warnings via govonestop.com
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09102026-1549-0
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09102026-1553
+Damage: Expected roof, siding, window, vehicle damage; no sourced dollar total
+FEMA declaration: None
+Post-worthy: NO — non-qualifying county; no sourced $1M+ damage
+
+--- STORM 3: Severe Thunderstorms — West Texas (Sept 10) ---
+Storm: Severe thunderstorms
+Date: September 10, 2026 (5:42-7:29 PM CDT, multiple cells)
+Location: NWS Lubbock area; Claytonville area
+Strength: Baseball-size hail (2 in.) in some warnings; 60 mph gusts
+Source: NWS Lubbock warnings via govonestop.com
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09102026-1742
+Damage: Hail to roofs, vehicles; no sourced dollar total
+FEMA declaration: None
+Post-worthy: NO — non-qualifying counties; no sourced $1M+ damage
+
+--- STORM 4: Severe Thunderstorm — Freestone / Navarro Counties (Sept 11) ---
+Storm: Severe thunderstorm
+Date: September 11, 2026 (approx. 2:38-2:55 PM CDT)
+Location: Northwestern Freestone County, South Central Navarro County; cities:
+          Streetman, Teague, Fairfield, Richland-Chambers Reservoir area
+Strength: 60 mph wind gusts; quarter-size hail (1.0 in.)
+Source: NWS Fort Worth warning via govonestop.com
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09112026-1255
+Damage: Hail to vehicles; wind damage to roofs, siding, trees; no dollar total
+FEMA declaration: None
+Post-worthy: NO — non-qualifying counties; no sourced $1M+ damage
+
+--- STORM 5: Severe Thunderstorms — Ochiltree / Roberts / Lipscomb (Sept 12) ---
+Storm: Severe thunderstorms (Severe Thunderstorm Watch in effect TX + Oklahoma)
+Date: September 12, 2026 (approx. 3:57-5:54 PM CDT, multiple cells)
+Location: Roberts, Ochiltree, Lipscomb counties (TX Panhandle); Perryton, Lipscomb
+Strength: 60 mph wind gusts; quarter-size hail (1.0 in.)
+Source: NWS Amarillo/OUN warnings via govonestop.com
+        govonestop.com/nws/oklahoma-texas-severe-severe-thunderstorm-watch-effective-09122026-1344
+        govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09122026-1557
+Damage: Minor damage to roofs, siding, trees; no sourced dollar total
+FEMA declaration: None
+Post-worthy: NO — non-qualifying counties; no sourced $1M+ damage
+
+--- STORM 6: Weak Thunderstorms / Flooding — El Paso / Panhandle (Sept 13) ---
+Storm: Strong thunderstorms with localized flooding (below severe threshold)
+Date: September 13, 2026 (evening)
+Location: Eastern El Paso County; SE Dallam County / NE Hartley County (Panhandle)
+Strength: 50-55 mph gusts; half-inch hail near Candelaria; 1-1.5 in. rain
+Source: NWS warnings via govonestop.com
+        govonestop.com/nws/texas-minor-flood-advisory-effective-09132026-1906
+Damage: Tree limbs down; localized street flooding; no dollar total
+FEMA declaration: None
+Post-worthy: NO — non-qualifying counties; below severe threshold; no sourced damage
+
+==============================================================================
+QUALIFYING DEVELOPMENT (Insurance Policy Action — Galveston County)
+==============================================================================
+
+DEVELOPMENT: TWIA Second-Homes Coverage Vote — September 1, 2026
+Qualifying county: Galveston County (18,178 policies directly affected)
+Source 1: KFDM (Beaumont, TX — approved local TV station):
+  kfdm.com/news/local/twia-makes-key-decision-on-coverage-for-53620-second-homes-beach-cabins
+Source 2: Fox4 Beaumont (approved local TV station):
+  fox4beaumont.com/news/insurance-storm-brewing-22600-beach-cabins-second-homes-in-setx-may-lose-twia-coverage
+Source 3: TWIA official announcement:
+  twia.org/public-invited-to-comment-as-twia-committee-continues-work-on-report-to-legislature-at-september-1-meeting/
+
+What happened: The TWIA Legislative and External Affairs Committee voted 2-1 to
+remove a proposal that would have eliminated TWIA windstorm coverage for 53,620
+second homes, beach cabins, and vacation rental properties along the Texas coast.
+Key facts (sourced):
+- 53,620 second-home policies would have lost TWIA coverage
+- 18,178 policies concentrated in Galveston County
+- 22,632 total across Galveston, Jefferson, and Chambers counties
+- Only 4 of 295 written public comments supported the proposal
+- The committee vote was 2-1
+Post-worthy: YES — directly affects 18,178 Galveston County policyholders;
+             sourced to approved outlets; follows RICO lawsuit precedent (Aug 19 digest);
+             significant near-miss for coastal coverage elimination
+
+==============================================================================
+DRAFT POST — TWIA SECOND-HOMES COVERAGE VOTE
+==============================================================================
+
+STORM/DEVELOPMENT: TWIA Coverage Vote — Galveston County Second Homes
+
+---
+On September 1, the TWIA board committee voted 2 to 1 to drop a proposal that
+would have eliminated windstorm coverage for 53,620 second homes and beach
+properties across the Texas coast.[1] Only 4 of 295 written public comments
+supported the proposal.[1]
+
+Galveston County alone has 18,178 TWIA policies on second homes and beach
+cabins.[1] Under the proposal, every one of those policies would have ended.
+
+I have watched TWIA's policy decisions for years. This one matters. TWIA is
+the windstorm insurer of last resort for coastal Texas. When private carriers
+won't write windstorm coverage, TWIA is what is available. A beach house that
+loses TWIA coverage does not automatically find a replacement. Private market
+capacity on the Texas coast for windstorm is thin.
+
+The committee voted no this time. That vote was 2 to 1. The proposal can come
+back. The board meets regularly, and coverage decisions can change with the
+agenda.
+
+If you own a beach property or vacation home in a TWIA-eligible county, your
+windstorm coverage is not permanent by default. It is subject to board decisions.
+The public comment process is real, and those comments carried weight this time.[1]
+
+Storm damage is one thing people with coastal properties prepare for. Coverage
+loss is another.
+
+SOURCES:
+[1] https://kfdm.com/news/local/twia-makes-key-decision-on-coverage-for-53620-second-homes-beach-cabins
+[2] https://www.twia.org/public-invited-to-comment-as-twia-committee-continues-work-on-report-to-legislature-at-september-1-meeting/
+---
+
+==============================================================================
+MONITORING UPDATES (Non-Qualifying / Prior Events)
+==============================================================================
+
+--- 1. BEXAR COUNTY (SAN ANTONIO) — SBA DECLARATION APPROVED ---
+The U.S. Small Business Administration issued an Administrative Declaration of a
+Disaster for Bexar County on September 10, 2026, published in the Federal Register
+September 14 (FR Doc 2026-18777).
+
+SBA Disaster details:
+- Event: Severe Storms and Tornadoes, August 28, 2026
+- Primary county: Bexar
+- Contiguous counties also covered: Atascosa, Bandera, Comal, Guadalupe, Kendall,
+  Medina, Wilson
+- SBA loan numbers: 21859B (physical damage), 21860 (economic injury)
+- Physical loan application deadline: November 9, 2026
+- Economic Injury (EIDL) deadline: June 10, 2027
+- Assistance: Low-interest federal disaster loans for homeowners, renters, businesses
+  for damage not covered by insurance
+Source: Federal Register FR Doc 2026-18777 (September 14, 2026)
+  federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Source: KSAT San Antonio (Governor's SBA request, September 10):
+  ksat.com/news/local/2026/09/10/abbott-requests-sba-disaster-declaration-for-bexar-county-after-august-storms/
+
+Note: This is an SBA administrative declaration, NOT a presidential FEMA Major Disaster
+Declaration. It does NOT trigger FEMA Individual Assistance grants, FEMA housing
+assistance, or other FEMA programs. The SBA track opens low-interest loans only.
+
+Note on prior coverage: The August 28-29 San Antonio storm already qualifies in the
+Aug 31 and Sept 2 digests under widespread structural damage ($10M damage, 75 structural
+inspections, 2 commercial buildings demolished — all KSAT-sourced). No new Facebook
+post drafted; this is a monitoring update for already-covered event. The application
+deadline (November 9, 2026) is the actionable date.
+
+--- 2. FEMA-4935-DR — SEPTEMBER 14 AMENDMENT (COUNTY LIST UNCONFIRMED) ---
+A second amendment to FEMA-4935-DR (Federal Register FR Doc 2026-18756, published
+September 14, 2026) updates the incident period closure date to August 4, 2026.
+Specific counties added in this amendment could NOT be confirmed because
+federalregister.gov was proxy-blocked during the search. No coastal counties
+(Aransas, Nueces, San Patricio, Refugio, Calhoun, Victoria, Jackson, Matagorda,
+Brazoria, Galveston) have appeared in any confirmed county list for FEMA-4935-DR.
+Source: federalregister.gov/documents/2026/09/14/2026-18756/... (unconfirmed content)
+
+--- 3. EDOUARD FEDERAL DR — STILL NOT ISSUED ---
+No presidential FEMA Major Disaster Declaration for Tropical Storm Edouard counties
+(Jefferson, Hardin, Tyler, Orange, Polk) has been confirmed as of September 14.
+Only local declarations remain in place. FEMA assessed Hardin County for debris
+and found damage below federal threshold (reported KFDM, prior digest). Governor's
+IA request for 30 counties remains pending. Edouard-qualifying coastal county impacts
+(Galveston, Brazoria, Matagorda) remain documented in Sept 2 digest only.
+
+--- 4. TWIA RICO LAWSUIT — NO NEW DEVELOPMENTS ---
+The August 13, 2026 RICO lawsuit by Galveston-area homeowners against TWIA and
+Leading Edge Claims Service remains active in U.S. District Court, Southern District
+of Texas. No class certification hearing, motion to dismiss ruling, or settlement
+has been reported as of September 14. Insurance Journal published a magazine feature
+September 7 (no new legal development). Covered in Aug 19 digest.
+
+--- 5. TWIA ADDITIONAL INSTITUTIONAL ACTIONS (September 2026) ---
+- Coverage A limits increased approximately 3% for renewal policies effective Sept 1
+  (standard adjustment, not storm-related)
+- TDI public comment meetings on TWIA rate filing scheduled September 23, 2026
+- TDI Commissioner statutory deadline to act on rate filing: October 15, 2026
+- TWIA rate filing: 0% rate change (current rates adequate by 9% residential,
+  4% commercial per TWIA actuarial analysis)
+Source: twia.org/twia-board-directs-filing-for-no-rate-increase-in-2026/
+
+--- 6. GULF / ATLANTIC — QUIET ---
+No Gulf of Mexico tropical threats during Sept 10-14. An Atlantic disturbance in
+the Subtropical Atlantic had 20% formation probability over 7 days as of Sept 13,
+but unfavorable conditions (strong wind shear) with no U.S. threat expected.
+NOAA confirmed below-normal 2026 season. Gulf under high pressure.
+Source: NHC Tropical Weather Outlook Sept 13; WUFT/NPR Sept 13:
+  wuft.org/weather/2026-09-13/national-hurricane-center-monitors-atlantic-disturbance-but-no-u-s-threat-expected
+
+==============================================================================
+PRIOR QUALIFYING EVENTS (Already Covered)
+==============================================================================
+
+Aug 19 digest: TWIA RICO lawsuit (Galveston County, filed Aug 13)
+Aug 31 digest: San Antonio Aug 28-29 windstorm (widespread structural damage)
+Sept 2 digest: Tropical Storm Edouard (Galveston, Brazoria, Matagorda counties);
+               San Antonio storm updated with $10M damage sourcing
+
+==============================================================================
+END OF DIGEST
+==============================================================================
