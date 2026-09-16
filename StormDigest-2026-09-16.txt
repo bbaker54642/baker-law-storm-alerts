@@ -1,5 +1,78 @@
+---
 BAKER LAW STORM DIGEST
 Date: 2026-09-16
-Status: RUN STARTED (watchdog backup) 2026-09-16T13:45:00Z
-The main 8am run did not finish. The watchdog is producing this digest.
-If this file still says RUN STARTED, the watchdog run did not finish either.
+Status: COMPLETE
+Search window: 2026-09-13 to 2026-09-16 (past 4 days)
+Note: Storms 1 and 2 below occurred prior to the 4-day window; both are included because
+their federal disaster declarations were published on 2026-09-14, which falls within
+the search window and triggers active insurance claim activity.
+---
+STORMS FOUND: 3
+POST-WORTHY: 2
+NOT POST-WORTHY: 1
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe windstorm (straight-line winds)
+Date: 2026-08-28 (SBA/FEMA Administrative Declaration published 2026-09-14) | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Location: Bexar County (San Antonio), Texas | Source: https://www.ksat.com/news/local/2026/09/01/title-2/
+Strength: 55-65 mph sustained winds (radar and storm damage indicated pockets of stronger wind); 110,000 customers lost power at peak | Source: https://www.tpr.org/news/2026-09-09/abbott-seeks-sba-disaster-declaration-for-bexar-county-after-august-windstorm
+Damage estimate: ~$10 million (San Antonio city officials) | Source: https://www.ksat.com/news/local/2026/09/01/title-2/
+FEMA declaration: YES - SBA Administrative Disaster Declaration issued for Bexar County; published in Federal Register September 14, 2026 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Post-worthy: YES - Damage estimate exceeds $1 million; SBA/FEMA disaster declaration published within the 4-day search window; active insurance claims period
+
+Storm: Tropical Storm Edouard (wind, extreme rainfall, flooding)
+Date: 2026-09-01 (landfall near Texas-Louisiana border); Presidential Declaration Amendment published 2026-09-14 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+Location: Southeast Texas - Jefferson County (Beaumont/Port Arthur area), Hardin County, Tyler County, Polk County | Source: https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
+Strength: 60 mph sustained at landfall; wind gusts approximately 90 mph near Port Arthur; 20+ inches rainfall in Hardin and Tyler counties | Source: https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
+Damage estimate: Damage estimates are still being assessed; no single confirmed dollar total found from a reputable source | Source: none found
+FEMA declaration: YES - Presidential major disaster declaration issued; amendment published September 14, 2026 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+Post-worthy: YES - FEMA major disaster declaration; widespread structural damage to homes and businesses from wind and flooding in southeast Texas; Jefferson County borders the Gulf coast and falls within TWIA coverage territory
+
+Storm: Severe thunderstorms
+Date: 2026-09-15 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
+Location: Lipscomb County, Hemphill County (Glazier/Higgins area), Terry County (Brownfield area) - Texas Panhandle | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
+Strength: 60-70 mph wind gusts; penny to quarter-size hail | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
+Damage estimate: No confirmed dollar amount; NWS warnings indicated damage to roofs, siding, and trees expected; damage to mobile homes, outbuildings also indicated | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
+FEMA declaration: No | Source: none found
+Post-worthy: NO - No confirmed property damage estimate exceeding $1 million; counties are not on the coastal Texas list; no FEMA declaration issued
+
+--- DRAFT POSTS ---
+
+STORM: Severe windstorm - Bexar County (San Antonio), August 28, 2026
+---
+People in San Antonio are right now sorting through insurance claims from the August 28 windstorm that knocked out power to more than 110,000 customers and left an estimated $10 million in damage across the city. [1] This week, federal records confirmed that an SBA disaster declaration was issued for Bexar County. [2] Qualifying homeowners and businesses may now apply for low-interest disaster loans to cover losses their insurance did not pay. [2]
+
+A federal loan is not a substitute for what your policy owes you.
+
+After straight-line wind events, carriers send adjusters quickly. The first estimate almost always comes in below the true cost of repairs. They call storm damage pre-existing deterioration or deferred maintenance. They apply depreciation that reduces your payment. If you dispute the figure, carriers invoke the appraisal clause, a provision that shifts the burden and the cost onto you to challenge their number.
+
+The August 28 storm brought straight-line winds reaching 55 to 65 mph across San Antonio, with pockets of stronger wind confirmed by damage reports and radar. [1] That is wind damage. Standard homeowners policies cover it. Carriers choose to undervalue it, delay it, or call parts of it excluded. That is a choice they make. It is not a limit on what you are owed.
+
+You paid your premium. You are entitled to the full cost to restore your property to its pre-storm condition, calculated at current material and labor prices.
+
+SOURCES:
+[1] https://www.ksat.com/news/local/2026/09/01/title-2/
+[2] https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+---
+
+STORM: Tropical Storm Edouard - Southeast Texas (Beaumont/Hardin/Polk), September 1, 2026
+---
+Communities in Beaumont, Hardin County, and Polk County took more than 20 inches of rain from Tropical Storm Edouard, with wind gusts near Port Arthur reaching approximately 90 mph. [1] The federal government declared a major disaster for southeast Texas, and this week that declaration was amended to extend assistance to additional areas. [2]
+
+What policyholders in these communities face now is the central question in every wind-and-flood storm: what caused the damage.
+
+Standard homeowners policies cover wind damage, including wind-driven rain that enters through a damaged roof or wall. They do not cover rising water that enters from outside the structure. After Edouard, carriers arrived and began making that division. Wind damage goes to your homeowners carrier. Flood losses go to the National Flood Insurance Program, which carries its own payout caps and exclusions. When the cause is ambiguous, carriers assign it to the uncovered category.
+
+Two additional mechanisms work against policyholders after a storm like this one. Depreciation disputes reduce the initial payment. Then carriers withhold recoverable depreciation until repairs are complete, which requires policyholders to fund work out of pocket before seeing their full settlement.
+
+FEMA assistance helps cover what insurance does not pay. It does not replace what your policy owes. Your policy pays first. Federal assistance fills gaps after that.
+
+The wind damage from Edouard is your carrier's obligation. The policy language does not change because the storm was large.
+
+SOURCES:
+[1] https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
+[2] https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+---
+
+--- END OF DIGEST ---
