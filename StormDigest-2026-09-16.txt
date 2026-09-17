@@ -1,53 +1,113 @@
----
 BAKER LAW STORM DIGEST
 Date: 2026-09-16
 Status: COMPLETE
 Search window: 2026-09-13 to 2026-09-16 (past 4 days)
-Note: Storms 1 and 2 below occurred prior to the 4-day window; both are included because
-their federal disaster declarations were published on 2026-09-14, which falls within
+Note: Storms 3 and 4 below occurred prior to the 4-day window; both are included because
+federal declarations or amendments were published on 2026-09-14, which falls within
 the search window and triggers active insurance claim activity.
 ---
-STORMS FOUND: 3
-POST-WORTHY: 2
-NOT POST-WORTHY: 1
+STORMS FOUND: 6
+POST-WORTHY: 4
+NOT POST-WORTHY: 2
 
 --- ALL STORMS FOUND ---
 
+Storm: EF-0 tornadoes (two confirmed touchdowns)
+Date: 2026-09-14 | Source: https://www.khou.com/article/news/local/nws-two-confirmed-tornadoes-in-brazoria-and-galveston-counties/285-442291597
+Location: Galveston Island (near Holiday Inn, San Luis Pass Road) and Brazoria County (2 miles east-northeast of Holiday Lakes) | Source: https://abc13.com/post/damage-in-brazoria-and-galveston-counties-caused-by-tornado/2027209/
+Strength: EF-0 (65-85 mph winds estimated); Galveston tornado originated as waterspout and moved onshore; both confirmed by NWS storm survey | Source: https://www.khou.com/article/news/local/nws-two-confirmed-tornadoes-in-brazoria-and-galveston-counties/285-442291597
+Damage: Galveston Island: blown-out windows and lattice structure damaged at Holiday Inn; Brazoria County: pump house destroyed, back porch damaged | Source: https://abc13.com/post/damage-in-brazoria-and-galveston-counties-caused-by-tornado/2027209/
+FEMA declaration: No
+Post-worthy: YES - Galveston County and Brazoria County are qualifying coastal counties; confirmed structural damage documented by NWS storm survey
+
+Storm: FEMA-4935-DR Amendment No. 9 (July 2026 severe storms and flooding)
+Date event occurred: 2026-07-12 to 2026-08-04 | Amendment published: 2026-09-14 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+Location added by amendment: Aransas County, Nueces County, San Patricio County (plus inland Burleson County); Nueces County also designated for Individual Assistance | Source: https://www.nuecesco.com/Home/Components/News/News/1329/1169
+Strength: Severe storms and flooding July 12-August 4, 2026 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+Damage estimate: No specific dollar total confirmed from a reputable source
+FEMA declaration: YES - Presidential Major Disaster Declaration FEMA-4935-DR; Amendment No. 9 (FR 2026-18756) adds Aransas, Nueces, San Patricio, Burleson; published September 14, 2026 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+Post-worthy: YES - Presidential disaster declaration for qualifying coastal counties (Aransas, Nueces, San Patricio); Nueces County Individual Assistance designation; declaration opens active claim period for July storm damage in TWIA coastal territory
+
 Storm: Severe windstorm (straight-line winds)
-Date: 2026-08-28 (SBA/FEMA Administrative Declaration published 2026-09-14) | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Date: 2026-08-28 (SBA Administrative Declaration published 2026-09-14) | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
 Location: Bexar County (San Antonio), Texas | Source: https://www.ksat.com/news/local/2026/09/01/title-2/
-Strength: 55-65 mph sustained winds (radar and storm damage indicated pockets of stronger wind); 110,000 customers lost power at peak | Source: https://www.tpr.org/news/2026-09-09/abbott-seeks-sba-disaster-declaration-for-bexar-county-after-august-windstorm
+Strength: 55-65 mph sustained winds; 110,000 customers lost power at peak | Source: https://www.tpr.org/news/2026-09-09/abbott-seeks-sba-disaster-declaration-for-bexar-county-after-august-windstorm
 Damage estimate: ~$10 million (San Antonio city officials) | Source: https://www.ksat.com/news/local/2026/09/01/title-2/
-FEMA declaration: YES - SBA Administrative Disaster Declaration issued for Bexar County; published in Federal Register September 14, 2026 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
-Post-worthy: YES - Damage estimate exceeds $1 million; SBA/FEMA disaster declaration published within the 4-day search window; active insurance claims period
+FEMA declaration: SBA Administrative Disaster Declaration issued for Bexar County; published Federal Register September 14, 2026 (FR 2026-18777). Note: This is an SBA Administrative Declaration (low-interest loans), not a Presidential FEMA Major Disaster Declaration. | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+Post-worthy: YES - Damage estimate exceeds $1 million; SBA disaster declaration published within the 4-day search window; active insurance claims period
 
 Storm: Tropical Storm Edouard (wind, extreme rainfall, flooding)
-Date: 2026-09-01 (landfall near Texas-Louisiana border); Presidential Declaration Amendment published 2026-09-14 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+Date: 2026-09-01 (landfall near Texas-Louisiana border) | Source: https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
 Location: Southeast Texas - Jefferson County (Beaumont/Port Arthur area), Hardin County, Tyler County, Polk County | Source: https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
 Strength: 60 mph sustained at landfall; wind gusts approximately 90 mph near Port Arthur; 20+ inches rainfall in Hardin and Tyler counties | Source: https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
-Damage estimate: Damage estimates are still being assessed; no single confirmed dollar total found from a reputable source | Source: none found
-FEMA declaration: YES - Presidential major disaster declaration issued; amendment published September 14, 2026 | Source: https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
-Post-worthy: YES - FEMA major disaster declaration; widespread structural damage to homes and businesses from wind and flooding in southeast Texas; Jefferson County borders the Gulf coast and falls within TWIA coverage territory
+Damage estimate: Still being assessed; no single confirmed dollar total found from a reputable source
+FEMA declaration: PENDING - Governor Abbott has requested a Presidential Major Disaster Declaration; U.S. Senators Cruz and Cornyn submitted a supporting letter naming Harris, Jefferson, Liberty, Orange counties; no presidential approval confirmed as of 2026-09-16 | Source: https://www.fox26houston.com/weather/tropical-storm-edouard-houston-texas-2026
+Post-worthy: YES - Widespread structural damage from ~90 mph wind gusts and 20+ inches of rainfall in southeast Texas, confirmed by Insurance Journal; active claims period; federal disaster declaration pending
 
-Storm: Severe thunderstorms
-Date: 2026-09-15 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
-Location: Lipscomb County, Hemphill County (Glazier/Higgins area), Terry County (Brownfield area) - Texas Panhandle | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
+Storm: Severe thunderstorms (Texas Panhandle)
+Date: 2026-09-12 and 2026-09-15 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
+Location: Lipscomb County, Roberts County, Hemphill County (September 12); Lubbock County (September 15) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
 Strength: 60-70 mph wind gusts; penny to quarter-size hail | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
-Damage estimate: No confirmed dollar amount; NWS warnings indicated damage to roofs, siding, and trees expected; damage to mobile homes, outbuildings also indicated | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09152026-1513
-FEMA declaration: No | Source: none found
-Post-worthy: NO - No confirmed property damage estimate exceeding $1 million; counties are not on the coastal Texas list; no FEMA declaration issued
+Damage estimate: No confirmed dollar amount
+FEMA declaration: No
+Post-worthy: NO - No confirmed property damage estimate exceeding $1 million; no qualifying coastal counties; no FEMA declaration
+
+Storm: Weak thunderstorm (South Texas)
+Date: 2026-09-13 | Source: NWS local storm reports
+Location: McMullen County, La Salle County, Duval County | Source: NWS local storm reports
+Strength: 40 mph winds - below severe thunderstorm threshold (58 mph) | Source: NWS local storm reports
+Damage estimate: None reported
+FEMA declaration: No
+Post-worthy: NO - Below severe thunderstorm threshold; no damage reported; no qualifying coastal counties
 
 --- DRAFT POSTS ---
 
+STORM: EF-0 tornadoes - Galveston County and Brazoria County, September 14, 2026
+---
+On Monday, September 14, the National Weather Service confirmed two tornadoes touched down in coastal Southeast Texas.[1] One hit Galveston Island, originating as a waterspout and moving onshore near the Holiday Inn on San Luis Pass Road. It blew out windows and damaged the exterior structure.[2] The second touched down in Brazoria County, about two miles east-northeast of Holiday Lakes. It destroyed a pump house and damaged a back porch.[2] Both were rated EF-0.
+
+EF-0 is the lowest tornado rating. The wind speeds are approximately 65 to 85 miles per hour.[1] That is still enough to damage roofs, breach windows, tear off siding, and destroy outbuildings. The damage is real and it is covered under standard windstorm policies.
+
+Galveston County and Brazoria County are in TWIA territory. A tornado touchdown in a TWIA-eligible county is a covered windstorm event. People who had property damage from the September 14 tornadoes should file a claim with their windstorm carrier.
+
+Carriers will send adjusters, inspect, and make a coverage determination. EF-0 damage is real damage. Carriers sometimes write off smaller tornado events by citing pre-existing deterioration, minor damage thresholds, or deductible application. Those are choices the carrier makes. They are not limits on what the policy covers.
+
+The NWS completed storm surveys and confirmed both tornadoes. That confirmation is on the record.
+
+SOURCES:
+[1] https://www.khou.com/article/news/local/nws-two-confirmed-tornadoes-in-brazoria-and-galveston-counties/285-442291597
+[2] https://abc13.com/post/damage-in-brazoria-and-galveston-counties-caused-by-tornado/2027209/
+---
+
+STORM: FEMA-4935-DR Amendment No. 9 - Aransas County, Nueces County, San Patricio County
+---
+On September 14, FEMA added Aransas County, Nueces County, and San Patricio County to a federal disaster declaration for the July 2026 severe storms.[1] Nueces County was also designated for Individual Assistance.[2]
+
+I work in Aransas County. This declaration matters for people who had property damage from those storms and have not resolved their insurance claims.
+
+Here is what the declaration does and does not do. It opens Public Assistance for local governments and eligible nonprofits.[1] In Nueces County, it also opens FEMA Individual Assistance grants for homeowners with uninsured or underinsured losses.[2]
+
+It does not replace your insurance. FEMA Individual Assistance requires you to file your insurance claim first.[3] FEMA will not pay for losses your carrier covers, and FEMA grants are capped. The insurance claim is still the first and most important step.
+
+Carriers know FEMA is in the picture. Some will sit on claims longer, knowing federal assistance may absorb losses they should pay. That is a choice they make.
+
+If your insurance carrier has not responded fairly to a July storm claim in Aransas, Nueces, or San Patricio County, you still have time to dispute a low payment or a denial. The federal declaration confirms the damage was real.
+
+SOURCES:
+[1] https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+[2] https://www.nuecesco.com/Home/Components/News/News/1329/1169
+[3] https://www.fema.gov/assistance/individual/after-disaster/disaster-assistance
+---
+
 STORM: Severe windstorm - Bexar County (San Antonio), August 28, 2026
 ---
-People in San Antonio are right now sorting through insurance claims from the August 28 windstorm that knocked out power to more than 110,000 customers and left an estimated $10 million in damage across the city. [1] This week, federal records confirmed that an SBA disaster declaration was issued for Bexar County. [2] Qualifying homeowners and businesses may now apply for low-interest disaster loans to cover losses their insurance did not pay. [2]
+People in San Antonio are right now sorting through insurance claims from the August 28 windstorm that knocked out power to more than 110,000 customers and left an estimated $10 million in damage across the city.[1] This week, federal records confirmed that an SBA disaster declaration was issued for Bexar County.[2] Qualifying homeowners and businesses may now apply for low-interest disaster loans to cover losses their insurance did not pay.[2]
 
 A federal loan is not a substitute for what your policy owes you.
 
 After straight-line wind events, carriers send adjusters quickly. The first estimate almost always comes in below the true cost of repairs. They call storm damage pre-existing deterioration or deferred maintenance. They apply depreciation that reduces your payment. If you dispute the figure, carriers invoke the appraisal clause, a provision that shifts the burden and the cost onto you to challenge their number.
 
-The August 28 storm brought straight-line winds reaching 55 to 65 mph across San Antonio, with pockets of stronger wind confirmed by damage reports and radar. [1] That is wind damage. Standard homeowners policies cover it. Carriers choose to undervalue it, delay it, or call parts of it excluded. That is a choice they make. It is not a limit on what you are owed.
+The August 28 storm brought straight-line winds reaching 55 to 65 mph across San Antonio, with pockets of stronger wind confirmed by damage reports and radar.[1] That is wind damage. Standard homeowners policies cover it. Carriers choose to undervalue it, delay it, or call parts of it excluded. That is a choice they make. It is not a limit on what you are owed.
 
 You paid your premium. You are entitled to the full cost to restore your property to its pre-storm condition, calculated at current material and labor prices.
 
@@ -58,7 +118,7 @@ SOURCES:
 
 STORM: Tropical Storm Edouard - Southeast Texas (Beaumont/Hardin/Polk), September 1, 2026
 ---
-Communities in Beaumont, Hardin County, and Polk County took more than 20 inches of rain from Tropical Storm Edouard, with wind gusts near Port Arthur reaching approximately 90 mph. [1] The federal government declared a major disaster for southeast Texas, and this week that declaration was amended to extend assistance to additional areas. [2]
+Communities in Beaumont, Hardin County, and Polk County took more than 20 inches of rain from Tropical Storm Edouard, with wind gusts near Port Arthur reaching approximately 90 mph.[1] Governor Abbott has requested a Presidential Major Disaster Declaration for the affected counties.[2] That request is pending.
 
 What policyholders in these communities face now is the central question in every wind-and-flood storm: what caused the damage.
 
@@ -66,13 +126,13 @@ Standard homeowners policies cover wind damage, including wind-driven rain that 
 
 Two additional mechanisms work against policyholders after a storm like this one. Depreciation disputes reduce the initial payment. Then carriers withhold recoverable depreciation until repairs are complete, which requires policyholders to fund work out of pocket before seeing their full settlement.
 
-FEMA assistance helps cover what insurance does not pay. It does not replace what your policy owes. Your policy pays first. Federal assistance fills gaps after that.
+If a federal disaster declaration is approved, FEMA assistance can help cover what insurance does not pay. It does not replace what your policy owes. Your policy pays first.
 
 The wind damage from Edouard is your carrier's obligation. The policy language does not change because the storm was large.
 
 SOURCES:
 [1] https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
-[2] https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+[2] https://www.fox26houston.com/weather/tropical-storm-edouard-houston-texas-2026
 ---
 
 --- END OF DIGEST ---
