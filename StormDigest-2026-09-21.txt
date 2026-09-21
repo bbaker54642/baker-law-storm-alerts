@@ -1,4 +1,46 @@
+---
 BAKER LAW STORM DIGEST
 Date: 2026-09-21
-Status: RUN STARTED (watchdog backup) 2026-09-21T13:45:00Z
-The main 8am run did not finish. The watchdog is producing this digest.
+Status: COMPLETE (watchdog backup run)
+Search window: 2026-09-17 through 2026-09-21
+Produced by: Watchdog backup runner (main 8am run did not finish)
+---
+STORMS FOUND: 2
+POST-WORTHY: 0
+NOT POST-WORTHY: 2
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorm Complex (multiple cells)
+Date: 2026-09-20 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1558
+Location: Dallas-area (Cedar Hill, Grand Prairie, DeSoto, Duncanville, Lancaster, Midlothian, Glenn Heights, Ovilla, Oak Leaf / Dallas and Johnson counties) and North Texas (Denison, Sherman, Howe / Grayson and Fannin counties) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1611
+Strength: 60 mph wind gusts, quarter-size hail (1-inch diameter); secondary cells with 50 mph winds and 0.5-inch hail | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1621
+Damage estimate: Not confirmed by a reputable source - NWS warnings stated expected damage to vehicles, roofs, siding, and trees; no post-event dollar assessment found | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Damage dollar total not confirmed by any reputable source; counties affected (Dallas, Johnson, Grayson, Fannin) are not coastal Texas counties; no FEMA declaration issued for this event; post-worthiness criteria not met under accuracy rule (no sourced dollar amount exceeds $1M threshold)
+
+Storm: Minor Flooding
+Date: 2026-09-21 | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0239
+Location: King County (East Central) and Cottle County (south-central), northwestern Texas | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0040
+Strength: 2-3 inches of rainfall; minor flooding in low-lying and poor drainage areas, small stream rises, water over roadways | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0404
+Damage estimate: Not reported; minor flood advisory only | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO - Minor flood advisory only; no structural damage reported; not a coastal county; well below post-worthiness criteria
+
+--- ADDITIONAL CONTEXT REVIEWED ---
+
+FEMA DR-4935-DR-TX: Major Disaster Declaration for Texas, approved September 3, 2026, covering severe storms, straight-line winds, tornadoes, and flooding. Incident period: July 12, 2026 through August 4, 2026. Designated counties include Atascosa, Bandera, Bexar, Blanco, Brewster, Comal, Crockett, Dimmit, Edwards, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Mason, Maverick, Medina, Menard, Real, Schleicher, Sutton, Terrell, Uvalde, Val Verde, Wilson, and Zavala counties. Source: https://www.fema.gov/disaster/4935 -- NOTE: This declaration covers July-August 2026 events, OUTSIDE the September 17-21 search window. Included for completeness only.
+
+Tropical Storm Edouard: Made landfall near Texas-Louisiana border approximately September 1, 2026; caused flooding in southeast Texas (Liberty, Polk, Jefferson counties). Source: https://abcnews.com/US/flash-flood-emergency-issued-texas-2-feet-rain/story?id=136140897 -- NOTE: OUTSIDE the September 17-21 search window. Included for completeness only.
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD
+
+No storms from September 17-21, 2026 met any post-worthiness criterion with sourced confirmation:
+- The September 20 DFW severe thunderstorm complex produced NWS warnings indicating expected damage, but no reputable news source or NWS post-event assessment confirmed dollar damage, widespread structural damage, or any other qualifying criterion.
+- The September 21 minor flood advisories in northwestern Texas were below any threshold.
+- No events in the window affected a designated coastal Texas county.
+- No FEMA declarations were issued for events in this window.
+
+--- END OF DIGEST ---
