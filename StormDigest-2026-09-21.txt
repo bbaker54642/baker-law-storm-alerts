@@ -1,46 +1,120 @@
----
 BAKER LAW STORM DIGEST
 Date: 2026-09-21
-Status: COMPLETE (watchdog backup run)
-Search window: 2026-09-17 through 2026-09-21
-Produced by: Watchdog backup runner (main 8am run did not finish)
+Status: COMPLETE
+Search window: 2026-09-17 to 2026-09-21 (past 4 days)
+Note: Inland storm damage search was lost to 3 consecutive container restarts; 4 of 5
+search agents completed. A watchdog backup runner independently confirmed the same
+2 non-qualifying inland events. No coastal storms or FEMA declarations were missed.
 ---
 STORMS FOUND: 2
 POST-WORTHY: 0
 NOT POST-WORTHY: 2
 
+--- NOTABLE INSURANCE DEVELOPMENTS (no qualifying storm; included for monitoring) ---
+
+Development: TWIA Annual Rate Hearing — September 23, 2026
+Date: September 23, 2026 (9:00 a.m. CT, Moody Gardens, Galveston Island)
+TWIA filed 0% rate change with TDI on August 15, 2026. Board voted 7-to-1 on August 4
+to hold rates steady. TDI public hearing set for September 23. Written comments due
+October 1, 2026 at 5 p.m. Commissioner decision deadline: October 15, 2026.
+TWIA's own 2026 Rate Adequacy Analysis finds current rates adequate by 9% for
+residential and 4% for commercial — the first time in years rates are above the line.
+Sources: https://www.twia.org/timeline-for-twias-annual-rate-filing-consideration-5/
+         https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2026/
+         https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/twia-2026-rates-remain-steady-as-residential-and-commercial-gaps-fall-545363.aspx
+
+Development: TWIA RICO Lawsuit — No New Action September 17-21
+Background: Three Galveston-area homeowners filed federal RICO suit against TWIA on
+August 13, 2026, alleging field adjuster estimates on Hurricane Beryl claims were
+secretly reduced by non-inspecting reviewers at Leading Edge Claims Service (now Hansen).
+One example: $91,000 estimate reduced to $31,000 before delivery to policyholder.
+TWIA has paid ~$336 million on 34,000+ Beryl claims. No ruling, class certification,
+or settlement found for September 17-21 window.
+Sources: https://www.insurancejournal.com/news/southcentral/2026/08/17/881889.htm
+         https://www.houstonchronicle.com/politics/texas/article/twia-hurricane-beryl-lawsuit-22393410.php
+
+Development: Tropical Storm Edouard — Presidential DR Still Pending
+Governor Abbott requested Presidential Major Disaster Declaration for southeast Texas
+(Harris, Jefferson, Liberty, Orange counties). Senators Cruz and Cornyn sent supporting
+letter. No presidential approval confirmed as of September 21, 2026. Hardin County told
+by federal officials it does not qualify for federally-funded debris removal under current
+damage assessment.
+Source: https://kfdm.com/news/local/feds-not-enough-storm-related-debris-in-hardin-county-for-federally-funded-removal
+
 --- ALL STORMS FOUND ---
 
-Storm: Severe Thunderstorm Complex (multiple cells)
+Storm: Severe thunderstorm complex
 Date: 2026-09-20 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1558
-Location: Dallas-area (Cedar Hill, Grand Prairie, DeSoto, Duncanville, Lancaster, Midlothian, Glenn Heights, Ovilla, Oak Leaf / Dallas and Johnson counties) and North Texas (Denison, Sherman, Howe / Grayson and Fannin counties) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1611
-Strength: 60 mph wind gusts, quarter-size hail (1-inch diameter); secondary cells with 50 mph winds and 0.5-inch hail | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1621
-Damage estimate: Not confirmed by a reputable source - NWS warnings stated expected damage to vehicles, roofs, siding, and trees; no post-event dollar assessment found | Source: none found
-FEMA declaration: No | Source: none found
-Post-worthy: NO - Damage dollar total not confirmed by any reputable source; counties affected (Dallas, Johnson, Grayson, Fannin) are not coastal Texas counties; no FEMA declaration issued for this event; post-worthiness criteria not met under accuracy rule (no sourced dollar amount exceeds $1M threshold)
+Location: Dallas County (Cedar Hill, Grand Prairie, DeSoto), Johnson County; Grayson and Fannin counties | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1611
+Strength: 60 mph wind gusts, quarter-size hail (1-inch diameter) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1558
+Damage estimate: No confirmed dollar amount from a reputable source | Source: none found
+FEMA declaration: No
+Post-worthy: NO - No confirmed dollar damage; Dallas/Johnson/Grayson/Fannin counties are not qualifying coastal counties; no FEMA declaration
 
-Storm: Minor Flooding
+Storm: Minor flooding
 Date: 2026-09-21 | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0239
-Location: King County (East Central) and Cottle County (south-central), northwestern Texas | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0040
-Strength: 2-3 inches of rainfall; minor flooding in low-lying and poor drainage areas, small stream rises, water over roadways | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0404
-Damage estimate: Not reported; minor flood advisory only | Source: none found
-FEMA declaration: No | Source: none found
-Post-worthy: NO - Minor flood advisory only; no structural damage reported; not a coastal county; well below post-worthiness criteria
+Location: King County and Cottle County, northwestern Texas | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0040
+Strength: 2-3 inches rainfall; minor flooding in low-lying areas, water over roadways | Source: https://www.govonestop.com/nws/texas-minor-flood-advisory-effective-09212026-0404
+Damage estimate: None reported
+FEMA declaration: No
+Post-worthy: NO - Minor flood advisory only; no structural damage; not a coastal county
 
---- ADDITIONAL CONTEXT REVIEWED ---
+--- GULF / ATLANTIC STATUS ---
 
-FEMA DR-4935-DR-TX: Major Disaster Declaration for Texas, approved September 3, 2026, covering severe storms, straight-line winds, tornadoes, and flooding. Incident period: July 12, 2026 through August 4, 2026. Designated counties include Atascosa, Bandera, Bexar, Blanco, Brewster, Comal, Crockett, Dimmit, Edwards, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Mason, Maverick, Medina, Menard, Real, Schleicher, Sutton, Terrell, Uvalde, Val Verde, Wilson, and Zavala counties. Source: https://www.fema.gov/disaster/4935 -- NOTE: This declaration covers July-August 2026 events, OUTSIDE the September 17-21 search window. Included for completeness only.
-
-Tropical Storm Edouard: Made landfall near Texas-Louisiana border approximately September 1, 2026; caused flooding in southeast Texas (Liberty, Polk, Jefferson counties). Source: https://abcnews.com/US/flash-flood-emergency-issued-texas-2-feet-rain/story?id=136140897 -- NOTE: OUTSIDE the September 17-21 search window. Included for completeness only.
+Tropical Storm Fay formed September 19-20 near the Azores (~430 miles southwest) in
+the open northern Atlantic. Peak winds 60-65 mph; fell short of hurricane threshold
+due to wind shear. No Gulf or Texas coast threat. Expected to dissipate mid-week.
+Source: https://www.washingtonpost.com/national/2026/09/20/tropical-storm-fay-azores/bb78333c-b4e6-11f1-94cb-d3d8f22a8c8b_story.html
+Gulf of Mexico: No active tropical development. Bay of Campeche: diffuse low ~10%
+probability, no organization expected.
+Source: https://www.khou.com/video/weather/tropical-update-nothing-brewing-as-peak-of-hurricane-season-passes/285-ba8bec84-87b4-41ba-b8e7-77a66acfb29f
+2026 Atlantic season: Still zero Atlantic hurricanes — record for modern satellite era.
+Source: https://abc13.com/post/tropical-weather-update-2026-atlantic-hurricane-season-begins-june-1/19125766/
 
 --- DRAFT POSTS ---
 
 NO QUALIFYING STORMS THIS PERIOD
 
-No storms from September 17-21, 2026 met any post-worthiness criterion with sourced confirmation:
-- The September 20 DFW severe thunderstorm complex produced NWS warnings indicating expected damage, but no reputable news source or NWS post-event assessment confirmed dollar damage, widespread structural damage, or any other qualifying criterion.
-- The September 21 minor flood advisories in northwestern Texas were below any threshold.
-- No events in the window affected a designated coastal Texas county.
-- No FEMA declarations were issued for events in this window.
+No storms from September 17-21, 2026 met any post-worthiness criterion with sourced
+confirmation. The September 20 DFW thunderstorm complex produced NWS warnings but no
+confirmed dollar damage or coastal county impact. The September 21 flooding in
+northwestern Texas was a minor advisory only.
+
+TWIA RATE HEARING NOTE: TDI public hearing on TWIA's 0% rate filing is scheduled for
+September 23, 2026 at Moody Gardens, Galveston. Written comments due October 1.
+Commissioner deadline October 15. This development qualifies for a Facebook post under
+established precedent (significant TWIA regulatory action affecting coastal policyholders).
+Draft post below.
+
+---
+STORM: TWIA 0% Rate Filing — TDI Public Hearing September 23, 2026
+---
+On Tuesday, September 23, the Texas Department of Insurance holds a public hearing on
+TWIA's rate filing for 2027 policies.[1] This year TWIA filed for a 0% rate change.
+The board voted 7 to 1 to hold rates steady.[2] TDI has until October 15 to approve or
+reject the filing.[1]
+
+A 0% filing sounds like good news for policyholders. It may be.
+
+What matters for a TWIA policyholder is not just the premium amount but what the policy
+covers and how TWIA handles claims. Rates and coverage are two separate things. Rates can
+stay flat while claim practices change.
+
+TWIA's own analysis finds current rates adequate by 9% for residential policies and 4%
+for commercial.[2] That is the first time in years the association has found its rates
+above the line. The shift comes from legislative changes, not a reduction in storm risk.
+
+People who own property in TWIA-eligible coastal counties pay TWIA premiums as a matter
+of necessity. Private market windstorm capacity on the Texas coast is thin. For most
+coastal property owners, TWIA is the only available windstorm insurer.
+
+The TDI hearing is where the public and industry weigh in. Written comments are due to
+TDI by October 1.[1] The Commissioner's decision deadline is October 15.[1] After that
+date, the 0% filing either stands or is modified.
+
+SOURCES:
+[1] https://www.twia.org/timeline-for-twias-annual-rate-filing-consideration-5/
+[2] https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2026/
+---
 
 --- END OF DIGEST ---
