@@ -1,5 +1,55 @@
 BAKER LAW STORM DIGEST
 Date: 2026-09-23
-Status: RUN STARTED (watchdog backup) 2026-09-23T13:52:00Z
-The main 8am run did not finish. The watchdog is producing this digest.
-If this file still says RUN STARTED, the watchdog run did not finish either.
+Status: COMPLETE (produced by watchdog backup — main 8am run did not finish)
+Search window: 2026-09-19 through 2026-09-23
+Produced: 2026-09-23T13:55:00Z
+---
+STORMS FOUND: 3
+POST-WORTHY: 0
+NOT POST-WORTHY: 3
+
+NOTE: No qualifying storms found in this period. No Facebook posts drafted.
+The main 8am run had started (heartbeat written) but did not produce a finished
+digest. The watchdog completed the search and found no events meeting the
+post-worthiness threshold for the search window.
+
+--- ALL STORMS FOUND ---
+
+Storm: Severe Thunderstorm (wind/hail)
+Date: 2026-09-19 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
+Location: Pecos/Jeff Davis County area, West Texas (Fort Stockton / Balmorhea area) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
+Strength: 70-71 mph wind gusts, quarter-size hail; 71 mph gust measured at mesonet station 3 mi NW of Belding | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
+Damage estimate: Not reported — NWS warning cited expected damage to mobile homes, roofs, outbuildings, vehicles, and trees; no confirmed dollar estimate found | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No confirmed dollar damage sourced; no FEMA declaration; not a coastal Texas county; no verified widespread structural damage report
+
+Storm: Severe Thunderstorm (wind/hail)
+Date: 2026-09-19 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
+Location: Hall / Childress County, Texas Panhandle (Memphis, Estelline) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
+Strength: 70 mph wind gusts, quarter-size hail; line of storms from Memphis to 10 mi north of Northfield, moving NE at 15 mph | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
+Damage estimate: Not reported — NWS warning cited expected considerable tree damage, damage to mobile homes, roofs, and outbuildings; no confirmed dollar estimate found | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No confirmed dollar damage sourced; no FEMA declaration; not a coastal Texas county; no verified widespread structural damage report
+
+Storm: Severe Thunderstorm / Flash Flooding
+Date: 2026-09-20 | Source: https://cedarnews.net/newstasks/997877/severe-thunderstorm-warning-fannin-grayson-texas/
+Location: Grayson / Fannin County, North Central Texas (Sherman, Bonham, Denison, Howe) | Source: https://cedarnews.net/newstasks/997877/severe-thunderstorm-warning-fannin-grayson-texas/
+Strength: 60 mph wind gusts, quarter-size hail; 2-5 inches of rainfall; Flood Warning issued 2026-09-20 at 9:26 PM CDT | Source: https://www.defconlevel.com/alert/2026-09-21-nws-noaa-weather-flood-warning-issued-september-20-at-9-26pm-cdt-until-september-21-at-12-00am-cdt-by-nws-fort-worth-tx
+Damage estimate: Not reported — no confirmed dollar estimate found | Source: none found
+FEMA declaration: No | Source: none found
+Post-worthy: NO — No confirmed dollar damage sourced; no FEMA declaration; not a coastal Texas county (Grayson/Fannin are inland North Central TX); no verified widespread structural damage report
+
+--- STORMS REVIEWED BUT OUTSIDE SEARCH WINDOW ---
+
+Tropical Storm Edouard (formed Aug 31; landfall Sept 1, 2026 near Johnson Bayou, LA):
+Impacted SE Texas (Port Arthur 90 mph gust; 20+ inches rain in Hardin/Polk/Tyler counties).
+FEMA Major Disaster Declaration DR-4935-TX issued Sept 3, 2026, covering 28 counties.
+This event is OUTSIDE the Sept 19-23 search window and was covered by prior digests.
+Sources: https://abcnews.com/US/tropical-storm-edouard-strengthen-hurricane-landfall-officials/story?id=136110185
+         https://www.fema.gov/press-release/20260903/president-donald-j-trump-approves-major-disaster-declaration-texas
+
+--- DRAFT POSTS ---
+
+NO QUALIFYING STORMS THIS PERIOD — no Facebook posts drafted.
+
+--- END OF DIGEST ---
