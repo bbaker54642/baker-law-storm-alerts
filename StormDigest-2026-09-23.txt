@@ -1,55 +1,79 @@
 BAKER LAW STORM DIGEST
 Date: 2026-09-23
-Status: COMPLETE (produced by watchdog backup — main 8am run did not finish)
-Search window: 2026-09-19 through 2026-09-23
-Produced: 2026-09-23T13:55:00Z
+Status: COMPLETE
+Search window: 2026-09-19 to 2026-09-23 (past 4 days)
+Note: 3 of 4 search agents were lost to container restarts; watchdog backup confirmed
+the inland storm findings. Insurance/coastal agent completed successfully.
 ---
 STORMS FOUND: 3
 POST-WORTHY: 0
 NOT POST-WORTHY: 3
 
-NOTE: No qualifying storms found in this period. No Facebook posts drafted.
-The main 8am run had started (heartbeat written) but did not produce a finished
-digest. The watchdog completed the search and found no events meeting the
-post-worthiness threshold for the search window.
-
 --- ALL STORMS FOUND ---
 
-Storm: Severe Thunderstorm (wind/hail)
+Storm: Severe thunderstorm (wind/hail)
 Date: 2026-09-19 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
-Location: Pecos/Jeff Davis County area, West Texas (Fort Stockton / Balmorhea area) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
+Location: Pecos/Jeff Davis County area, West Texas (Fort Stockton/Balmorhea) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
 Strength: 70-71 mph wind gusts, quarter-size hail; 71 mph gust measured at mesonet station 3 mi NW of Belding | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1358
-Damage estimate: Not reported — NWS warning cited expected damage to mobile homes, roofs, outbuildings, vehicles, and trees; no confirmed dollar estimate found | Source: none found
-FEMA declaration: No | Source: none found
-Post-worthy: NO — No confirmed dollar damage sourced; no FEMA declaration; not a coastal Texas county; no verified widespread structural damage report
+Damage estimate: Not reported; NWS warning cited expected damage to mobile homes, roofs, outbuildings, vehicles, trees; no confirmed dollar estimate | Source: none found
+FEMA declaration: No
+Post-worthy: NO - No confirmed dollar damage; not a coastal county; no FEMA declaration
 
-Storm: Severe Thunderstorm (wind/hail)
+Storm: Severe thunderstorm (wind/hail)
 Date: 2026-09-19 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
-Location: Hall / Childress County, Texas Panhandle (Memphis, Estelline) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
-Strength: 70 mph wind gusts, quarter-size hail; line of storms from Memphis to 10 mi north of Northfield, moving NE at 15 mph | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
-Damage estimate: Not reported — NWS warning cited expected considerable tree damage, damage to mobile homes, roofs, and outbuildings; no confirmed dollar estimate found | Source: none found
-FEMA declaration: No | Source: none found
-Post-worthy: NO — No confirmed dollar damage sourced; no FEMA declaration; not a coastal Texas county; no verified widespread structural damage report
+Location: Hall/Childress County, Texas Panhandle (Memphis, Estelline) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
+Strength: 70 mph wind gusts, quarter-size hail; line of storms moving NE at 15 mph | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09192026-1724
+Damage estimate: Not reported; NWS warning cited considerable tree damage, damage to mobile homes, roofs, outbuildings; no confirmed dollar estimate | Source: none found
+FEMA declaration: No
+Post-worthy: NO - No confirmed dollar damage; not a coastal county; no FEMA declaration
 
-Storm: Severe Thunderstorm / Flash Flooding
-Date: 2026-09-20 | Source: https://cedarnews.net/newstasks/997877/severe-thunderstorm-warning-fannin-grayson-texas/
-Location: Grayson / Fannin County, North Central Texas (Sherman, Bonham, Denison, Howe) | Source: https://cedarnews.net/newstasks/997877/severe-thunderstorm-warning-fannin-grayson-texas/
-Strength: 60 mph wind gusts, quarter-size hail; 2-5 inches of rainfall; Flood Warning issued 2026-09-20 at 9:26 PM CDT | Source: https://www.defconlevel.com/alert/2026-09-21-nws-noaa-weather-flood-warning-issued-september-20-at-9-26pm-cdt-until-september-21-at-12-00am-cdt-by-nws-fort-worth-tx
-Damage estimate: Not reported — no confirmed dollar estimate found | Source: none found
-FEMA declaration: No | Source: none found
-Post-worthy: NO — No confirmed dollar damage sourced; no FEMA declaration; not a coastal Texas county (Grayson/Fannin are inland North Central TX); no verified widespread structural damage report
+Storm: Severe thunderstorm / flash flooding
+Date: 2026-09-20 | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1558
+Location: Grayson/Fannin County, North Central Texas (Sherman, Bonham, Denison, Howe) | Source: https://www.govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-09202026-1558
+Strength: 60 mph wind gusts, quarter-size hail; 2-5 inches rainfall; Flash Flood Warning issued Sept 20 at 9:26 pm CDT | Source: https://www.defconlevel.com/alert/2026-09-21-nws-noaa-weather-flood-warning-issued-september-20-at-9-26pm-cdt-until-september-21-at-12-00am-cdt-by-nws-fort-worth-tx
+Damage estimate: Not reported; no confirmed dollar estimate | Source: none found
+FEMA declaration: No
+Post-worthy: NO - No confirmed dollar damage; Grayson/Fannin are inland north-central TX; no FEMA declaration
 
---- STORMS REVIEWED BUT OUTSIDE SEARCH WINDOW ---
+--- ONGOING MONITORING STATUS (insurance agent completed Sept 23) ---
 
-Tropical Storm Edouard (formed Aug 31; landfall Sept 1, 2026 near Johnson Bayou, LA):
-Impacted SE Texas (Port Arthur 90 mph gust; 20+ inches rain in Hardin/Polk/Tyler counties).
-FEMA Major Disaster Declaration DR-4935-TX issued Sept 3, 2026, covering 28 counties.
-This event is OUTSIDE the Sept 19-23 search window and was covered by prior digests.
-Sources: https://abcnews.com/US/tropical-storm-edouard-strengthen-hurricane-landfall-officials/story?id=136110185
-         https://www.fema.gov/press-release/20260903/president-donald-j-trump-approves-major-disaster-declaration-texas
+Tropical Storm Edouard Presidential DR:
+Gov. Abbott's request for Presidential Major Disaster Declaration for Harris, Jefferson,
+Liberty, Orange counties remains PENDING as of September 23, 2026. No presidential
+approval confirmed in approved sources during Sept 19-23 window. Hardin County previously
+told it does not qualify for federally-funded debris removal under current damage assessment.
+Source: https://kfdm.com/news/local/feds-not-enough-storm-related-debris-in-hardin-county-for-federally-funded-removal
+
+TWIA RICO Lawsuit (filed August 13, 2026):
+No class certification ruling, settlement, or dispositive motion found for Sept 19-23.
+Case remains in early stages. Last major media coverage: Insurance Journal, September 7, 2026.
+Source: https://www.insurancejournal.com/magazines/mag-features/2026/09/07/883925.htm
+
+TWIA TDI Rate Hearing — Status UNCERTAIN:
+Prior research suggested a Sept 23 TDI public hearing at Moody Gardens, Galveston for
+TWIA's 0% rate filing. Insurance agent found no evidence of a 2026 hearing; the
+September 23 TDI Galveston meeting document on tdi.texas.gov is dated 2024 (for the
+10% rate filing). A 0% filing may not trigger mandatory public hearing under TDI statute.
+Written comments still due October 1; Commissioner deadline October 15.
+Source (2026 filing): https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2026/
+
+TDI Commissioner's Bulletin B-0007-26 (September 2, 2026):
+TDI prohibited "price optimization" — varying premiums based on factors unrelated to
+actual risk of loss. Effective immediately.
+Source: https://www.tdi.texas.gov/bulletins/2026/commissioners-bulletin-b0007-26.html
+
+Gulf / Atlantic status: Tropical Storm Fay formed near Azores Sept 19-20, dissipating
+in open Atlantic with no Texas threat. Gulf of Mexico clear. 2026 season still zero
+Atlantic hurricanes.
+Source: https://www.washingtonpost.com/national/2026/09/20/tropical-storm-fay-azores/bb78333c-b4e6-11f1-94cb-d3d8f22a8c8b_story.html
 
 --- DRAFT POSTS ---
 
-NO QUALIFYING STORMS THIS PERIOD — no Facebook posts drafted.
+NO QUALIFYING STORMS THIS PERIOD
+
+No storms from September 19-23, 2026 met any post-worthiness criterion with sourced
+confirmation. All three events were inland Texas counties (West Texas, Texas Panhandle,
+North Central Texas) with no confirmed dollar damage, no FEMA declarations, and no
+qualifying coastal county impact.
 
 --- END OF DIGEST ---
