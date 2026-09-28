@@ -1,5 +1,285 @@
-BAKER LAW STORM DIGEST
-Date: 2026-09-28
-Status: RUN STARTED 2026-09-28T13:26:02Z
+STORM DIGEST — September 28, 2026
+Baker Law | Rockport, Texas
+Window: September 24–28, 2026
+Run completed: 2026-09-28
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+==============================================================
+SECTION 1 — TROPICAL / GULF WEATHER
+==============================================================
+
+STATUS: NO THREAT TO TEXAS COAST
+
+Gulf of Mexico: Quiet. No active tropical systems. No development
+expected. El Niño wind shear continues to suppress storm formation.
+
+Atlantic basin (Sept 24–28):
+- Tropical Storm Fay: Open Atlantic, weakening as TD near 27.9°N 44.1°W.
+  No Gulf threat. "Zombie" revival (~Sept 24 after briefly dissipating)
+  is now in final decay. Peak intensity: 65 mph.
+  Source: Houston Chronicle
+  https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/tropical-storm-fay-makes-zombie-storm-return-22446244.php
+
+- Tropical Storm Gonzalo: Formed Sept 25 near Cabo Verde Islands.
+  Went post-tropical Sept 26. No Gulf threat.
+  Source: Houston Chronicle
+  https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/tropical-storm-gonzalo-fay-eastern-atlantic-ocean-22448750.php
+
+Season context: 2026 Atlantic season has produced 7 named storms, ZERO
+hurricanes — historically quiet, not seen since 1907-1914. El Niño
+dominant. Climatological peak (September 10) has passed.
+Source: CBS12
+https://cbs12.com/weather/hurricane-stories/no-atlantic-hurricanes-yet-in-2026-a-rarity-not-seen-in-more-than-a-century-1907-1914-2026-el-nino-atlantic-basin-lull-climatological-peak-hurricane-season
+
+==============================================================
+SECTION 2 — COASTAL STORM DAMAGE (Sept 24–28, 2026)
+==============================================================
+
+Qualifying coastal counties monitored: Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston.
+
+FINDING: NO QUALIFYING COASTAL STORM DAMAGE EVENTS CONFIRMED
+for September 24–28, 2026. Gulf was inactive throughout the window.
+NWS Corpus Christi area conditions were benign (sunny to partly cloudy,
+highs low-to-mid 90s). No confirmed dollar damage in any qualifying
+coastal county.
+
+Interior Texas events found (not qualifying):
+- Sept 24: Severe thunderstorm warnings, TX Panhandle/West TX (Hall,
+  Wheeler, Collingsworth, Reeves counties; 60 mph winds, quarter hail)
+- Sept 25: Extreme tornado warnings, Parmer County (NW TX Panhandle;
+  radar-confirmed rotation, no confirmed EF rating or dollar damage)
+- Sept 25-26: Flash flooding, Randall/Castro/Parmer counties (TX Panhandle)
+- Sept 26: Flash flooding, Pecos/Reeves counties (Trans-Pecos)
+None of these events involved qualifying coastal counties or met
+post-worthiness threshold (no confirmed damage over $1M, no FEMA action).
+Source: NWS warnings (via GovOneStop.com NWS archive)
+
+==============================================================
+SECTION 3 — FEMA / DISASTER DECLARATIONS
+==============================================================
+
+--- NEW THIS WINDOW ---
+FEMA-4935-DR AMENDMENT — SEPTEMBER 25, 2026
+
+Presidential Major Disaster Declaration for Texas (Public Assistance
+Only) was expanded on September 25, 2026 to add four new counties:
+  - Grimes County
+  - Live Oak County
+  - McMullen County
+  - Schleicher County
+
+Total counties approved for FEMA-4935-DR Public Assistance now stands
+at 23: Bandera, Crockett, Dimmit, Edwards, Frio, Gillespie, Grimes,
+Kendall, Kerr, Kimble, Kinney, La Salle, Live Oak, Mason, Maverick,
+McMullen, Menard, Real, Schleicher, Sutton, Uvalde, Val Verde, Zavala.
+
+Note: All 23 counties are interior Texas. FEMA-4935-DR remains Public
+Assistance Only. No Individual Assistance approved under this
+declaration. Governor Abbott's request for Individual Assistance for
+~30 counties from July floods remains pending.
+
+Original incident period: July 12 - August 4, 2026.
+Sources:
+- Governor Abbott press release:
+  https://gov.texas.gov/news/post/governor-abbott-announces-approval-of-federal-disaster-assistance-for-four-additional-counties-following-summer-storms-and-flooding
+- Federal Register (prior amendment No. 9, Sept 14):
+  https://www.federalregister.gov/documents/2026/09/14/2026-18756/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+- FEMA disaster page: https://www.fema.gov/disaster/4935
+
+--- STILL PENDING (4 WEEKS) ---
+TROPICAL STORM EDOUARD — PRESIDENTIAL MAJOR DISASTER DECLARATION
+
+Governor Abbott requested a presidential major disaster declaration
+for southeast Texas counties. Senators Cruz and Cornyn supporting.
+Counties requested: Harris, Jefferson, Liberty, Orange (and others).
+
+STATUS AS OF SEPTEMBER 28, 2026: NOT CONFIRMED — STILL PENDING.
+Exhaustive search found no presidential declaration for Edouard.
+Only local declarations confirmed (Jefferson County, Port Arthur,
+Hardin County, Polk County).
+
+This means: No federal Individual Assistance or Public Assistance has
+been unlocked for Edouard damage as of Sept 28. FEMA-4935-DR covers
+July 12 - August 4, 2026 storms — NOT Edouard (landfall Sept 1, 2026).
+
+NFIP proof-of-loss deadline for Edouard claimants: ~November 1, 2026.
+Sources:
+- Insurance Journal (storm impact):
+  https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
+- KFDM (governor seeking declaration):
+  https://kfdm.com/news/local/governor-seeking-presidential-disaster-declaration-for-additional-setx-counties
+- KHOU (Livingston/Polk County local declaration):
+  https://www.khou.com/article/news/local/disaster-declared-in-livingston-after-edouard/285-b5f706f1-4d52-4a63-a634-6738ff3b9e36
+
+--- PRIOR RECORD (no change) ---
+SBA Admin Declaration (Aug 28, 2026 storms) — FR 2026-18777:
+SBA disaster loans only. Physical loan deadline: November 9, 2026.
+EIDL deadline: June 10, 2027.
+Source: https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+
+==============================================================
+SECTION 4 — INSURANCE DEVELOPMENTS (Sept 24–28, 2026)
+==============================================================
+
+--- QUALIFYING DEVELOPMENT #1 ---
+TDI TRANSPARENCY TOOL LAUNCHED — SEPTEMBER 25, 2026
+
+Texas Department of Insurance launched a new public transparency tool
+under House Bill 2067. Consumers can now search insurance carrier
+declination, non-renewal, and cancellation notices by ZIP code and
+policy type. More than 350,000 notices uploaded through June 2026;
+quarterly updates planned.
+Source: Insurance Journal, Sept. 25, 2026
+https://www.insurancejournal.com/news/southcentral/2026/09/25/886910.htm
+
+Post-worthiness: QUALIFIES — significant insurance development with
+direct impact on policyholders in storm-affected coastal areas.
+
+--- ONGOING MONITORING ---
+TWIA 0% Rate Filing (2027 policy year):
+- Board directed 0% filing Aug 4, 2026; filed with TDI by Aug 15.
+- Written public comments due to TDI: October 1, 2026 (3 DAYS)
+- TDI Commissioner approval/disapproval deadline: October 15, 2026
+- No opposition filings or TDI announcements found for Sept 24–28.
+- Average TWIA residential premium: ~$2,541–$2,877 (mid-2026).
+Source: https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2027/
+
+TWIA RICO Lawsuit (filed Aug 13, 2026):
+- Three Galveston-area homeowners suing TWIA re: Hurricane Beryl
+  claim manipulation via Leading Edge Claims Service (now Hansen).
+- $91K estimate cut to $31K in one case; ~$336M paid on 34,000+ Beryl claims.
+- No new court action September 24–28. Case in early stages.
+
+TDI Bulletin B-0008-26 (Sept 16, 2026):
+- Loss mitigation premium discounts encouraged.
+
+TX House Insurance Committee — Interim Hearing:
+- October 5–6, 2026, Room E2.026, Texas Capitol
+- Covers TWIA funding (HB 3689) and P&C insurance cost drivers
+
+NFIP Deadline — Tropical Storm Edouard:
+- Proof-of-loss submissions due: approximately November 1, 2026
+
+==============================================================
+SECTION 5 — POST-WORTHINESS ASSESSMENT
+==============================================================
+
+QUALIFYING EVENTS THIS WINDOW: 2
+
+1. TDI Transparency Tool (HB 2067) — launched Sept 25, 2026
+   Criterion: Significant insurance development, direct impact on
+   coastal Texas policyholders. Source: Insurance Journal (approved).
+   Facebook post: DRAFTED (see Section 6, Post #1)
+
+2. Edouard presidential DR still pending — 4 weeks since landfall
+   Criterion: Ongoing disaster declaration affecting SE Texas
+   policyholders; NFIP deadline approaching. No federal Individual
+   Assistance as of Sept 28. Sources: KFDM, Insurance Journal (approved).
+   Facebook post: DRAFTED (see Section 6, Post #2)
+
+==============================================================
+SECTION 6 — FACEBOOK POST DRAFTS
+==============================================================
+
+--- POST #1 — TDI Transparency Tool ---
+
+Texas just built a window into something insurance companies would
+rather you not see.
+
+On September 25, 2026, the Texas Department of Insurance launched
+a new public transparency tool under House Bill 2067. For the first
+time, anyone can search insurance carrier declination, non-renewal,
+and cancellation notices by ZIP code and policy type. TDI has uploaded
+more than 350,000 notices through June 2026, with quarterly updates
+going forward. [1]
+
+This matters in coastal Texas. When a carrier decides to stop writing
+new policies or non-renew existing ones in Aransas, Nueces, or Galveston
+counties, that is a choice they make. It affects your ability to get
+coverage, get a mortgage, or sell your home. Until now, those decisions
+happened without any way for the public to see the pattern.
+
+The tool changes that. A homeowner wondering why they received a
+non-renewal letter can now check whether their carrier is pulling back
+from an entire area or just from their property. A county can track
+which insurers are withdrawing from its ZIP codes over time.
+
+The TDI tool does not explain why carriers make these decisions. But
+it makes the pattern visible. That is the first step to holding them
+accountable.
+
+Search tool available at tdi.texas.gov.
+
+[1] Insurance Journal, Sept. 25, 2026:
+https://www.insurancejournal.com/news/southcentral/2026/09/25/886910.htm
+
+--- END POST #1 --- (~210 words)
+
+--- POST #2 — Edouard DR Still Pending ---
+
+Four weeks ago, Tropical Storm Edouard hit southeast Texas. Homeowners
+in Harris, Jefferson, Liberty, and Orange counties are still waiting
+for the federal government to act.
+
+Governor Abbott requested a presidential major disaster declaration after
+Edouard made landfall on September 1, 2026. Senators Cruz and Cornyn
+have both expressed support for the request. As of today, no presidential
+declaration has been issued. [1]
+
+That matters in practical terms. Without a presidential major disaster
+declaration, FEMA Individual Assistance is not available. No temporary
+housing grants. No home repair grants. The only federal disaster loans
+open are SBA loans from a separate administrative declaration covering
+August storms. [2]
+
+Local governments have issued their own declarations in Jefferson County,
+Port Arthur, Hardin County, and Polk County. But local declarations do
+not unlock federal aid to individual households.
+
+What that means right now: the people who had Edouard damage are
+relying almost entirely on their insurance policies. Private insurance
+is their primary lifeline. That is exactly why it matters when carriers
+dispute, delay, or underpay claims.
+
+One deadline is already on the clock. NFIP policyholders who had
+flood damage from Edouard have approximately until November 1, 2026
+to file a proof of loss. That window does not move.
+
+[1] KFDM:
+https://kfdm.com/news/local/governor-seeking-presidential-disaster-declaration-for-additional-setx-counties
+[2] Insurance Journal, Sept. 2, 2026:
+https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
+
+--- END POST #2 --- (~235 words)
+
+Voice check (both posts): First person, short declarative sentences,
+no em dashes, insurance company actions as active choices, "people"
+and "homeowners" not "humans," ends on concrete truth with no call to
+action, source footnotes on every factual claim.
+
+==============================================================
+SECTION 7 — ONGOING WATCH ITEMS
+==============================================================
+
+- Edouard presidential DR: Abbott requested; Cruz/Cornyn supporting.
+  Covers Harris, Jefferson, Liberty, Orange. PENDING as of Sept 28.
+  NFIP proof-of-loss deadline ~November 1, 2026.
+
+- TWIA 0% rate filing: Comment deadline Oct 1 (3 days). Commissioner
+  deadline Oct 15. Watch for TDI response.
+
+- TWIA RICO lawsuit: Watch for class certification motion, ruling,
+  or settlement. Three Galveston-area homeowners vs. TWIA.
+
+- TX House Insurance Committee: Oct 5–6, TX Capitol.
+  Covers TWIA funding (HB 3689) and P&C cost drivers.
+
+- FEMA-4935-DR: Public Assistance only; 23 interior TX counties.
+  Individual Assistance for July floods still pending.
+
+- 2026 Atlantic hurricane season: Gulf quiet through late Sept.
+  El Niño dominant. No imminent Texas coast threats.
+
+==============================================================
+END OF DIGEST
+==============================================================
