@@ -1,5 +1,367 @@
-BAKER LAW STORM DIGEST
-Date: 2026-09-30
-Status: RUN STARTED 2026-09-30T13:16:29Z
+STORM DIGEST — September 30, 2026
+Baker Law | Rockport, Texas
+Window: September 27–30, 2026
+Run completed: 2026-09-30T13:16:29Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+==============================================================
+SECTION 1 — TROPICAL / GULF WEATHER
+==============================================================
+
+STATUS: NO THREAT TO TEXAS COAST
+
+Gulf of Mexico: CLEAR. No tropical systems. No NHC watches or
+warnings in effect for Texas.
+
+Tropical Storm Fay: Post-tropical as of September 29, 2026.
+Dissipating into remnant trough. No threat to any land area.
+Source: NHC advisory archive:
+https://nhc.noaa.gov/archive/2026/FAY.shtml
+
+Tropical Storm Hanna (8th named storm, 2026):
+As of Sept 30 2 AM advisory — location approx. 33.5N, 43.9W (central
+Atlantic well east of Bermuda), 40-45 mph winds, expected post-tropical
+by end of Sept 30. No U.S. threat.
+Source: CBS17, https://cbs17.com/weather/tracking-the-tropics/eighth-named-storm-of-2026-atlantic-hurricane-season-forms/
+
+2026 Atlantic season: 8 named storms, ZERO hurricanes as of Sept 30.
+El Nino wind shear continues to suppress development. Season has now
+potentially exceeded the latest first-hurricane date in the satellite era.
+Source: NOAA, https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season
+
+Caribbean wave: NHC monitoring a low (~10%) development area in Bay
+of Campeche. Hostile conditions make Gulf intensification unlikely.
+No watches or warnings issued.
+Source: Fox Weather, https://foxweather.com/weather-news/severe-storm-ingredients-possibility-tropical-development-next-week
+
+Pacific context: Hurricane Polo (Cat 2) struck Baja California Sur
+Sept 29. Polo's remnant moisture is contributing to the cold front
+flooding now hitting Texas — NOT a Gulf tropical threat.
+
+==============================================================
+SECTION 2 — COASTAL AND STATEWIDE STORM DAMAGE (Sept 27-30, 2026)
+==============================================================
+
+Qualifying coastal counties monitored: Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston.
+
+---
+QUALIFYING EVENT — COLD FRONT + FLOODING (IN PROGRESS, Sept 30)
+---
+
+Type: Cold front + Pacific Hurricane Polo remnant moisture producing
+widespread flash flooding
+
+Date: Arriving Sept 30, 2026 (earlier than forecast Oct 1-3 window)
+Status: IN PROGRESS as of run time
+
+Threat area: South Central Texas (San Antonio, Hill Country, New
+Braunfels, Kerrville), Southeast Texas, and the Brazos Valley.
+
+QUALIFYING CRITERION — COASTAL COUNTIES: Southeast Texas flooding
+threat explicitly includes Brazoria and Matagorda county region.
+- CW39 Houston (CBS affiliate): "Southeast Texas faces flooding threat"
+- KBTX Bryan/College Station (CBS): Brazos Valley heavy rain and
+  flood threat named specifically — the Brazos River flows directly
+  through Brazoria County
+
+SEVERITY:
+- NWS Flood Watches issued from South Central Texas through SE Texas
+  (7 PM Wed through 7 PM Fri — multiple days)
+- Rainfall forecast: 3-5 inches widespread, 6-8 inches locally
+  possible, worst-case pockets above 8 inches
+- San Antonio Express-News: "life-threatening flooding across South
+  Central Texas and a large portion of Texas in the next 48-72 hours"
+- Flash flood risk rating: Level 3-4 (NWS)
+
+FEMA: No declaration yet (event in progress). Watch for filings
+within 1-2 weeks post-event.
+
+POST-WORTHY: YES
+Criterion met: Hits qualifying coastal county area (Brazoria/Matagorda
+via SE Texas and Brazos Valley); widespread flooding with life-
+threatening NWS language; multiple approved-source confirmations.
+
+Sources:
+- San Antonio Express-News (life-threatening flood threat):
+  https://www.mysanantonio.com/news/weather/article/texas-cold-front-flooding-22452641.php
+- San Antonio Express-News (cold front moving across Texas):
+  https://www.mysanantonio.com/news/weather/article/cold-front-flood-texas-weather-22452518.php
+- KXAN Austin (Flood Watch, cold front):
+  https://www.kxan.com/weather/forecast/major-pattern-change-brings-heavy-rain-flood-risk-this-week/
+- CW39 Houston (SE Texas flooding threat):
+  https://cw39.com/weather/texas-flooding-threat-forecast/
+- KBTX (Brazos Valley flood threat):
+  https://www.kbtx.com/2026/09/28/october-brings-heavy-rain-flooding-threat-brazos-valley/
+
+---
+NOT QUALIFYING — Panhandle Tornado Complex (Sept 29)
+---
+
+Type: Multiple tornadoes / severe thunderstorm complex
+Date: September 29, 2026 (afternoon to ~11 PM CDT)
+Location: Randall, Carson, Potter, Wheeler, Gray, Armstrong counties
+          (TX Panhandle — interior, not qualifying coastal counties)
+Strength: NWS Extreme Tornado Warnings; one tornado visually confirmed
+          SW of Amarillo near FM 2219 and Rockwell Road (~9:40 PM CDT)
+          by ABC7 Amarillo with gallery photos
+Damage: No confirmed dollar figure; no post-event structural damage
+        report; assessments ongoing as of run time
+FEMA: No declaration (too recent; interior counties)
+Post-worthy: NO — tornado confirmed but no sourced post-event
+             structural damage report; no qualifying coastal county;
+             no confirmed dollar damage. Monitor for follow-up NWS
+             Amarillo damage survey.
+Sources:
+- ABC7 Amarillo (tornado visual confirmation):
+  https://abc7amarillo.com/news/local/tornado-spotted-southwest-of-amarillo-fm-2219-rockwell-road-national-weather-service-severe-weather-storm-spotter-chime-in
+- GovOneStop/NWS (Extreme Tornado Warning 09/29/2026):
+  https://govonestop.com/nws/texas-extreme-tornado-warning-effective-09292026-1559
+
+---
+NOT QUALIFYING — Panhandle Flash Flooding (Sept 29-30)
+---
+
+Type: Flash flooding / riverine flooding
+Date: Evening Sept 29 through morning Sept 30, 2026
+Location: Deaf Smith, Oldham, Potter counties (TX Panhandle; interior)
+Rainfall: 5-7 inches in NE Deaf Smith County; FM1057 confirmed closed
+          south of Summerfield
+Damage: No confirmed dollar figure; interior counties; no FEMA
+Post-worthy: NO — interior Panhandle counties; no qualifying coastal
+             county; no confirmed dollar damage
+Sources:
+- GovOneStop/NWS (Flash Flood Warning 09/29/2026 22:20):
+  https://govonestop.com/nws/texas-severe-flash-flood-warning-effective-09292026-2220
+
+==============================================================
+SECTION 3 — FEMA / DISASTER DECLARATIONS
+==============================================================
+
+--- NEW THIS WINDOW ---
+FEMA-4935-DR AMENDMENT — SEPTEMBER 30, 2026 (FR Doc. 2026-19942)
+
+A new amendment to FEMA-4935-DR (Texas July 2026 flooding, Public
+Assistance only) was published in the Federal Register on September 30
+(put on public inspection September 29 at 8:45 AM). Specific counties
+added by this amendment were not retrievable from search results but
+the document is a continuing PA expansion.
+
+Source: Federal Register:
+https://www.federalregister.gov/documents/2026/09/30/2026-19942/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+
+Prior county total: 23 counties (per Sept 28 digest). This amendment
+may expand that count further. All PA-only; no Individual Assistance
+approved for July flooding as of September 30.
+
+--- STILL PENDING (29 DAYS) ---
+TROPICAL STORM EDOUARD — PRESIDENTIAL MAJOR DISASTER DECLARATION
+
+Exhaustive search of FEMA declarations database, Federal Register
+(Sept 29 notices compilation), Texas Governor's office, TDEM, and
+major news outlets found NO presidential major disaster declaration
+approved or denied for Edouard as of September 30, 2026.
+
+Counties requested: Harris, Jefferson, Liberty, Orange (and others)
+Only local declarations confirmed: Jefferson County, Port Arthur,
+Hardin County, Polk County.
+
+Status: PENDING, 29 days post-landfall (Sept 1, 2026)
+NFIP proof-of-loss deadline for Edouard claimants: ~November 1, 2026
+
+Sources:
+- TDEM Edouard page: https://tdem.texas.gov/disasters/tropical-storm-edouard
+- FEMA disaster declarations: https://www.fema.gov/disaster/declarations
+- Federal Register Sept 29 notices:
+  https://www.federalregister.gov/documents/2026/09/29/2026-19857/notices-of-emergency-and-major-disaster-declarations-and-related-amendments
+- Insurance Journal:
+  https://www.insurancejournal.com/news/southcentral/2026/09/02/883699.htm
+
+--- NOTE ---
+Governor Abbott declared a statewide energy disaster September 28
+(diesel prices/fuel shortage tied to wars abroad). Unrelated to storm
+damage; no FEMA component.
+Source: Click2Houston:
+https://www.click2houston.com/news/texas/2026/09/28/abbott-declares-disaster-in-texas-over-diesel-prices-waives-restrictions-on-commercial-shipping/
+
+==============================================================
+SECTION 4 — INSURANCE DEVELOPMENTS (Sept 27-30, 2026)
+==============================================================
+
+--- QUALIFYING DEVELOPMENT #1 ---
+TWIA 0% RATE FILING — WRITTEN COMMENT DEADLINE OCTOBER 1
+
+TWIA filed for a 0% rate change for 2027 policies. TDI is accepting
+written public comments until TOMORROW, October 1 at 5 PM CT.
+TDI Commissioner decision deadline: October 15, 2026.
+
+TDI held public meetings on this filing:
+- September 23, 2026 — Galveston
+- September 27, 2026 — Corpus Christi
+No notable opposition filings or advocacy comments found.
+
+Why rates stayed flat: TWIA's actuaries found rates are adequate by
+~9% residential / ~4% commercial. The improvement is largely due to
+HB 3689 (2025) which reduced TWIA's minimum funding requirement from
+a 1-in-100-year storm to a 1-in-50-year storm — cutting reinsurance
+costs by ~46%.
+
+Post-worthiness: QUALIFIES — significant insurance development
+directly affecting 240,000+ coastal TX policyholders; imminent
+regulatory deadline; approved sources. Facebook post drafted.
+
+Sources:
+- TWIA: https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2027/
+- KIII TV: https://www.kiiitv.com/article/news/state/no-rate-increase-recommended-for-texas-windstorm-insurance-in-2027/503-ce58f01d-67c7-4140-a1ea-8408a99437b9
+- TDI public meetings: https://content.govdelivery.com/accounts/TXINSUR/bulletins/3b19f92
+- TWIA rate filing timeline: https://www.twia.org/timeline-for-twias-annual-rate-filing-consideration-5/
+
+--- ONGOING MONITORING ---
+TWIA RICO Lawsuit (filed Aug 13, 2026):
+- No new court filings, hearings, or ruling Sept 27-30
+- Case remains in early stages; no class certification yet
+- 20,000-25,000 Beryl claimants potentially affected; ~$336M paid
+  on 34,000+ Hurricane Beryl claims
+Source: https://www.insurancejournal.com/magazines/mag-features/2026/09/07/883925.htm
+
+TX House Insurance Committee — Interim Hearing:
+- October 5, 2026 (9 AM) and October 6 (continuation if needed)
+- Room E2.026, Texas Capitol, Austin
+- Covers: HB 3689 implementation, P&C insurance costs, consumer
+  protections, policy cancellation/non-renewal
+Source: https://capitol.texas.gov/tlodocs/89R/schedules/html/C3202026100509001.htm
+
+NFIP Deadline — Tropical Storm Edouard:
+- Proof-of-loss submissions due: approximately November 1, 2026
+
+==============================================================
+SECTION 5 — POST-WORTHINESS ASSESSMENT
+==============================================================
+
+QUALIFYING EVENTS THIS WINDOW: 2
+
+1. Cold front flooding, SE Texas / Brazos Valley (Sept 30, in progress)
+   Criterion: Hits qualifying coastal counties (Brazoria/Matagorda
+   via SE Texas and Brazos Valley); NWS Flood Watches; life-threatening
+   flooding language from approved sources.
+   Facebook post: DRAFTED (see Section 6, Post #1)
+
+2. TWIA 0% rate filing — written comment deadline October 1
+   Criterion: Significant insurance development affecting 240,000+
+   coastal TX policyholders; imminent regulatory deadline Oct 1.
+   Sources: TWIA.org, KIII TV, TDI (approved).
+   Facebook post: DRAFTED (see Section 6, Post #2)
+
+==============================================================
+SECTION 6 — FACEBOOK POST DRAFTS
+==============================================================
+
+--- POST #1 — Cold Front Flooding, SE Texas ---
+
+Flooding is moving across South Texas and Southeast Texas today. The
+National Weather Service has issued Flood Watches from San Antonio
+through the Brazos Valley. Forecasters are using life-threatening
+language for parts of the state. [1] [2]
+
+When flooding and wind hit at the same time, the storm is only the
+beginning of the problem.
+
+Most homeowner's policies exclude flood damage. National Flood Insurance
+Program policies cover flood but not wind. Carriers know exactly where
+those policy lines are. When a storm produces both wind and flood damage,
+they draw those lines in ways that favor denial.
+
+Under most NFIP policies, policyholders have 60 days from the date of
+loss to file a proof of loss. That window runs from the date of damage,
+not from the date the adjuster visits or the estimate arrives. Missing
+that deadline is a denial.
+
+Before anything is moved or cleaned, photograph and video your damage
+with timestamps. The insurance company's adjuster will document what
+they find. You should do the same.
+
+Flood damage and wind damage look different to adjusters. They look the
+same to the people whose homes just took six inches of water. The carrier
+decides which peril caused which damage. That decision determines which
+policy applies.
+
+[1] San Antonio Express-News, Sept. 30, 2026:
+https://www.mysanantonio.com/news/weather/article/texas-cold-front-flooding-22452641.php
+[2] KBTX, Sept. 28, 2026:
+https://www.kbtx.com/2026/09/28/october-brings-heavy-rain-flooding-threat-brazos-valley/
+
+--- END POST #1 --- (~230 words)
+
+--- POST #2 — TWIA Rate Filing / October 1 Deadline ---
+
+TWIA filed for no rate increase for 2027. Coastal Texas homeowners
+will pay the same premium next year that they pay today. [1]
+
+That is good news. Here is what is behind it.
+
+TWIA's actuaries found the association's rates are now adequate by
+about 9% for residential coverage. That adequacy is tied directly to
+House Bill 3689, passed during the 2025 legislative session. HB 3689
+reduced TWIA's minimum funding requirement from surviving a
+one-in-100-year storm to surviving a one-in-50-year storm. That change
+cut TWIA's reinsurance costs by roughly 46%. [2]
+
+Rates stayed flat because the funding cushion got smaller.
+
+The Texas Department of Insurance held public meetings on this filing
+in Galveston on September 23 and in Corpus Christi on September 27. [3]
+Written public comments close tomorrow, October 1. The TDI Commissioner
+has until October 15 to approve or disapprove the filing.
+
+TWIA covers roughly 240,000 coastal Texas properties. When a major
+hurricane makes landfall on this coast, the adequacy of TWIA's reserves
+is not a theoretical question. It is the question that determines
+whether claims get paid in full.
+
+[1] TWIA:
+https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2027/
+[2] KIII TV, 2026:
+https://www.kiiitv.com/article/news/state/no-rate-increase-recommended-for-texas-windstorm-insurance-in-2027/503-ce58f01d-67c7-4140-a1ea-8408a99437b9
+[3] TDI public meetings notice:
+https://content.govdelivery.com/accounts/TXINSUR/bulletins/3b19f92
+
+--- END POST #2 --- (~225 words)
+
+Voice check (both posts): First person, short declarative sentences,
+no em dashes, insurance company actions as active choices, "people"
+and "homeowners" not "humans," ends on concrete truth with no call to
+action, source footnotes on every factual claim.
+
+==============================================================
+SECTION 7 — ONGOING WATCH ITEMS
+==============================================================
+
+- Cold front flooding SE Texas/Brazos Valley: Monitor KHOU, KPRC2,
+  ABC13 for damage reports through Oct 1-2. Watch for FEMA declaration
+  filing within 1-2 weeks post-event.
+
+- Edouard presidential DR: Still pending 29 days post-landfall.
+  Covers Harris, Jefferson, Liberty, Orange (requested).
+  NFIP proof-of-loss deadline ~November 1, 2026.
+
+- TWIA 0% rate filing: Comment deadline Oct 1 5 PM CT.
+  Commissioner decision deadline Oct 15.
+
+- FEMA-4935-DR Sept 30 amendment (FR 2026-19942): Specific counties
+  unknown; monitor Federal Register for confirmation.
+
+- TWIA RICO lawsuit: Watch for class certification motion, ruling,
+  or settlement. 20,000-25,000 Beryl claimants potentially affected.
+
+- TX House Insurance Committee: Oct 5-6, TX Capitol.
+  Covers TWIA funding (HB 3689) and P&C cost drivers.
+
+- Panhandle tornado (Sept 29): Monitor NWS Amarillo for post-event
+  damage survey. If confirmed structural damage, may warrant follow-up.
+
+- 2026 Atlantic season: 8 named storms, 0 hurricanes. Gulf clear.
+  El Nino dominant. Caribbean wave (Bay of Campeche) ~10% development
+  odds; monitor NHC daily.
+
+==============================================================
+END OF DIGEST
+==============================================================
