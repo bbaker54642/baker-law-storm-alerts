@@ -1,5 +1,404 @@
-BAKER LAW STORM DIGEST
-Date: 2026-10-05
-Status: RUN STARTED 2026-10-05T13:23:08Z
+STORM DIGEST — October 5, 2026
+Baker Law | Rockport, Texas
+Window: October 1–5, 2026
+Run completed: 2026-10-05T13:45:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+==============================================================
+SECTION 1 — TROPICAL / GULF WEATHER
+==============================================================
+
+STATUS: NO THREAT TO TEXAS COAST
+
+Gulf of Mexico: Active development potential but NOT tracking toward Texas.
+
+Bay of Campeche / SW Gulf Disturbance:
+NHC has upgraded development odds on a Bay of Campeche low to 40-50%
+over the next 7 days. If named, next storm is Isaias. Forecast track:
+northeast toward Louisiana, Mississippi, Alabama, and Florida panhandle.
+Wind shear along the Texas coast is hostile to approach from this system.
+No NHC watches or warnings in effect for Texas.
+Source: NHC Tropical Weather Outlook
+
+Tropical Storm Hanna: Post-tropical as of September 30, 2026.
+Dissipated in open Atlantic. No threat.
+
+2026 Atlantic season: 8 named storms, ZERO hurricanes as of October 5.
+The season is on track to potentially set the record for the latest
+first-hurricane date in the satellite era. El Nino wind shear dominant.
+Source: CBS12, CBS17
+
+Gulf summary: Developing low tracks away from Texas. El Nino suppression
+continues. No NHC watches or warnings for Texas coast.
+
+==============================================================
+SECTION 2 — COASTAL AND STATEWIDE STORM DAMAGE (Oct 1–5, 2026)
+==============================================================
+
+Qualifying coastal counties monitored: Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston.
+
+---
+QUALIFYING EVENT — COLD FRONT + POLO REMNANT FLOODING (Oct 1–5)
+---
+
+Type: Cold front + Pacific Hurricane Polo remnant moisture producing
+widespread flash flooding
+
+Date: October 1-5, 2026
+Status: Concluded / damage assessment ongoing as of run time
+
+QUALIFYING CRITERION — COASTAL COUNTIES: 8 of 10 qualifying coastal
+counties were under NWS Flood Watches:
+Brazoria, Galveston, Matagorda, Calhoun, Jackson, Nueces, San Patricio,
+and Victoria counties all confirmed in the flood watch area.
+
+SEVERITY:
+- Harris County (NW Houston): 7.88 inches overnight Oct 2-3
+- 14,116 statewide power outages confirmed (Insurance Journal, Oct 2)
+- 816 flights grounded Oct 1; DFW: 260+ cancellations, 900+ delays
+- NWS Flood Watches: Brazoria, Calhoun, Galveston, Jackson, Matagorda,
+  Nueces, San Patricio, Victoria (all qualifying coastal counties)
+- NWS advisory: South-central Texas 1-4 inches with isolated up to
+  8 inches; Deaf Smith/Oldham counties (Panhandle) reported 5-7 inches
+- FEMA: No declaration yet (event concluded Oct 2-3; FEMA process
+  typically takes 2-4 weeks minimum post-event)
+
+Confirmed dollar damage: Not yet sourced. Event too recent for official
+damage assessments. Monitor for FEMA declaration request within 1-2 weeks.
+
+POST-WORTHY: YES
+Criterion met: 8 qualifying coastal counties under NWS Flood Watches;
+14,116 power outages; widespread documented impacts; approved sources.
+
+Sources:
+- Insurance Journal (power outages, Oct 2):
+  https://www.insurancejournal.com/news/southcentral/2026/10/02/
+- Houston Chronicle (Harris County 7.88 inches, flood watch):
+  https://www.houstonchronicle.com/
+- KSAT San Antonio (cold front/flooding, Oct 2):
+  https://www.ksat.com/weather/2026/10/02/
+- Click2Houston/KPRC2 (SE Texas flooding):
+  https://www.click2houston.com/
+- Fox26 Houston (coastal county flood watch confirmation):
+  https://www.fox26houston.com/
+- NWS HGX/EWX/CRP (flood watch area counties):
+  https://govonestop.com/nws/texas-severe-flood-watch-effective-09302026-1952
+
+---
+NOT QUALIFYING — Interior Events
+---
+
+South-Central Texas flooding (Kerr, Kinney, Llano, Maverick, Medina,
+Real, Travis, Uvalde, Val Verde, Williamson, Wilson, Zavala): Same
+cold front system; interior counties only; no coastal county confirmation.
+
+Panhandle flash flooding (Deaf Smith, Oldham counties): 5-7 inches
+confirmed; far interior; no qualifying coastal county.
+
+==============================================================
+SECTION 3 — FEMA / DISASTER DECLARATIONS
+==============================================================
+
+--- CONFIRMED AMENDMENT ---
+FEMA-4935-DR AMENDMENT — SEPTEMBER 30, 2026 (FR Doc. 2026-19942)
+
+Counties added by this amendment now confirmed:
+  - Grimes County
+  - Live Oak County
+  - McMullen County
+  - Schleicher County
+
+Updated total: 23 counties under FEMA-4935-DR Public Assistance.
+All 23 counties remain PA-only; no Individual Assistance.
+Original incident period: July 12 – August 4, 2026.
+Amendment published: 91 FR 61912 (September 30, 2026).
+
+Note: The Sept 28 digest estimated 23 counties based on the Sept 25
+amendment. The Sept 30 amendment (FR 2026-19942) added the same four
+counties (Grimes, Live Oak, McMullen, Schleicher) that the Sept 25
+press release reported. The total of 23 counties is consistent.
+
+Source: Federal Register:
+https://www.federalregister.gov/documents/2026/09/30/2026-19942/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of
+
+No additional amendments to DR-4935 found for October 2-5, 2026.
+
+--- STILL PENDING (34 DAYS) ---
+TROPICAL STORM EDOUARD — PRESIDENTIAL MAJOR DISASTER DECLARATION
+
+Exhaustive search of FEMA declarations database, Federal Register,
+Texas Governor's office, TDEM, Senate press releases, and major news
+outlets found NO presidential major disaster declaration approved for
+Edouard as of October 5, 2026. No denial confirmed either.
+
+Counties requested: Harris, Jefferson, Liberty, Orange (and others).
+Only local declarations confirmed: Jefferson County, Port Arthur,
+Hardin County, Polk County.
+
+Status: PENDING, 34 days post-landfall (September 1)
+Administration context: The July 2026 Texas DR-4935 took 46 days from
+Governor Abbott's July 17 request to presidential approval on September 1.
+The current administration has run higher-than-average declaration denial
+rates. As of October 5 (Day 34 of Abbott's Edouard request), neither
+approval nor formal denial has been publicly announced.
+Source: CarrierManagement.com (July 17, 2026 — denial rate reporting)
+
+NFIP proof-of-loss deadline for Edouard claimants: ~November 1, 2026
+(60 days from September 1 landfall). This deadline does not move
+regardless of whether a federal disaster declaration is issued.
+
+Sources:
+- Cornyn/Cruz Senate letter:
+  https://www.cornyn.senate.gov/news/cornyn-cruz-support-abbott-request-for-federal-emergency-disaster-declaration-for-southeast-texas/
+- TDEM Edouard page: https://tdem.texas.gov/disasters/tropical-storm-edouard
+- FEMA disaster declarations: https://www.fema.gov/disaster/declarations
+
+--- NO NEW DECLARATIONS ---
+Cold front October 2-5 flooding: No FEMA emergency or major disaster
+declaration filed as of October 5. Event too recent. FEMA process
+typically requires governor's request, FEMA joint preliminary damage
+assessment, and presidential action — a minimum 2-4 week process.
+
+==============================================================
+SECTION 4 — INSURANCE DEVELOPMENTS (Oct 1–5, 2026)
+==============================================================
+
+--- QUALIFYING DEVELOPMENT #1 ---
+TX HOUSE INSURANCE COMMITTEE — INTERIM HEARING (TODAY, October 5)
+
+The Texas House Insurance Committee is holding its interim hearing
+TODAY, October 5, 2026 (9 AM), Room E2.026, Texas Capitol, Austin.
+Continuation October 6 if needed.
+
+Agenda topics directly relevant to coastal Texas policyholders:
+- HB 3689 (2025): TWIA minimum funding requirement reduction from
+  1-in-100-year to 1-in-50-year storm. The bill that cut TWIA
+  reinsurance costs ~46% and enabled the 0% rate filing.
+- P&C insurance cost drivers in Texas: Carrier availability, market
+  stability in coastal counties.
+- HB 2067: TDI transparency tool implementation (non-renewal/
+  declination/cancellation notices by ZIP code).
+- SB 458: Insurance appraisal process — disputed claims, timelines.
+- 89th Legislature bill reviews and consumer protection measures.
+- Policy cancellation and non-renewal concerns.
+
+Post-worthiness: QUALIFIES — active legislative oversight of the
+insurance mechanisms that directly control coastal Texas coverage
+availability and claim rights. Facebook post drafted.
+
+Source:
+https://capitol.texas.gov/tlodocs/89R/schedules/html/C3202026100509001.htm
+
+--- QUALIFYING DEVELOPMENT #2 ---
+TWIA BOARD INTERIM MEETING — OCTOBER 8, 2026
+
+TWIA will hold an interim board meeting on October 8, 2026. Key
+agenda item: Consideration of eliminating or making optional
+TIC § 2210.575(e) — the statutory provision requiring that all
+TWIA suits be presided over by an MDL (multi-district litigation)
+panel-appointed judge.
+
+Significance: If TWIA eliminates § 2210.575(e):
+- Policyholders bringing suits against TWIA would no longer be
+  guaranteed a specialized MDL judge experienced in insurance
+  disputes and storm claim litigation.
+- Cases could be routed to general civil courts without the MDL
+  coordination mechanism.
+- This change would reduce consistency and potentially increase
+  burden on individual claimants navigating TWIA litigation.
+
+Post-worthiness: QUALIFIES — significant procedural change affecting
+how TWIA claimants can pursue disputed claims. Facebook post drafted.
+
+Source: TWIA board meeting agenda (October 8 interim session).
+
+--- ONGOING MONITORING ---
+TWIA 0% Rate Filing (2027):
+- Written comment deadline October 1 passed. No significant opposition found.
+- Commissioner decision deadline October 15.
+- Legal nuance confirmed: Because TWIA filed 0% (not an increase),
+  TDI may not require formal Commissioner approval/disapproval action.
+  This is consistent with practice in prior 0% or flat-rate years.
+
+TWIA RICO Lawsuit (filed August 13, 2026):
+- No new court action October 1-5.
+- Plaintiffs: Ernestine Bell, Alicia Stuart, David Mohun (Galveston area).
+- Allegations: TWIA vendor Leading Edge/Hansen altered field adjuster
+  estimates without disclosure; ~$336M paid on 34,000+ Beryl claims;
+  20,000-25,000 claimants potentially affected.
+- Case in early stages; no class certification motion yet.
+Source: https://www.insurancejournal.com/magazines/mag-features/2026/09/07/883925.htm
+
+NFIP Deadline — Tropical Storm Edouard:
+- Proof-of-loss due: approximately November 1, 2026 (27 days).
+
+==============================================================
+SECTION 5 — POST-WORTHINESS ASSESSMENT
+==============================================================
+
+QUALIFYING EVENTS THIS WINDOW: 3
+
+1. Cold front + Polo remnant flooding, 8 coastal counties (Oct 1-5)
+   Criterion: 8 qualifying coastal counties under NWS Flood Watches;
+   14,116 power outages; life-threatening flood language; widespread
+   impacts confirmed by multiple approved sources.
+   Facebook post: DRAFTED (see Section 6, Post #1)
+
+2. TX House Insurance Committee interim hearing (TODAY, Oct 5)
+   Criterion: Active legislative oversight of TWIA funding, appraisal
+   rights, non-renewal transparency — direct policyholder impact.
+   Source: Texas Legislature (approved).
+   Facebook post: DRAFTED (see Section 6, Post #2)
+
+3. TWIA Board interim meeting Oct 8 — MDL judge elimination vote
+   Criterion: Significant procedural change affecting TWIA claimants'
+   rights to pursue disputed claims.
+   Source: TWIA board agenda (approved source).
+   Facebook post: DRAFTED (see Section 6, Post #3)
+
+==============================================================
+SECTION 6 — FACEBOOK POST DRAFTS
+==============================================================
+
+--- POST #1 — Polo/Cold Front Flooding, Coastal Counties ---
+
+This past week, the National Weather Service issued Flood Watches for
+eight coastal Texas counties: Brazoria, Calhoun, Galveston, Jackson,
+Matagorda, Nueces, San Patricio, and Victoria. Parts of Southeast Texas
+took more than seven inches of rain in a single night. More than 14,000
+customers lost power across the state. [1] [2]
+
+When flood and wind damage arrive together, the claim process gets
+complicated fast.
+
+Most standard homeowner's policies exclude flood damage entirely.
+National Flood Insurance Program policies cover flood but not wind.
+When a storm produces both, the question of which policy covers which
+damage is not answered by the storm. It is answered by the adjuster.
+
+That is not a neutral process. Insurance carriers and NFIP adjusters
+have financial incentives to characterize damage in ways that reduce
+their exposure. The homeowner does not typically get a say in which
+label gets applied to the water line on their wall.
+
+Under NFIP policies, policyholders have 60 days from the date of loss
+to file a proof of loss. That deadline runs from when the damage
+occurred, not from when the adjuster shows up or the estimate arrives.
+
+Before anything is moved or cleaned, photograph and video the damage
+with timestamps. The first record in a claim dispute is usually the
+most important one.
+
+[1] Insurance Journal, Oct. 2, 2026:
+https://www.insurancejournal.com/news/southcentral/2026/10/02/
+[2] NWS Flood Watch advisory:
+https://govonestop.com/nws/texas-severe-flood-watch-effective-09302026-1952
+
+--- END POST #1 --- (~225 words)
+
+--- POST #2 — TX House Insurance Committee Hearing ---
+
+Today, the Texas House Insurance Committee is holding its interim
+hearing at the Capitol in Austin. The committee is looking at the
+insurance decisions that shape what coverage is available on the Texas
+coast and what happens when people try to make a claim. [1]
+
+On the agenda: the TWIA funding change from last session. House Bill
+3689 reduced TWIA's minimum financial reserve from surviving a
+one-in-100-year storm to surviving a one-in-50-year storm. That change
+cut TWIA's reinsurance costs by roughly 46 percent, which is why rates
+did not increase this year. It also means the cushion available when a
+major hurricane makes landfall is smaller than it used to be.
+
+Also on the agenda: the insurance appraisal process, and how insurance
+companies use it. Under Texas law, policyholders can invoke appraisal
+when they dispute an insurer's estimate of damages. Senate Bill 458
+addresses how that process works in practice. The carriers do not
+always use it in ways that benefit the policyholder.
+
+The committee hears testimony from carriers, regulators, and sometimes
+homeowners. Those hearings shape the legislative priorities that come
+back in January. What gets raised today can become law two years from
+now.
+
+[1] Texas House Insurance Committee, Interim Hearing Oct. 5, 2026:
+https://capitol.texas.gov/tlodocs/89R/schedules/html/C3202026100509001.htm
+
+--- END POST #2 --- (~230 words)
+
+--- POST #3 — TWIA MDL Judge Vote (Oct 8 Board Meeting) ---
+
+TWIA is holding a board meeting on October 8 to consider eliminating
+a rule that affects how policyholders pursue disputed claims in court.
+
+The current rule, under Texas Insurance Code Section 2210.575(e),
+requires that all TWIA lawsuits be presided over by a judge appointed
+through the MDL system. MDL, or multi-district litigation, is a process
+used to coordinate similar cases and assign them to judges with
+experience in that category of dispute.
+
+For TWIA policyholders, that meant their case was heard by a judge who
+had likely presided over other TWIA storm cases and understood how TWIA
+adjusts claims, prices repairs, and litigates coverage disputes.
+
+If TWIA's board votes to eliminate or make this rule optional, new
+TWIA suits may be routed to judges without that background. Individual
+policyholders bringing a claim dispute would face a carrier that
+litigates these cases constantly, before a judge who may not.
+
+The MDL coordination mechanism also helps identify patterns. When
+hundreds of claims from the same storm are handled in one court system,
+it becomes easier to spot whether carriers are systematically
+underpaying a specific category of damage. That visibility becomes
+harder when cases scatter across different courts.
+
+The vote has not happened yet. This is what TWIA's board is considering.
+
+[1] TWIA Board interim meeting, October 8, 2026: twia.org
+
+--- END POST #3 --- (~230 words)
+
+Voice check (all posts): Short declarative sentences, no em dashes,
+insurance company actions as active choices, "people" and "homeowners"
+not "humans," ends on concrete truth with no call to action, source
+footnotes on factual claims.
+
+==============================================================
+SECTION 7 — ONGOING WATCH ITEMS
+==============================================================
+
+- Cold front flooding (Oct 1-5, 8 coastal counties): Monitor KHOU,
+  KPRC2, ABC13 for damage dollar figures. Watch for FEMA declaration
+  request within 2-4 weeks post-event. Confirmed structural damage
+  reporting will enable Panhandle follow-up comparison.
+
+- Gulf low (Bay of Campeche): NHC 40-50% development odds. If named,
+  Isaias. Track: NE toward Louisiana/Mississippi/Alabama/Florida.
+  Monitor NHC daily. Not a Texas threat under current forecasts.
+
+- Edouard presidential DR: Still pending 34 days post-landfall.
+  Covers Harris, Jefferson, Liberty, Orange (requested).
+  NFIP proof-of-loss deadline ~November 1, 2026 (27 days).
+  Monitor FEMA.gov and Governor's office for announcement.
+
+- TWIA 0% rate filing: Comment deadline passed Oct 1. Commissioner
+  action deadline Oct 15, though 0% filing may not require formal action.
+
+- TWIA Board meeting October 8: Vote on eliminating TIC § 2210.575(e)
+  (MDL judge requirement for TWIA suits). Watch for official vote result.
+
+- TX House Insurance Committee: Oct 5-6 (today/tomorrow), TX Capitol.
+  Testimony from carriers and regulators. Watch for legislative findings.
+
+- TWIA RICO lawsuit: Watch for class certification motion, ruling, or
+  settlement. 20,000-25,000 Beryl claimants potentially affected.
+
+- FEMA-4935-DR: 23 PA-only counties confirmed (through Sept 30 amendment).
+  Governor's IA request for July floods still pending separately.
+
+- 2026 Atlantic season: 8 named storms, 0 hurricanes. El Nino dominant.
+  Season may set latest-first-hurricane record in satellite era.
+
+==============================================================
+END OF DIGEST
+==============================================================
