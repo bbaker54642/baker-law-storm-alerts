@@ -1,5 +1,415 @@
-BAKER LAW STORM DIGEST
-Date: 2026-10-07
-Status: RUN STARTED 2026-10-07T13:21:00Z
+STORM DIGEST — October 7, 2026
+Baker Law | Rockport, Texas
+Window: October 3–7, 2026
+Run completed: 2026-10-07T13:45:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+==============================================================
+SECTION 1 — TROPICAL / GULF WEATHER
+==============================================================
+
+STATUS: ISAIAS FORMING — TRACKING AWAY FROM TEXAS
+
+Tropical Storm Isaias (9th named storm, 2026) — CONFIRMED ACTIVE:
+
+Isaias formed in the early hours of October 7, 2026, from the Bay of
+Campeche disturbance that had 40-50% development odds as of October 5.
+
+Current status (Oct 7 AM advisory):
+- Position: approximately 22.0°N, 94.1°W (SW Gulf of Mexico)
+- Movement: east-northeast
+- Maximum sustained winds: 40 mph (tropical storm)
+
+Forecast track:
+- Thursday: Passes north of Yucatan; rapid intensification expected
+- Thursday night/Friday: Expected to become Cat 1-2 hurricane (~110 mph)
+- Projected landfall Friday-Saturday: Between New Orleans, LA and
+  Panama City, FL. Most models cluster toward Louisiana-Mississippi-
+  Alabama-Florida Panhandle corridor.
+
+NO THREAT TO TEXAS: Current NHC forecast track keeps Isaias well east
+of Texas. No tropical cyclone watches or warnings are in effect for any
+Texas county as of the October 7 morning advisory.
+
+Hurricane watches for the northern Gulf Coast (Louisiana-Florida
+Panhandle) were expected to be issued later October 7.
+
+INDIRECT EFFECTS ON TEXAS COAST:
+NWS Corpus Christi issued a Minor Coastal Flood Advisory for barrier
+islands in Aransas, Kleberg, Nueces, and Calhoun counties (Oct 4-6).
+Water may be pushed up to beach dunes on barrier islands. This is a
+non-tropical advisory; an indirect effect of Isaias' distant circulation.
+Difficult driving conditions and blocked access to barrier islands noted.
+
+NWS Houston/Galveston noted increasing winds and building seas possible
+along the upper Texas coast.
+
+Sources:
+- KSAT San Antonio (Isaias forms):
+  https://ksat.com/news/national/2026/10/07/tropical-storm-isaias-forms-forecast-to-become-a-hurricane-and-hit-the-us-gulf-coast-this-week
+- Click2Houston/KPRC2 (Isaias, Houston not threatened):
+  https://www.click2houston.com/weather/2026/10/07/tropical-storm-isaias-forms-in-the-southern-gulf-of-mexico/
+- Houston Chronicle (TD Nine/Isaias track):
+  https://www.chron.com/weather/article/tropical-storm-gulf-texas-path-22463729.php
+- NHC Public Advisory (4 AM CDT Oct 7):
+  https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPAT4+html/070852.shtml
+- KHOU Houston (Texas not impacted):
+  https://www.khou.com/article/weather/hurricane/tropical-storm-isaias-spaghetti-models-path/285-1a0baefe-e983-4a92-ae51-f5dfcc17a0b1
+- NWS CRP Coastal Flood Advisory:
+  https://govonestop.com/nws/texas-minor-coastal-flood-advisory-effective-10042026-1058
+
+2026 Atlantic season: 9 named storms, ZERO hurricanes as of October 7.
+Isaias is forecast to become the first hurricane of the season later
+this week. El Nino wind shear has suppressed development all season.
+Sources: NOAA, NHC archive, KHOU
+
+==============================================================
+SECTION 2 — COASTAL AND STATEWIDE STORM DAMAGE (Oct 3–7, 2026)
+==============================================================
+
+Qualifying coastal counties monitored: Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston.
+
+---
+QUALIFYING EVENT — POLO/COLD FRONT FLOODING, ONGOING EFFECTS
+(Original event: Sept 30 – Oct 5; effects continuing through Oct 7)
+---
+
+Type: Residual/ongoing flooding from cold front + Pacific Hurricane
+Polo remnant moisture event
+
+Status as of Oct 7: Winding down; Galveston County Flood Watch still
+active through Thursday (Oct 8); minor coastal advisories concluded
+Oct 6 for Coastal Bend.
+
+NEW CONFIRMED DETAILS (not in Oct 5 digest):
+
+NUECES COUNTY (Corpus Christi area):
+- NWS Corpus Christi issued Flood Watch Oct 1 at 4:39 PM CDT through
+  Oct 2 at 7:00 PM CDT; rainfall forecast 2-6 inches, isolated up to
+  10 inches.
+- Second Flood Watch Oct 2 at 1:36 AM CDT through Oct 2 at 7:00 PM CDT.
+- Flood Advisories: Oct 1 at 7:41 PM CDT and Oct 2 at 4:45 AM CDT.
+- Confirmed road flooding in Robstown (Nueces County): Nueces Street,
+  Mesquite Street, Garcia Street, West Avenue J; Hwy 286 near Port Ave.
+Sources: KFTX, KRISTV, KIII Corpus Christi
+
+CALHOUN / ARANSAS / NUECES BARRIER ISLANDS:
+- Minor Coastal Flood Advisory Oct 4-6: Water pushed to beach dunes,
+  difficult driving, blocked access to barrier islands.
+Source: NWS CRP via govonestop.com
+
+GALVESTON COUNTY:
+- Galveston County under Flood Watch through Thursday Oct 8.
+- Galveston City remained under coastal flood warning Thursday.
+Source: Galveston Daily News
+
+STATE-WIDE:
+- ~12,478 active outages statewide as of Oct 1
+- Harris County: 7.88 inches at Becker Road/Little Cypress Creek
+  overnight Oct 2-3
+Sources: Insurance Journal, Houston Chronicle
+
+POST-WORTHY: YES (ONGOING)
+Criterion met: Qualifying coastal counties (Nueces, Calhoun, Aransas,
+Galveston, and others) confirmed under NWS Flood Watches and Coastal
+Flood Advisories Oct 1-8. Confirmed road flooding in Nueces County.
+
+NOTE: Facebook post drafted in Oct 5 digest. New post drafted below
+with Corpus Christi/Nueces specifics confirmed in this run.
+
+FEMA status: No declaration for this event as of Oct 7. Gov. Abbott
+activated state emergency resources September 28 (1,900+ responders,
+1,500+ equipment pieces, 24/7 SEOC). Federal declaration request has
+not been publicly filed. Monitor tdem.texas.gov.
+Sources: TDEM press release Sept 28, Gov.texas.gov
+
+Dollar damage: No published estimate as of Oct 7.
+
+Sources (new detail this run):
+- KFTX Corpus Christi (NWS Flood Watch Oct 1-2):
+  https://www.kftx.com/2026/10/01/flood-watch-issued-october-1-at-439pm-cdt-until-october-2-at-700pm-cdt-by-nws-corpus-christi-tx/
+- KRISTV Corpus Christi (Oct flooding blog):
+  https://www.kristv.com/weather/severe-weather-blog-october-begins-with-heavy-rainfall-flood-risk
+- KIII TV Corpus Christi (Robstown road closures):
+  https://www.kiiitv.com/article/news/local/road-closures-flooding-reported-across-coastal-bend/503-024b94d3-02db-43b9-9f09-58d4c7941b02
+- NWS Coastal Flood Advisory (Calhoun/Aransas/Nueces):
+  https://govonestop.com/nws/texas-minor-coastal-flood-advisory-effective-10042026-1058
+- Galveston Daily News (Galveston Flood Watch through Thursday):
+  https://www.galvnews.com/news/galveston-county-under-flood-watch-through-thursday/article_b30f689d-0d55-4c53-be6e-b2014f0ea6e2.html
+- TDEM Sept 28 emergency activation:
+  https://tdem.texas.gov/press-release/9-28-26
+
+---
+NOT QUALIFYING — Panhandle Tornadoes (Sept 29) — SURVEY COMPLETE
+---
+
+NWS Amarillo completed post-event damage survey. Two tornadoes confirmed:
+
+1. SE Claude Tornado (Armstrong County): EFU — NO STRUCTURES OR DAMAGE.
+   Path: 0.98 miles; width: 75 yards; duration: ~3 min.
+
+2. VFW Road Tornado (Randall County): EFU — NO STRUCTURES OR DAMAGE.
+   Path: 0.59 miles; width: 25 yards; duration: ~6 min.
+
+No injuries. No property damage. Non-coastal counties.
+This event is CLOSED — does not and will not qualify.
+
+Sources:
+- ABC7 Amarillo:
+  https://abc7amarillo.com/news/local/national-weather-service-amarillo-confirms-two-tornadoes-in-texas-panhandle-no-damage-reported-southeast-claude-tornado-armstrong-county-vfw-road-tornado-randall-county
+- NewsChannel10 Amarillo:
+  https://www.newschannel10.com/2026/09/30/nws-confirms-2-tornadoes-texas-panhandle-no-damage-reported/
+
+---
+NOT QUALIFYING — Residual Interior Flooding, Oct 3-5
+---
+
+Oct 3 — Llano River Flood Warning (Llano County; interior)
+Oct 3 — Flash Flood Warning, Henderson County (East Texas; interior)
+Oct 5 — Statewide drought relief rains; lake levels up ~2 feet
+None involve qualifying coastal counties.
+
+==============================================================
+SECTION 3 — FEMA / DISASTER DECLARATIONS
+==============================================================
+
+--- STILL PENDING (36 DAYS) ---
+TROPICAL STORM EDOUARD — PRESIDENTIAL MAJOR DISASTER DECLARATION
+
+No presidential major disaster declaration for Edouard as of Oct 7.
+No DR number above 4935 assigned to Texas in any indexed source.
+
+Known local declarations: Jefferson County, Port Arthur, City of
+Beaumont, Hardin County, Polk County.
+Governor's request: Harris, Jefferson, Liberty, Orange (and others).
+Senators Cruz and Cornyn supporting.
+
+Status: PENDING, Day 36 post-landfall (September 1, 2026)
+FEMA's typical review window is 30 days; a decision is now overdue
+by statutory expectation. Neither approval NOR formal denial has been
+publicly announced. A denial would trigger a 30-day appeal window.
+
+NFIP proof-of-loss deadline for Edouard claimants: ~November 1, 2026
+(24 days remaining).
+
+Sources:
+- Fox26 Houston:
+  https://www.fox26houston.com/weather/tropical-storm-edouard-texas-disaster-flooding
+- TDEM disasters page: https://tdem.texas.gov/disasters
+- Polk County local declaration: https://www.polktx.gov/m/newsflash/Home/Detail/79
+
+--- NO NEW AMENDMENTS ---
+FEMA-4935-DR (Texas July 2026 Floods):
+No new Federal Register amendments for October 3-7. Most recent
+amendment: September 30, 2026 (FR Doc. 2026-19942). Total: 23 PA-only
+counties. No Individual Assistance.
+
+--- NO DECLARATION FOR OCTOBER FLOODING ---
+Cold front/Polo October 2026 flooding: No FEMA declaration filed or
+issued. Event too recent. No federal declaration request publicly filed.
+
+==============================================================
+SECTION 4 — INSURANCE DEVELOPMENTS (Oct 3–7, 2026)
+==============================================================
+
+--- QUALIFYING DEVELOPMENT #1 ---
+TWIA BOARD MEETING — TOMORROW, OCTOBER 8, 2026 (9:30 AM CT)
+
+Full agenda confirmed. TWIA Board will vote on five legislative
+recommendations for inclusion in TWIA's 2026 Biennial Report to the
+90th Texas Legislature (2027 session).
+
+The five proposed legislative recommendations:
+
+1. TIC § 2210.575(e) — ELIMINATE OR MAKE OPTIONAL the requirement that
+   all TWIA suits be presided over by an MDL panel-appointed judge.
+   TWIA's stated rationale: No litigant has ever formally requested
+   MDL appointment in 12+ years the provision has been law.
+   Significance: Policyholders would lose guaranteed access to
+   specialized judges experienced in TWIA storm claim disputes.
+
+2. FORTIFIED Home Construction — Consider feasibility of and public
+   funding for FORTIFIED home construction and mitigation programs.
+
+3. E&S Lines Tax — Consider imposing a surplus lines insurer tax to
+   fund TWIA's Catastrophe Reserve Trust Fund.
+
+4. Minimum Required Funding Restoration — Require TWIA to fund at
+   1:100 PML each season and assess member companies annually for
+   reinsurance above 1:50 PML (partially reversing HB 3689).
+
+5. Depopulation / Additional Tort Reform — Additional structural reforms.
+
+Meeting format: Austin + teleconference.
+Source: TWIA Board Meeting Announcement:
+https://www.twia.org/twia-board-to-meet-on-budget-legislative-recommendations/
+
+Post-worthiness: QUALIFIES. §2210.575(e) vote is the most significant
+TWIA litigation development for coastal policyholders in recent years.
+A board vote to include this in the Biennial Report makes it a formal
+legislative recommendation to the 90th Legislature. Facebook post drafted.
+
+--- ONGOING MONITORING ---
+TWIA 0% Rate Filing (2027):
+- October 15 deadline for TDI Commissioner decision (8 days).
+- No Commissioner ruling issued as of October 7.
+- 0% filing may become effective by operation of law absent disapproval
+  under TIC §2210.353.
+- TDI Docket Nos. 2872 and 2873 are the pending dockets.
+Source: Galveston Daily News (rates freeze):
+https://www.galvnews.com/news/texas-windstorm-insurer-freezes-2027-rates-bringing-relief-to-galveston-county/article_ea5e0601-03c3-455f-8448-962668a18f3b.html
+
+TX House Insurance Committee (Oct 5-6 hearing):
+- Hearing occurred. No published minutes or testimony as of Oct 7.
+- Charges: P&C cost drivers, HB 3689/SB 458 monitoring, HB 2067.
+- Check capitol.texas.gov (89R Insurance Committee) for materials.
+Source: TX Legislature Online:
+https://capitol.texas.gov/tlodocs/89R/schedules/html/C3202026100609001.HTM
+
+TWIA RICO Lawsuit (filed August 13, 2026):
+- No new court action October 3-7.
+- Plaintiffs: Ernestine Bell, Alicia Stuart, David Mohun (Galveston).
+- Watch for class certification motion.
+
+NFIP Deadline — Tropical Storm Edouard:
+- Proof-of-loss due: approximately November 1, 2026 (24 days).
+
+==============================================================
+SECTION 5 — POST-WORTHINESS ASSESSMENT
+==============================================================
+
+QUALIFYING EVENTS THIS WINDOW: 2
+
+1. Polo/cold front flooding — ongoing in qualifying coastal counties
+   (Galveston Flood Watch through Thursday; Nueces/Calhoun/Aransas
+   coastal advisories Oct 4-6; confirmed Nueces County road flooding
+   in Robstown). New Corpus Christi specifics added this run.
+   Facebook post: DRAFTED (see Section 6, Post #1)
+   Note: Oct 5 digest had initial post for this event; this is an
+   updated draft with Corpus Christi/Nueces detail.
+
+2. TWIA Board meeting TOMORROW (Oct 8) — full 5-item agenda confirmed;
+   §2210.575(e) MDL judge elimination vote on record.
+   Facebook post: DRAFTED (see Section 6, Post #2)
+
+NOT QUALIFYING THIS WINDOW:
+- Tropical Storm Isaias: Track east of Texas; no watches/warnings for TX.
+  MONITOR DAILY through landfall.
+- Panhandle tornadoes: NWS confirmed zero damage. CLOSED.
+- Interior flooding: No qualifying coastal counties.
+
+==============================================================
+SECTION 6 — FACEBOOK POST DRAFTS
+==============================================================
+
+--- POST #1 — Coastal Flooding, Corpus Christi / Galveston ---
+
+Flooding from last week's storms is still affecting parts of the Texas
+coast. The National Weather Service in Corpus Christi issued Flood
+Watches for Nueces County on October 1 and October 2. Streets in
+Robstown flooded — Nueces Street, Mesquite Street, Garcia Street, and
+West Avenue J. Galveston County is under a Flood Watch through Thursday.
+The Coastal Bend barrier islands were under a Coastal Flood Advisory
+through October 6. [1] [2] [3]
+
+When flood and wind damage arrive together, policyholders face a claim
+decision that was made without them.
+
+Most standard homeowner's policies exclude flood damage entirely.
+National Flood Insurance Program policies cover flood but not wind.
+When a storm delivers both, adjusters decide which label applies to
+which damage. That decision belongs to the carrier, not the homeowner.
+
+NFIP policies give policyholders 60 days from the date of loss to file
+a proof of loss. That window opened when the damage happened — not when
+the adjuster arrived and not when the estimate was delivered.
+
+The people dealing with flood damage in Nueces County, Galveston County,
+and the Coastal Bend need their own documentation before anything is
+cleaned or moved. The adjuster's visit is the carrier's documentation.
+The photographs and video the homeowner takes are theirs.
+
+[1] NWS Corpus Christi Flood Watch, Oct 1-2, 2026:
+https://www.kftx.com/2026/10/01/flood-watch-issued-october-1-at-439pm-cdt-until-october-2-at-700pm-cdt-by-nws-corpus-christi-tx/
+[2] KIII TV (Robstown road closures):
+https://www.kiiitv.com/article/news/local/road-closures-flooding-reported-across-coastal-bend/503-024b94d3-02db-43b9-9f09-58d4c7941b02
+[3] Galveston Daily News (Galveston Flood Watch):
+https://www.galvnews.com/news/galveston-county-under-flood-watch-through-thursday/article_b30f689d-0d55-4c53-be6e-b2014f0ea6e2.html
+
+--- END POST #1 --- (~225 words)
+
+--- POST #2 — TWIA Board Meeting Tomorrow (Oct 8) ---
+
+Tomorrow, TWIA's board of directors meets to vote on what it will
+recommend to the Texas Legislature in its 2026 Biennial Report. One
+of those recommendations could eliminate a protection that has been in
+Texas insurance law for more than twelve years. [1]
+
+Under Texas Insurance Code Section 2210.575(e), TWIA lawsuits must be
+heard by a judge assigned through the multi-district litigation process.
+MDL judges have experience with insurance disputes. They have likely
+already presided over dozens of TWIA claim cases from prior storms.
+
+TWIA is proposing to make that requirement optional or eliminate it
+entirely. Their stated reason is that no litigant has ever formally
+requested MDL judge appointment under the current rule. That may be
+because most TWIA cases settle before the question arises.
+
+If the board votes to include this in the Biennial Report, it becomes a
+formal TWIA legislative recommendation to the 90th Legislature in 2027.
+
+What that means for policyholders: future TWIA disputes could go before
+judges with no background in how TWIA adjusts claims, how it prices
+repairs, or how it has litigated coverage in prior storms. The carrier
+litigates these cases constantly. The homeowner usually does not.
+
+The vote has not happened. The meeting is tomorrow.
+
+[1] TWIA Board Meeting Notice, October 8, 2026:
+https://www.twia.org/twia-board-to-meet-on-budget-legislative-recommendations/
+
+--- END POST #2 --- (~225 words)
+
+Voice check (both posts): Short declarative sentences, no em dashes,
+insurance company actions as active choices, "people" and "homeowners"
+not "humans," ends on concrete truth with no call to action, source
+footnotes on factual claims.
+
+==============================================================
+SECTION 7 — ONGOING WATCH ITEMS
+==============================================================
+
+- Tropical Storm Isaias: NHC track toward LA-FL Panhandle. Expected
+  Cat 1-2 landfall Fri-Sat Oct 10-11. NO Texas threat as of Oct 7.
+  Monitor NHC daily. Watch for any westward track shifts.
+
+- Polo/cold front flooding: Galveston Flood Watch through Thursday.
+  Watch for FEMA declaration request within 1-2 weeks. No dollar
+  figure published yet. Minor coastal advisories resolved Oct 6.
+
+- TWIA Board meeting TOMORROW (Oct 8, 9:30 AM CT): Vote on 5
+  legislative recommendations including §2210.575(e) MDL judge
+  elimination. Watch twia.org/news-and-announcements/ for results.
+
+- Edouard presidential DR: Day 36, still pending. No approval or
+  denial confirmed. NFIP proof-of-loss deadline Nov 1 (24 days).
+  Monitor tdem.texas.gov and gov.texas.gov.
+
+- TWIA 0% rate filing: October 15 Commissioner deadline (8 days).
+  No TDI action yet. Docket Nos. 2872 and 2873.
+
+- TX House Insurance Committee: Hearing occurred Oct 5-6. No
+  published materials yet. Check capitol.texas.gov (89R).
+
+- TWIA RICO lawsuit: No new activity Oct 3-7. Watch for
+  class certification motion.
+
+- FEMA-4935-DR: 23 PA-only counties. No new amendments Oct 3-7.
+  Most recent: Sept 30 amendment (FR 2026-19942).
+
+- 2026 Atlantic season: 9 named storms, 0 hurricanes. Isaias expected
+  to become first hurricane this week (LA/MS/AL/FL corridor landfall).
+
+==============================================================
+END OF DIGEST
+==============================================================
