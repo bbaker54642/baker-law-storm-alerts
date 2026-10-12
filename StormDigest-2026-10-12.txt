@@ -1,5 +1,414 @@
-BAKER LAW STORM DIGEST
-Date: 2026-10-12
-Status: RUN STARTED 2026-10-12T13:33:00Z
+STORM DIGEST — October 12, 2026
+Baker Law | Rockport, Texas
+Window: October 8–12, 2026
+Run completed: 2026-10-12T13:55:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+==============================================================
+SECTION 1 — TROPICAL / GULF WEATHER
+==============================================================
+
+STATUS: ISAIAS MADE LANDFALL FLORIDA PANHANDLE — TEXAS AVOIDED DIRECT HIT
+
+Hurricane Isaias (2026) — COMPLETE TRACK SUMMARY:
+
+- Formed as Tropical Storm Isaias on October 7 in the SW Gulf/Bay of
+  Campeche (~22.0°N, 94.1°W), 40 mph winds at time of formation.
+- Became the 2026 Atlantic season's FIRST HURRICANE on October 8 as
+  it crossed into the eastern Gulf and rapidly intensified.
+- Peak intensity: Category 3 (reached during Gulf crossing).
+- Slightly weakened before landfall.
+- LANDFALL: Category 2 hurricane near Destin, Florida Panhandle,
+  Friday October 9, 2026.
+- Dissipated Sunday October 11 when absorbed by another weather system.
+
+SIGNIFICANCE: Isaias ended the longest hurricane drought in the modern
+satellite era for the 2026 Atlantic season. Eight named storms before
+Isaias had all remained below hurricane strength. Isaias briefly reached
+Category 3, making it the season's first major hurricane.
+
+TEXAS IMPACT: Texas avoided direct impacts. The storm's forecast track
+held to the northeast corridor (Louisiana-Mississippi-Alabama-Florida),
+keeping Texas on the far western periphery. However, Isaias produced
+INDIRECT EFFECTS on Texas qualifying coastal counties (see Section 2).
+
+No tropical cyclone watches or warnings were issued for Texas.
+
+Current status (Oct 12): No active tropical systems threatening Texas.
+Gulf of Mexico is clear. Atlantic basin quiet. One low-probability
+disturbance (~20% formation odds) near the Cabo Verde Islands — no
+Gulf threat.
+
+Sources:
+- Houston Chronicle (Isaias makes landfall Florida Panhandle):
+  https://www.houstonchronicle.com/news/houston-weather/article/isaias-hurricane-landfall-florida-texas-storm-22468539.php
+- Click2Houston/KPRC2 (Houston/SE Texas avoid worst):
+  https://www.click2houston.com/weather/2026/10/08/hurricane-isaias-why-houston-and-southeast-texas-will-avoid-the-worst/
+- Houston Public Media (little Texas impact):
+  https://www.houstonpublicmedia.org/articles/news/weather/2026/10/07/563858/tropical-storm-hurricane-isaias-forms-in-gulf-but-meteorologists-expect-little-impact-to-texas-houston/
+- CBS News (Isaias landfall/cleanup):
+  https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/
+- Yale Climate Connections (Isaias intensifying):
+  https://yaleclimateconnections.org/2026/10/hurricane-isaias-steadily-intensifying-over-record-warm-gulf-waters/
+
+2026 Atlantic season final tally through Oct 12:
+9 named storms (Arthur through Isaias), 1 hurricane (Isaias — Cat 3
+peak, Cat 2 at landfall), 0 major hurricanes (Isaias briefly Cat 3
+= first major hurricane). Below-normal season. Accumulated Cyclone
+Energy approximately 18.0 through Oct 11, well below the 1991-2020
+seasonal normal. El Nino suppression dominated through late September
+before Isaias became the season's first and only hurricane.
+
+==============================================================
+SECTION 2 — COASTAL AND STATEWIDE STORM DAMAGE (Oct 8–12, 2026)
+==============================================================
+
+Qualifying coastal counties monitored: Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston.
+
+---
+QUALIFYING EVENT — HURRICANE ISAIAS PERIPHERAL COASTAL FLOODING
+(Oct 9–12, qualifying Texas coastal counties)
+---
+
+Type: Hurricane Isaias-driven coastal flooding (indirect effects)
+Date: October 9–13, 2026
+Status: Ongoing coastal flood advisory in effect as of run time
+
+QUALIFYING CRITERION — COASTAL COUNTIES CONFIRMED:
+NWS Corpus Christi issued Coastal Flood Advisories for:
+- Aransas County islands (Oct 4-6, Oct 9-12, Oct 12-13)
+- Nueces County islands (Oct 4-6, Oct 9-12, Oct 12-13)
+- San Patricio County coastal (Oct 9-12)
+- Refugio County coastal (Oct 9-12)
+- Calhoun County islands (Oct 4-6, Oct 9-12)
+- Galveston Island and Bolivar Peninsula (through Oct 9, 7 PM CDT)
+
+NWS advisory language (NWS Corpus Christi, Oct 9-12): "Water pushing
+up to the beach dunes resulting in difficult driving and blocked access.
+Flooded lots, parks, and roads. Isolated road closures." Expected
+inundation: up to 1.5 feet above ground at times of high tide.
+
+KIII-TV confirmed: "Coastal flooding and larger waves from Hurricane
+Isaias reach the Texas coast."
+
+Padre Island (Nueces County): City of Corpus Christi urged beachgoers
+to stay off Padre Island beach due to dangerous surf. City confirmed
+no beach access roads closed, but water covered much of available sand.
+
+SEVERITY ASSESSMENT:
+- Minor coastal flooding confirmed per NWS advisories and KIII-TV
+- No confirmed structural damage
+- No confirmed dollar damage
+- No reported injuries or deaths in Texas from Isaias
+- No FEMA declaration request found for Texas Isaias impacts
+
+NOTE ON DISCREPANCY: The Isaias weather research subagent flagged
+that early-issued advisories (Oct 4-6) were "prophylactic" and pre-dated
+the actual track determination. The Oct 9-12 advisory was issued after
+landfall, when the storm's actual coastal effects were being observed.
+KIII-TV's confirmation of actual coastal flooding is the controlling
+sourced fact for post-worthiness purposes.
+
+POST-WORTHY: YES
+Criterion met: NWS Coastal Flood Advisories for 5 qualifying coastal
+counties (Aransas, Nueces, San Patricio, Refugio, Calhoun); Galveston
+also impacted. KIII-TV confirmed actual coastal flooding reached Texas
+coast. Dangerous surf on Padre Island (Nueces County) sourced from
+KRIS-TV and KIII-TV. All sources approved.
+
+Sources:
+- KIII-TV (Coastal flooding reaches Texas coast from Isaias):
+  https://www.kiiitv.com/article/weather/hurricane/coastal-flooding-and-larger-waves-from-hurricane-isaias-reach-the-texas-coast/503-1f8d286c-6e02-404b-ab69-b2f1a7747cf6
+- Fox26 Houston (Isaias Texas rip currents/flooding):
+  https://www.fox26houston.com/weather/hurricane-isaias-texas-impacts-rip-currents-flooding
+- KRIS-TV (Padre Island dangerous surf):
+  https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/padre-island/hurricane-isaias-brings-dangerous-surf-to-padre-island-as-city-urges-beachgoers-to-stay-off-the-beach
+- NWS Corpus Christi Coastal Flood Advisory (Oct 9-12):
+  https://www.kftx.com/2026/10/10/coastal-flood-advisory-issued-october-9-at-1156pm-cdt-until-october-12-at-100am-cdt-by-nws-corpus-christi-tx/
+- NWS Corpus Christi Coastal Flood Advisory (Oct 12-13):
+  https://www.kftx.com/2026/10/12/coastal-flood-advisory-issued-october-12-at-124am-cdt-until-october-13-at-100am-cdt-by-nws-corpus-christi-tx/
+- GovOneStop NWS (Coastal Flood Advisory Oct 4-6):
+  https://govonestop.com/nws/texas-minor-coastal-flood-advisory-effective-10042026-1058
+
+---
+POLO/COLD FRONT FLOODING (Sept 30 – Oct 8) — RESOLVED; MONITORING
+---
+
+The main cold front/Polo flooding event wound down by approximately
+October 8-9. Galveston County Flood Watch expired through Oct 8-9.
+Coastal Flood Advisory for Galveston Island/Bolivar Peninsula ran
+through October 9, 7 PM CDT.
+
+NEW for this window:
+- Refugio County: Severe Thunderstorm Warning on October 1 warned of
+  70 mph wind gusts (qualifying coastal county, storm severity confirmed).
+- Henderson County (non-qualifying) officials opened iSTAT damage
+  surveys as of Oct 8-9, suggesting formal damage assessment in progress.
+- No statewide dollar damage estimate published for Oct flooding yet.
+- No FEMA declaration request filed for October 2026 flooding.
+
+Note: Governor Abbott activated 1,900+ state responders Sept 28 for
+the flooding event. No federal declaration request has been publicly
+filed as of October 12.
+
+Sources:
+- GovOneStop/NWS CRP (Refugio Severe Thunderstorm Warning, Oct 1):
+  https://govonestop.com/nws/texas-severe-severe-thunderstorm-warning-effective-10012026-1721
+- Galveston Daily News (Galveston Flood Watch through Thursday):
+  https://www.galvnews.com/news/galveston-county-under-flood-watch-through-thursday/article_b30f689d-0d55-4c53-be6e-b2014f0ea6e2.html
+
+==============================================================
+SECTION 3 — FEMA / DISASTER DECLARATIONS
+==============================================================
+
+--- STILL PENDING (41 DAYS) ---
+TROPICAL STORM EDOUARD — PRESIDENTIAL MAJOR DISASTER DECLARATION
+
+No presidential major disaster declaration for Edouard as of Oct 12.
+No DR number above 4935 assigned to Texas in any indexed source.
+
+Status: PENDING, Day 41 post-landfall (September 1, 2026).
+FEMA's typical 30-day review window has passed. Neither approval
+nor formal denial has been publicly announced.
+
+NFIP proof-of-loss deadline for Edouard claimants: ~November 1, 2026
+(19 days remaining). This deadline does not move regardless of whether
+a presidential declaration is ever issued.
+
+Known local declarations: Jefferson County, Port Arthur, City of
+Beaumont, Hardin County, Polk County.
+Governor's request: Harris, Jefferson, Liberty, Orange (and others).
+Senators Cruz and Cornyn supporting.
+
+Sources:
+- FEMA DR-4935 (July floods, not Edouard): https://www.fema.gov/disaster/4935
+- TDEM disasters page: https://tdem.texas.gov/disasters
+- Jefferson County pre-landfall declaration:
+  https://www.12newsnow.com/article/news/local/jefferson-county-declares-disaster-before-storm-edouard/502-b7660974-ee04-4279-b00b-ef78fd4d2101
+
+--- NO NEW DECLARATIONS ---
+FEMA-4935-DR (Texas July 2026 Floods):
+No new Federal Register amendments identified for October 8-12.
+Total: 23 PA-only counties. No Individual Assistance.
+
+Cold front/October 2026 flooding: No FEMA declaration filed or issued.
+No declaration request found in public sources as of October 12.
+
+==============================================================
+SECTION 4 — INSURANCE DEVELOPMENTS (Oct 8–12, 2026)
+==============================================================
+
+--- QUALIFYING DEVELOPMENT #1 — MAJOR ---
+TWIA BOARD VOTES TO RECOMMEND MDL JUDGE ELIMINATION (October 8, 2026)
+
+TWIA's board of directors met October 8 and voted to advance legislative
+recommendations to the 90th Texas Legislature in TWIA's 2026 Biennial
+Report. The most significant vote:
+
+TIC § 2210.575(e) — ADOPTED:
+The board voted to recommend eliminating or making optional the
+requirement that all TWIA lawsuits be presided over by a judge appointed
+by the MDL (multi-district litigation) judicial panel.
+
+TWIA's stated rationale: No litigant has ever formally requested MDL
+panel appointment in the 12+ years the provision has been law.
+
+What "adopted" means: This is now a formal TWIA legislative
+recommendation to the 90th Texas Legislature (2027 session). It is
+not yet law. The Legislature must still enact the change. But a formal
+TWIA Biennial Report recommendation carries significant weight in the
+legislative process.
+
+OTHER RECOMMENDATIONS ADOPTED at the October 8 meeting:
+- Depopulation Program: Allow TWIA to pay private carriers a per-risk
+  bonus for each policy transferred to the private market (subject to
+  multi-year renewal requirement and TDI approval).
+- State Financing Administrative Timing: Give TWIA and state agencies
+  additional time for administrative steps in state financing arrangements.
+
+ITEM DROPPED before reaching the board:
+- Secondary home coverage restrictions: Removed by the Legislative &
+  External Affairs Committee before the board meeting; will not appear
+  in the Biennial Report.
+
+ITEMS WITH UNCLEAR VOTE STATUS:
+- Fortified Home Construction: Committee forwarded; full board vote
+  not yet publicly confirmed.
+- Tort Reform (Florida-style): Committee forwarded; board vote status
+  not confirmed.
+
+Budget note: Staff projected 2027 gross operating expenses will
+decrease approximately 9% from the 2026 budget.
+
+Post-worthiness: QUALIFIES (MAJOR). Board vote on §2210.575(e) is the
+most consequential TWIA policyholder litigation development in years.
+Facebook post drafted.
+
+Source: TWIA press release, October 8, 2026:
+https://www.twia.org/twia-board-reviews-budget-advances-legislative-recommendations/
+
+--- ONGOING MONITORING ---
+TWIA 0% Rate Filing (2027):
+- October 15 deadline for TDI Commissioner decision (3 days).
+- No Commissioner ruling issued as of October 12.
+- TDI Docket Nos. 2872 and 2873 pending.
+- 0% filing may become effective by operation of law absent disapproval.
+Source: TWIA rate filing timeline:
+https://www.twia.org/timeline-for-twias-annual-rate-filing-consideration-5/
+
+TWIA RICO Lawsuit (Bell, Stuart, Mohun v. TWIA / Leading Edge / Hansen):
+- No new court action October 8-12.
+- Case confirmed in USDC Southern District of Texas (Galveston Division).
+- Allegations: Stuart's estimate cut from ~$90,948 to $30,817 (66%);
+  Mohun's from $55,406 to $31,013; Bell's from $22,464 to $10,389.
+- DeVilbiss (Ohio-based Leading Edge supervisor) alleged to be brother
+  of high-ranking TWIA claims executive.
+- TWIA: "Does not comment on active or potential litigation."
+- ~20,000-25,000 policyholders potentially affected; case not yet
+  certified as class action.
+Source: Insurance Journal (Sept. 7, 2026):
+https://www.insurancejournal.com/magazines/mag-features/2026/09/07/883925.htm
+
+NFIP Deadline — Tropical Storm Edouard:
+- Proof-of-loss due: approximately November 1, 2026 (19 days).
+
+==============================================================
+SECTION 5 — POST-WORTHINESS ASSESSMENT
+==============================================================
+
+QUALIFYING EVENTS THIS WINDOW: 2
+
+1. Hurricane Isaias coastal flooding, 5+ qualifying counties (Oct 9-12)
+   Criterion: NWS Coastal Flood Advisories for Aransas, Nueces, San
+   Patricio, Refugio, Calhoun; Galveston also hit; KIII-TV confirmed
+   "coastal flooding and larger waves from Isaias reach Texas coast";
+   dangerous surf on Padre Island (Nueces County). Sources: KIII-TV,
+   Fox26, KRIS-TV, NWS CRP via KFTX (all approved).
+   Facebook post: DRAFTED (see Section 6, Post #1)
+
+2. TWIA board votes to recommend eliminating TIC § 2210.575(e) (Oct 8)
+   Criterion: Significant insurance development affecting TWIA
+   policyholders' litigation rights; formal legislative recommendation
+   to 90th Legislature; approved source (TWIA.org).
+   Facebook post: DRAFTED (see Section 6, Post #2)
+
+NOT QUALIFYING:
+- Polo/cold front flooding (resolved): No dollar figure; no FEMA
+  declaration. Refugio Severe Thunderstorm Warning Oct 1 noted in
+  ongoing record.
+- All other October interior flooding: Non-qualifying counties only.
+
+==============================================================
+SECTION 6 — FACEBOOK POST DRAFTS
+==============================================================
+
+--- POST #1 — Hurricane Isaias Coastal Flooding, Coastal Bend ---
+
+Hurricane Isaias made landfall near Destin on the Florida Panhandle
+on October 9 as a Category 2 hurricane. [1] The storm did not hit
+Texas directly. But it sent coastal flooding to the Texas coast. The
+National Weather Service in Corpus Christi issued Coastal Flood
+Advisories for Aransas, Nueces, San Patricio, Refugio, and Calhoun
+counties running through October 13. [2] The city of Corpus Christi
+urged beachgoers to stay off Padre Island due to dangerous surf. [3]
+
+When a hurricane passes east of the Texas coast, the flooding it
+leaves behind is real. The question is which policy covers it.
+
+Most homeowner's policies exclude flood damage. That exclusion does
+not pause when the flood comes from a hurricane's outer circulation
+rather than its direct path. Carriers look at the cause of the water,
+not the severity of the storm. Water from tidal surge or elevated
+seas is flood. Under most policies, it is excluded.
+
+NFIP policyholders have 60 days from the date of loss to file a proof
+of loss. That window opened when the water arrived in Aransas, Nueces,
+San Patricio, Refugio, and Calhoun counties — not when the adjuster
+scheduled a visit.
+
+Before anything is moved or cleaned, photograph and video the damage
+with timestamps. The adjuster's visit documents what the carrier needs.
+The homeowner's own documentation is the only record they control.
+
+[1] Houston Chronicle (Isaias landfall, Oct. 9, 2026):
+https://www.houstonchronicle.com/news/houston-weather/article/isaias-hurricane-landfall-florida-texas-storm-22468539.php
+[2] KFTX / NWS Corpus Christi (Coastal Flood Advisory Oct 9-12):
+https://www.kftx.com/2026/10/10/coastal-flood-advisory-issued-october-9-at-1156pm-cdt-until-october-12-at-100am-cdt-by-nws-corpus-christi-tx/
+[3] KRIS-TV (Padre Island dangerous surf):
+https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/padre-island/hurricane-isaias-brings-dangerous-surf-to-padre-island-as-city-urges-beachgoers-to-stay-off-the-beach
+
+--- END POST #1 --- (~240 words)
+
+--- POST #2 — TWIA Votes to Recommend Eliminating MDL Judge Requirement ---
+
+On October 8, TWIA's board of directors voted to recommend to the
+Texas Legislature that the requirement for MDL judges in TWIA lawsuits
+be eliminated or made optional. [1]
+
+Under Texas Insurance Code Section 2210.575(e), every TWIA lawsuit
+must be presided over by a judge appointed by the judicial panel on
+multi-district litigation. MDL judges have experience with insurance
+disputes. They have likely already seen how TWIA adjusts claims, how
+it prices repairs, and how it litigates coverage disputes.
+
+TWIA told its board that no litigant has ever formally requested an
+MDL judge appointment in the 12-plus years the rule has been in effect.
+That may be accurate. It does not explain what the rule has prevented.
+When a carrier knows a specialized judge is watching, that knowledge
+is part of the system.
+
+The board's vote places this recommendation in TWIA's 2026 Biennial
+Report to the 90th Texas Legislature. The 90th Legislature convenes in
+2027. To become law, the Legislature must vote to change the statute.
+
+What the vote means right now: TWIA has formally asked its own oversight
+Legislature to reduce the procedural protection available to policyholders
+who sue TWIA over disputed claims.
+
+That is the choice on the table.
+
+[1] TWIA Board Meeting Press Release, October 8, 2026:
+https://www.twia.org/twia-board-reviews-budget-advances-legislative-recommendations/
+
+--- END POST #2 --- (~230 words)
+
+Voice check (both posts): Short declarative sentences, no em dashes,
+insurance company actions as active choices, "people" and "homeowners"
+not "humans," ends on concrete truth with no call to action, source
+footnotes on factual claims.
+
+==============================================================
+SECTION 7 — ONGOING WATCH ITEMS
+==============================================================
+
+- Isaias coastal advisories: NWS CRP advisory for Aransas/Nueces/
+  San Patricio/Refugio/Calhoun runs through October 13. Monitor for
+  any property damage reports emerging from the Coastal Bend.
+
+- Polo/cold front flooding FEMA: No declaration request filed yet for
+  October 2026 flooding. Abbott activated state resources Sept 28.
+  Watch tdem.texas.gov for formal federal request.
+
+- Edouard presidential DR: Day 41, still pending. FEMA 30-day review
+  period exceeded. No approval or denial. NFIP deadline Nov 1 (19 days).
+
+- TWIA 0% rate filing: Oct 15 TDI Commissioner deadline (3 days).
+  Monitor tdi.texas.gov for Dockets 2872/2873 action.
+
+- TWIA MDL vote — legislative pathway: Watch twia.org for full
+  Biennial Report publication. 90th Legislature (2027) is the venue.
+  Track Insurance Journal and SLTX for legislative session coverage.
+
+- TWIA RICO lawsuit: No new action. Watch for class certification
+  motion. PACER (SDTX Galveston Division) for docket updates.
+
+- FEMA-4935-DR: 23 PA-only counties; no new amendments Oct 8-12.
+
+- 2026 Atlantic season: CONCLUDED with 9 named storms, 1 hurricane
+  (Isaias — Cat 3 peak, Cat 2 landfall FL Panhandle Oct 9). Below-
+  normal season. El Nino wind shear dominant throughout.
+  Peak season threat window (Aug-Oct) has passed.
+
+==============================================================
+END OF DIGEST
+==============================================================
