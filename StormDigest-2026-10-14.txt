@@ -1,5 +1,434 @@
-BAKER LAW STORM DIGEST
-Date: 2026-10-14
-Status: RUN STARTED 2026-10-14T13:19:00Z
+STORM DIGEST — October 14, 2026
+Baker Law | Rockport, Texas
+Window: October 10–14, 2026
+Run completed: 2026-10-14T14:30:00Z
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+==============================================================
+SECTION 1 — TROPICAL / GULF WEATHER
+==============================================================
+
+STATUS: GULF AND ATLANTIC CLEAR — NO ACTIVE TROPICAL THREATS
+
+Hurricane Isaias (2026):
+Post-tropical since approximately 06:00 UTC, October 10, 2026.
+Dissipated over southern Alabama after making Category 2 landfall
+near Destin, Florida Panhandle on October 9. No longer tracked by NHC.
+
+Texas impact: The Isaias-driven Coastal Flood Advisory series for
+Aransas, Nueces, San Patricio, Refugio, and Calhoun counties
+expired October 14 at 1:00 AM CDT with the final advisory.
+Event fully resolved as of run time.
+
+Current status (Oct 14): No active tropical cyclones in the Atlantic
+or Gulf of Mexico. NHC's October 12 outlook confirmed zero active
+systems. One low-probability disturbance (~20% formation odds) near
+Cabo Verde Islands in the far eastern Atlantic — no Gulf threat.
+Eastern Pacific: Hurricane Simon remains active off southwestern
+Mexico; poses no Atlantic/Gulf threat.
+
+2026 Atlantic season through Oct 14:
+9 named storms (Arthur through Isaias), 1 hurricane (Isaias — Cat 3
+peak, Cat 2 at Florida landfall). Accumulated Cyclone Energy
+approximately 18.0 — well below the 1991–2020 seasonal normal.
+El Nino suppression dominant throughout the season.
+
+Season context: Peak threat window (August-October) has passed.
+Late-season Gulf/Caribbean development remains possible through
+November 30. Season runs below-normal probability of additional
+named storms.
+
+Sources:
+- Houston Chronicle (Isaias landfall, Oct. 9):
+  https://www.houstonchronicle.com/news/houston-weather/article/isaias-hurricane-landfall-florida-texas-storm-22468539.php
+- KFTX/NWS CRP (final advisory Oct 13-14):
+  https://www.kftx.com/2026/10/13/coastal-flood-advisory-issued-october-13-at-222pm-cdt-until-october-14-at-100am-cdt-by-nws-corpus-christi-tx/
+
+==============================================================
+SECTION 2 — COASTAL AND STATEWIDE STORM DAMAGE (Oct 10–14, 2026)
+==============================================================
+
+Qualifying coastal counties monitored: Aransas, Nueces, San Patricio,
+Refugio, Calhoun, Victoria, Jackson, Matagorda, Brazoria, Galveston.
+
+---
+ONGOING/RESOLVED — HURRICANE ISAIAS PERIPHERAL COASTAL FLOODING
+(Concluded October 14 at 1:00 AM CDT)
+---
+
+COVERED IN OCT 12 DIGEST — UPDATE ONLY
+
+The Isaias-driven Coastal Flood Advisory series for Aransas, Nueces,
+San Patricio, Refugio, and Calhoun counties continued through the
+Oct 10-14 window. NWS Corpus Christi re-issued advisories nearly
+daily. Complete advisory timeline:
+
+  Oct 9 12:32 AM CDT — Oct 11 7:00 AM CDT
+  Oct 9 9:00 AM CDT — Oct 11 7:00 AM CDT
+  Oct 9 12:50 PM CDT — Oct 11 7:00 AM CDT
+  Oct 11 12:54 AM CDT — Oct 13 1:00 AM CDT
+  Oct 11 7:38 AM CDT — Oct 13 1:00 AM CDT
+  Oct 12 1:24 AM CDT — Oct 13 1:00 AM CDT
+  Oct 12 9:24 AM CDT — Oct 13 1:00 AM CDT
+  Oct 12 5:21 PM CDT — Oct 13 1:00 AM CDT
+  Oct 13 12:27 AM CDT — Oct 14 1:00 AM CDT
+  Oct 13 2:22 PM CDT — Oct 14 1:00 AM CDT (FINAL)
+
+Source: KFTX.com (NWS CRP advisory relay), Oct 9-13 series.
+
+New details for this window:
+- City of Corpus Christi confirmed minor coastal flooding "localized
+  between Bob Hall Pier and Island House Beach Condominiums"; beach
+  erosion narrowed accessible shoreline.
+  Source: https://www.corpuschristitx.gov/news/posts/city-continues-to-monitor-coastal-flooding
+- KIII-TV (Oct 11): Receding waters showed "little change to the
+  shoreline but a wider beach" — beach erosion, not structural damage.
+  Source: https://www.kiiitv.com/article/weather/hurricane/coastal-flooding-and-larger-waves-from-hurricane-isaias-reach-the-texas-coast/503-1f8d286c-6e02-404b-ab69-b2f1a7747cf6
+- AEP Texas Coastal Bend crews deployed to Florida to assist with power
+  restoration — no outages reported in Texas Coastal Bend.
+  Source: https://www.kiiitv.com/article/news/local/aep-texas-crews-from-coastal-bend-help-restore-power-after-hurricane-isaias/503-d3c680cc-d97e-4861-bfae-b2e6533a94e8
+
+FINAL SEVERITY ASSESSMENT:
+- No confirmed structural damage in Texas
+- No confirmed dollar damage in Texas
+- No FEMA declaration for Texas Isaias impacts
+- Event concluded Oct 14 at 1:00 AM CDT; fully covered in Oct 12 digest
+
+No new Facebook post warranted — already covered Oct 12.
+
+---
+NOT QUALIFYING — WEST TEXAS / PANHANDLE SEVERE STORMS (Oct 13-14)
+---
+
+NWS Lubbock and NWS Amarillo issued severe weather outlooks for Oct
+13-14 in the Big Bend region, Permian Basin, and Texas Panhandle.
+Potential: hail up to tennis ball size (2.5 inches in Panhandle),
+wind gusts to 60-80 mph, isolated low-probability tornado risk.
+
+SPC probability (Oct 13): Tornado 2%; Hail 15%; Wind 15%.
+
+As of run time: No confirmed storm reports, NWS damage surveys, or
+post-event tornado confirmations published. All sourced content is
+pre-event forecast only.
+
+Non-qualifying counties (West Texas/Panhandle). Not post-worthy.
+
+Sources:
+- MySanAntonio.com (cold front hail forecast, Oct 12):
+  https://www.mysanantonio.com/news/weather/article/cold-front-hail-texas-22474656.php
+- Weather.com (severe storm threat Oct 12-13):
+  https://weather.com/2026/10/12/storms/severe/video/severe-storm-threat-winds-texas-oklahoma-missouri
+
+==============================================================
+SECTION 3 — FEMA / DISASTER DECLARATIONS
+==============================================================
+
+--- STILL PENDING (43 DAYS) --- URGENT ---
+TROPICAL STORM EDOUARD — PRESIDENTIAL MAJOR DISASTER DECLARATION
+
+No presidential major disaster declaration for Edouard as of Oct 14.
+Status: PENDING, Day 43 post-landfall (September 1, 2026).
+No DR number assigned. No approval or denial publicly announced.
+FEMA's typical 30-day review window exceeded by 13 days.
+
+For context: FEMA DR-4798-TX (Beryl, 2024) IA was approved Day 11
+post-landfall. The Edouard declaration is now Day 43 with no action.
+
+***CRITICAL: NFIP PROOF-OF-LOSS DEADLINE***
+Standard 60-day NFIP POL deadline from September 1 landfall:
+Approximately October 31, 2026 — 17 days from run date.
+
+NO FEMA POL deadline extension announced for Edouard.
+No presidential declaration has been issued to trigger an extension.
+Without a declaration or separate FEMA administrative action, the
+standard 60-day rule applies and no automatic extension occurs.
+
+NFIP policyholders with Edouard losses MUST file a complete, signed,
+sworn proof of loss by approximately October 31, 2026.
+
+Governor's request: Harris, Jefferson, Liberty, Orange (and others).
+Senators Cruz and Cornyn supporting the request.
+Known local declarations: Jefferson County, Port Arthur, Hardin County,
+Polk County, Orange County.
+
+Sources:
+- TDEM Edouard page: https://tdem.texas.gov/disasters
+- Cornyn/Cruz letter:
+  https://www.cornyn.senate.gov/news/cornyn-cruz-support-abbott-request-for-federal-emergency-disaster-declaration-for-southeast-texas/
+- Orange County declaration (Sept 1, 2026):
+  https://orangeleader.com/2026/09/01/tropical-storm-edouard-orange-county-issues-disaster-declaration/
+- Jefferson County declaration (Sept 1, 2026):
+  https://panews.com/2026/09/01/tropical-storm-edouard-jefferson-county-port-arthur-issue-disaster-declarations/
+- TDI Commissioner's Bulletin B-0006-26 (NFIP 60-day rule):
+  https://www.tdi.texas.gov/bulletins/2026/commissioners-bulletin-b-0006-26.html
+
+--- PENDING SEPARATELY: FEMA-4935-DR INDIVIDUAL ASSISTANCE ---
+FEMA-4935-DR (Texas July 2026 Floods):
+PA confirmed: 23 counties (through Sept 30 amendment).
+Governor Abbott's request for Individual Assistance for 30 counties:
+STILL PENDING. No IA approval found in any indexed source as of Oct 14.
+
+Note: Both the Edouard DR request and the 4935 IA request are pending
+simultaneously. Neither has been resolved.
+
+Source: https://www.click2houston.com/news/local/2026/09/03/texas-approved-for-federal-disaster-aid-after-july-storms-flooding/
+
+--- EM-3649-TX AMENDMENT (September 29, 2026) ---
+Emergency Declaration EM-3649-TX (Texas July 12, 2026 flooding,
+issued July 18, 2026) was amended September 29, 2026 to add five
+counties for emergency protective measures:
+Duval, Jim Wells, Live Oak, Pecos, and Webb counties.
+Source: https://www.federalregister.gov/documents/2026/09/29/2026-19857/notices-of-emergency-and-major-disaster-declarations-and-related-amendments
+
+No further EM-3649-TX amendments found for October 2026.
+
+--- NO DECLARATIONS ---
+October 2026 cold front flooding: No state or federal declaration found.
+No Governor's proclamation filed as of October 14.
+Monitor: https://tdem.texas.gov/press-release
+
+--- NFIP PROGRAM AUTHORIZATION ---
+NFIP program authorization (set to expire Sept 30, 2026) was extended
+by Congress to December 11, 2026 (H.R. 6500). The program remains
+operational. This extension does NOT affect individual 60-day
+proof-of-loss deadlines on Edouard claims.
+Source: https://proctorlp.com/compliance/nfip-extended-to-december-11-2026/
+
+==============================================================
+SECTION 4 — INSURANCE DEVELOPMENTS (Oct 10–14, 2026)
+==============================================================
+
+--- QUALIFYING DEVELOPMENT #1 ---
+TWIA 2027 RATES CONFIRMED FLAT — NO TDI DISAPPROVAL (Oct 15 Deadline)
+
+Tomorrow, October 15, is TDI's statutory deadline for the Commissioner
+to act on TWIA's 2027 rate filing (TDI Docket Nos. 2872 and 2873).
+As of October 14, no Commissioner disapproval order has been announced.
+
+Under Texas Insurance Code and TWIA's published rate timeline, a 0%
+(no-change) filing that is not disapproved becomes effective without
+formal Commissioner approval. Because TWIA filed 0% — not an increase —
+TDI approval is not a legal prerequisite. The 2027 rate is effectively
+confirmed absent a last-minute Commissioner action on October 15.
+
+Context: TWIA filed 0% because its 2026 Rate Adequacy Analysis found
+current rates adequate by approximately 9% (residential) and 4%
+(commercial), driven by lower reinsurance costs from HB 3689 (2025).
+HB 3689 reduced TWIA's required minimum funding reserve from a
+1-in-100 to a 1-in-50 year probable maximum loss standard — cutting
+reinsurance costs approximately 46% and eliminating the rate pressure.
+
+What flat rates mean: TWIA rates are not increasing for 2027. The
+statutory funding floor for policyholders in a catastrophic storm
+is also not increasing from the reduced 1-in-50 year level.
+
+Post-worthiness: QUALIFIES. Insurance development directly affecting
+all TWIA policyholders. Facebook post drafted.
+
+Sources:
+- TWIA rate filing timeline:
+  https://www.twia.org/timeline-for-twias-annual-rate-filing-consideration-5/
+- TWIA August 4 board action (directed 0% filing):
+  https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2027/
+
+--- NEW DATA: HURRICANE ISAIAS INSURED LOSS ESTIMATES ---
+Published October 12-13, 2026. Gulf Coast / Florida only. NOT Texas-specific.
+
+  Verisk estimate: $1 billion to $2 billion (onshore property, wind).
+  Published October 13, 2026.
+  Source: https://www.globenewswire.com/news-release/2026/10/13/3379998/0/en/verisk-estimates-insured-losses-for-hurricane-isaias-could-reach-usd-2-billion.html
+
+  Cotality estimate: $2 billion to $3 billion.
+  Source: https://www.insurancebusinessmag.com/us/news/catastrophe/insurers-mobilize-as-hurricane-isaias-loss-estimate-comes-in-at-23-billion-593232.aspx
+
+  Euler ILS Partners estimate: $2 billion to $4 billion.
+  Source: https://www.artemis.bm/news/hurricane-isaias-insurance-industry-loss-estimated-in-2bn-4bn-range-euler-ils-partners/
+
+Note: No Texas-specific insured loss figure published. All estimates
+cover Gulf Coast broadly (primarily Florida/Alabama). No Texas post
+warranted until Texas-specific loss data emerges.
+
+--- ONGOING MONITORING ---
+TWIA Biennial Report: Legislative recommendations adopted Oct 8.
+Full report not yet published. Statutory deadline: December 31, 2026.
+Monitor: https://www.twia.org/legislative-updates/
+
+TWIA MDL §2210.575(e) recommendation: Context update — the same
+elimination recommendation appeared in TWIA's 2024 Biennial Report
+to the 89th Legislature. The 89th Legislature did not act on it.
+TWIA v. Pruski (Texas Supreme Court, 2024) held the MDL requirement
+is not jurisdictional. TWIA is now making the same recommendation to
+the 90th Legislature (2027 session).
+
+TWIA RICO Lawsuit (Bell, Stuart, Mohun v. TWIA/Leading Edge/Hansen):
+No new court activity Oct 8-14. Case No. 3:26-cv-00271 (SDTX Galveston).
+Source: https://www.click2houston.com/news/local/2026/08/19/federal-lawsuit-alleges-beryl-damage-estimates-were-secretly-reduced-attorneys-say-thousands-could-be-impacted/
+
+Next TWIA board meeting: November 10, 2026, Corpus Christi.
+Final 2027 budget action expected.
+
+TDI Commissioner Bulletins: Most recent indexed is B-0008-26
+(September 16, 2026). No October 2026 TDI bulletins found.
+Source: https://www.tdi.texas.gov/bulletins/2026/index.html
+
+==============================================================
+SECTION 5 — POST-WORTHINESS ASSESSMENT
+==============================================================
+
+QUALIFYING EVENTS THIS WINDOW: 2
+
+1. NFIP Edouard proof-of-loss deadline (~October 31, 17 days away)
+   Criterion: Urgently actionable insurance information for Texas
+   NFIP policyholders. Edouard landfall September 1 started the 60-day
+   clock. No presidential declaration issued; no FEMA extension found.
+   Directly affects Harris, Jefferson, Liberty, Orange county NFIP
+   policyholders. TDI confirmed 60-day rule in B-0006-26.
+   Sources: TDEM, Cornyn/Cruz, TDI B-0006-26 (all approved).
+   Facebook post: DRAFTED (see Section 6, Post #1)
+
+2. TWIA 2027 rates confirmed flat — no TDI Commissioner disapproval
+   Criterion: Insurance development directly affecting all TWIA
+   policyholders. Flat rates for 2027 confirmed by absence of
+   disapproval. Context: HB 3689 already reduced reserve from
+   1-in-100 to 1-in-50 year standard.
+   Sources: TWIA.org (approved).
+   Facebook post: DRAFTED (see Section 6, Post #2)
+
+NOT QUALIFYING THIS WINDOW:
+- Isaias coastal flooding (concluded Oct 14 1:00 AM CDT): Same event
+  fully covered in Oct 12 digest. No new structural damage. Final
+  advisory expired. No new post warranted.
+- West Texas/Panhandle storms (Oct 13-14): Forecast only; no confirmed
+  damage; non-qualifying counties.
+
+==============================================================
+SECTION 6 — FACEBOOK POST DRAFTS
+==============================================================
+
+--- POST #1 — NFIP Edouard Proof-of-Loss Deadline (URGENT) ---
+
+Tropical Storm Edouard made landfall on September 1, 2026. [1] More
+than six weeks later, no presidential major disaster declaration has
+been issued for the affected Texas counties. [2]
+
+That matters for one reason: the National Flood Insurance Program
+proof-of-loss deadline.
+
+Under NFIP policies, policyholders have 60 days from the date of loss
+to submit a signed, sworn proof of loss. The 60-day clock started
+September 1. That deadline is approximately October 31, 2026.
+
+FEMA sometimes extends this deadline following a major disaster
+declaration. No extension has been announced for Edouard. [3] Without
+a declaration or a separate FEMA administrative action, no automatic
+extension applies.
+
+The proof-of-loss form is not the same as the initial claim report.
+It is a sworn statement of the full amount owed, signed by the
+policyholder, itemizing each category of loss. It must be complete
+and submitted on time. A carrier can deny payment in full if it is late.
+
+Filing a proof of loss while the adjuster's visit is still pending is
+not unusual. File based on what you know. A supplemental proof of loss
+can follow when the estimate arrives. The first one must be on time.
+
+The deadline does not move because the carrier has not responded.
+It does not move because the adjuster has not finished. It runs from
+September 1.
+
+[1] TDEM Edouard page: https://tdem.texas.gov/disasters
+[2] Senators Cornyn and Cruz supporting Governor Abbott's declaration
+request: https://www.cornyn.senate.gov/news/cornyn-cruz-support-abbott-request-for-federal-emergency-disaster-declaration-for-southeast-texas/
+[3] TDI Commissioner's Bulletin B-0006-26 confirms NFIP 60-day rule:
+https://www.tdi.texas.gov/bulletins/2026/commissioners-bulletin-b-0006-26.html
+
+--- END POST #1 --- (~235 words)
+
+--- POST #2 — TWIA 0% Rate for 2027 ---
+
+TWIA's 2027 rates are staying where they are. Today is the Texas
+Department of Insurance's deadline for the Commissioner to act on
+TWIA's rate filing. No disapproval order has been announced. [1]
+Under Texas law, a 0% rate filing that is not disapproved becomes
+effective without formal action.
+
+This is the second consecutive year TWIA has filed for no rate change.
+The reason both times is the same: lower reinsurance costs tied to
+House Bill 3689, which the 2025 Legislature passed to reduce TWIA's
+required financial reserve from a 1-in-100 year to a 1-in-50 year
+storm standard. [2]
+
+Flat rates and adequate protection are different things.
+
+The funding cushion TWIA is required to maintain before a major
+hurricane has been reduced significantly by that statutory change.
+The reserve covers what the model projects for a 1-in-50 year storm.
+The prior requirement covered a 1-in-100 year storm. That is not a
+technical distinction. It determines how much money is available when
+a major hurricane makes landfall on the Texas coast.
+
+TWIA rates did not go up. The statutory floor for the reserve that
+backs TWIA policyholders in a catastrophic storm did not go up either.
+Those two facts are connected.
+
+[1] TWIA rate filing timeline:
+https://www.twia.org/timeline-for-twias-annual-rate-filing-consideration-5/
+[2] TWIA August 4 board action (directed 0% filing):
+https://www.twia.org/twia-board-directs-filing-for-no-rate-increase-in-2027/
+
+--- END POST #2 --- (~215 words)
+
+Voice check (both posts): Short declarative sentences, no em dashes,
+insurance company actions as active choices, "people" and "homeowners"
+not "humans," ends on concrete truth with no call to action, source
+footnotes on factual claims.
+
+==============================================================
+SECTION 7 — ONGOING WATCH ITEMS
+==============================================================
+
+- NFIP Edouard deadline: ~October 31 (17 days). URGENT. No extension.
+  Claimants must file proof of loss now. Monitor fema.gov for any
+  extension announcement tied to a declaration.
+
+- Edouard presidential DR: Day 43. Pending. Monitor fema.gov/disaster/
+  declarations and tdem.texas.gov/press-release daily. Any approval or
+  denial ends this watch item.
+
+- FEMA-4935-DR IA: 30-county IA request still pending separately.
+  No resolution found. Monitor alongside Edouard.
+
+- October 2026 cold front flooding FEMA: No declaration filed.
+  Watch tdem.texas.gov for state proclamation (prerequisite to federal
+  request).
+
+- TWIA 0% rate (Oct 15): Confirmed flat for 2027 absent Commissioner
+  action. Monitor TDI orders index Oct 15 for any last-minute ruling:
+  https://www.tdi.texas.gov/orders/index.html
+
+- TWIA Biennial Report: Legislative recommendations adopted Oct 8.
+  Full report not yet published. Expected by Dec 31, 2026.
+  Watch: https://www.twia.org/legislative-updates/
+
+- TWIA MDL §2210.575(e) legislative pathway: Same recommendation was
+  in 2024 Biennial Report; 89th Legislature did not act. 90th Legislature
+  (Jan 2027) is next opportunity. Monitor Insurance Journal, SLTX.
+
+- TWIA RICO lawsuit: Case 3:26-cv-00271 (SDTX Galveston). No new
+  activity. Watch for motion to dismiss or class certification filing.
+
+- Next TWIA board meeting: November 10, 2026, Corpus Christi.
+  Final 2027 budget action expected. Watch twia.org.
+
+- Isaias insured losses: $1-4B range (Gulf Coast/FL). Watch for
+  Texas-specific insured loss data from Insurance Council of Texas or
+  TWIA claims reports.
+
+- 2026 Atlantic season: 9 named storms, 1 hurricane. Below-normal.
+  Peak season passed. Season runs through November 30.
+
+- NFIP program authorization: Extended to Dec 11, 2026 (H.R. 6500).
+  Monitor Congress for further reauthorization action.
+
+==============================================================
+END OF DIGEST
+==============================================================
