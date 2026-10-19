@@ -1,5 +1,116 @@
-BAKER LAW STORM DIGEST
-Date: 2026-10-19
-Status: RUN STARTED 2026-10-19T13:21:00Z
+BAKER LAW STORM MONITOR — StormDigest 2026-10-19
+Run date: 2026-10-19
+Coverage window: 2026-10-15 through 2026-10-19
+Qualifying events found: 2
+========================================================
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+QUALIFYING EVENT 1 — COASTAL FLOODING (CRITERION C: QUALIFYING COASTAL COUNTIES)
+========================================================
+Event: Cold front gale warning and coastal flood advisories, Texas Gulf Coast
+Dates: October 15–18, 2026
+Qualifying counties hit: Aransas, Nueces, San Patricio, Calhoun, Matagorda
+Criterion met: (c) — hit qualifying coastal county
+
+Summary:
+A cold front pushed through the Texas Gulf Coast between October 15–18, 2026, generating sustained gale-force winds and a series of coastal flood advisories from NOAA/NWS Corpus Christi. The gale warning covered Baffin Bay to the Matagorda Ship Channel, encompassing all five qualifying coastal counties. Coastal flood advisories warned of 1.0–1.5 feet of inundation above normal tide levels in Aransas, Nueces, and Calhoun counties, with effects continuing through October 18. No structural damage totals have been confirmed as of this filing, but flooding of that magnitude in those counties constitutes a qualifying event under the monitoring criteria.
+
+Sources:
+- NOAA/NWS Corpus Christi gale warning, Oct 16–17, 2026: https://www.weather.gov/crp/
+- NWS coastal flood advisories, Oct 15–18, 2026, Aransas/Nueces/Calhoun
+
+FACEBOOK POST — EVENT 1:
+---
+Between October 15 and 18, a cold front drove gale-force winds and coastal flooding across five Texas Gulf Coast counties: Aransas, Nueces, San Patricio, Calhoun, and Matagorda.
+
+NOAA's National Weather Service office in Corpus Christi issued gale warnings from Baffin Bay to the Matagorda Ship Channel. Coastal flood advisories warned of 1.0 to 1.5 feet of inundation above normal tide levels in Aransas, Nueces, and Calhoun counties. The advisories ran from October 15 through October 18. [1]
+
+That kind of flooding reaches structures — garages, slab foundations, storage buildings, fishing equipment, boat lifts, and the lower courses of pier-and-beam homes. Whether insurance covers it depends on which policies are in force. Standard homeowners insurance does not cover rising water. Flood insurance under the National Flood Insurance Program does, but only if the policy was in effect before the flood began — coverage cannot be purchased once a storm is named or a watch is posted. [2]
+
+If your property in one of these five counties experienced water intrusion during this event, document everything with dated photos, save all repair estimates, and report to your carrier in writing. Do not assume a denial is final.
+
+[1] NWS Corpus Christi, coastal flood advisories and gale warning, Oct 15–18, 2026. https://www.weather.gov/crp/
+[2] FEMA NFIP policy conditions: https://www.fema.gov/flood-insurance
+---
+
+QUALIFYING EVENT 2 — INSURANCE DEVELOPMENT (CRITERION D: WIDESPREAD INSURER ACTION)
+========================================================
+Event: State Farm Lloyds files 4% statewide homeowners rate increase
+Effective date: November 1, 2026
+Actuarial need filed: 10.9%
+Criterion met: (d) — major insurer rate action directly affecting Texas coastal policyholders
+
+Summary:
+State Farm Lloyds filed a 4% statewide homeowners insurance rate increase with the Texas Department of Insurance, effective November 1, 2026. The filing discloses an actuarial need of 10.9%, meaning State Farm filed well below its calculated need. The filing comes under Texas's file-and-use statute, meaning no prior TDI approval is required. The increase contrasts directly with a TDI announcement on October 8, 2026, that Texas homeowners rates overall are trending down 4.3% this year. State Farm, which remains one of the largest writers of Texas homeowners coverage, is moving in the opposite direction from the market trend.
+
+Sources:
+- carriermanagement.com, State Farm Lloyds TX rate filing, Oct 2026
+- abc13.com, report on State Farm TX homeowners rate increase, Oct 2026: https://abc13.com/
+- TDI Oct 8, 2026 announcement: https://www.tdi.texas.gov/
+
+FACEBOOK POST — EVENT 2:
+---
+State Farm Lloyds has filed a 4% statewide homeowners insurance rate increase with the Texas Department of Insurance, effective November 1, 2026.
+
+The filing reveals that State Farm's actuaries calculated a 10.9% rate need — the company filed for less than half of what its own data justifies. Under Texas's file-and-use law, that rate takes effect without prior TDI approval. [1]
+
+This comes ten days after TDI announced that Texas homeowners rates are trending down 4.3% overall for 2026. State Farm is moving in the opposite direction. [2]
+
+Texas coastal policyholders should pay attention to this. State Farm is one of the largest writers of residential property insurance in the state. A 4% increase on November 1 means policies renewing after that date will cost more. People who have already received renewal offers should check whether their quoted premium reflects the new rate.
+
+There is a bigger number behind this filing: 10.9%. That is what State Farm says it actually needs. A company that files far below its stated actuarial need is a company managing short-term optics while reserving the right to file again. The 4% filed today is likely not the last increase you will see from this carrier.
+
+If your homeowners policy is up for renewal in the next 60 days, compare your options now — before the rate takes effect.
+
+[1] carriermanagement.com, State Farm Lloyds TX homeowners rate filing, Oct 2026.
+[2] TDI Oct 8, 2026 announcement, Texas homeowners rate trends: https://www.tdi.texas.gov/
+---
+
+ONGOING WATCH ITEMS (no post drafted)
+========================================================
+
+WATCH 1 — NFIP EDOUARD PROOF-OF-LOSS DEADLINE (URGENT)
+Deadline: October 31, 2026 (12 days from run date)
+FEMA presidential disaster declaration: PENDING as of Day 48. No DR number issued.
+NFIP extension: NOT GRANTED as of this run.
+Action: Policyholders in the Edouard impact area must file NFIP proof of loss by October 31, 2026, unless FEMA grants an extension. The standard NFIP proof-of-loss window runs 60 days from the date of loss. No federal extension has been announced. Once the deadline passes, late filings require FEMA write-your-own carrier approval and are frequently denied.
+Monitor: fema.gov/disaster/declarations, tdem.texas.gov/press-release
+Post trigger: Any NFIP POL extension announcement OR confirmation that DR is denied → immediate post.
+
+WATCH 2 — FEMA-4935-DR INDIVIDUAL ASSISTANCE (PENDING)
+Status: PA-only (23 counties) confirmed. IA request pending.
+Counties under PA: See prior digest 2026-10-12.
+Action: If IA is approved, policyholders in covered counties gain access to FEMA Individual Assistance grants for uninsured losses.
+Monitor: fema.gov/disaster/4935
+
+WATCH 3 — TWIA 2027 RATE (FILE-AND-USE CONFIRMED)
+Rate: 0% change (flat). Filed P-0826-01 and P-0826-02 on TDI submissions.
+Effective: January 1, 2027 (by statute).
+No Commissioner order required. No further action needed on this item unless TDI intervenes.
+
+WATCH 4 — TWIA NOVEMBER BOARD MEETING
+Date: November 10, 2026, Corpus Christi
+Agenda expected: Final 2027 budget vote, reinsurance/cat bond structure.
+Key numbers: Reinsurance/cat bond need $2.05B for 2027. CRTF projected ~$59M end 2026, ~$350M end 2027 absent major storm.
+Post trigger: Any change to coverage limits, assessments, or reinsurance structure.
+
+WATCH 5 — TWIA BIENNIAL REPORT
+Expected: By December 31, 2026.
+Monitor: twia.org/legislative-updates/
+
+WATCH 6 — TWIA RICO CASE
+Case: 3:26-cv-00271 (SDTX Galveston)
+Status: No new activity this run.
+Monitor: PACER, case docket.
+
+NON-QUALIFYING EVENTS THIS WINDOW
+========================================================
+- Fort Stockton EF0/EF1 tornadoes (Oct 14, Pecos County): Inland, non-qualifying county.
+- West Texas hail/wind (Oct 13–14): Non-qualifying counties.
+- Rolling Plains/North Texas flooding (Oct 14–15): Middle Wichita River at record 18.91 ft, Wichita Falls area. Non-qualifying inland counties.
+- SPC confirmed no severe weather reports Oct 16–19 in Texas qualifying counties.
+- TWIA moratorium: Lifted October 9 post-Hurricane Isaias (Florida landfall). No major Texas claims wave.
+
+========================================================
+END StormDigest 2026-10-19
+Next scheduled run: 2026-10-21 (or sooner if NFIP Edouard POL deadline triggers)
+========================================================
