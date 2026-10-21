@@ -1,5 +1,133 @@
-BAKER LAW STORM DIGEST
-Date: 2026-10-21
-Status: RUN STARTED 2026-10-21T13:07:00Z
+BAKER LAW STORM MONITOR — StormDigest 2026-10-21
+Run date: 2026-10-21
+Coverage window: 2026-10-17 through 2026-10-21
+Qualifying events found: 2
+========================================================
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+QUALIFYING EVENT 1 — NFIP PROOF-OF-LOSS DEADLINE (URGENT / 10 DAYS)
+========================================================
+Event: NFIP Tropical Storm Edouard proof-of-loss deadline — October 31, 2026
+Criterion met: (c) Edouard struck qualifying coastal counties (Galveston, Brazoria, Matagorda); also criterion (d) widespread structural damage sourced from SE Texas.
+
+Summary:
+No FEMA presidential disaster declaration has been issued for Tropical Storm Edouard (Day 50 as of today). No NFIP proof-of-loss extension has been announced. The standard 60-day NFIP proof-of-loss window from the September 1, 2026 date of loss closes approximately October 31, 2026 — 10 days from today. Policyholders in SE Texas who sustained flood damage from Edouard and hold NFIP policies must file a signed, sworn proof of loss by that date or lose the right to collect under their flood policy. Late filings require write-your-own carrier approval and are routinely denied. This is the most urgent actionable item in this run.
+
+Sources:
+- TDEM Edouard disaster page: https://www.tdem.texas.gov/disasters
+- FEMA flood insurance POL rules: https://www.fema.gov/flood-insurance
+- TX LRS law firm blog (deadline analysis, factual details only): https://txlrs.org/blog-post/texas-tropical-storm-edouard-flood-damage-claims-september-2026
+- FOX26 Houston (Edouard Texas coverage): https://www.fox26houston.com/weather/tropical-storm-edouard-houston-texas-2026
+
+FACEBOOK POST — EVENT 1 (URGENT):
+---
+October 31 is the deadline to file a flood insurance proof of loss if Tropical Storm Edouard flooded your property on September 1, 2026.
+
+Edouard made landfall along the Southeast Texas coast with 60 mph sustained winds and dropped more than 20 inches of rain across Hardin and Tyler counties. [1] Jefferson, Hardin, Tyler, Polk, Liberty, and Chambers counties all issued local disaster declarations. [2]
+
+Under the National Flood Insurance Program, policyholders have 60 days from the date of loss to submit a signed, sworn proof of loss. For September 1 losses, that window closes October 31. As of today, no FEMA presidential disaster declaration has been issued for Edouard, and no NFIP extension has been announced. [3]
+
+If you miss that deadline, your carrier does not have to pay your claim. The proof of loss requirement is not a formality. It is a condition of coverage, and carriers enforce it. FEMA can authorize extensions, but they have not done so here.
+
+If you have an NFIP policy and your home or business flooded on September 1, file your proof of loss before October 31. That means a complete, signed, sworn document with all supporting documentation. Not a preliminary notice. Not a phone call to your agent. The signed document.
+
+People who wait for the declaration that may never come will lose benefits they are entitled to.
+
+[1] FOX26 Houston, Tropical Storm Edouard Texas coverage, September 2026. https://www.fox26houston.com/weather/tropical-storm-edouard-houston-texas-2026
+[2] TDEM, Edouard disaster page. https://www.tdem.texas.gov/disasters
+[3] FEMA flood insurance rules, proof of loss requirement. https://www.fema.gov/flood-insurance
+---
+
+QUALIFYING EVENT 2 — INSURANCE DEVELOPMENT (MAJOR RATE INCREASE FILING)
+========================================================
+Event: AIG Property Casualty files 15.2% Texas homeowners rate increase
+Criterion met: Major insurer rate action affecting Texas coastal policyholders (multiple qualifying counties in AIG's Texas book)
+
+Summary:
+AIG Property Casualty filed a 15.2% statewide homeowners insurance rate increase with TDI. This is the largest single homeowners rate filing found among major carriers in the current TDI review period (since July 1, 2026). It contrasts sharply with TDI's October 8 announcement showing the overall market average is down 4.3% on filings in the same period. State Farm Lloyds filed +4% (effective November 1, with TDI review ongoing); AIG filed +15.2%. Under Texas's file-and-use statute, these rates take effect without prior Commissioner approval. AIG's filing directly affects coastal Texas policyholders in all qualifying counties where AIG writes homeowners coverage.
+
+Sources:
+- liveinsurancenews.com (homeowners rate filings Texas): https://www.liveinsurancenews.com/homeowners-rate-filings-texas/8572843/
+- TDI Oct 8, 2026 announcement: https://tdi.texas.gov/news/2026/tdi10082026.html
+
+FACEBOOK POST — EVENT 2:
+---
+AIG Property Casualty has filed for a 15.2% homeowners insurance rate increase in Texas under the state's file-and-use law.
+
+That filing does not require the Texas Department of Insurance to approve it before it takes effect. [1]
+
+Ten days ago, TDI reported that Texas homeowners rates are averaging a 4.3% decrease across filings since July 1. AIG is asking for more than three times that amount in the opposite direction. State Farm is also moving against the trend, having filed a 4% increase effective November 1. [2]
+
+Texas has 26 homeowners rate decreases and 5 increases filed over the same period. The increases are concentrated at a few large national carriers; the decreases are spread across regional and specialty writers. The average conceals a wide range of individual outcomes.
+
+Policyholders with AIG homeowners coverage should check their renewal date. If your policy renews after this rate takes effect, your premium will reflect the increase without separate notice beyond your renewal declaration. You are not entitled to a mid-term rate reduction. If your renewal is approaching, compare your options now.
+
+What TDI has done is enforce Commissioner's Bulletin B-0008-26, which requires insurers to account for FORTIFIED roof upgrades in their rate calculations. If you have a FORTIFIED roof certification and your carrier is not discounting your premium for it, that is a filing that TDI can review. [3]
+
+[1] liveinsurancenews.com, Texas homeowners rate filings. https://www.liveinsurancenews.com/homeowners-rate-filings-texas/8572843/
+[2] TDI Oct 8, 2026 announcement, Texas homeowners rate trend. https://tdi.texas.gov/news/2026/tdi10082026.html
+[3] TDI Commissioner's Bulletin B-0008-26, FORTIFIED roof discount requirement. https://www.tdi.texas.gov/bulletins/2026/commissioners-bulletin-b-0008-26.html
+---
+
+ONGOING WATCH ITEMS (no post drafted)
+========================================================
+
+WATCH 1 — NFIP EDOUARD PROOF-OF-LOSS DEADLINE (CRITICAL — 10 DAYS)
+Deadline: October 31, 2026
+FEMA presidential DR: PENDING. Day 50. No DR number.
+NFIP extension: NOT GRANTED.
+Post trigger: Any extension OR DR denial announcement → immediate post.
+Monitor: fema.gov/disaster/declarations (daily), agents.floodsmart.gov/bulletins (daily)
+
+WATCH 2 — STATE FARM LLOYDS 4% RATE (TDI REVIEW ONGOING)
+Filed: July 29, 2026. Effective target: November 1, 2026.
+TDI sent written objection; State Farm responded. No final decision as of today.
+Post trigger: TDI approval, reduction order, or rejection.
+Monitor: tdi.texas.gov (public rate filing database)
+
+WATCH 3 — FEMA-4935-DR INDIVIDUAL ASSISTANCE (STILL PA-ONLY)
+Status: PA-only confirmed. IA request still pending. SBA physical loan deadline Nov 2, 2026.
+Monitor: fema.gov/disaster/4935/designated-areas
+
+WATCH 4 — TWIA NOVEMBER 10 BOARD MEETING (Corpus Christi, Omni Hotel)
+Agenda: Not yet posted as of today.
+Expected: Final 2027 budget vote; catastrophe funding recommendation (PML $4.3051B); legislative recommendations finalization (MDL judge requirement elimination).
+Monitor: twia.org/board-meetings/november-10-2026/
+Post trigger: Any change to coverage limits, assessments, or reinsurance structure.
+
+WATCH 5 — TWIA 2027 RATE (0%, FILE-AND-USE CONFIRMED)
+Rate flat. Effective January 1, 2027. No further action unless TDI intervenes.
+Note: TWIA reserves now ~$3.8B (down from $6.2B due to 2025 law changing reserve standard from 1-in-100-year to 1-in-50-year storm).
+
+WATCH 6 — GOVERNOR ABBOTT / TDI ENFORCEMENT ACTION
+Oct 8, 2026: Abbott directed TDI to enforce B-0008-26 (FORTIFIED roof discounts mandatory), price optimization rules, and form insurance fraud task force.
+Monitor: tdi.texas.gov/bulletins and gov.texas.gov/news for follow-on enforcement orders.
+Sources: https://gov.texas.gov/news/post/governor-abbott-announces-tdi-action-on-property-insurance-costs | https://tdi.texas.gov/news/2026/tdi10082026.html
+
+WATCH 7 — TWIA BIENNIAL REPORT
+Expected: By December 31, 2026. Monitor: twia.org/legislative-updates/
+
+WATCH 8 — TWIA RICO CASE
+Case: 3:26-cv-00271 (SDTX Galveston). No new activity this run.
+
+WATCH 9 — TROPICAL STORM ARTHUR (GALVESTON AREA)
+Wikipedia reference found for a Tropical Storm Arthur (2026) with Galveston-area landfall and Bandera County fatality. Could not confirm with reputable primary source (NHC, NWS, major news outlet) during this run. Galveston is a qualifying coastal county.
+Action: Verify against NHC archive (nhc.noaa.gov/data/tcr/) and TDEM records before any post or client advisory.
+
+NON-QUALIFYING EVENTS THIS WINDOW (Oct 17–21)
+========================================================
+- Cold front / first freeze (Oct 21, Panhandle/South Plains): Non-qualifying counties.
+- Severe storm forecast (~Oct 22, Far West Texas): Forecast only, not yet occurred, non-qualifying counties.
+- Coastal flood advisories Oct 15–18 (Aransas, Nueces, Calhoun): Already covered in StormDigest-2026-10-19. Same event, not re-posted.
+
+PRIOR-WINDOW EVENTS (already covered, noted for record)
+========================================================
+- Fort Stockton EF0/EF1 tornado (Oct 14, Pecos County): Non-qualifying.
+- West Texas hail/wind (Oct 13–15, various inland counties): Non-qualifying.
+- Rolling Plains flooding (Oct 14–15, Wichita Falls area): Non-qualifying.
+- Hurricane Isaias (Oct 9, Florida landfall): Minimal Texas impact confirmed.
+
+========================================================
+END StormDigest 2026-10-21
+Next scheduled run: 2026-10-23
+URGENT: Monitor NFIP Edouard POL deadline daily through October 31.
+========================================================
