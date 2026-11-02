@@ -1,5 +1,203 @@
-BAKER LAW STORM DIGEST
-Date: 2026-11-02
-Status: RUN STARTED 2026-11-02T13:11:18Z
+BAKER LAW STORM MONITOR — StormDigest 2026-11-02
+Run date: 2026-11-02
+Coverage window: 2026-10-29 through 2026-11-02
+Qualifying events found: 2 (2 new posts drafted; 1 qualifying pattern/no new post)
+========================================================
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+QUALIFYING EVENT 1 — FEMA-4935-DR IA APPEAL APPROVED (MAJOR DEVELOPMENT)
+========================================================
+Event: FEMA Individual Assistance approved for 20 Texas counties — appeal of prior denial approved October 30, 2026
+Criterion met: (b) FEMA Individual Assistance approval directly affecting policyholders in covered counties; (d) widespread structural damage from July 2026 storms.
+
+Summary:
+Texas Division of Emergency Management Chief Nim Kidd filed the IA appeal on October 27, 2026, one day before the October 28 deadline. The federal government approved the appeal on October 30, 2026. Twenty of the 30 originally requested counties are now designated for Individual Assistance under FEMA-4935-DR.
+
+Counties approved for IA: Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, Zavala.
+
+10 counties from the original 30-county request were NOT approved: not yet identified by name in any indexed source. Policyholders in those 10 counties remain without IA.
+
+IA benefits available: Temporary housing, emergency home repairs, uninsured and underinsured personal property losses, disaster legal services, disaster unemployment assistance, medical, dental, and funeral expenses.
+
+How to apply: disasterassistance.gov, 1-800-621-3362, or FEMA app. Registration deadline not yet announced; check disasterassistance.gov.
+
+SBA follow-on expected: Under standard practice, when IA is added to a declaration, the SBA issues a new loan window for homeowners and businesses within days, typically with a deadline approximately 60 days out (~December 29, 2026). No SBA press release found as of this run. Monitor sba.gov/disaster.
+
+Sources:
+- KSAT, "FEMA aid approved for 20 Texas counties," Oct. 30, 2026: https://www.ksat.com/news/local/2026/10/30/fema-aid-approved-for-20-texas-counties-affected-by-july-storms-flooding/
+- Texas Tribune, "Trump says more FEMA aid is coming to Texas," Oct. 28, 2026: https://www.texastribune.org/2026/10/28/trump-fema-flood-aid-hill-country-texas/
+- FOX7 Austin, "Texas wins FEMA appeal": https://www.fox7austin.com/news/texas-wins-fema-appeal-financial-assistance-coming-texans-hit-hill-country-flooding
+- TDEM press release Oct. 30, 2026: https://tdem.texas.gov/press-release/10-30-26
+- EIN Presswire (Abbott announcement): https://einpresswire.com/article/953535962/governor-abbott-announces-additional-federal-disaster-assistance-following-july-storms-and-flooding
+- News4 San Antonio: https://news4sanantonio.com/news/local/trump-promises-more-fema-flood-relief-as-texas-appeals-denials-for-disaster-assistance
+- Federal Register 2026-18354 (original SBA declaration): https://public-inspection.federalregister.gov/2026-18354.pdf
+
+FACEBOOK POST — EVENT 1:
+---
+Texas filed an appeal of FEMA's denial of Individual Assistance for the July 2026 Hill Country and southwest Texas storms. The appeal was approved October 30, 2026. [1]
+
+Twenty of the 30 originally requested counties are now covered for IA: Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, and Zavala. [1]
+
+FEMA Individual Assistance can pay for temporary housing, emergency home repairs, and uninsured personal property losses. It does not cover losses your insurance already paid. [2]
+
+Applications are open now. Apply at disasterassistance.gov, call 1-800-621-3362, or use the FEMA app. There is a registration deadline. The current deadline is listed at disasterassistance.gov. [2]
+
+Ten of the 30 originally requested counties were not included in the approval. Policyholders in those 10 counties have no IA path for these storms. The ten counties not approved have not been publicly identified yet. [1]
+
+FEMA assistance and a private insurance claim are not mutually exclusive. Receiving FEMA assistance does not close your insurance claim or waive any right to dispute an underpayment. [2]
+
+A new SBA physical damage loan window for homeowners and businesses in the 20 IA-covered counties is expected to open within days, following standard procedure after an IA designation. Watch sba.gov/disaster for the announcement and deadline. [3]
+
+[1] KSAT, Oct. 30, 2026. https://www.ksat.com/news/local/2026/10/30/fema-aid-approved-for-20-texas-counties-affected-by-july-storms-flooding/
+[2] disasterassistance.gov. https://www.disasterassistance.gov
+[3] Federal Register 2026-18354. https://public-inspection.federalregister.gov/2026-18354.pdf
+---
+
+QUALIFYING EVENT 2 — NFIP EDOUARD PROOF-OF-LOSS DEADLINE PASSED
+========================================================
+Event: October 31, 2026 NFIP proof-of-loss deadline for Tropical Storm Edouard has passed with no extension granted and no presidential DR issued.
+Criterion met: (c) Edouard struck qualifying coastal counties (Galveston, Brazoria, Matagorda); (d) widespread structural damage from SE Texas.
+
+Summary:
+No FEMA presidential disaster declaration was issued for Tropical Storm Edouard as of this run (Day 62). No NFIP proof-of-loss extension was announced or found via FloodSmart bulletin search. The standard 60-day NFIP POL window from the September 1, 2026 date of loss closed October 31, 2026. The deadline has passed.
+
+Local declarations: Jefferson County, Port Arthur, Chambers County, and Polk County each issued local emergency declarations for Edouard. These do not extend the NFIP POL deadline.
+
+Late POL options: A late proof of loss may still be submitted to the write-your-own carrier with a written explanation and request for FEMA extension. FEMA has discretionary authority to grant extensions under program rules. Carriers routinely deny late POL submissions; some approve them. The burden is on the policyholder to demonstrate why the deadline was missed.
+
+Prior posts: StormDigest-2026-10-21 (10 days out), StormDigest-2026-10-26 (5 days out, repost recommended), StormDigest-2026-10-28 (3 days out, final warning).
+
+Sources:
+- FEMA flood insurance rules: https://www.fema.gov/flood-insurance
+- FEMA disaster declarations: https://www.fema.gov/disaster/declarations
+- No federal DR confirmed through searches; local-only declarations confirmed: https://www.foreverdelmarva.com/2026/09/02/edouard-prompts-disaster-declaration-in-texas/
+- NFIP POL rules: https://deniedfloodclaim.com/flood-proof-of-loss-deadline/
+
+FACEBOOK POST — EVENT 2:
+---
+The October 31, 2026 deadline to file an NFIP proof of loss for Tropical Storm Edouard has passed. No FEMA presidential disaster declaration was issued for Edouard. No extension of the 60-day proof-of-loss window was announced. [1]
+
+Under the National Flood Insurance Program, a signed, sworn proof of loss is a condition of coverage. Carriers are not required to pay a claim without it. That requirement did not change when the deadline passed. [2]
+
+For policyholders who missed the deadline: the standard claim path is now closed. A late proof of loss may still be submitted to your carrier with a written explanation and a request for extension. FEMA has discretion to authorize late filings. Carriers routinely deny these requests. Some do not. [2]
+
+For policyholders who filed on time but believe they were underpaid: the proof-of-loss deadline and a dispute over the payment amount are separate questions. Filing on time satisfies the condition of coverage. Whether what was paid was the right number is a different issue. [2]
+
+For policyholders who filed, received a payment, and are satisfied: the deadline is behind them.
+
+The result for each policyholder is different depending on where they were on October 31.
+
+[1] FEMA disaster declarations. https://www.fema.gov/disaster/declarations
+[2] FEMA NFIP policy conditions. https://www.fema.gov/flood-insurance
+---
+
+QUALIFYING EVENT 3 — COASTAL FLOODING (CRITERION C — RECURRING PATTERN / NO NEW POST)
+========================================================
+Event: NWS Corpus Christi Minor Coastal Flood Advisories, ongoing
+Dates: October 27 through November 1, 2026
+Qualifying counties: Aransas, Nueces, Calhoun
+Criterion met: (c) hit qualifying coastal counties
+Note: This is the fifth coastal flood advisory event in these counties in October/early November 2026. Prior posts: Oct 19 digest (first post), Oct 26 (noted), Oct 28 (noted). No new Facebook post drafted — recurring tidal pattern; additional post would not add new actionable information for policyholders.
+
+Sources: NWS Corpus Christi advisories:
+- https://govonestop.com/nws/texas-minor-coastal-flood-advisory-effective-10302026-1910
+- https://govonestop.com/nws/texas-minor-coastal-flood-advisory-effective-10292026-1841
+- https://govonestop.com/nws/texas-minor-coastal-flood-advisory-effective-10282026-2057
+
+ONGOING WATCH ITEMS (no post drafted)
+========================================================
+
+WATCH 1 — FEMA-4935-DR IA REGISTRATION DEADLINE (NEW — NOT YET ANNOUNCED)
+Status: IA approved October 30, 2026 for 20 counties. Registration deadline not yet posted.
+Action: Monitor disasterassistance.gov daily for registration deadline announcement. Once posted, this is a post trigger for a deadline reminder.
+Counties covered: Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, Zavala.
+Monitor: disasterassistance.gov, fema.gov/disaster/4935
+
+WATCH 2 — NEW SBA PHYSICAL LOAN WINDOW FOR FEMA-4935-DR IA COUNTIES (EXPECTED IMMINENTLY)
+Expected deadline: Approximately December 29, 2026 (standard 60 days after Oct 30 IA approval) — NOT YET CONFIRMED.
+Status: No SBA press release found as of this run. Under standard SBA practice, a new announcement for homeowners and businesses in the 20 IA counties is expected within days.
+Monitor: sba.gov/disaster daily. Post trigger: SBA announcement issued.
+
+WATCH 3 — FEMA-4935-DR: 10 UNDESIGNATED COUNTIES
+Status: 10 of the original 30 requested counties were not approved for IA. Their identities not yet confirmed in any indexed source.
+Monitor: fema.gov/disaster/4935 for designated areas update.
+Post trigger: When 10 missing counties are identified publicly.
+
+WATCH 4 — NFIP EDOUARD LATE POL / DR STATUS (Day 62)
+NFIP deadline: PASSED (October 31, 2026).
+Presidential DR: Still not issued as of this run. If issued, FEMA could retroactively extend POL deadline.
+Monitor: fema.gov/disaster/declarations. Post trigger: DR issued (retroactive extension possible) or DR formally denied.
+
+WATCH 5 — SBA NOV 2 DEADLINE (TODAY — NONPROFITS)
+The November 2, 2026 SBA physical damage loan deadline for private nonprofits under FEMA-4935-DR (PA-only declaration) is today. No extension found. This affects nonprofit organizations providing essential governmental services in the originally designated PA counties.
+Source: Federal Register 2026-18354.
+
+WATCH 6 — SBA NOV 9 DEADLINE (SEPARATE DISASTER — BEXAR COUNTY AREA)
+Separate SBA administrative disaster for August 28, 2026 Bexar County storms. SBA physical damage loan deadline: November 9, 2026.
+Source: Federal Register 2026-18777.
+
+WATCH 7 — STATE FARM LLOYDS 4% RATE (EFFECTIVE DATE: NOVEMBER 1)
+Filed: July 29, 2026. Effective target: November 1, 2026.
+Status: No TDI final order found as of this run. Rate may already be in effect for November 1 renewals under file-and-use. TDI's formal objection period may have expired without a final order — which means the rate proceeds.
+Monitor: tdi.texas.gov rate filing database. Post trigger: TDI issues a final order (approval, reduction, or disapproval). If no order found after November 7, post to confirm rate is in effect.
+
+WATCH 8 — TWIA NOVEMBER 10 BOARD MEETING (Corpus Christi, Omni Hotel)
+Date: November 10, 2026, 9:00 a.m. CT
+Agenda: Not yet posted as of November 2 (expected November 3-7).
+Confirmed topics from pre-meeting notice: Agent Commissions Report; 2027 Operating Budget approval; Catastrophe Funding; SAO Efficiency Audit briefing (per HB 12, 2025 session). NOTE: TWIA's notice explicitly states no rate action will be considered at this meeting.
+Public comment deadline: Noon, Friday November 6 — PublicComment@TWIA.org
+Materials post trigger: Board packet expected November 7 at twia.org/board-meetings/november-10-2026/; watch for Edouard claims data in financial update.
+Monitor: twia.org/board-meetings/november-10-2026/
+
+WATCH 9 — TWIA EDOUARD CLAIMS DATA
+No aggregate claims data for Edouard published as of this run. Q2 2026 Fact Book is most recent published (predates Edouard). Q3 2026 Fact Book not yet published.
+First opportunity for Edouard data: November 10 board meeting materials packet.
+Monitor: twia.org for Q3 Fact Book; twia.org/board-meetings/november-10-2026/ for board materials.
+
+WATCH 10 — TWIA 2027 RATE (0%, FILE-AND-USE CONFIRMED)
+Rate flat. Effective January 1, 2027.
+
+WATCH 11 — TDI RATE TREND CONTEXT
+Most recent TDI announcement: October 8, 2026 (-4.3% simple average).
+Active increases: AIG +15.2% (posted Oct 21); State Farm +4% (Nov 1, in effect pending TDI confirmation); Allstate +8%; Farmers +22.7%; Amica +4%.
+Active decreases: ASI/Progressive -6% (71,000 policyholders); TX Farm Bureau -5.2% (133,000 policyholders).
+Weighted average: +0.6% (by policyholder count), not the -4.3% headline.
+
+WATCH 12 — GOVERNOR ABBOTT / TDI FORTIFIED ROOF ENFORCEMENT
+Still active. Commissioner's Bulletin B-0008-26 requires carriers to reflect FORTIFIED roof status in rates.
+Monitor: tdi.texas.gov/bulletins/2026/index.html
+
+WATCH 13 — TWIA BIENNIAL REPORT
+Expected: By December 31, 2026. Monitor: twia.org/legislative-updates/
+
+WATCH 14 — TWIA RICO CASE
+Case: 3:26-cv-00271 (SDTX Galveston). No new activity this run.
+
+WATCH 15 — EL PASO COUNTY FLOODING (STATE DISASTER DEC. ONLY)
+Governor Abbott issued state disaster declaration for El Paso County on October 29, 2026 after flooding events on October 23 and October 25. At least 60 homes affected in Horizon area. No FEMA presidential declaration. TDEM collecting iSTAT damage surveys that could trigger a FEMA application.
+Counties: El Paso (non-qualifying). Monitor: fema.gov/disaster/declarations for federal follow-up.
+Source: https://gov.texas.gov/news/post/governor-abbott-declares-el-paso-county-flooding-disaster-in-october-2026
+
+NON-QUALIFYING EVENTS THIS WINDOW (Oct 29 - Nov 2)
+========================================================
+- South/South Central Texas heavy rain and flooding (Oct 29-30, Del Rio/Edwards Plateau/Big Bend area): Isolated 6-inch rainfall near Del Rio. Flood warnings issued. Non-qualifying inland counties.
+- Texas Panhandle tornado warnings (Nov 1-2, Hartley, Oldham, and surrounding counties): Radar-indicated rotation, multiple NWS Amarillo tornado warnings overnight Nov 1-2. No confirmed ground touchdowns. Damage surveys pending from NWS Amarillo. Non-qualifying inland counties.
+- North/Central Texas severe storm threat (Nov 2, ongoing): SPC Slight Risk, damaging winds possible. Non-qualifying.
+- Coastal flooding Oct 27-Nov 2 (Kenedy, Willacy, Cameron, NWS Brownsville): Non-qualifying counties.
+
+PRIOR-WINDOW EVENTS (already covered, noted for record)
+========================================================
+- FEMA-4935-DR IA appeal deadline (Oct 28): Appeal filed Oct 27, approved Oct 30. Covered above.
+- NFIP Edouard POL deadline (Oct 31): Passed. Covered above.
+- Tropical Storm Arthur (June 17, 2026): Covered in StormDigest-2026-10-26. TWIA deadline June 17, 2027.
+- State Farm +4% (Oct 19 digest, effective Nov 1): Watch status updated above.
+- AIG +15.2% (Oct 21 digest): No change.
+- Coastal flooding recurring (Oct 19, 26, 28 digests): Same pattern continues.
+
+========================================================
+END StormDigest 2026-11-02
+Next scheduled run: 2026-11-04
+URGENT: Monitor disasterassistance.gov and sba.gov/disaster for FEMA-4935-DR registration deadline and new SBA individual/business loan window — expected imminently following Oct 30 IA approval.
+URGENT: SBA Bexar County August storms physical loan deadline November 9 (7 days).
+MONITOR: TWIA Nov 10 board materials expected Nov 3-7. Key: first Edouard claims data.
+MONITOR: TDI State Farm rate order — if none found by Nov 7, rate is in effect.
+========================================================
