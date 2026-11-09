@@ -1,5 +1,210 @@
-BAKER LAW STORM DIGEST
-Date: 2026-11-09
-Status: RUN STARTED 2026-11-09T13:11Z
+BAKER LAW STORM MONITOR — StormDigest 2026-11-09
+Run date: 2026-11-09
+Coverage window: 2026-11-05 through 2026-11-09
+Qualifying events found: 2 (2 new posts drafted)
+========================================================
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+QUALIFYING EVENT 1 — SOUTH TEXAS FLASH FLOODING, COASTAL BEND (NOV 8-9, ACTIVE)
+========================================================
+Event: Flash flooding from slow-moving upper-level low; active/ongoing as of run date. Training thunderstorms producing 4-8+ inches of rain across South Texas. Qualifying coastal counties affected: Nueces, Aransas, San Patricio, Refugio, Calhoun.
+Criterion met: (c) hit qualifying coastal counties; Governor Abbott deployed state swiftwater rescue teams.
+
+Summary:
+Flash flood warnings issued by NWS Corpus Christi beginning November 8 for Kleberg, Duval, Jim Wells, and Nueces counties. 4-8 inches of rain reported; some areas receiving 7+ inches from slow-moving training storms. US Highway 141 and US Highway 281 in Kleberg County closed due to high water. US Highway 281 near Falfurrias (Brooks County) closed then reopened with water still ponding.
+
+Oso Creek at Corpus Christi (Nueces County): stage at 11.1 feet as of November 8 at 7:15 PM (bankfull = 11.0 feet). NWS Corpus Christi forecast: creek to exceed flood stage (20.0 feet) Monday morning, crest near 23 feet late Monday night (November 9). At 20 feet: lowland flooding from near Violet Road/FM 24 to Oso Bay; secondary roads flood; homes in Lakes Subdivision within 3 feet of floodwaters.
+
+Coastal Flood Advisory issued November 8 at 6:10 PM CST by NWS Corpus Christi, valid through November 10 at 3:00 AM CST. Advisory counties: Aransas, Nueces, San Patricio, Refugio, Calhoun. East winds 20-25 knots gusting to 35 knots; seas 5-7 feet occasionally to 9 feet.
+
+Governor Abbott statement: "I directed the Texas Division of Emergency Management to mobilize additional state emergency response resources to support local officials and help protect Texans." Texas A&M Task Force 1 and Task Force 3 (swiftwater rescue) deployed; DPS officers and rescue helicopters; Parks and Wildlife rescue boats.
+
+Confirmed structural damage: None confirmed as of run date — event active/ongoing. NWS flood warning notes homes in Nueces County (Lakes Subdivision) within 3 feet of projected floodwaters, suggesting potential residential inundation tonight.
+
+FEMA declaration: None. Event too recent. TDEM response underway.
+
+NOTE: This event is active. Flood warning valid through November 11. Damage assessments will follow.
+
+Sources:
+- NWS Corpus Christi Flood Warning (Oso Creek), Nov. 8, 2026: https://www.weather.gov/crp/
+- NWS Corpus Christi Coastal Flood Advisory, Nov. 8-10, 2026: https://www.weather.gov/crp/
+- KRIS 6 TV Corpus Christi (road closures, Nov. 8-9): https://www.kristv.com/news/local-news/flash-flooding-closes-roads-across-the-coastal-bend-but-us-281-near-falfurrias-has-reopened
+- ABC News (AP), Governor response, Nov. 8, 2026: https://abcnews.com/US/south-texas-bracing-flash-flooding-governor-bolsters-emergency/story?id=137952523
+
+FACEBOOK POST — EVENT 1:
+---
+South Texas is flooding. Flash flood warnings covered Kleberg, Duval, Jim Wells, and Nueces counties beginning November 8. Oso Creek in Corpus Christi is forecast to crest at 23 feet tonight, 3 feet above flood stage. Aransas County, including Rockport, is under a flood watch and a coastal flood advisory through tomorrow morning. Governor Abbott deployed Texas A&M Task Force 1 and Task Force 3 for swiftwater rescue in the Coastal Bend. [1][2]
+
+For property owners whose structures took on water today: document everything before you clean it up. Photograph every room. Mark the water line on walls before it dries. Record the date and time. These records matter when an adjuster determines cause of loss weeks later. [3]
+
+On the Texas coast, water in a structure raises a coverage question that determines which policy responds. TWIA covers wind damage. The National Flood Insurance Program covers rising floodwater. Storm surge is treated differently under each policy. Adjusters for each carrier characterize damage to minimize what their policy owes. The documentation you create today is the evidence to counter that characterization. [3]
+
+If your structure flooded from this event, your NFIP proof-of-loss deadline runs 60 days from the date of loss. That clock does not pause for the adjustment process. [3]
+
+[1] NWS Corpus Christi Flood Warning and Coastal Flood Advisory, November 8-9, 2026. https://www.weather.gov/crp/; KRIS 6 TV Corpus Christi. https://www.kristv.com/news/local-news/flash-flooding-closes-roads-across-the-coastal-bend-but-us-281-near-falfurrias-has-reopened
+[2] ABC News (AP), November 8, 2026. https://abcnews.com/US/south-texas-bracing-flash-flooding-governor-bolsters-emergency/story?id=137952523
+[3] FEMA NFIP. https://www.fema.gov/flood-insurance
+---
+
+QUALIFYING EVENT 2 — SBA BEXAR COUNTY AUGUST 28, 2026 STORMS — PHYSICAL DAMAGE LOAN DEADLINE TODAY
+========================================================
+Event: SBA administrative disaster declaration (Federal Register 2026-18777) for August 28, 2026 Bexar County severe storms. Physical damage loan deadline: November 9, 2026 (TODAY). No extension found.
+Criterion met: (d) widespread structural damage (SBA administrative disaster declaration requires documented physical damage); Federal Register 2026-18777 sourced.
+
+Summary:
+Exhaustive search of the Federal Register, SBA.gov, and news sources found no amendment, extension, or modification to the November 9, 2026 physical damage loan deadline. The deadline is today.
+
+SBA Administrative Disaster Declaration 21859B — signed September 10, 2026, published Federal Register September 14, 2026 (91 FR 58245).
+Incident: Severe storms and tornadoes beginning August 28, 2026.
+
+Counties covered:
+- Primary: Bexar
+- Contiguous eligible: Atascosa, Bandera, Comal, Guadalupe, Kendall, Medina, Wilson
+
+Physical damage loan deadline: November 9, 2026 (TODAY — NO EXTENSION FOUND)
+Economic injury (EIDL) deadline: June 10, 2027 (remains open)
+
+Loan limits (same as other SBA disaster programs):
+- Homeowners: up to $500,000 real estate; up to $100,000 personal property
+- Businesses and nonprofits: up to $2 million
+Apply: lending.sba.gov or 800-659-2955
+
+NOTE: Bexar County is ALSO covered under FEMA-4935-DR (July 2026 storms) with a separate SBA physical damage loan deadline of December 30, 2026. These are different events, different declarations, different incident periods. Clients with damage from both events should file for both.
+
+Sources:
+- Federal Register 2026-18777 (original declaration, Sep. 14, 2026): https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+- Federal Register 2026-22469 (FEMA-4935-DR SBA notice, Nov. 4, 2026): https://www.federalregister.gov/documents/2026/11/04/2026-22469/presidential-declaration-of-a-major-disaster-for-the-state-of-texas
+- SBA disaster loan assistance: https://www.sba.gov/disaster
+
+FACEBOOK POST — EVENT 2:
+---
+Today is the last day to apply for SBA physical damage loans under the August 28, 2026 Bexar County disaster declaration. The deadline for homeowners, renters, businesses, and nonprofits in Bexar, Atascosa, Bandera, Comal, Guadalupe, Kendall, Medina, and Wilson counties is today. No extension has been announced. [1]
+
+Loan limits: homeowners up to $500,000 for real estate and $100,000 for personal property; businesses and nonprofits up to $2 million. These are loans, not grants. [1]
+
+If your insurance company denied your August 28 storm claim, underpaid it, or is still delaying it, an SBA physical damage loan is a separate path. Applying for the loan does not waive your right to pursue the insurance claim. The two are independent. [2]
+
+After today's deadline passes, the physical damage loan path for this specific event is closed. The economic injury loan deadline for businesses remains open until June 10, 2027. [1]
+
+If you have damage from the separate July 2026 storms, Bexar County is also covered under a different disaster declaration with a physical damage loan deadline of December 30, 2026. The events, the declarations, and the deadlines are separate. [3]
+
+[1] Federal Register 2026-18777, September 14, 2026. https://www.federalregister.gov/documents/2026/09/14/2026-18777/administrative-declaration-of-a-disaster-for-the-state-of-texas
+[2] SBA disaster loan assistance. https://www.sba.gov/disaster
+[3] Federal Register 2026-22469, November 4, 2026. https://www.federalregister.gov/documents/2026/11/04/2026-22469/presidential-declaration-of-a-major-disaster-for-the-state-of-texas
+---
+
+ONGOING WATCH ITEMS (no post drafted)
+========================================================
+
+WATCH 1 — FEMA-4935-DR IA REGISTRATION DEADLINE (NOT YET ANNOUNCED)
+Status: IA approved October 30 for 20 counties. Registration deadline still not posted publicly as of November 9.
+Note: Individual assistance applications are open now at disasterassistance.gov. FEMA has not posted a formal deadline date. Standard practice suggests deadline set from IA-approval date (Oct 30); 60 days = approximately December 29, 2026.
+NEW: Texas Workforce Commission Disaster Unemployment Assistance (DUA) deadline for FEMA-4935-DR is December 29, 2026. Apply via TWC at 800-939-6631.
+Monitor: disasterassistance.gov, fema.gov/disaster/4935 daily.
+Post trigger: Once IA registration deadline announced.
+
+WATCH 2 — SBA FEMA-4935-DR PHYSICAL DAMAGE LOANS (DEADLINE DEC 30)
+Deadline: December 30, 2026 (confirmed Federal Register 2026-22469, Nov. 4, 2026)
+Counties: 20 IA counties (Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, Zavala)
+Apply: lending.sba.gov or 800-659-2955
+Post trigger: Deadline reminder ~December 15.
+
+WATCH 3 — SBA BEXAR COUNTY AUGUST 28 STORMS (PHYSICAL DAMAGE DEADLINE TODAY — PASSED/PASSING)
+Deadline: November 9, 2026 (TODAY — CLOSING). No extension found.
+EIDL deadline: June 10, 2027 (still open for businesses)
+Post drafted above. Physical damage path effectively closes after today's business hours.
+
+WATCH 4 — FEMA-4935-DR: 10 UNDESIGNATED COUNTIES
+Status: 10 of the original 30 requested counties were not included in the appeal. Still not publicly identified.
+Monitor: fema.gov/disaster/4935/designated-areas.
+
+WATCH 5 — TWIA NOVEMBER 10 BOARD MEETING (TOMORROW — CORPUS CHRISTI, OMNI HOTEL)
+Agenda: NOT YET POSTED as of November 9, 2026.
+Known agenda items (from TWIA pre-meeting notice, Oct. 30, 2026):
+- Agent commissions report (follow-up from August 2026 report)
+- 2027 operating budget approval
+- Catastrophe funding
+- State Auditor's Office efficiency audit briefing (HB 12, 2025 session)
+- Expected: $44 million short-term bank loan/financing to pay lingering Hurricane Beryl claims
+No rate action expected.
+Public comment deadline: Noon, Friday November 6 to PublicComment@TWIA.org (PASSED)
+Post trigger: When board materials posted; first Edouard claims data expected (though Edouard is not a named agenda item).
+Monitor: twia.org/board-meetings/november-10-2026/ immediately.
+
+WATCH 6 — STATE FARM LLOYDS 4% RATE (IN EFFECT NOV 1 — NO TDI ORDER FOUND)
+Status: Rate in effect November 1 by default under file-and-use. No TDI final order (approval, reduction, or disapproval) found as of November 9. TDI issued a written objection asking State Farm to justify the rate need. State Farm actuarial data reportedly supported 10.9%; filed 4.0%. 751,000 of approximately 987,000 Texas homeowners policies affected. TDI review described as ongoing; no Commissioner order number found.
+Monitor: tdi.texas.gov rate filing database.
+Post trigger: TDI issues final order.
+
+WATCH 7 — NFIP EDOUARD PRESIDENTIAL DR (DAY 69 — DEADLINE PASSED)
+Status: October 31 NFIP POL deadline passed. No presidential DR issued for Edouard as of Day 69.
+Edouard impact clarified this run: Hardest-hit counties were Hardin and Tyler (20+ inches of rain, flash flood emergency). Jefferson, Chambers, Polk counties issued local declarations. Galveston County received approximately 0.25 inches of rain; Brazoria and Matagorda counties had no reports. No Governor's formal request for presidential DR found.
+Without a federal DR, standard NFIP terms apply. No automatic POL extension available.
+Monitor: fema.gov/disaster/declarations.
+Post trigger: DR issued (retroactive extension possible) or formal denial.
+
+WATCH 8 — TWIA EDOUARD CLAIMS DATA
+No aggregate Edouard claims data published. Edouard not a named agenda item for November 10 board meeting. November 10 board meeting remains first plausible forum.
+Monitor: twia.org for Q3 2026 Fact Book; twia.org/board-meetings/november-10-2026/ for board materials.
+
+WATCH 9 — TWIA 2027 RATE (0%, FLAT — CONFIRMED)
+Effective January 1, 2027. No action.
+
+WATCH 10 — TDI RATE TREND CONTEXT
+State Farm +4% (in effect Nov 1 by default); AIG +15.2%; Allstate +8%; Farmers +22.7%; Amica +4%.
+Decreases: ASI/Progressive -6% (71,000); TX Farm Bureau -5.2% (133,000).
+Weighted average by policyholder count: +0.6%, not -4.3% headline.
+
+WATCH 11 — GOVERNOR ABBOTT / TDI FORTIFIED ROOF ENFORCEMENT
+Commissioner's Bulletin B-0008-26 still active.
+Monitor: tdi.texas.gov/bulletins/2026/index.html
+
+WATCH 12 — TWIA BIENNIAL REPORT
+Expected by December 31, 2026. Monitor: twia.org/legislative-updates/
+
+WATCH 13 — TWIA RICO CASE
+Case: 3:26-cv-00271 (SDTX Galveston). No new activity this run.
+
+WATCH 14 — EL PASO COUNTY FLOODING (STATE DISASTER — SBA DAMAGE ASSESSMENT UNDERWAY)
+Status: SBA joint preliminary damage assessment announced November 5, 2026. 190+ homes damaged in Horizon City (Lakeway and Mountain Shadow Estates communities). Several feet of floodwater and mud. Earthen berm (possibly mischaracterized as levee by some sources) failure identified as contributing cause — legally significant distinction for coverage (NWS flood vs. surface-water flood).
+State disaster declaration: Governor Abbott, October 29, 2026. County extended declaration 45 days.
+No FEMA presidential declaration. TDEM Chief Kidd stated assessments will help determine whether state meets federal thresholds.
+Monitor: fema.gov/disaster/declarations; tdem.texas.gov for damage survey results.
+Post trigger: FEMA presidential declaration issued.
+
+WATCH 15 — SOUTH TEXAS FLASH FLOODING (ACTIVE — NEW THIS RUN)
+Nov 8-9 event. Oso Creek in Nueces County forecast to crest at 23 feet (flood stage 20 feet). Event ongoing as of run date. Coastal Flood Advisory in effect through November 10. No FEMA declaration.
+Post drafted above.
+Monitor: NWS Corpus Christi (weather.gov/crp) for storm reports; TDEM iSTAT for damage counts; fema.gov/disaster/declarations.
+Post trigger: FEMA disaster declaration; confirmed damage dollar figure.
+
+WATCH 16 — TWC DISASTER UNEMPLOYMENT ASSISTANCE (DEC 29, 2026 DEADLINE — NEW)
+Texas Workforce Commission deadline to apply for disaster unemployment assistance under FEMA-4935-DR is December 29, 2026.
+Apply: TWC at 800-939-6631.
+Post trigger: Reminder as deadline approaches (~December 15).
+
+NON-QUALIFYING EVENTS THIS WINDOW (Nov 5-9)
+========================================================
+- El Paso County flash flooding (ongoing from Oct 25): SBA damage assessment underway Nov 5. 190+ homes, non-qualifying inland county. No FEMA declaration. Watch 14 above.
+- North Texas / Texas Panhandle severe storms (Nov 1-2 — pre-window): Covered in StormDigest-2026-11-04 non-qualifying section. Tin roof blown off building in Nocona (Montague County); no damage dollar figure. Non-qualifying inland counties. NWS EF ratings pending (90-120 day lag).
+- Coastal flooding Nov 7-10 (Aransas, Nueces, San Patricio, Refugio, Calhoun, Kenedy, Willacy, Cameron): Incorporated into Qualifying Event 1 above. This is the 7th coastal flood advisory event in October/November 2026 for these counties. Coastal flooding in Kenedy, Willacy, and Cameron counties (non-qualifying) covered separately by NWS Brownsville.
+- McMullen, Live Oak counties Special Weather Statement (Nov 9): Pea-size hail; 50 mph gusts. No confirmed damage. Non-qualifying inland counties.
+- Governor Abbott fire weather disaster proclamation amendment (Nov 2): State-level proclamation renewed/amended. No structural damage. Non-qualifying.
+- Houston/Galveston/Southeast Texas (Nov 5-9): No significant storm activity. ABC13 (Nov 6) reported tropics quiet and no Gulf storms expected. Southeast Texas forecast described as mostly dry.
+
+PRIOR-WINDOW EVENTS (already covered, noted for record)
+========================================================
+- SBA Bexar County August 28 deadline (Nov 9, today): Covered above.
+- FEMA-4935-DR SBA loans open (Nov 4 digest): Deadline Dec 30, 2026. No change.
+- FEMA-4935-DR IA approved Oct 30: Covered StormDigest-2026-11-02. No change.
+- NFIP Edouard POL deadline passed Oct 31: Covered StormDigest-2026-11-02. No DR as of Day 69.
+- State Farm +4% (Oct 19 digest, effective Nov 1): Watch update above.
+- Coastal flooding recurring: Incorporated into Event 1 above.
+
+========================================================
+END StormDigest 2026-11-09
+Next scheduled run: 2026-11-11 (or as triggered)
+URGENT: South Texas flooding ACTIVE — Oso Creek in Corpus Christi forecast to crest at 23 feet tonight. Flood warning valid through November 11. Post drafted above. Monitor for damage assessments and potential FEMA application.
+URGENT: SBA Bexar County August 28 physical loan deadline TODAY (November 9) — no extension found. Post drafted above. EIDL still open through June 10, 2027.
+MONITOR: TWIA November 10 board meeting TOMORROW — agenda not yet posted; $44M Beryl loan item expected. First Edouard data possible.
+MONITOR: FEMA-4935-DR IA registration deadline still not announced — check disasterassistance.gov.
+========================================================
