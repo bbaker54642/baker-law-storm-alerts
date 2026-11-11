@@ -1,5 +1,204 @@
-BAKER LAW STORM DIGEST
-Date: 2026-11-11
-Status: RUN STARTED 2026-11-11T13:09Z
+BAKER LAW STORM MONITOR — StormDigest 2026-11-11
+Run date: 2026-11-11
+Coverage window: 2026-11-07 through 2026-11-11
+Qualifying events found: 2 (2 new posts drafted)
+========================================================
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+QUALIFYING EVENT 1 — SOUTH TEXAS FLASH FLOODING RESOLUTION (NOV 7-11)
+========================================================
+Event: South Texas flash flooding from slow-moving upper-level low; event largely resolved by November 10-11. Qualifying coastal counties affected: Nueces, Aransas, San Patricio, Refugio, Calhoun.
+Criterion met: (c) hit qualifying coastal counties.
+
+Summary (resolution update from StormDigest-2026-11-09):
+Flash flood warnings covered Kleberg, Duval, Jim Wells, Nueces, San Patricio counties beginning November 8. Event wound down by November 10. Flood warning for Oso Creek expired November 10, 8:00 PM CST.
+
+CRITICAL UPDATE — Oso Creek actual crest: The November 8 evening NWS warning forecast a crest of ~23 feet. The November 9, 7:21 AM NWS update revised the forecast crest DOWN to 20.0 feet (just at flood stage), with the gauge reading 10.4 feet at 6:15 AM. Secondary reporting suggests the creek may have peaked near bankfull (~11-12 feet), well below flood stage (20.0 feet). Actual observed crest is not yet confirmed from a reputable primary source.
+
+Jim Wells County emergency management officials: "very little to no damage" following the flooding (per KRIS 6 TV snippet, November 10, 2026). 6 people rescued from a vehicle at a low-water crossing on County Road 433 near Alice. No deaths or injuries reported.
+
+No confirmed structural damage counts (homes/businesses) from any reputable source. No dollar damage figure. No FEMA presidential disaster declaration issued for this event.
+
+State resources pre-deployed by Governor Abbott: DPS troopers and helicopters, Texas Emergency Medical Task Force teams, Texas A&M AgriLife damage assessment agents (source: EIN Presswire/Governor's office).
+
+FEMA declaration: None. TDEM deployed resources but no PDA announcement for South Texas November event found.
+
+November 10 continued weather: Severe thunderstorm warning issued for southwestern Nueces County — quarter-size hail, storm near Driscoll moving east at 30 mph. Flood advisory for Kleberg, Nueces, southern San Patricio counties through 11:00 AM. These are residual from the main event.
+
+Sources:
+- NWS Corpus Christi Flood Warning updates, November 8-10, 2026 (via KFTX Fox 29 Corpus Christi): https://www.kftx.com/2026/11/09/flood-warning-issued-november-9-at-721am-cst-until-november-10-at-800pm-cst-by-nws-corpus-christi-tx/
+- KRIS 6 TV Corpus Christi (Jim Wells County, Nov. 10): https://www.kristv.com/news/local-news/in-your-neighborhood/jim-wells-county/alice/jim-wells-county-emergency-management-pre-positions-state-resources-and-water-rescues-for-weekend-rain
+- EIN Presswire (Governor Abbott pre-positioning): https://www.einpresswire.com/article/955277061/governor-abbott-activates-additional-state-emergency-response-resources-ahead-of-flood-theat
+- NWS Corpus Christi: https://www.weather.gov/crp/
+
+FACEBOOK POST — EVENT 1:
+---
+The South Texas flooding that began November 8 has resolved. Flash flood warnings covered Kleberg, Nueces, Jim Wells, Duval, and San Patricio counties. Coastal flood advisories remained in effect for Aransas, Nueces, San Patricio, Refugio, and Calhoun counties through November 10. [1]
+
+For people who had water enter their structure during this event: the claims process is not waiting for you to finish cleaning up. Contact your TWIA carrier and your flood insurance carrier now. File both claims if water entered your structure, regardless of how you think it got in. [2]
+
+Water entry on the Texas coast typically produces a coverage dispute. The wind carrier says it was flood. The flood carrier says wind created the opening that let the rain in. That dispute is not resolved at the time you file. It is resolved later, often after the adjustment period, when carriers have already characterized your damage. [2]
+
+Your NFIP policy requires a proof of loss within 60 days of the date of loss. For this event, that clock started November 8. The deadline falls around January 7, 2027. That deadline does not wait for the coverage dispute to be resolved. [3]
+
+The documentation you created during the event is what carriers examine when they determine how much to pay. Keep it. [2]
+
+[1] NWS Corpus Christi advisories, November 8-10, 2026. https://www.weather.gov/crp/; KRIS 6 TV Corpus Christi. https://www.kristv.com/news/local-news/in-your-neighborhood/jim-wells-county/alice/jim-wells-county-emergency-management-pre-positions-state-resources-and-water-rescues-for-weekend-rain
+[2] FEMA NFIP. https://www.fema.gov/flood-insurance
+[3] FEMA NFIP Standard Flood Insurance Policy (60-day proof-of-loss requirement). https://www.fema.gov/flood-insurance
+---
+
+QUALIFYING EVENT 2 — TWIA HURRICANE BERYL CLAIMS: $44-45M BANK LOAN APPROVED (NOV 10 BOARD MEETING)
+========================================================
+Event: TWIA board voted November 10, 2026 to approve borrowing up to $45 million from JPMorgan Chase to pay lingering Hurricane Beryl (July 2024) claims.
+Criterion met: (a) Hurricane Beryl losses estimated at $535 million (confirmed by TWIA at board meeting); (c) Hurricane Beryl struck qualifying coastal counties (Galveston, Brazoria, Matagorda); (d) widespread structural damage.
+
+Summary:
+The TWIA board of directors, meeting November 10, 2026 in Corpus Christi, voted to approve a short-term bank loan of up to $45 million from JPMorgan Chase. The purpose: pay Hurricane Beryl (July 2024) claims still outstanding as of the meeting. TWIA's estimated ultimate Hurricane Beryl losses stood at approximately $535 million as of September 30, 2026.
+
+Loan terms: Interest rate 2 percentage points above JPMorgan Chase's alternate base rate. Bank agreed to waive upfront fees and prepayment penalties. Estimated interest cost: less than $25,000. Repayment mechanism: charged against TWIA's 2026 net gain from operations at year-end.
+
+TDI sign-off: The Texas Department of Insurance confirmed the proposed loan and repayment arrangement complies with state law.
+
+TWIA spokesman statement: "TWIA has ample financial capacity to pay all losses covered by TWIA policies from Hurricane Beryl." TWIA characterized the loan as a statutory compliance mechanism, not a solvency measure.
+
+Board dissent noted: Board member Mark Shewmaker questioned the financial logic of borrowing when TWIA has substantial cash reserves and suggested lawmakers consider changes to the funding requirements.
+
+NOTE: The November 10 board meeting covered Beryl only in the context of this loan. There was no Tropical Storm Edouard claims data presented as a named agenda item. No rate action was taken.
+
+Sources:
+- Galveston County News (post-meeting): https://www.galvnews.com/news/windstorm-association-approves-44-million-loan-for-2024-storm-losses/article_1f82f1db-4864-416c-b01b-662a81eb8c71.html
+- Galveston County News (pre-meeting preview): https://www.galvnews.com/news/state-windstorm-insurer-weighs-44-million-loan-for-lingering-beryl-losses/article_3b151e74-8bbf-4b85-8d51-ae6244403cfc.html
+- TWIA policy conditions: https://www.twia.org
+
+FACEBOOK POST — EVENT 2:
+---
+The TWIA board voted on November 10, 2026 to borrow up to $45 million from JPMorgan Chase to pay lingering Hurricane Beryl claims. [1] TWIA's estimated Hurricane Beryl losses were approximately $535 million as of September 30, 2026. [1]
+
+For policyholders who still have an open or disputed Beryl claim: TWIA just confirmed in public that it has the money to pay. Having the money and paying what a claim is worth are different questions. [1]
+
+TWIA's spokesman said the association has ample financial capacity to pay all losses covered by its Beryl policies. That statement refers to TWIA's ability to pay, not to whether TWIA agrees on the amount your claim is worth. [1]
+
+TWIA covers wind damage. Hurricane Beryl caused both wind and flood damage in the same structures. Where wind created an opening that allowed rain or surge to enter, those losses fall under the TWIA wind policy. TWIA adjusters characterize damage to minimize wind-covered loss. That characterization is not the final word on what TWIA owes. [2]
+
+If TWIA paid your Beryl claim and you believe the payment was too low, the payment does not close your options. The appraisal provision in your TWIA policy remains available. [2]
+
+[1] Galveston County News, November 10, 2026. https://www.galvnews.com/news/windstorm-association-approves-44-million-loan-for-2024-storm-losses/article_1f82f1db-4864-416c-b01b-662a81eb8c71.html
+[2] TWIA policy conditions. https://www.twia.org
+---
+
+ONGOING WATCH ITEMS (no post drafted)
+========================================================
+
+WATCH 1 — FEMA-4935-DR IA REGISTRATION DEADLINE (NOT YET ANNOUNCED)
+Status: IA approved October 30 for 20 counties. Registration deadline still not posted publicly as of November 11.
+Estimate: If 60-day window runs from October 30, deadline may fall approximately December 29, 2026 — not confirmed.
+NEW: TWC Disaster Unemployment Assistance deadline: December 29, 2026 (apply via TWC at 800-939-6631).
+Monitor: disasterassistance.gov, fema.gov/disaster/4935 daily.
+Post trigger: Once IA registration deadline announced.
+
+WATCH 2 — SBA FEMA-4935-DR PHYSICAL DAMAGE LOANS (DEADLINE CORRECTED TO DEC 29)
+CORRECTION: Federal Register 2026-23016 (publishing November 12, 2026) corrects the SBA physical damage loan deadline from December 30 to DECEMBER 29, 2026.
+Counties: 20 IA counties (Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, Zavala)
+Apply: lending.sba.gov or 800-659-2955
+Post trigger: Deadline reminder ~December 15.
+Source: https://www.federalregister.gov/documents/2026/11/12/2026-23016/presidential-declaration-of-a-major-disaster-for-the-state-of-texas
+
+WATCH 3 — SBA BEXAR COUNTY AUGUST 28 STORMS (PHYSICAL DAMAGE DEADLINE PASSED NOV 9)
+Physical damage deadline passed November 9. No extension found. EIDL deadline: June 10, 2027 (still open for businesses).
+
+WATCH 4 — FEMA-4935-DR: 10 UNDESIGNATED COUNTIES
+Still not publicly identified. Monitor: fema.gov/disaster/4935/designated-areas.
+
+WATCH 5 — TWIA NOVEMBER 10 BOARD MEETING (COMPLETED)
+Key action confirmed: $44-45M bank loan from JPMorgan Chase approved to pay Beryl claims. Post drafted above.
+2027 operating budget vote: Expected to pass but vote outcome not yet confirmed in indexed sources.
+Edouard claims data: Not a named agenda item; no Edouard claims data presented.
+Catastrophe funding, SAO efficiency audit briefing, agent commissions report (informational): Items heard but no vote outcomes confirmed in post-meeting sources yet.
+TWIA received zero written public comments for this meeting.
+Board materials: Not yet indexed at twia.org/board-meetings/november-10-2026/ as of November 11.
+Monitor: twia.org/board-meetings/november-10-2026/ for full materials and minutes.
+
+WATCH 6 — STATE FARM LLOYDS 4% RATE (IN EFFECT NOV 1 — NO TDI ORDER FOUND)
+Status: Rate in effect November 1 by default under file-and-use. No TDI final order found as of November 11. Pending as of October 15 per TDI database. 751,000 of ~987,000 Texas homeowners policies affected. TDI review ongoing.
+Monitor: tdi.texas.gov rate filing database.
+Post trigger: TDI issues final order.
+
+WATCH 7 — NFIP EDOUARD PRESIDENTIAL DR (DAY 71 — NO DR ISSUED)
+Status: No presidential DR issued as of Day 71. Standard NFIP deadlines apply. No automatic extension available.
+Edouard impact context (confirmed this run): Galveston County received ~0.25 inches; Brazoria/Matagorda counties had no reports. Hardest-hit counties (Hardin, Tyler, Jefferson) are non-qualifying inland/east Texas counties.
+Monitor: fema.gov/disaster/declarations.
+Post trigger: DR issued or formally denied.
+
+WATCH 8 — TWIA EDOUARD CLAIMS DATA
+No aggregate Edouard claims data published as of November 11. Not a named agenda item at November 10 board meeting.
+Aon estimated total event losses in tens of millions to approximately $140 million (2026 USD) — not confirmed as TWIA-specific.
+Monitor: twia.org for Q3 2026 Fact Book; twia.org for board materials post-meeting.
+
+WATCH 9 — TWIA 2027 RATE (0%, FLAT — CONFIRMED)
+Effective January 1, 2027. No action.
+
+WATCH 10 — TDI RATE TREND CONTEXT
+State Farm +4% (in effect Nov 1 by default); AIG +15.2%; Allstate +8%; Farmers +22.7%; Amica +4%.
+Decreases: ASI/Progressive -6% (71,000); TX Farm Bureau -5.2% (133,000).
+Weighted average: +0.6% (by policyholder count), not -4.3% headline.
+State Farm auto filing: separate 0.5% decrease, effective November 25, 2026.
+
+WATCH 11 — GOVERNOR ABBOTT / TDI FORTIFIED ROOF ENFORCEMENT
+Commissioner's Bulletin B-0008-26 still active. Monitor: tdi.texas.gov/bulletins/2026/index.html
+
+WATCH 12 — TWIA BIENNIAL REPORT
+Expected by December 31, 2026. Monitor: twia.org/legislative-updates/
+
+WATCH 13 — TWIA RICO CASE
+Case: 3:26-cv-00271 (SDTX Galveston). No new activity this run.
+
+WATCH 14 — EL PASO COUNTY FLOODING (STATE DISASTER — SBA PDA CONTINUING)
+SBA preliminary damage assessment ongoing (began November 5). 190+ homes in Horizon City area (Lakeway, Mountain Shadow Estates). No FEMA presidential declaration. Earthen berm failure confirmed as contributing cause.
+Monitor: fema.gov/disaster/declarations; tdem.texas.gov for damage survey results.
+Post trigger: FEMA presidential declaration issued.
+
+WATCH 15 — SOUTH TEXAS FLASH FLOODING (RESOLVED — NOV 7-11)
+Event resolved by November 10. Flood warning expired November 10, 8:00 PM. Actual damage appears minimal (Jim Wells: "very little to no damage"). Oso Creek likely peaked near bankfull, not flood stage.
+Post drafted above (aftermath/claims focus).
+No FEMA declaration. Monitor for any TDEM damage assessments and potential FEMA application.
+
+WATCH 16 — TWC DISASTER UNEMPLOYMENT ASSISTANCE (DEC 29, 2026 DEADLINE)
+Texas Workforce Commission deadline to apply for disaster unemployment assistance under FEMA-4935-DR is December 29, 2026.
+Apply: TWC at 800-939-6631.
+Post trigger: Reminder ~December 15.
+
+WATCH 17 — LLANO RIVER / HILL COUNTRY FLOODING (NOV 9-11, ONGOING)
+Llano River near Junction (Kimble County): Flood Warning issued November 9, 5:02 PM. Stage at 16.1 feet (flood stage 16.0 feet); forecast crest ~20.4 feet. Near-record level (1985 historical crest was 20.0 feet). Warning expired or expiring November 11.
+Llano River at Llano (Llano County): Flooding at ~14.1 feet, flood stage 10.0 feet.
+Llano River near Mason (Mason County): Flooding; fell below flood stage November 10.
+Devils River near Comstock (Val Verde County): Flooding through November 12.
+NON-QUALIFYING inland counties. No confirmed damage. Kimble and Val Verde counties covered under existing FEMA-4935-DR (July-August 2026 event) for prior storm damage.
+
+NON-QUALIFYING EVENTS THIS WINDOW (Nov 7-11)
+========================================================
+- Llano River / Hill Country flooding (Nov 9-11): Kimble, Llano, Mason counties — non-qualifying inland. Near-record Llano River flooding but no confirmed structural damage. See Watch 17.
+- Devils River flooding (Nov 10-12): Val Verde County — non-qualifying inland. No damage confirmed.
+- Nueces County severe thunderstorm / quarter-size hail (Nov 10): Nueces is a qualifying coastal county; criterion (c) technically met, but no confirmed structural damage from reputable source; event is part of the main South Texas system already covered under Event 1; no additional post drafted.
+- South Texas coastal flooding (Aransas, Nueces, San Patricio, Refugio, Calhoun) — eighth recurring coastal flood advisory Oct/Nov 2026 for these counties; incorporated into Event 1 above.
+- Kenedy, Willacy, Cameron counties coastal flooding: Non-qualifying counties.
+- Cold front approaching Texas (November 10-11): San Antonio Express-News reported possible severe weather; no confirmed storm damage found as of this run.
+- Houston/Galveston/Southeast Texas (Nov 7-11): No significant storm activity. Marine small craft advisory Galveston Bay November 8 (east winds 20-25 knots) — marine only, no coastal flooding.
+
+PRIOR-WINDOW EVENTS (already covered, noted for record)
+========================================================
+- SBA Bexar County August 28 deadline (Nov 9): Covered StormDigest-2026-11-09. Passed. No extension.
+- South Texas flash flooding (Nov 8-9 initial post): Covered StormDigest-2026-11-09.
+- SBA FEMA-4935-DR loans open (Nov 4 digest): Deadline now corrected to December 29. See Watch 2.
+- FEMA-4935-DR IA approved Oct 30: Covered StormDigest-2026-11-02.
+- NFIP Edouard POL deadline passed Oct 31: No DR as of Day 71.
+- TWIA Nov 10 board meeting: Post drafted above (Beryl loan approved).
+
+========================================================
+END StormDigest 2026-11-11
+Next scheduled run: 2026-11-13 (or as triggered)
+URGENT: SBA FEMA-4935-DR physical damage loan deadline CORRECTED to December 29 (from December 30) per Federal Register 2026-23016 (publishing Nov 12). Update any client communications.
+MONITOR: FEMA-4935-DR IA registration deadline still not announced — check disasterassistance.gov and fema.gov/disaster/4935 daily.
+MONITOR: TWIA November 10 board meeting materials/minutes — expected at twia.org/board-meetings/november-10-2026/ within days. First opportunity for Edouard claims data and 2027 budget final vote confirmation.
+MONITOR: State Farm TDI rate — still pending, no final order found.
+MONITOR: Cold front / new severe weather threat November 11-12.
+========================================================
