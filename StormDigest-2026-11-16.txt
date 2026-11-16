@@ -1,5 +1,205 @@
-BAKER LAW STORM DIGEST
-Date: 2026-11-16
-Status: RUN STARTED 2026-11-16T13:10Z
+BAKER LAW STORM MONITOR — StormDigest 2026-11-16
+Run date: 2026-11-16
+Coverage window: 2026-11-12 through 2026-11-16
+Qualifying events found: 2 (2 new posts drafted)
+========================================================
 
-The agent has started and is searching for Texas storms. If this file still says RUN STARTED, the run did not finish.
+QUALIFYING EVENT 1 — FEMA-4935-DR INDIVIDUAL ASSISTANCE DEADLINE ANNOUNCED (DEC 29, 2026)
+========================================================
+Event: FEMA opened Disaster Recovery Centers on November 11, 2026 and officially announced the December 29, 2026 deadline to apply for Individual Assistance under FEMA-4935-DR (the July 12-August 4, 2026 Texas hill country storms).
+Criterion met: (b) FEMA disaster declaration issued.
+
+Summary:
+FEMA-4935-DR Individual Assistance was approved October 30, 2026 for 20 Texas counties following Texas's successful appeal of FEMA's initial September 28 denial. This run confirmed the IA registration deadline is December 29, 2026 (same date as the SBA physical damage loan deadline per Federal Register correction 2026-23016, published November 12, 2026).
+
+FEMA opened four Disaster Recovery Centers effective November 11, 2026:
+- San Antonio (Bexar County): Las Palmas Branch Library, Castroville Road
+- Kerrville (Kerr County): Calvary Temple Church, TX-534 Loop
+- Sonora (Sutton County): DRC opened November 11
+- Ozona (Crockett County): DRC opened November 11
+Hours vary. Apply also at DisasterAssistance.gov, 800-621-3362, or via FEMA mobile app.
+
+Eligible counties (20): Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, Zavala.
+
+Incident period: July 12-August 4, 2026 (corrected November 12 from erroneous July 7 start by FR 2026-23016).
+
+Disaster Unemployment Assistance through Texas Workforce Commission: same December 29, 2026 deadline. Apply via TWC at 800-939-6631.
+
+NOTE: EIDL (economic injury) deadline under this same disaster reportedly July 30, 2027. Verify at federalregister.gov/documents/2026/11/12/2026-23016.
+SBA disaster numbers: 220446 (physical damage), 220450 (economic injury).
+
+Sources:
+- KSAT San Antonio, November 11, 2026: https://www.ksat.com/news/local/2026/11/11/fema-disaster-recovery-centers-open-in-san-antonio-and-kerrville-to-help-texans-affected-by-summer-storms/
+- TPR (Texas Public Radio), November 11, 2026: https://www.tpr.org/news/2026-11-11/san-antonio-and-kerrville-open-fema-disaster-recovery-centers-for-texans-hit-by-summer-storms
+- KENS 5, November 11, 2026: https://www.kens5.com/article/news/local/fema-disaster-recovery-center-kerrville-texas-floods/273-61d85d69-a77f-427f-bf0d-5eaf030d19d2
+- Federal Register 2026-23016, November 12, 2026: https://www.federalregister.gov/documents/2026/11/12/2026-23016/presidential-declaration-of-a-major-disaster-for-the-state-of-texas
+- TWC DUA deadline: https://www.twc.texas.gov/news/application-deadline-extended-disaster-unemployment-assistance-applications-hill-country
+
+FACEBOOK POST — EVENT 1:
+---
+FEMA opened disaster recovery centers for the July-August 2026 Texas storms on November 11. The deadline to apply for individual assistance is December 29, 2026. [1]
+
+Twenty Texas counties are eligible: Bandera, Bexar, Comal, Crockett, Dimmit, Frio, Gillespie, Kendall, Kerr, Kimble, Kinney, La Salle, Maverick, Medina, Real, Schleicher, Sutton, Uvalde, Val Verde, and Zavala. [1]
+
+Here is what people miss: having homeowners or renters insurance does not disqualify you from FEMA individual assistance. FEMA IA covers unmet needs that insurance does not pay. It is a grant, not a loan. [2]
+
+Recovery centers are open in San Antonio at Las Palmas Branch Library, in Kerrville at Calvary Temple Church, and also in Sonora (Sutton County) and Ozona (Crockett County). Apply at DisasterAssistance.gov or by calling 800-621-3362. [1]
+
+The Texas Workforce Commission disaster unemployment assistance deadline for these storms is also December 29, 2026. [3]
+
+Your homeowners insurance policy has a separate deadline for filing a claim. That deadline comes from your policy, not from FEMA. FEMA's December 29 deadline does not extend your insurance deadline, and your insurance deadline does not extend FEMA's.
+
+[1] KSAT San Antonio, November 11, 2026. https://www.ksat.com/news/local/2026/11/11/fema-disaster-recovery-centers-open-in-san-antonio-and-kerrville-to-help-texans-affected-by-summer-storms/
+[2] FEMA Individual Assistance. https://www.fema.gov/assistance/individual
+[3] Texas Workforce Commission. https://www.twc.texas.gov/news/application-deadline-extended-disaster-unemployment-assistance-applications-hill-country
+---
+
+QUALIFYING EVENT 2 — TEXAS GULF COAST STORM SYSTEM: MATAGORDA COUNTY SEVERE THUNDERSTORM + MULTI-COUNTY COASTAL FLOODING (NOV 15-16)
+========================================================
+Event: Severe thunderstorm warning issued by NWS Houston-Galveston for central Matagorda County on November 15 with estimated 60 mph gusts; Bay City and South Texas Nuclear Plant area named; NWS noted potential damage to roofs, siding, and trees. Coastal flood advisories issued for Aransas, Kleberg, Nueces, and Calhoun counties (NWS Corpus Christi) and for Gulf-facing beaches from Matagorda Peninsula through Galveston Island and Bolivar Peninsula (NWS Houston-Galveston), effective November 15-16. Wind advisories for Jackson, Matagorda, Brazoria, Galveston, and Chambers counties through November 16, gusts 35-45 mph.
+Criterion met: (c) hit qualifying coastal counties — Matagorda, Galveston, Brazoria, Aransas, Nueces, Calhoun, Jackson.
+
+Summary:
+A storm system crossed the Texas coast November 14-16. Texas Public Radio reported on November 15 that severe thunderstorms with potential winds up to 60 mph were expected across South-Central Texas. NWS Houston-Galveston issued a severe thunderstorm warning for central Matagorda County on November 15 naming Bay City and the South Texas Nuclear Plant. The Weather Prediction Center assigned a Slight risk (Level 2 of 4) for excessive rainfall with potential rates of 2 inches per hour and localized totals of 3-5 inches along the middle Texas coast.
+
+Coastal flood advisories covered Aransas, Kleberg, Nueces, and Calhoun counties through 9 AM Tuesday November 17 (NWS Corpus Christi). Advisories for the Matagorda Peninsula through Galveston Island and Bolivar Peninsula ran through noon Monday November 16 (NWS Houston-Galveston). Gale Warning over coastal waters off Corpus Christi through November 16 with seas up to 13 feet.
+
+Damage estimates: Not confirmed from a reputable source as of November 16. No dollar damage figure. No FEMA declaration. No TWIA bulletin.
+Deaths/injuries: None reported.
+
+NOTE ON SOURCING: The specific NWS severe thunderstorm warning details for Matagorda County (60 mph, Bay City, roofs/siding/trees) were surfaced by search engine results pointing to govonestop.com (a blocked aggregator that mirrors NWS alert text). Direct access to weather.gov/hgx was blocked by the cloud environment proxy. The underlying data source is NWS Houston-Galveston; the event is confirmed at the warning level and the post cites NWS weather.gov. Govonestop.com is not cited.
+
+Sources:
+- TPR (Texas Public Radio), November 15, 2026: https://www.tpr.org/environment/2026-11-15/heavy-rain-thunderstorms-possible-sunday-across-south-central-texas-colder-drier-weather-arrives-monday
+- NWS Houston-Galveston (Severe Thunderstorm Warning, Matagorda County, November 15, 2026): https://www.weather.gov/hgx/
+- NWS Corpus Christi (Coastal Flood Advisories, November 15-16, 2026): https://www.weather.gov/crp/
+- KPRC2 / Click2Houston, November 14, 2026: https://www.click2houston.com/weather/2026/11/14/timeline-strong-cold-front-hits-houston-sunday/
+
+FACEBOOK POST — EVENT 2:
+---
+A line of severe thunderstorms crossed the Texas coast on November 15. The National Weather Service in Houston issued a severe thunderstorm warning for Matagorda County with estimated wind gusts of 60 miles per hour. Bay City was directly in the warning area. Damage estimates for the region are still being assessed. [1]
+
+This came alongside coastal flood advisories covering Aransas, Nueces, Calhoun, Galveston, and Brazoria counties through November 16. [2]
+
+After storms like this, I typically see the coverage dispute start before the cleanup is done. TWIA covers direct wind damage. NFIP policies cover rising water. The question is what the adjuster characterizes when they see water inside a structure. If they describe it as rain intrusion through a wall or roof that was intact before the storm, TWIA reduces the wind loss. If they describe the opening as a pre-existing condition, they reduce it further.
+
+The same water damage in the same structure can be characterized two different ways depending on who is measuring. The first written inspection report sets the frame for everything that follows.
+
+Your NFIP policy requires a proof of loss within 60 days of the date of loss. For this event, that clock started November 15. The deadline falls around January 14, 2027.
+
+[1] TPR (Texas Public Radio), November 15, 2026. https://www.tpr.org/environment/2026-11-15/heavy-rain-thunderstorms-possible-sunday-across-south-central-texas-colder-drier-weather-arrives-monday; NWS Houston-Galveston, Severe Thunderstorm Warning, Matagorda County, November 15, 2026. https://www.weather.gov/hgx/
+[2] NWS Corpus Christi, Coastal Flood Advisories, November 15-16, 2026. https://www.weather.gov/crp/
+---
+
+ONGOING WATCH ITEMS (no post drafted)
+========================================================
+
+WATCH 1 — FEMA-4935-DR IA REGISTRATION DEADLINE (RESOLVED: DECEMBER 29, 2026)
+Post drafted above. DRCs open in San Antonio, Kerrville, Sonora, Ozona. Deadline confirmed December 29. Apply at DisasterAssistance.gov, 800-621-3362.
+
+WATCH 2 — SBA FEMA-4935-DR PHYSICAL DAMAGE LOANS (DEADLINE: DEC 29)
+Confirmed per Federal Register 2026-23016. 20 IA counties.
+NEW: Incident period corrected to July 12-August 4, 2026 (from July 7) per FR 2026-23016.
+NEW: EIDL (economic injury) deadline reportedly July 30, 2027. Verify at federalregister.gov/documents/2026/11/12/2026-23016.
+SBA disaster numbers: 220446 (physical), 220450 (economic injury).
+Apply: lending.sba.gov or 800-659-2955.
+Post trigger: Deadline reminder ~December 15.
+
+WATCH 3 — SBA BEXAR COUNTY AUGUST 28 STORMS (PHYSICAL DAMAGE PASSED NOV 9)
+Physical damage deadline passed November 9. No extension. EIDL deadline: June 10, 2027 (separate disaster, still open for businesses in Bexar County).
+
+WATCH 4 — FEMA-4935-DR: PA COUNTIES
+In addition to 20 IA counties, Public Assistance counties include Grimes, Live Oak, McMullen, Schleicher (added September 30, 2026 per FR Amendment 001). PA contractors and local governments monitor fema.gov/disaster/4935.
+
+WATCH 5 — TWIA NOVEMBER 10 BOARD MEETING (PRESS RELEASE POSTED)
+Confirmed actions per TWIA press release:
+- 2027 operating budget approved; gross expenses down ~9%
+- CRTF projected to reach ~$350M for 2027 season
+- $2.05B reinsurance/cat bond program for 2027; Howden Re selected as catastrophe modeling provider
+- $44M bank financing approved to pay lingering Beryl/2024 claims (covered StormDigest-2026-11-11)
+- Agent commissions: NO ACTION. Rate stays at 16% (new/renewal residential and commercial)
+- Legislative recommendations reviewed; details not separately confirmed
+Full board meeting materials/minutes: NOT yet confirmed indexed at twia.org/board-meetings/november-10-2026/ as of November 16.
+Monitor: twia.org/board-meetings/november-10-2026/ for full materials and minutes.
+Sources: https://www.twia.org/twia-board-votes-on-2027-operating-budget-at-corpus-christi-meeting/
+
+WATCH 6 — STATE FARM LLOYDS 4% RATE (IN EFFECT NOV 1 — NO TDI ORDER FOUND)
+Still pending. No TDI final order found as of November 16. Rate in effect by default under file-and-use. TDI issued written objection asking State Farm to justify the rate need (State Farm's calculated rate need was 10.9%; filed rate is 4.0%). 751,000 of ~987,000 Texas policyholders face increases.
+Monitor: tdi.texas.gov rate filings; https://www.tdi.texas.gov/reports/pc/property-casualty-rate-review-report.html
+Post trigger: TDI issues final order.
+
+WATCH 7 — NFIP EDOUARD PRESIDENTIAL DR (DAY ~77 — NO DR ISSUED)
+No federal presidential disaster declaration as of Day ~77 (approximate: Edouard made Texas landfall approximately August 26-27, 2026). Only state/local declarations (Polk County local; TDEM state listing). Standard NFIP deadlines apply. No automatic extension available.
+Post trigger: DR issued or formally denied.
+
+WATCH 8 — TWIA EDOUARD CLAIMS DATA
+Not published. Not a named agenda item at November 10 board meeting.
+
+WATCH 9 — TWIA 2027 RATE (0%, FLAT — CONFIRMED)
+Effective January 1, 2027. No action.
+
+WATCH 10 — TDI RATE TREND CONTEXT
+State Farm +4% (Nov 1 by default); AIG +15.2%; Allstate +8%; Farmers +22.7%; Amica +4%.
+Decreases: ASI/Progressive -6% (71,000); TX Farm Bureau -5.2% (133,000).
+Market average per TDI October 8 report: -4.3% across all filers (State Farm filing runs counter to this trend).
+State Farm auto: separate 0.5% decrease, effective November 25, 2026.
+
+WATCH 11 — GOVERNOR ABBOTT / TDI FORTIFIED ROOF ENFORCEMENT
+Commissioner's Bulletin B-0008-26 still active. Monitor: tdi.texas.gov/bulletins/2026/index.html
+
+WATCH 12 — TWIA BIENNIAL REPORT
+Expected by December 31, 2026. Monitor: twia.org/legislative-updates/
+
+WATCH 13 — TWIA RICO CASE
+Case: 3:26-cv-00271 (SDTX Galveston). Beryl claims RICO lawsuit: defendants moved to dismiss, arguing McCarran-Ferguson Act bars it. No new activity beyond prior-known status.
+
+WATCH 14 — EL PASO COUNTY (STATUS UPDATE)
+NEW THIS RUN: Governor Abbott formally requested a federal SBA administrative disaster declaration on November 11, 2026. This is NOT a presidential FEMA major disaster declaration. If approved, would trigger SBA disaster loans only — no FEMA IA or PA grants. No presidential FEMA declaration requested or issued.
+Timeline: Local declaration October 27 (El Paso County judge); state declaration October 29 (Governor Abbott); SBA administrative declaration request filed November 11, PENDING.
+190+ homes affected in Horizon City area (Lakeway, Mountain Shadow Estates). Earthen berm failure contributed.
+Sources: TDEM press release November 11 (https://www.tdem.texas.gov/press-release/11-11-26); KVIA (https://kvia.com/news/el-paso/2026/10/27/el-paso-county-judge-to-announce-local-disaster-declaration-after-flooding/); KFOX14 (https://kfoxtv.com/news/local/abbott-issues-state-disaster-declaration-for-el-paso-county-after-heavy-rain-and-flooding)
+Post trigger: SBA administrative declaration approved, or presidential FEMA major disaster declaration issued.
+
+WATCH 15 — SOUTH TEXAS FLASH FLOODING (RESOLVED NOV 10)
+Covered StormDigest-2026-11-11. No FEMA declaration. NFIP POL deadline January 7, 2027.
+NOTE: TDEM listed a "Severe Storms declaration dated 11/11/26" among active state disaster declarations. This may be a new state disaster declaration for the November 7-11 flooding. Monitor: tdem.texas.gov/disasters.
+
+WATCH 16 — TWC DISASTER UNEMPLOYMENT ASSISTANCE (DEC 29 DEADLINE)
+Confirmed December 29, 2026 for FEMA-4935-DR. Covered in Event 1 post above.
+
+WATCH 17 — LLANO RIVER / HILL COUNTRY FLOODING (NOV 9-11)
+No follow-up information found this run. Last known: Llano River near Junction forecast to crest ~20.4 feet (Nov 9); Devils River near Comstock flooding through November 12. Status unknown; likely resolved. Non-qualifying inland counties.
+
+WATCH 18 — FEMA-4935-DR EIDL DEADLINE (JULY 30, 2027)
+NEW: Economic injury disaster loans under FEMA-4935-DR reportedly available through July 30, 2027. Verify at federalregister.gov/documents/2026/11/12/2026-23016.
+
+WATCH 19 — GOVERNOR ABBOTT FIRE WEATHER PROCLAMATION (NOVEMBER 2026)
+Governor Abbott amended/renewed a fire weather conditions disaster proclamation in November 2026. State-level only; no federal component. Source: gov.texas.gov. Monitor for escalation.
+
+WATCH 20 — NOVEMBER 15-16 GULF COAST STORM (DAMAGE ASSESSMENTS PENDING)
+Covered as Event 2 above. Damage assessments pending. No FEMA declaration. Monitor for TDEM response and insurance loss estimates in coming days.
+
+NON-QUALIFYING EVENTS THIS WINDOW (Nov 12-16)
+========================================================
+- Hockley/Lamb County hail (Nov 14): Quarter-size hail; non-qualifying South Plains inland counties.
+- Mitchell/Scurry County severe thunderstorm (Nov 14): 60-70 mph winds, nickel-size hail; non-qualifying West Texas inland counties.
+- Nueces River flood warning near Tilden, McMullen County (Nov 13-18 ongoing): Reached 16.4 feet (flood stage 14 ft); McMullen is a non-qualifying inland county. River drains toward qualifying Nueces County downstream but no Nueces County direct flooding confirmed this window.
+- Cold front passage (Nov 11-12): No severe weather; dry and mild through November 13.
+
+PRIOR-WINDOW EVENTS (already covered, noted for record)
+========================================================
+- South Texas flooding (Nov 7-11): Covered StormDigest-2026-11-11.
+- TWIA Beryl $44-45M loan approved (Nov 10 board): Covered StormDigest-2026-11-11.
+- SBA FEMA-4935-DR loans open (Nov 4): Deadline December 29. DRCs now open.
+
+========================================================
+END StormDigest 2026-11-16
+Next scheduled run: 2026-11-18 (or as triggered)
+URGENT: FEMA-4935-DR IA deadline December 29, 2026 — DRCs open in San Antonio/Kerrville/Sonora/Ozona. Post drafted above.
+URGENT: SBA FEMA-4935-DR physical damage loan deadline December 29, 2026.
+MONITOR: TWIA board meeting full materials/minutes — expected at twia.org/board-meetings/november-10-2026/.
+MONITOR: State Farm TDI rate — still pending, no final order found.
+MONITOR: El Paso County SBA request (filed Nov 11) — pending SBA administrative declaration.
+MONITOR: November 15-16 Gulf Coast storm — damage assessments pending.
+MONITOR: FEMA-4935-DR IA designated areas — verify at fema.gov/disaster/4935.
+========================================================
