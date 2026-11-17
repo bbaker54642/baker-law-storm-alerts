@@ -1,4 +1,65 @@
 BAKER LAW STORM DIGEST
 Date: 2026-11-17
-Status: RUN STARTED 2026-11-17T22:05:18Z
-If this file still says RUN STARTED, the run did not finish.
+Status: COMPLETE
+Window: 2026-11-13 to 2026-11-17
+Source access: 0 hosts opened, 13 blocked (mesonet.agron.iastate.edu, www.spc.noaa.gov, www.fema.gov, www.weather.gov, www.twia.org, www.tdi.texas.gov, gov.texas.gov, www.federalregister.gov, www.tpr.org, www.texastribune.org, www.click2houston.com, www.kristv.com, kfoxtv.com)
+Storms with observed damage: 1 | Post-worthy: 1 | Drafts: 1
+
+--- AT A GLANCE ---
+No page could be opened this run. Every host, including the NWS storm reports, SPC, FEMA, TWIA and TDI, was blocked by this environment's network policy, so everything below is [SNIPPET] and unconfirmed.
+Searches found no observed property damage in Texas from storms inside the window. That is a weak negative: the primary storm report data could not be read, and search results for the last few days were thin.
+The one new development is on an older event: the Governor's office reports the SBA approved a disaster declaration for the October flooding in El Paso County (Horizon City). No earlier digest drafted a post for it, so there is one draft, marked unverified.
+Look first at the Governor's release on the SBA approval. One outlet dated about Nov. 14 still described the approval as pending, so confirm it before anything is posted.
+The Nov. 16 digest's draft on the Nov. 15 coastal storm should not be posted as written. It rests on warnings and advisories, not observed damage, and it states an NFIP proof-of-loss deadline that the monitor calculated itself.
+The Dec. 29 FEMA and SBA deadlines carried in earlier digests could not be re-verified this run and are not restated as fact here.
+
+--- STORMS ---
+Event: Flood, Horizon City area, El Paso County (older event with a new federal development)
+Storm date: not seen as an exact date. Sources say "October" and "late last month"; the county's local declaration is dated 2026-10-27. Confirm the storm date before scheduling follow-ups.
+Counties: El Paso (SBA loans reported to also cover Hudspeth)
+What happened:
+El Paso County said more than 190 homes were damaged by floodwaters in the Lakeway and Mountain Shadow communities. [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-requests-sba-disaster-declaration-for-el-paso-county-flooding (the search summary did not say which returned page carried this; it may be the KFOX page below)
+A KTSM headline gives a different, earlier count: "County declares disaster, 60 homes in Horizon area impacted by flooding." [SNIPPET] https://www.ktsm.com/news/county-officials-to-address-flooding-in-horizon-area/
+The county issued a local disaster declaration on Oct. 27 and commissioners later extended it by 45 days. [SNIPPET] https://www.yahoo.com/news/weather-news/articles/el-paso-county-extends-disaster-031714494.html and https://kfoxtv.com/news/local/el-paso-county-set-to-declare-local-disaster-after-horizon-city-flooding
+A state disaster declaration remains in effect for El Paso County. [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-requests-sba-disaster-declaration-for-el-paso-county-flooding
+Governor Abbott requested an SBA disaster declaration on Nov. 11, 2026. [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-requests-sba-disaster-declaration-for-el-paso-county-flooding ; also https://cw39.com/news/abbott-requests-el-paso-disaster-assistance/
+The Governor's office reports the SBA approved the request, making low-interest loans available in El Paso and Hudspeth counties (home disaster loans, business physical disaster loans, economic injury disaster loans). Approval date not seen. [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-announces-sba-assistance-following-el-paso-county-flooding
+The same release is reported to list an SBA outreach center in Horizon City at 15371 Kentwood Ave., weekdays 8 AM to 5 PM. [SNIPPET] same URL
+Disagreement: an article dated about three days before this run said SBA approval was still pending. It likely predates the approval. [SNIPPET] https://www.yahoo.com/news/us/articles/texas-homeowners-hit-october-floods-131500782.html
+Damage estimate: none reported
+Declarations: federal SBA disaster declaration reported approved (single source, Governor's office) [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-announces-sba-assistance-following-el-paso-county-flooding ; state declaration in effect and local declaration Oct. 27 [SNIPPET] URLs above. No FEMA major disaster declaration seen.
+Post-worthy: YES (criterion b, confidence MEDIUM). The federal request is reported by the Governor's office and at least one news outlet; the approval itself rests on one source. No application deadline was seen.
+
+--- DRAFT POSTS ---
+UNVERIFIED DRAFT: sources were not opened
+
+People in Horizon City are weeks into drying out, and the hard part of the claim is still ahead of them. El Paso County says more than 190 homes in the Lakeway and Mountain Shadow communities were damaged by floodwaters after severe storms in October. [1] The county declared a local disaster on October 27 and later extended it by 45 days. [2] A state disaster declaration remains in effect. [1] The Governor asked the Small Business Administration for a federal disaster declaration on November 11, and his office now reports the request was approved for El Paso and Hudspeth counties. [1][3] Damage estimates are still being assessed.
+
+I've seen what a fast flood inspection looks like. The adjuster measures the water line and writes for what is below it. Water doesn't stop at the line. It wicks up drywall and into insulation. It sits under flooring and inside wall cavities long after the surface feels dry. It gets into wiring, outlets, cabinet bases and ductwork. Soil under a slab that stayed saturated can move later. An estimate written from what shows on the day of the inspection leaves all of that out.
+
+People are entitled to an estimate that covers the whole loss, including the damage nobody can see from the doorway. A disaster loan is not a claim payment. It's debt. Horizon City shouldn't have to borrow what a carrier left off the estimate.
+
+[1] https://gov.texas.gov/es/news/post/governor-abbott-requests-sba-disaster-declaration-for-el-paso-county-flooding
+[2] https://www.yahoo.com/news/weather-news/articles/el-paso-county-extends-disaster-031714494.html
+[3] https://gov.texas.gov/es/news/post/governor-abbott-announces-sba-assistance-following-el-paso-county-flooding
+
+Notes for Brandon: the 190 figure conflicts with an earlier KTSM count of 60 homes; use whichever the county currently states. The draft assumes the storm was in October; confirm.
+LEGAL CHECK FOR KEVIN: whether to say that standard homeowners policies generally exclude flood and that many of these owners may have no flood policy at all. If so, the "carrier" framing in the close may not fit most of these homes.
+LEGAL CHECK FOR KEVIN: the sentence "People are entitled to an estimate that covers the whole loss" is a general statement about what owners are owed. Confirm the wording.
+LEGAL CHECK FOR KEVIN: any SBA loan application deadline. None was seen in a source, so none is stated.
+
+--- CLAIMS AND INSURANCE NEWS ---
+SBA disaster loans reported approved for El Paso and Hudspeth counties after the October flooding (see the event above). [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-announces-sba-assistance-following-el-paso-county-flooding
+Governor Abbott renewed a severe storm disaster proclamation in November 2026; the search summary dated it Nov. 13 and tied it to earlier flooding. County list and scope not confirmed. [SNIPPET] https://gov.texas.gov/es/news/post/governor-abbott-renews-severe-storm-disaster-proclamation-in-november-2026
+No new TWIA, TDI or court items were found. twia.org and tdi.texas.gov could not be opened, so this is not a confirmed "nothing new".
+
+--- UPCOMING DEADLINES ---
+None confirmed this run. No deadline was stated by an opened official source or seen in two outlets. The Dec. 29, 2026 FEMA-4935-DR and SBA deadlines in the Nov. 16 digest remain a lead to verify at fema.gov and federalregister.gov.
+
+--- NOT POST-WORTHY ---
+Nov. 15 to 16 coastal cold front and thunderstorms (Matagorda County and the middle and upper coast): searches found no local storm report, survey or news report of damaged structures. Warnings and advisories only. Would be confirmed by an NWS Houston/Galveston or Corpus Christi storm report or local news of structural damage.
+Nov. 14 hail and wind in Hockley, Lamb, Mitchell and Scurry counties (lead from the Nov. 16 digest): no damage report found this run; not confirmed.
+Nueces River flooding near Tilden, McMullen County (lead from the Nov. 16 digest): no report of damaged structures found this run; not confirmed.
+Wildfire: no November 2026 Texas structure losses found in search.
+
+--- END OF DIGEST ---
