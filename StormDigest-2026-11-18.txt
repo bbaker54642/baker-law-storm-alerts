@@ -1,4 +1,90 @@
 BAKER LAW STORM DIGEST
 Date: 2026-11-18
-Status: RUN STARTED 2026-11-18T21:56:00Z
-If this file still says RUN STARTED, the run did not finish.
+Status: COMPLETE
+Window: 2026-11-14 to 2026-11-18
+Source access: 12 hosts opened, 3 blocked (www.federalregister.gov, www.ktsm.com, cw39.com; also the www.fema.gov/disaster/4935 page returned 403 although the FEMA data API opened)
+Storms with observed damage: 2 | Post-worthy: 1 | Drafts: 1
+
+--- AT A GLANCE ---
+This is the second run today and it replaces this morning's digest. Source pages opened this time, so the facts below are read from the pages themselves, not from search summaries.
+Only one storm inside the window damaged property: a brief EF1 tornado north of Lamesa (Dawson County) on Nov. 14 that destroyed one metal outbuilding. It is not post-worthy. The storm report data shows no Texas damage reports at all from Nov. 15 through Nov. 18, including the coast.
+The Horizon City (El Paso County) flood of Oct. 23 to 26 is now confirmed on the SBA and Governor's pages: SBA disaster declaration, more than 190 homes damaged, loan deadlines of Jan. 12, 2027 and Aug. 13, 2027. There is one draft for it, at HIGH confidence. It replaces the unverified draft in the Nov. 17 digest.
+Look first at the two LEGAL CHECK lines under the draft. Most of these homes were damaged by flood, and the "carrier" framing only fits owners who have flood coverage.
+Not confirmed: the Federal Register notice on SBA loans for FEMA-4935-DR (blocked), and the earlier count of 60 homes versus the county's later 190.
+
+--- STORMS ---
+Event: Flood, Horizon City area, El Paso County (older event; federal declaration now confirmed)
+Storm date: 2026-10-23 (SBA gives the incident as Oct. 23 to 26)
+Counties: El Paso (SBA declaration also covers Hudspeth County, and Dona Ana and Otero counties in New Mexico)
+What happened:
+The SBA describes the event as severe storms, flooding, hail and straight-line winds occurring Oct. 23 to 26. [OPENED] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+The county had significant rainfall on Oct. 23 and Oct. 25, which officials said caused severe flooding, property damage and evacuations in Horizon City. [OPENED] https://kfoxtv.com/news/local/el-paso-county-set-to-declare-local-disaster-after-horizon-city-flooding
+El Paso County said more than 190 homes were damaged by floodwaters in the Lakeway and Mountain Shadow communities (article dated Nov. 6). [OPENED] https://kfoxtv.com/news/local/county-seeks-more-volunteers-as-cleanup-continues-for-190-flood-damaged-horizon-homes
+Earlier, different count: "Estimates say as many as 60 homes were impacted by the floodwater" (KTSM article carried by Yahoo, dated Nov. 3). [OPENED] https://www.yahoo.com/news/weather-news/articles/el-paso-county-extends-disaster-031714494.html
+County officials said the water was chest high in some homes and that several feet of mud remained after it drained; a commissioner said officials believe a failed levee led to the flooding. [OPENED] https://www.yahoo.com/news/weather-news/articles/el-paso-county-extends-disaster-031714494.html
+The county declared a local disaster on Oct. 27 and the Governor issued a state declaration on Oct. 29. [OPENED] https://kfoxtv.com/news/local/county-seeks-more-volunteers-as-cleanup-continues-for-190-flood-damaged-horizon-homes
+Commissioners extended the county declaration by 45 days. [OPENED] https://www.yahoo.com/news/weather-news/articles/el-paso-county-extends-disaster-031714494.html
+The Governor requested an SBA disaster declaration on Nov. 11, 2026. [OPENED] https://gov.texas.gov/news/post/governor-abbott-requests-sba-disaster-declaration-for-el-paso-county-flooding
+The SBA issued a disaster declaration in response, announced in a release published Nov. 17, 2026, covering El Paso and Hudspeth counties in Texas. [OPENED] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+The Governor's office announced the approval on Nov. 17, 2026 and said a state disaster declaration remains in effect for El Paso County. [OPENED] https://gov.texas.gov/news/post/governor-abbott-announces-sba-assistance-following-el-paso-county-flooding
+SBA loan limits: homeowners up to $500,000 for a primary residence, homeowners and renters up to $100,000 for personal property, businesses and nonprofits up to $2 million. [OPENED] SBA release above
+"The deadline to return physical damage applications is Jan. 12, 2027. The deadline to return economic injury applications is Aug. 13, 2027." [OPENED] SBA release above
+SBA outreach center: Agua Dulce Community Center, Classroom B, 15371 Kentwood Ave., Horizon City, weekdays 8 a.m. to 5 p.m., closed Nov. 26, closes permanently Dec. 8 at 5 p.m. [OPENED] SBA release above
+Damage estimate: none reported
+Declarations: federal SBA disaster declaration [OPENED] SBA release above. State: "10/29/26 El Paso Flooding Disaster Declaration" listed as active [OPENED] https://www.tdem.texas.gov/disasters/active-disaster-declarations . No FEMA major disaster declaration for it in the FEMA data [OPENED] https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=state%20eq%20'TX'&$orderby=declarationDate%20desc&$top=15
+Post-worthy: YES (criterion b and d, confidence HIGH). The Nov. 17 digest drafted this as unverified. What changed: the declaration, storm dates and deadlines are now read from the SBA page, so a verified draft replaces that one.
+
+Event: Tornado (EF1) and thunderstorm wind, north of Lamesa
+Storm date: 2026-11-14
+Counties: Dawson (a second brief tornado in eastern Gaines County did no damage)
+What happened:
+NWS Midland/Odessa surveyed on Nov. 17: EF1, estimated peak wind 100 mph, path 0.08 miles long and 30 yards wide, 6:33 to 6:34 PM CST, 4 NNW of Lamesa, no injuries. [OPENED] https://api.weather.gov/products/99672fb8-7f18-453b-a861-6485a3617b66
+It destroyed a metal outbuilding and fencing, snapped a tree and tossed a couple of trailers. [OPENED] same URL
+The first tornado, in eastern Gaines County, caused no observed damage. [OPENED] same URL
+Four power poles were snapped 4 NW of Lamesa by thunderstorm winds estimated around 105 mph. [OPENED] https://www.spc.noaa.gov/climo/reports/261114_rpts_filtered.csv
+Damage estimate: none reported
+Declarations: none
+Post-worthy: NO. One outbuilding, fencing and power poles; no homes or businesses, no damage figure, no declaration, not a coastal county.
+
+--- DRAFT POSTS ---
+DRAFT 1: Horizon City flood (confidence HIGH; replaces the unverified draft in the Nov. 17 digest)
+
+People in Horizon City are almost a month into cleaning up, and for many of them the claim is only starting. Severe storms hit El Paso County from October 23 to 26. [1] El Paso County says floodwater damaged more than 190 homes in the Lakeway and Mountain Shadow communities. [2] County officials said the water was chest high in some homes and left several feet of mud behind. [3] The county declared a disaster on October 27 and the Governor followed on October 29. [2] The Small Business Administration has now issued a disaster declaration covering El Paso and Hudspeth counties. [1] The SBA says the deadline to return physical damage applications is January 12, 2027. [1] Damage estimates are still being assessed.
+
+I've seen what a fast flood inspection looks like. The adjuster finds the water line and writes for what sits below it. Water doesn't stop there. It wicks up drywall and soaks insulation. It stays under flooring and inside wall cavities after the surface feels dry. It gets into wiring, outlets, cabinet bases and ductwork. Mud gets into everything the water touched. Soil that stayed saturated under a slab can move months later. An estimate built on what shows that day leaves those things out.
+
+People are entitled to have the whole loss counted, including what nobody can see from the doorway. An SBA loan is not a claim payment. It's debt. Horizon City shouldn't have to borrow what a carrier left off the estimate.
+
+[1] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+[2] https://kfoxtv.com/news/local/county-seeks-more-volunteers-as-cleanup-continues-for-190-flood-damaged-horizon-homes
+[3] https://www.yahoo.com/news/weather-news/articles/el-paso-county-extends-disaster-031714494.html
+
+Notes for Brandon: the 190 figure is the county's later count; an earlier article said as many as 60 homes. The January 12, 2027 date is quoted from the SBA release, not calculated.
+LEGAL CHECK FOR KEVIN: whether standard homeowners policies cover this loss at all. Flood is commonly excluded and many of these owners may have no flood policy, in which case the "carrier" close fits only some of them. The SBA also lists hail and straight-line winds for this event, but no source showed hail or wind damage to homes.
+LEGAL CHECK FOR KEVIN: the sentence "People are entitled to have the whole loss counted" is a general statement of what owners are owed. Confirm the wording.
+
+--- CLAIMS AND INSURANCE NEWS ---
+SBA disaster loans for the Oct. 23 to 26 El Paso County storms: declaration announced Nov. 17, 2026; physical damage deadline Jan. 12, 2027; economic injury deadline Aug. 13, 2027; outreach center in Horizon City through Dec. 8. [OPENED] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+TDI said on Nov. 18, 2026 that its Fraud Unit resolved more than 430 suspected insurance fraud cases in fiscal year 2026. No claim-handling rule or homeowners rate action in it. [OPENED] https://www.tdi.texas.gov/news/2026/tdi11182026.html
+No new TDI Commissioner's bulletin on property claims: the latest listed is B-0009-26, Nov. 6, 2026, a workers' compensation data call. [OPENED] https://www.tdi.texas.gov/bulletins/index.html
+TWIA: nothing newer than the Nov. 10 board meeting summary already reported (the page gives the Beryl claims financing as approximately $44 million; next board meeting Feb. 23, 2027). [OPENED] https://www.twia.org/twia-board-votes-on-2027-operating-budget-at-corpus-christi-meeting/ and https://www.twia.org/
+State Farm Lloyds rate filing: no TDI action found. A search summary describing October coverage says TDI had not finished its review. [SNIPPET] https://tdi.texas.gov/news/2026/tdi10082026.html
+
+--- UPCOMING DEADLINES ---
+Dec. 8, 2026, 5 p.m.: SBA Disaster Loan Outreach Center in Horizon City closes permanently. [OPENED] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+Dec. 29, 2026: last Individual Assistance filing date for FEMA DR-4935-TX (severe storms, straight-line winds, tornadoes and flooding, July 12 to Aug. 4, 2026), as recorded in FEMA's declarations data (field lastIAFilingDate). The fema.gov disaster page itself could not be opened. [OPENED] https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=disasterNumber%20eq%204935
+Jan. 12, 2027: SBA physical damage loan applications, El Paso County storms. [OPENED] SBA release above
+Aug. 13, 2027: SBA economic injury loan applications, El Paso County storms. [OPENED] SBA release above
+Not confirmed: the SBA loan deadline tied to FEMA-4935-DR (Federal Register notice blocked; a search summary earlier today gave Dec. 29, 2026). [SNIPPET] https://www.federalregister.gov/documents/2026/11/12/2026-23016/presidential-declaration-of-a-major-disaster-for-the-state-of-texas
+
+--- NOT POST-WORTHY ---
+Lamesa EF1 tornado and wind, Nov. 14: one outbuilding, fencing, power poles (see above).
+Gaines County tornado, Nov. 14: NWS survey found no damage. [OPENED] https://api.weather.gov/products/99672fb8-7f18-453b-a861-6485a3617b66
+Tahoka (Lynn County) hail, Nov. 14: 1.25 inch hail reported, no damage noted. [OPENED] https://www.spc.noaa.gov/climo/reports/261114_rpts_filtered.csv
+Borden and Mitchell county wind gusts of 66 and 67 mph, Nov. 14: measured gusts, no damage noted. [OPENED] same URL
+Nov. 15 to 16 coastal cold front: no local storm report from any Texas NWS office after the evening of Nov. 14 through Nov. 18, and SPC lists no Texas reports for Nov. 15 to 18. Warnings only; no observed damage. [OPENED] https://mesonet.agron.iastate.edu/geojson/lsr.geojson?states=TX&sts=202611130000&ets=202611182359
+Governor's "Severe Storms Disaster Declaration" dated 11/11/26 on the TDEM list: the linked file is titled as a July 2026 severe storms proclamation, so it is a renewal for an older event, not a new storm. The document is a scanned image and its county list could not be read. [OPENED] https://www.tdem.texas.gov/disasters/active-disaster-declarations
+Tropical: the NHC outlook of Nov. 18 shows one system, off the Southeast U.S. coast; nothing in the Gulf. [OPENED] https://www.nhc.noaa.gov/text/MIATWOAT.shtml
+Wildfire: no new Texas fire declaration in FEMA data since Sept. 15, 2026; news was not searched in depth. [OPENED] https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=state%20eq%20'TX'&$orderby=declarationDate%20desc&$top=15
+
+--- END OF DIGEST ---
