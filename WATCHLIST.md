@@ -1,50 +1,39 @@
 # Baker Law Storm Monitor Watch List
 
-Last updated: 2026-11-18
+Last updated: 2026-11-18 (second run of the day, about 22:00 UTC)
 
-Items below are leads, not verified facts. On 2026-11-17 and 2026-11-18 no source page could be opened (all hosts refused by the environment's network policy), so every "last source" is a search-result snippet or an earlier digest. "First added" is the date the item entered this file.
+Items below are leads to re-verify, not verified facts. In the second run on 2026-11-18 most source hosts opened when fetched with curl from the shell (NWS, SPC, Iowa Mesonet, FEMA API, SBA, gov.texas.gov, TDEM, TWIA, TDI, KFOX, Yahoo, NHC). "First added" is the date the item entered this file.
 
-1. **El Paso County / Horizon City flood, SBA declaration** (first added 2026-11-17)
-   - Look for: the loan application deadlines (snippets say January for physical damage and August for economic injury, exact dates not seen), the exact storm date, and the current count of damaged homes (190 vs. an earlier 60).
-   - Post trigger: already drafted as an unverified draft on 2026-11-17. Redraft only if a FEMA major disaster declaration is issued or a damage figure is published. A deadline reminder is possible once the dates are confirmed.
-   - Last source: https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather (snippet, 2026-11-18); also https://kfoxtv.com/news/local/sba-declares-disaster-after-abbott-request-opening-low-interest-loans-for-storm-recovery (snippet)
+1. **El Paso County / Horizon City flood, Oct. 23 to 26** (first added 2026-11-17)
+   - Status: SBA declaration, storm dates and deadlines confirmed on the SBA page 2026-11-18. Verified draft is in the 2026-11-18 digest.
+   - Look for: a FEMA major disaster declaration, a published damage or insured-loss figure, or a change in the county's count of damaged homes (190 per the county on Nov. 6; an earlier article said as many as 60).
+   - Post trigger: redraft only for a FEMA declaration or a damage figure. A deadline reminder is possible ahead of Jan. 12, 2027 (SBA physical damage applications); the outreach center at 15371 Kentwood Ave. closes Dec. 8, 2026.
+   - Last source: https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather (opened 2026-11-18)
 
-2. **Gaines and Dawson county tornadoes, Nov. 14** (first added 2026-11-18)
-   - Look for: the NWS Midland/Odessa survey statement (ratings, paths, what was damaged) and any local news of damaged homes or businesses. Confirm the year on the page.
-   - Post trigger: widespread structural damage, or a damage figure of $1 million or more.
-   - Last source: https://www.weather.gov/maf/ (snippet). Drop if nothing by 2026-12-02.
+2. **FEMA DR-4935-TX Individual Assistance deadline** (first added 2026-11-17)
+   - Status: FEMA's declarations data gives lastIAFilingDate 2026-12-29 (opened 2026-11-18). The fema.gov/disaster/4935 page returned 403.
+   - Look for: any extension of the date; the fema.gov page if it opens.
+   - Post trigger: a deadline reminder in early to mid December.
+   - Last source: https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=disasterNumber%20eq%204935 (opened 2026-11-18)
 
-3. **FEMA-4935-DR Individual Assistance deadline** (first added 2026-11-17, carried from the 2026-11-16 digest)
-   - Look for: confirmation on fema.gov/disaster/4935 that the registration deadline is Dec. 29, 2026, and the county list.
-   - Post trigger: a deadline reminder once the date is confirmed by an opened official page or two outlets.
-   - Last source: 2026-11-16 digest (unverified)
-
-4. **SBA loans under FEMA-4935-DR** (first added 2026-11-17, carried from the 2026-11-16 digest)
-   - Look for: physical damage and economic injury deadlines as stated in the Federal Register notice. A search summary on 2026-11-18 gave the physical loan deadline as Dec. 29, 2026.
+3. **SBA loans under FEMA-4935-DR** (first added 2026-11-17)
+   - Look for: the physical damage and economic injury deadlines in the Federal Register notice or an SBA release. A search summary gave Dec. 29, 2026 for physical loans.
    - Post trigger: confirmed deadline within three weeks.
-   - Last source: https://www.federalregister.gov/documents/2026/11/12/2026-23016/presidential-declaration-of-a-major-disaster-for-the-state-of-texas (snippet, not opened)
+   - Last source: https://www.federalregister.gov/documents/2026/11/12/2026-23016/presidential-declaration-of-a-major-disaster-for-the-state-of-texas (blocked 2026-11-18; try sba.gov instead)
 
-5. **Nov. 15 to 16 coastal cold front, Matagorda County and the middle and upper coast** (first added 2026-11-17)
-   - Look for: any NWS Houston/Galveston or Corpus Christi local storm report, or local news of damaged structures in a coastal county.
-   - Post trigger: confirmed structural damage in a listed coastal county.
-   - Last source: none with observed damage; searched again 2026-11-18, warnings and advisories only. Drop if nothing by 2026-11-24.
-
-6. **State Farm Lloyds homeowners rate filing** (first added 2026-11-17, carried from older digests)
+4. **State Farm Lloyds homeowners rate filing** (first added 2026-11-17, carried from older digests)
    - Look for: a TDI order or statement approving, changing or rejecting the filing.
    - Post trigger: none for a storm post; report under insurance news if TDI acts.
-   - Last source: search snippets only; nothing new found 2026-11-18
+   - Last source: search snippets only; nothing new on tdi.texas.gov news page 2026-11-18. Drop if nothing by 2026-12-17.
 
-7. **TWIA Nov. 10 board meeting follow-up** (first added 2026-11-17, carried from older digests)
-   - Look for: posted minutes or materials, any funding or claims action, the biennial report to the Legislature.
+5. **TWIA interim board meeting on the 2027 probable maximum loss** (first added 2026-11-18)
+   - Look for: a date and outcome for the interim meeting TWIA says will be scheduled before February 2027; next regular meeting is Feb. 23, 2027.
    - Post trigger: none for a storm post; report under insurance news.
-   - Last source: https://www.twia.org/twia-board-votes-on-2027-operating-budget-at-corpus-christi-meeting/ (not opened)
+   - Last source: https://www.twia.org/twia-board-votes-on-2027-operating-budget-at-corpus-christi-meeting/ (opened 2026-11-18)
 
-8. **Governor's severe storm proclamation, November 2026** (first added 2026-11-17)
-   - Look for: which event and counties the proclamation covers (TDEM's active declarations page is reported to list a "Severe Storms Disaster Declaration" dated 11/11/26), and whether any proclamation covers the Nov. 7 to 11 South Texas flooding.
-   - Post trigger: a proclamation covering a new event with observed damage.
-   - Last source: https://www.tdem.texas.gov/disasters/active-disaster-declarations (snippet, 2026-11-18)
-
-9. **Source access** (first added 2026-11-17)
-   - Look for: whether weather.gov, forecast.weather.gov, spc.noaa.gov, mesonet.agron.iastate.edu, nhc.noaa.gov, fema.gov, sba.gov, federalregister.gov, gov.texas.gov, tdem.texas.gov, twia.org, tdi.texas.gov and Texas news sites open. The proxy answers 403 to every one of them, which is a network policy denial. The environment's allowed-domains setting needs these hosts added before any fact can be labeled OPENED.
+6. **Source access** (first added 2026-11-17)
+   - Status: on 2026-11-18 (second run) 12 hosts opened, 3 blocked (www.federalregister.gov, www.ktsm.com, cw39.com). Fetching with curl from the shell worked where earlier runs reported every host refused. NWS survey statements are readable at https://api.weather.gov/products/types/PNS/locations/<office>.
+   - Look for: whether access holds on the next run.
    - Post trigger: none.
-   - Last source: 2026-11-18 run, 0 hosts opened, 13 blocked
+
+Removed 2026-11-18: Gaines and Dawson county tornadoes (resolved: NWS survey read, EF1 north of Lamesa destroyed one outbuilding, not post-worthy); Nov. 15 to 16 coastal cold front (resolved: no storm reports in the data); TWIA Nov. 10 board follow-up (resolved: summary read); Governor's 11/11/26 severe storm proclamation (resolved: renewal of a July 2026 proclamation, not a new event).
