@@ -1,4 +1,45 @@
 BAKER LAW STORM DIGEST
 Date: 2026-11-25
-Status: RUN STARTED 2026-11-25T13:08:24Z
-If this file still says RUN STARTED, the run did not finish.
+Status: COMPLETE
+Window: 2026-11-22 to 2026-11-25
+Source access: 11 hosts opened, 0 blocked (api.weather.gov answered but its survey-statement lists came back empty for most offices, so NWS statements were read from the Iowa Mesonet text archive instead)
+New storms this run: 0 | Storms with observed damage: 0 | Post-worthy: 0 | Drafts: 0
+
+--- AT A GLANCE ---
+Nothing qualified this period. The only Texas local storm reports from Nov. 21 through the morning of Nov. 25 are light snow totals (0.5 to 2 inches) on the South Plains on Nov. 24, with no damage noted. SPC lists no Texas tornado, wind or hail reports for Nov. 21 to 25.
+No drafts were written. Nothing changed on the Horizon City flood (no FEMA declaration, no damage figure), so its Nov. 18 draft stands.
+Look first at the deadlines list. Dec. 29, 2026 (FEMA and SBA, summer storms disaster, includes Bexar County) is about five weeks out and Dec. 8 (Horizon City SBA center closing) is two weeks out; both were re-read from the official pages today. If the firm wants a deadline reminder post, early December is the time to ask for one.
+Not confirmed: news coverage was checked only through two web searches, which returned nothing dated in the window (results were November 2025 Houston tornado stories). No news page was opened.
+
+--- STORMS ---
+No storms with observed property damage in Texas in this window.
+Texas local storm reports from 2026-11-21 00:00 UTC through 2026-11-25 13:09 UTC (when the query was run): snow reports only, all from the NWS Lubbock office on Nov. 24. Totals of 0.5 inch near Shallowater (Lubbock County), near Littlefield (Lamb County) and at Roaring Springs (Motley County); 1 inch near Dimmitt (Castro County); 0.8 inch near Tulia and 2 inches at Happy and Vigo Park (Swisher County). No damage is mentioned; the Roaring Springs report says the snow had already melted. [OPENED] https://mesonet.agron.iastate.edu/geojson/lsr.geojson?states=TX&sts=202611210000&ets=202611252359
+No Texas entries in the SPC daily report files for Nov. 21, 22, 23, 24 or 25. [OPENED] https://www.spc.noaa.gov/climo/reports/261124_rpts_filtered.csv (same address pattern for the other dates)
+No new Texas declaration in FEMA data; the most recent are still FM-5677 (Hydra Fire, Sept. 15, 2026) and DR-4935 (Sept. 1, 2026). [OPENED] https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=state%20eq%20'TX'&$orderby=declarationDate%20desc&$top=15
+No new state disaster declaration; the newest entries on the TDEM list are still dated 11/13/26. [OPENED] https://www.tdem.texas.gov/disasters/active-disaster-declarations
+
+--- DRAFT POSTS ---
+No drafts this period.
+
+--- CLAIMS AND INSURANCE NEWS ---
+Nothing new since the Nov. 23 digest.
+Checked and unchanged: TDI's latest news release is still Nov. 18, 2026 and its latest Commissioner's bulletin is still B-0009-26 [OPENED] https://www.tdi.texas.gov/news/index.html and https://www.tdi.texas.gov/bulletins/index.html . TWIA shows nothing newer than the Nov. 10 board meeting summary and no interim meeting; next listed meeting Feb. 23, 2027 at the Moody Gardens Hotel in Galveston [OPENED] https://www.twia.org/
+State Farm Lloyds homeowners filing: no TDI action found. A search summary (not opened, source is a trade site) still describes the filing as under TDI review. [SNIPPET] https://www.liveinsurancenews.com/the-texas-homeowners-rate-drop/8576875/
+
+--- UPCOMING DEADLINES ---
+Dec. 8, 2026, 5 p.m.: SBA Disaster Loan Outreach Center in Horizon City "Closes permanently Tuesday, Dec. 8 at 5 p.m." It is also closed Thursday, Nov. 26 for Thanksgiving. [OPENED] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+Dec. 29, 2026: last Individual Assistance filing date for FEMA DR-4935-TX (severe storms, straight-line winds, tornadoes and flooding, July 12 to Aug. 4, 2026), as recorded in FEMA's declarations data (field lastIAFilingDate). Unchanged today. [OPENED] https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=disasterNumber%20eq%204935
+Dec. 29, 2026: SBA physical damage loan applications under FEMA-4935-DR ("Physical Loan Application Deadline Date: December 29, 2026."). [OPENED] https://www.govinfo.gov/content/pkg/FR-2026-11-12/html/2026-23016.htm
+Jan. 12, 2027: SBA physical damage loan applications, El Paso County storms of Oct. 23 to 26 ("The deadline to return physical damage applications is Jan. 12, 2027."). [OPENED] https://legacy.sba.gov/article/2026/11/17/sba-offers-relief-texas-businesses-private-nonprofits-residents-affected-adverse-weather
+July 30, 2027: SBA economic injury loan applications under FEMA-4935-DR. [OPENED] https://www.govinfo.gov/content/pkg/FR-2026-11-12/html/2026-23016.htm
+Aug. 13, 2027: SBA economic injury loan applications, El Paso County storms. [OPENED] same SBA release as above
+
+--- NOT POST-WORTHY ---
+South Plains snow, Nov. 24 (Lubbock, Lamb, Castro, Swisher, Motley counties): 0.5 to 2 inches, no damage reported. [OPENED] https://mesonet.agron.iastate.edu/geojson/lsr.geojson?states=TX&sts=202611210000&ets=202611252359
+Horizon City (El Paso County) flood, Oct. 23 to 26: already drafted in the Nov. 18 digest. No FEMA major disaster declaration in FEMA data today and no damage figure found. [OPENED] https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$filter=state%20eq%20'TX'&$orderby=declarationDate%20desc&$top=15
+Tropical: "Tropical cyclone formation is not expected during the next 7 days." (NHC Atlantic outlook, 7 AM EST Nov. 25, 2026). [OPENED] https://www.nhc.noaa.gov/text/MIATWOAT.shtml
+NWS damage surveys: no survey statement from any Texas-area office in the window. The newest public information statements in the archive are Nov. 19 (San Angelo phone notices, Shreveport climate summary); the newest damage survey is Midland's Nov. 17 statement on the Nov. 14 Lamesa tornado, already covered. [OPENED] https://mesonet.agron.iastate.edu/cgi-bin/afos/retrieve.py?pil=PNSMAF&limit=4&fmt=text (same address pattern checked for CRP, HGX, EWX, FWD, BRO, LUB, AMA, SJT, EPZ, SHV, LCH)
+Wildfire and other news: two web searches returned no Texas event with damaged structures dated in the window; results were November 2025 Houston tornado coverage and the September 2026 Ross Fire. No page was opened. [SNIPPET] https://abc13.com/post/100-homes-damaged-tornadic-storm-ravages-northwest-harris-county-officials-say/18205593/ (a 2025 story, listed only to show what the search returned)
+Governor's office: no weather-related item on the news list newer than the Nov. 17 El Paso SBA announcement. [OPENED] https://gov.texas.gov/news
+
+--- END OF DIGEST ---
